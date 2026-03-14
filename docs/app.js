@@ -2,7 +2,7 @@
   "use strict";
 
   var allItems = [];
-  var activeSource = "";
+  var activeSources = new Set();
   var feedList = document.getElementById("feed-list");
   var emptyState = document.getElementById("empty-state");
   var errorState = document.getElementById("error-state");
@@ -178,28 +178,32 @@
     sourcePills.innerHTML = "";
 
     var allPill = document.createElement("button");
-    allPill.className = "pill" + (activeSource === "" ? " active" : "");
+    allPill.className = "pill" + (activeSources.size === 0 ? " active" : "");
     allPill.textContent = "All ";
     var allCount = document.createElement("span");
     allCount.className = "pill-count";
     allCount.textContent = items.length;
     allPill.appendChild(allCount);
     allPill.addEventListener("click", function () {
-      activeSource = "";
+      activeSources.clear();
       applyFilters();
     });
     sourcePills.appendChild(allPill);
 
     sources.forEach(function (s) {
       var pill = document.createElement("button");
-      pill.className = "pill" + (activeSource === s ? " active" : "");
+      pill.className = "pill" + (activeSources.has(s) ? " active" : "");
       pill.textContent = s + " ";
       var count = document.createElement("span");
       count.className = "pill-count";
       count.textContent = counts[s];
       pill.appendChild(count);
       pill.addEventListener("click", function () {
-        activeSource = s;
+        if (activeSources.has(s)) {
+          activeSources.delete(s);
+        } else {
+          activeSources.add(s);
+        }
         applyFilters();
       });
       sourcePills.appendChild(pill);
@@ -291,7 +295,7 @@
     var sortValue = sortFilter.value;
 
     var filtered = allItems.filter(function (item) {
-      if (activeSource && item.source !== activeSource) return false;
+      if (activeSources.size > 0 && !activeSources.has(item.source)) return false;
       if (query) {
         var text = (item.title + " " + item.summary).toLowerCase();
         if (!text.includes(query)) return false;
