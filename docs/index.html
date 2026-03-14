@@ -12,14 +12,17 @@
     <p id="last-updated"></p>
   </header>
 
-  <div class="controls">
-    <input type="search" id="search" placeholder="Search articles..." aria-label="Search articles">
-    <select id="source-filter" aria-label="Filter by source">
-      <option value="">All Sources</option>
-    </select>
+  <div class="toolbar">
+    <span id="article-count" class="article-count"></span>
+    <div class="controls">
+      <input type="search" id="search" placeholder="Search articles..." aria-label="Search articles">
+      <select id="source-filter" aria-label="Filter by source">
+        <option value="">All Sources</option>
+      </select>
+    </div>
   </div>
 
-  <main id="feed-list" class="feed-grid"></main>
+  <main id="feed-list"></main>
 
   <div id="empty-state" class="empty-state" hidden>
     <p>No articles match your filters.</p>
