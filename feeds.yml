@@ -18,6 +18,30 @@ feeds:
     url: https://kodekloud.com/blog/rss/
     category: Tech
 
+  - name: Kubernetes Blog
+    url: https://kubernetes.io/feed.xml
+    category: Kubernetes
+
+  - name: CNCF Blog
+    url: https://www.cncf.io/feed/
+    category: Kubernetes
+
+  - name: LearnK8s
+    url: https://learnk8s.io/rss.xml
+    category: Kubernetes
+
+  - name: Alex Ellis
+    url: https://blog.alexellis.io/rss/
+    category: Kubernetes
+
+  - name: Azure AKS Blog
+    url: https://azure.microsoft.com/en-us/blog/tag/azure-kubernetes-service/feed/
+    category: Azure
+
+  - name: Microsoft Azure Blog
+    url: https://azure.microsoft.com/en-us/blog/feed/
+    category: Azure
+
 # Settings
 settings:
   max_items_per_feed: 50
