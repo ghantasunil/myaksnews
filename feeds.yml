@@ -10,10 +10,6 @@ feeds:
     url: https://iximiuz.com/feed.rss
     category: Tech
 
-  - name: KubeSimplify
-    url: https://blog.kubesimplify.com/rss.xml
-    category: Tech
-
   - name: KodeKloud
     url: https://kodekloud.com/blog/rss/
     category: Tech
