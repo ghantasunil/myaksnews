@@ -35,4 +35,4 @@ settings:
   max_items_per_feed: 50
   max_total_items: 500
   max_summary_length: 300
-  max_age_days: 7
+  max_age_days: 30

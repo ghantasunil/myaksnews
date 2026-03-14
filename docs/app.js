@@ -141,6 +141,9 @@
       cutoff = new Date(now.getFullYear(), now.getMonth(), now.getDate());
     } else if (value === "week") {
       cutoff = getWeekStart(now.toISOString());
+    } else if (value === "month") {
+      cutoff = new Date(now);
+      cutoff.setDate(cutoff.getDate() - 30);
     }
     return items.filter(function (item) {
       return new Date(item.published) >= cutoff;
