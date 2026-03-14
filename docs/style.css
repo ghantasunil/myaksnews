@@ -241,15 +241,37 @@ body {
   box-shadow: 0 4px 16px var(--shadow);
 }
 
+.badge-row {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
 .badge {
   display: inline-block;
-  align-self: flex-start;
   color: var(--badge-text);
   padding: 0.2rem 0.6rem;
   border-radius: 4px;
   font-size: 0.7rem;
   font-weight: 700;
   letter-spacing: 0.5px;
+}
+
+.type-tag {
+  font-size: 0.7rem;
+  font-weight: 600;
+  padding: 0.15rem 0.5rem;
+  border-radius: 4px;
+}
+
+.type-tag--video {
+  color: #c0392b;
+  background: rgba(192, 57, 43, 0.1);
+}
+
+.type-tag--article {
+  color: #2980b9;
+  background: rgba(41, 128, 185, 0.1);
 }
 
 .card-title {
