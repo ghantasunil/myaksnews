@@ -6,6 +6,9 @@ feeds:
     url: https://aksnewsletter.com/feed.xml
     category: Newsletter
 
+  - name: iximiuz
+    url: https://iximiuz.com/feed.rss
+    category: Tech
 
 # Settings
 settings:
