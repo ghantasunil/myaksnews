@@ -1,0 +1,659 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-14T20:00:00.776723+00:00",
+    "total_items": 92,
+    "sources": [
+      "Ars Technica",
+      "Hacker News",
+      "Lobsters",
+      "TechCrunch",
+      "The Verge"
+    ]
+  },
+  "items": [
+    {
+      "title": "Show HN: Zap Code – AI code generator that teaches kids real HTML/CSS/JS",
+      "link": "https://www.zapcode.dev",
+      "summary": "Zap Code generates working HTML/CSS/JS from plain English descriptions, designed for kids ages 8-16. The core loop: kid types \"make a space shooter game\", AI generates the code, live preview renders it immediately. Three interaction modes - visual-only tweaks, read-only code view with annotations,...",
+      "published": "2026-03-14T19:37:51+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Head of FCC threatens broadcaster licenses over critical coverage of Iran war",
+      "link": "https://twitter.com/BrendanCarrFCC/status/2032855414233047172",
+      "summary": "Article URL: https://twitter.com/BrendanCarrFCC/status/2032855414233047172 Comments URL: https://news.ycombinator.com/item?id=47380294 Points: 4 # Comments: 0",
+      "published": "2026-03-14T19:35:37+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Claude spring break usage promotion",
+      "link": "https://support.claude.com/en/articles/14063676-claude-spring-break-usage-promotion",
+      "summary": "Article URL: https://support.claude.com/en/articles/14063676-claude-spring-break-usage-promotion Comments URL: https://news.ycombinator.com/item?id=47380290 Points: 5 # Comments: 1",
+      "published": "2026-03-14T19:35:27+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "It's time to move your docs into a repo – especially because of AI",
+      "link": "https://www.dein.fr/posts/2026-03-13-its-time-to-move-your-docs-in-the-repo",
+      "summary": "Article URL: https://www.dein.fr/posts/2026-03-13-its-time-to-move-your-docs-in-the-repo Comments URL: https://news.ycombinator.com/item?id=47380231 Points: 11 # Comments: 2",
+      "published": "2026-03-14T19:28:47+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Claudetop – htop for Claude Code sessions (see your AI spend in real-time)",
+      "link": "https://github.com/liorwn/claudetop",
+      "summary": "Article URL: https://github.com/liorwn/claudetop Comments URL: https://news.ycombinator.com/item?id=47380203 Points: 3 # Comments: 1",
+      "published": "2026-03-14T19:26:24+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Ichinichi – One note per day, E2E encrypted, local-first",
+      "link": "https://news.ycombinator.com/item?id=47379898",
+      "summary": "Look, every journaling app out there wants you to organize things into folders and tags and templates. I just wanted to write something down every day. So I built this. One note per day. That's the whole deal. - Can't edit yesterday. What's done is done. Keeps you from fussing over old entries...",
+      "published": "2026-03-14T18:57:12+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Meta is reportedly laying off up to 20 percent of its staff",
+      "link": "https://www.theverge.com/business/895026/meta-laying-off-20-percent",
+      "summary": "According to Reuters, Meta is looking to offset spending on AI and data centers with a massive round of layoffs. Sources familiar with the matter say the company could lay off as much as 20 percent of its staff, eliminating roughly 15,800 positions. That would be the largest series of layoffs at...",
+      "published": "2026-03-14T18:48:56+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Hostile Volume – A game about adjusting volume with intentionally bad UI",
+      "link": "https://hostilevolume.com",
+      "summary": "Article URL: https://hostilevolume.com/ Comments URL: https://news.ycombinator.com/item?id=47379712 Points: 16 # Comments: 10",
+      "published": "2026-03-14T18:39:10+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Lies I was Told About Collaborative Editing, Part 2: Why we don't use Yjs",
+      "link": "https://www.moment.dev/blog/lies-i-was-told-pt-2",
+      "summary": "Comments",
+      "published": "2026-03-14T18:22:55+00:00",
+      "source": "Lobsters"
+    },
+    {
+      "title": "JPEG compression",
+      "link": "https://www.sophielwang.com/blog/jpeg",
+      "summary": "Comments",
+      "published": "2026-03-14T18:21:57+00:00",
+      "source": "Lobsters"
+    },
+    {
+      "title": "Companies House vulnerability enabled company hijacking",
+      "link": "https://taxpolicy.org.uk/2026/03/13/companies-house-security-vulnerability-directors-addresses",
+      "summary": "Comments",
+      "published": "2026-03-14T18:09:45+00:00",
+      "source": "Lobsters"
+    },
+    {
+      "title": "Humanities in the Machine",
+      "link": "https://blainsmith.com/essays/humanities-in-the-machine",
+      "summary": "Comments",
+      "published": "2026-03-14T17:56:47+00:00",
+      "source": "Lobsters"
+    },
+    {
+      "title": "Sunsetting Jazzband",
+      "link": "https://jazzband.co/news/2026/03/14/sunsetting-jazzband",
+      "summary": "Article URL: https://jazzband.co/news/2026/03/14/sunsetting-jazzband Comments URL: https://news.ycombinator.com/item?id=47379067 Points: 73 # Comments: 19",
+      "published": "2026-03-14T17:40:23+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Thoughts on generative A.I",
+      "link": "https://kghose.github.io/generative-ai",
+      "summary": "Comments",
+      "published": "2026-03-14T17:25:17+00:00",
+      "source": "Lobsters"
+    },
+    {
+      "title": "Honda is killing its EVs — and any chance of competing in the future",
+      "link": "https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future",
+      "summary": "Honda's decision to kill its three EVs for the U.S. market will reverberate far beyond North America.",
+      "published": "2026-03-14T17:23:24+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "In Praise of Stupid Questions",
+      "link": "https://mathenchant.wordpress.com/2026/03/12/in-praise-of-stupid-questions",
+      "summary": "Article URL: https://mathenchant.wordpress.com/2026/03/12/in-praise-of-stupid-questions/ Comments URL: https://news.ycombinator.com/item?id=47378787 Points: 8 # Comments: 2",
+      "published": "2026-03-14T17:12:18+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "What happens when US economic data becomes unreliable",
+      "link": "https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable",
+      "summary": "Article URL: https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable Comments URL: https://news.ycombinator.com/item?id=47378638 Points: 247 # Comments: 210",
+      "published": "2026-03-14T16:58:40+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Developing a 2FA Desktop Client in Go",
+      "link": "https://www.youtube.com/watch?v=HFu3CUtrOQ8",
+      "summary": "Comments",
+      "published": "2026-03-14T16:50:32+00:00",
+      "source": "Lobsters"
+    },
+    {
+      "title": "Fatal Core Dump (a debugging murder mystery played with GDB)",
+      "link": "https://www.robopenguins.com/fatal_core_dump",
+      "summary": "Comments",
+      "published": "2026-03-14T16:45:53+00:00",
+      "source": "Lobsters"
+    },
+    {
+      "title": "Meta reportedly considering layoffs that could affect 20% of the company",
+      "link": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company",
+      "summary": "These layoffs could help Facebook's parent company offset its aggressive spending on AI infrastructure, as well as AI-related acquisitions and hiring.",
+      "published": "2026-03-14T16:28:42+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Nmap in the movies (2008)",
+      "link": "https://nmap.org/movies",
+      "summary": "Article URL: https://nmap.org/movies/ Comments URL: https://news.ycombinator.com/item?id=47378268 Points: 113 # Comments: 16",
+      "published": "2026-03-14T16:25:34+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Learn Arabic with spaced repetition and comprehensible input",
+      "link": "https://abjadpro.com",
+      "summary": "Sharing a friends first-ever Rails application, dedicated to Arabic learning, from 0 to 1. Pulls language learning methods from Anki, comprehensible input and more. Comments URL: https://news.ycombinator.com/item?id=47378251 Points: 33 # Comments: 9",
+      "published": "2026-03-14T16:24:02+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "An ode to bzip",
+      "link": "https://purplesyringa.moe/blog/an-ode-to-bzip",
+      "summary": "Article URL: https://purplesyringa.moe/blog/an-ode-to-bzip/ Comments URL: https://news.ycombinator.com/item?id=47377998 Points: 49 # Comments: 27",
+      "published": "2026-03-14T16:01:23+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "As people look for ways to make new friends, here are the apps promising to help",
+      "link": "https://techcrunch.com/2026/03/14/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help",
+      "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
+      "published": "2026-03-14T16:00:00+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Why Mathematica does not simplify Sinh[ArcCosh[x]]",
+      "link": "https://www.johndcook.com/blog/2026/03/10/sinh-arccosh",
+      "summary": "Comments",
+      "published": "2026-03-14T15:57:25+00:00",
+      "source": "Lobsters"
+    },
+    {
+      "title": "Online astroturfing: A problem beyond disinformation (2022)",
+      "link": "https://journals.sagepub.com/doi/10.1177/01914537221108467",
+      "summary": "Article URL: https://journals.sagepub.com/doi/10.1177/01914537221108467 Comments URL: https://news.ycombinator.com/item?id=47377907 Points: 63 # Comments: 30",
+      "published": "2026-03-14T15:53:58+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Hulu, Disney Plus, and the Pixel Watch 4 are among this week’s best deals",
+      "link": "https://www.theverge.com/gadgets/894699/hulu-disney-plus-subscription-oscars-google-pixel-watch-4-deal-sale",
+      "summary": "Happy Saturday, all! This week, we found a number of deals that should help you unwind and relax over the next few days (and beyond). If you’re planning to stream the Oscars on Sunday, there’s still time to take advantage of a great deal on Hulu and Disney Plus, as well as Google’s latest 4K […]",
+      "published": "2026-03-14T15:46:28+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Prediction markets want the Oscars to be your gateway drug to betting on everything",
+      "link": "https://www.theverge.com/entertainment/894878/oscars-2026-kalshi-sinners-one-battle-after-anothers-marty-supreme-baftas-gambling",
+      "summary": "Though it was weird to see the Golden Globes partner with Polymarket for its most recent awards show, the collaboration wasn't shocking given the way that people have begun using prediction markets to gamble on basically anything. Prediction markets are being used to bet on everything from when...",
+      "published": "2026-03-14T15:30:00+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "MacBook Air M5 review: a small update for the ‘just right’ Mac",
+      "link": "https://www.theverge.com/tech/894866/apple-macbook-air-m5-15-2026-laptop-review",
+      "summary": "Not much has changed in the new MacBook Air for 2026: It now has the M5 chip, Wi-Fi 7, and faster storage starting at 512GB instead of 256GB. It's just as outstanding a computer as last year's model, even if it's a shame it's $100 more expensive. The bigger change has happened to the Air. […]",
+      "published": "2026-03-14T15:00:00+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Philosoph Jürgen Habermas Gestorben",
+      "link": "https://www.spiegel.de/kultur/philosoph-juergen-habermas-mit-96-jahren-gestorben-a-8be73ac7-e722-4543-8344-4515c4040363",
+      "summary": "Article URL: https://www.spiegel.de/kultur/philosoph-juergen-habermas-mit-96-jahren-gestorben-a-8be73ac7-e722-4543-8344-4515c4040363 Comments URL: https://news.ycombinator.com/item?id=47376848 Points: 125 # Comments: 42",
+      "published": "2026-03-14T14:08:18+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A Scavengers Reign artist explores contemplative sci-fi in new comics",
+      "link": "https://www.theverge.com/entertainment/894514/jonathan-djob-nkondo-artist-interview-kickstarter-scavengers-reign",
+      "summary": "You may recognize Jonathan Djob Nkondo's work from animated projects like the surreal sci-fi series Scavengers Reign or the recent Gorillaz short film The Mountain, The Moon Cave and The Sad God. But before that the French artist and animator made self-published comics that depicted strange alien...",
+      "published": "2026-03-14T14:00:00+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Montana passes Right to Compute act (2025)",
+      "link": "https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act",
+      "summary": "Article URL: https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/ Comments URL: https://news.ycombinator.com/item?id=47376767 Points: 199 # Comments: 145",
+      "published": "2026-03-14T13:59:58+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "9 Mothers Defense (YC P26) Is Hiring in Austin",
+      "link": "https://jobs.ashbyhq.com/9-mothers",
+      "summary": "Article URL: https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q Comments URL: https://news.ycombinator.com/item?id=47376619 Points: 0 # Comments: 0",
+      "published": "2026-03-14T13:45:04+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: GitAgent – An open standard that turns any Git repo into an AI agent",
+      "link": "https://www.gitagent.sh",
+      "summary": "We built GitAgent because we kept seeing the same problem: every agent framework defines agents differently, and switching frameworks means rewriting everything. GitAgent is a spec that defines an AI agent as files in a git repo. Three core files — agent.yaml (config), SOUL.md...",
+      "published": "2026-03-14T13:41:25+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Compose key is magic",
+      "link": "https://crescentro.se/posts/compose-key",
+      "summary": "Comments",
+      "published": "2026-03-14T13:31:43+00:00",
+      "source": "Lobsters"
+    },
+    {
+      "title": "A Guide to vim.pack (Neovim built-in plugin manager)",
+      "link": "https://echasnovski.com/blog/2026-03-13-a-guide-to-vim-pack",
+      "summary": "Comments",
+      "published": "2026-03-14T13:11:34+00:00",
+      "source": "Lobsters"
+    },
+    {
+      "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+      "link": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others",
+      "summary": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT.",
+      "published": "2026-03-14T13:00:00+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Asus’ new open earbuds are a wonderful companion for handheld gaming",
+      "link": "https://www.theverge.com/tech/893765/asus-cetra-open-wireless-gaming-earbuds-hands-on-impressions",
+      "summary": "The Cetra Open Wireless aren’t like most other gaming earbuds. They’re large, with an open-style design that rests just outside of your ears, letting game audio mix with sounds in your environment. These allow for immersion, but only if your environment is quiet enough. And turning them up might...",
+      "published": "2026-03-14T13:00:00+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Baochip: What It Is, Why I'm Doing It Now, and How It Came About",
+      "link": "https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about",
+      "summary": "Comments",
+      "published": "2026-03-14T12:00:34+00:00",
+      "source": "Lobsters"
+    },
+    {
+      "title": "Samsung Galaxy S26 Ultra review: show off",
+      "link": "https://www.theverge.com/tech/893936/samsung-galaxy-s26-ultra-review-show-off",
+      "summary": "\"Someone might be watching everything I'm doing on my screen,\" I tell myself in public. Even when I'm doing nothing of consequence - just making my little Wordle guesses - there's a sense of unease that stays with me. It's never bothered me too much, and I generally save the sensitive stuff like...",
+      "published": "2026-03-14T12:00:00+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "5 great indie games from GDC 2026",
+      "link": "https://www.theverge.com/games/894511/gdc-2026-best-indie-games",
+      "summary": "I just got back from the GDC Festival of Gaming, a big industry-focused event in San Francisco that was formerly known as the Game Developers Conference. While the show is mostly about educational sessions and networking opportunities for working developers, there were also a bunch of games that I...",
+      "published": "2026-03-14T12:00:00+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "Wordle’s creator made a fun new puzzle game",
+      "link": "https://www.theverge.com/tech/894586/wordle-parseword-sonos-play-installer",
+      "summary": "Hi, friends! Welcome to Installer No. 119, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your agents are well, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Pixar's future and flight MH370 and...",
+      "published": "2026-03-14T12:00:00+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "XML Is a Cheap DSL",
+      "link": "https://unplannedobsolescence.com/blog/xml-cheap-dsl",
+      "summary": "Article URL: https://unplannedobsolescence.com/blog/xml-cheap-dsl/ Comments URL: https://news.ycombinator.com/item?id=47375764 Points: 204 # Comments: 203",
+      "published": "2026-03-14T11:59:13+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Getting started with Claude for software development",
+      "link": "https://steveklabnik.com/writing/getting-started-with-claude-for-software-development",
+      "summary": "Comments",
+      "published": "2026-03-14T11:20:04+00:00",
+      "source": "Lobsters"
+    },
+    {
+      "title": "European retailers yank popular headphones after study reports trace amounts of hormone-disrupting chemicals",
+      "link": "https://www.theverge.com/science/894771/headphones-hormone-disrupting-chemicals-study",
+      "summary": "Some European retailers have stopped selling certain headphones after an EU-funded study found that they contained hormone-disrupting chemicals. The study included leading brands such as Apple, Beats, Samsung, Bose, JBL, and Sennheiser. Online stores Bol.com, Coolblue, and Mediamarkt didn't respond...",
+      "published": "2026-03-14T11:00:00+00:00",
+      "source": "The Verge"
+    },
+    {
+      "title": "RAM kits are now sold with one fake RAM stick alongside a real one",
+      "link": "https://www.tomshardware.com/pc-components/ram/fake-ram-bundled-with-real-ram-to-create-a-performance-illusion-for-amd-users-1-1-value-pack-offers-desperate-psychological-relief-as-the-memory-shortage-worsens",
+      "summary": "Article URL: https://www.tomshardware.com/pc-components/ram/fake-ram-bundled-with-real-ram-to-create-a-performance-illusion-for-amd-users-1-1-value-pack-offers-desperate-psychological-relief-as-the-memory-shortage-worsens Comments URL: https://news.ycombinator.com/item?id=47375085 Points: 214 #...",
+      "published": "2026-03-14T10:05:58+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Emacs and Vim in the Age of AI",
+      "link": "https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai",
+      "summary": "Comments",
+      "published": "2026-03-14T08:40:09+00:00",
+      "source": "Lobsters"
+    },
+    {
+      "title": "Staff complain that xAI is flailing because of constant upheaval",
+      "link": "https://arstechnica.com/ai/2026/03/staff-complain-that-xai-is-flailing-because-of-constant-upheaval",
+      "summary": "Staff complain that the constant upheaval is destroying morale.",
+      "published": "2026-03-14T07:14:53+00:00",
+      "source": "Ars Technica"
+    },
+    {
+      "title": "Torturing rustc by Emulating HKTs, Causing an Inductive Cycle and Borking the Compiler",
+      "link": "https://www.harudagondi.space/blog/torturing-rustc-by-emulating-hkts",
+      "summary": "Comments",
+      "published": "2026-03-14T05:51:57+00:00",
+      "source": "Lobsters"
+    },
+    {
+      "title": "Plans to possibly retire the big-endian PowerPC/POWER platforms",
+      "link": "https://chimera-linux.org/news/2026/03/retiring-powerpc.html",
+      "summary": "Comments",
+      "published": "2026-03-14T04:15:41+00:00",
+      "source": "Lobsters"
+    },
+    {
+      "title": "Libadwaita 1.9",
+      "link": "https://nyaa.place/blog/libadwaita-1-9",
+      "summary": "Comments",
+      "published": "2026-03-14T02:15:23+00:00",
+      "source": "Lobsters"
+    },
+    {
+      "title": "NASA officials sidestepped questions on Artemis II risks—there's a reason why",
+      "link": "https://arstechnica.com/space/2026/03/flying-to-the-moon-for-the-first-time-in-54-years-is-risky-but-how-risky",
+      "summary": "\"This ought to make for some good reading,\" NASA's mission management team chair said.",
+      "published": "2026-03-14T00:17:31+00:00",
+      "source": "Ars Technica"
+    },
+    {
+      "title": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
+      "link": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again",
+      "summary": "The AI lab is revamping its effort to build an AI coding tool, with two new executives joining from Cursor.",
+      "published": "2026-03-14T00:12:22+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "I beg you to follow Crocker's Rules, even if you will be rude to me",
+      "link": "https://lr0.org/blog/p/crocker",
+      "summary": "Comments",
+      "published": "2026-03-14T00:06:05+00:00",
+      "source": "Lobsters"
+    },
+    {
+      "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+      "link": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks",
+      "summary": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
+      "published": "2026-03-14T00:01:02+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Woman sneezes out maggots after fly larvae get trapped in her deviated septum",
+      "link": "https://arstechnica.com/health/2026/03/woman-sneezes-out-maggots-after-fly-larvae-get-trapped-in-her-deviated-septum",
+      "summary": "She made a full recovery, despite the maggots.",
+      "published": "2026-03-13T22:38:10+00:00",
+      "source": "Ars Technica"
+    },
+    {
+      "title": "Slay the Spire 2 is a bit too familiar for its own good",
+      "link": "https://arstechnica.com/gaming/2026/03/slay-the-spire-2-is-a-bit-too-familiar-for-its-own-good",
+      "summary": "Early Access impressions: New characters shine, but it feels like we've done this before.",
+      "published": "2026-03-13T22:26:06+00:00",
+      "source": "Ars Technica"
+    },
+    {
+      "title": "Digg lays off staff and shuts down app as company retools",
+      "link": "https://techcrunch.com/2026/03/13/digg-lays-off-staff-and-shuts-down-app-as-company-retools",
+      "summary": "Digg laid off a significant number of staff and shut down its app, but says it's not giving up on the startup.",
+      "published": "2026-03-13T21:51:17+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Figuring out why AIs get flummoxed by some games",
+      "link": "https://arstechnica.com/ai/2026/03/figuring-out-why-ais-get-flummoxed-by-some-games",
+      "summary": "When winning depends on intuiting a mathematical function, AIs come up short.",
+      "published": "2026-03-13T21:47:34+00:00",
+      "source": "Ars Technica"
+    },
+    {
+      "title": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
+      "link": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing",
+      "summary": "The data infrastructure startup raised $5.3 million in seed funding led by Wischoff Ventures and South Park Commons.",
+      "published": "2026-03-13T21:37:01+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Google Fiber will be sold to private equity firm and merge with cable company",
+      "link": "https://arstechnica.com/tech-policy/2026/03/google-fiber-will-be-sold-to-private-equity-firm-and-merge-with-cable-company",
+      "summary": "GFiber and Astound to merge with Alphabet selling majority stake to Stonepeak.",
+      "published": "2026-03-13T20:57:54+00:00",
+      "source": "Ars Technica"
+    },
+    {
+      "title": "Facebook makes it easier for creators to report impersonators",
+      "link": "https://techcrunch.com/2026/03/13/facebook-makes-it-easier-for-creators-to-report-impersonators",
+      "summary": "Facebook is making it easier for creators to report impersonators while tightening rules around reposts and other unoriginal content.",
+      "published": "2026-03-13T20:48:43+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Supply-chain attack using invisible code hits GitHub and other repositories",
+      "link": "https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories",
+      "summary": "Unicode that's invisible to the human eye was largely abandoned—until attackers took notice.",
+      "published": "2026-03-13T20:18:08+00:00",
+      "source": "Ars Technica"
+    },
+    {
+      "title": "Steven Spielberg says he’s ‘never used AI’ in any of his films",
+      "link": "https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films",
+      "summary": "At SXSW, Steven Spielberg said AI has uses in many fields, but not when it comes to replacing creative people in film and TV writing.",
+      "published": "2026-03-13T19:47:58+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The biggest AI stories of the year (so far)",
+      "link": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far",
+      "summary": "The AI industry is constantly churning out news, like major acquisitions, indie developer successes, public outcry, and existentially dangerous contract negotiations.",
+      "published": "2026-03-13T19:38:11+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Travis Kalanick launches a new company called Atoms focused on robotics",
+      "link": "https://techcrunch.com/2026/03/13/travis-kalanick-launches-a-new-company-called-atoms-focused-on-robotics",
+      "summary": "Kalanick's existing ghost kitchen company CloudKitchens will be rolled into Atoms, which also wants to get into mining and transport.",
+      "published": "2026-03-13T19:28:00+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Adobe settles DOJ cancellation fee lawsuit, will pay $75 million penalty",
+      "link": "https://arstechnica.com/gadgets/2026/03/adobe-settles-doj-cancellation-fee-lawsuit-will-pay-75-million-penalty",
+      "summary": "Adobe says it will also give customers who \"qualify\" free services but is vague on details.",
+      "published": "2026-03-13T18:47:08+00:00",
+      "source": "Ars Technica"
+    },
+    {
+      "title": "Doubling the voltage: What 800 V architecture really changes in EVs",
+      "link": "https://arstechnica.com/cars/2026/03/doubling-the-voltage-what-800-v-architecture-really-changes-in-evs",
+      "summary": "Confused about electric vehicle voltages? You won't be after reading this.",
+      "published": "2026-03-13T18:30:17+00:00",
+      "source": "Ars Technica"
+    },
+    {
+      "title": "Another AT&T FirstNet user gets shocking $6,200 bill, at $2 per megabyte",
+      "link": "https://arstechnica.com/tech-policy/2026/03/att-wrongly-charged-man-6196-reversed-bill-after-hearing-from-ars",
+      "summary": "Bizarre FirstNet charge nearly identical to one that hit different user in 2024.",
+      "published": "2026-03-13T17:49:44+00:00",
+      "source": "Ars Technica"
+    },
+    {
+      "title": "Subscribers to Amazon Prime Video with ads lose 4K support on April 10",
+      "link": "https://arstechnica.com/gadgets/2026/03/amazon-will-increase-ad-free-prime-video-prices-by-2-per-month-on-april-10",
+      "summary": "Amazon says its service requires \"significant investment.\"",
+      "published": "2026-03-13T17:16:58+00:00",
+      "source": "Ars Technica"
+    },
+    {
+      "title": "The wild six weeks for NanoClaw’s creator that led to a deal with Docker",
+      "link": "https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker",
+      "summary": "Gavriel Cohen is living an open source developer's dream as his project has achieved acclaim and a partnership with Docker in a matter of weeks.",
+      "published": "2026-03-13T17:09:59+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Spotify will let you edit your Taste Profile to control your recommendations",
+      "link": "https://techcrunch.com/2026/03/13/spotify-will-let-you-edit-your-taste-profile-to-control-your-recommendations",
+      "summary": "When you edit your Taste Profile, you'll impact your personalized playlists like Discover Weekly, recommendations, and Wrapped.",
+      "published": "2026-03-13T17:04:12+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "M5 MacBook Air review: Still the best MacBook for almost everybody",
+      "link": "https://arstechnica.com/gadgets/2026/03/m5-macbook-air-review-still-the-best-macbook-for-almost-everybody",
+      "summary": "The M5 MacBook Air is a minor upgrade, but minor upgrades add up over time.",
+      "published": "2026-03-13T16:31:29+00:00",
+      "source": "Ars Technica"
+    },
+    {
+      "title": "The $32B acquisition that one VC is calling the ‘Deal of the Decade’",
+      "link": "https://techcrunch.com/video/the-32b-acquisition-that-one-vc-is-calling-the-deal-of-the-decade",
+      "summary": "According to Index Ventures Partner Shardul Shah, cybersecurity startup Wiz sits “at the center of three tailwinds: AI, cloud, and security spend.” Those tailwinds powered what just became the largest venture-backed acquisition in history — Google’s $32 billion deal, finalized after a declined 2024...",
+      "published": "2026-03-13T16:20:23+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Magnetars drag spacetime to power superluminous supernovae",
+      "link": "https://arstechnica.com/science/2026/03/magnetars-drag-spacetime-to-power-superluminous-supernovae",
+      "summary": "Frame-dragging may explain an odd pattern seen in the brightest supernovae.",
+      "published": "2026-03-13T15:59:40+00:00",
+      "source": "Ars Technica"
+    },
+    {
+      "title": "Measles vaccinations rose 291% among New Mexico adults during outbreak",
+      "link": "https://arstechnica.com/health/2026/03/signs-of-hope-as-measles-spread-new-mexico-vaccinations-surged-55",
+      "summary": "Despite anti-vaccine rhetoric, New Mexico residents embraced lifesaving shots.",
+      "published": "2026-03-13T15:44:20+00:00",
+      "source": "Ars Technica"
+    },
+    {
+      "title": "Microsoft is working to eliminate PC gaming's \"compiling shaders\" wait times",
+      "link": "https://arstechnica.com/gaming/2026/03/microsoft-is-working-to-eliminate-pc-gamings-compiling-shaders-wait-times",
+      "summary": "Advanced Shader Delivery uses precompiled shaders for \"console-like load times\" across PC hardware.",
+      "published": "2026-03-13T15:31:38+00:00",
+      "source": "Ars Technica"
+    },
+    {
+      "title": "Reinventing Python's AsyncIO",
+      "link": "https://blog.baro.dev/p/reinventing-pythons-asyncio",
+      "summary": "Comments",
+      "published": "2026-03-13T15:17:52+00:00",
+      "source": "Lobsters"
+    },
+    {
+      "title": "Windows 11 after two decades of macOS: okay, but also awful",
+      "link": "https://rakhim.exotext.com/windows-11-experience",
+      "summary": "Comments",
+      "published": "2026-03-13T15:15:03+00:00",
+      "source": "Lobsters"
+    },
+    {
+      "title": "Apple drops commission rates in China without a fuss",
+      "link": "https://techcrunch.com/2026/03/13/apple-drops-commission-rates-in-china-25-percent",
+      "summary": "Apple dropped its App Store commission rates to 25% in China, and commissions on auto-renewed subscriptions down to 12%.",
+      "published": "2026-03-13T15:12:14+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The FBI is investigating malware hidden inside games hosted on Steam",
+      "link": "https://techcrunch.com/2026/03/13/valve-steam-malware-games-fbi",
+      "summary": "The FBI believes a series of video games published on Steam in the last two years were embedded with malware by the same hacker.",
+      "published": "2026-03-13T14:55:06+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Aliens announce their presence in latest Disclosure Day trailer",
+      "link": "https://arstechnica.com/culture/2026/03/aliens-announce-their-presence-in-latest-disclosure-day-trailer",
+      "summary": "\"That truth will upend the established order of the entire world. If you do this, there's no undoing it.\"",
+      "published": "2026-03-13T14:50:45+00:00",
+      "source": "Ars Technica"
+    },
+    {
+      "title": "BYD's latest EVs can get close to full charge in just 12 minutes",
+      "link": "https://arstechnica.com/cars/2026/03/byds-latest-evs-can-get-close-to-full-charge-in-just-12-minutes",
+      "summary": "Carmaker’s technology means EVs can be ready almost as quickly as filling a fuel tank.",
+      "published": "2026-03-13T14:20:57+00:00",
+      "source": "Ars Technica"
+    },
+    {
+      "title": "How to use storytelling to fit inline assembly into Rust",
+      "link": "https://www.ralfj.de/blog/2026/03/13/inline-asm.html",
+      "summary": "Comments",
+      "published": "2026-03-13T14:08:08+00:00",
+      "source": "Lobsters"
+    },
+    {
+      "title": "Peacock expands into AI-driven video, mobile-first live sports, and gaming",
+      "link": "https://techcrunch.com/2026/03/13/peacock-expands-into-ai-driven-video-mobile-first-live-sports-and-gaming",
+      "summary": "Peacock is betting on new AI-powered video experiences, vertical clips, and mobile games to help its growth.",
+      "published": "2026-03-13T14:00:00+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Motional robotaxis join the Uber app in Vegas two years after major reset",
+      "link": "https://techcrunch.com/2026/03/13/motional-robotaxis-join-the-uber-app-in-vegas-two-years-after-major-reset",
+      "summary": "The launch comes just two years after a major reboot at Hyundai-owned Motional. The service will start with a safety monitor, which Motional hopes to remove by year's end.",
+      "published": "2026-03-13T13:26:58+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Rocket Report: Pentagon needs more missile interceptors; Artemis II clears review",
+      "link": "https://arstechnica.com/space/2026/03/rocket-report-pentagon-needs-more-missile-interceptors-artemis-ii-clears-review",
+      "summary": "SpaceX has started commissioning a second launch pad at the company's Starbase facility in Texas.",
+      "published": "2026-03-13T12:46:30+00:00",
+      "source": "Ars Technica"
+    },
+    {
+      "title": "I traced $2 billion in nonprofit grants and 45 states of lobbying records to figure out who's behind the age verification bills",
+      "link": "https://www.reddit.com/r/linux/s/WqwsCnFE8E",
+      "summary": "Comments",
+      "published": "2026-03-13T11:41:55+00:00",
+      "source": "Lobsters"
+    },
+    {
+      "title": "Before quantum computing arrives, this startup wants enterprises already running on it",
+      "link": "https://techcrunch.com/2026/03/12/before-quantum-computing-arrives-this-startup-wants-enterprises-already-running-on-it",
+      "summary": "After selling his AI startup to AMD for $665 million, Peter Sarlin is back with Qutwo, a new venture building the infrastructure it believes enterprises will need when quantum computing finally arrives.",
+      "published": "2026-03-13T05:00:00+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The who, what, and why of the attack that has shut down Stryker's Windows network",
+      "link": "https://arstechnica.com/security/2026/03/whats-known-about-wiper-attack-on-stryker-a-major-supplier-of-lifesaving-devices",
+      "summary": "Company says it doesn't know how long it will take to restore its Microsoft environment.",
+      "published": "2026-03-12T22:18:11+00:00",
+      "source": "Ars Technica"
+    },
+    {
+      "title": "Live Nation director boasted of gouging ticket buyers, \"robbing them blind\"",
+      "link": "https://arstechnica.com/tech-policy/2026/03/live-nation-director-boasted-of-gouging-ticket-buyers-robbing-them-blind",
+      "summary": "Unsealed messages add wrinkle to trial after US agreed to settle with Live Nation.",
+      "published": "2026-03-12T20:47:58+00:00",
+      "source": "Ars Technica"
+    },
+    {
+      "title": "This Is Not The Computer For You",
+      "link": "https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you",
+      "summary": "Comments",
+      "published": "2026-03-12T16:43:27+00:00",
+      "source": "Lobsters"
+    }
+  ]
+}
