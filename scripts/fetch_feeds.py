@@ -93,7 +93,7 @@ def parse_date(entry):
     return datetime.now(timezone.utc).isoformat()
 
 
-def normalize_entry(entry, source_name, max_summary_length=300):
+def normalize_entry(entry, source_name, category="", max_summary_length=300):
     """Extract and normalize a single feed entry."""
     link = normalize_url(entry.get("link", ""))
     summary_raw = entry.get("summary", "") or entry.get("description", "")
@@ -103,6 +103,7 @@ def normalize_entry(entry, source_name, max_summary_length=300):
         "summary": clean_html(summary_raw, max_summary_length),
         "published": parse_date(entry),
         "source": source_name,
+        "type": "video" if category.lower() == "youtube" else "article",
     }
 
 
@@ -166,6 +167,7 @@ def main():
     for feed_cfg in feeds:
         name = feed_cfg["name"]
         url = feed_cfg["url"]
+        category = feed_cfg.get("category", "")
         log.info("Fetching %s ...", name)
         parsed = fetch_feed(url)
         if parsed is None:
@@ -173,7 +175,7 @@ def main():
         entries = parsed.entries[: settings["max_items_per_feed"]]
         for entry in entries:
             new_items.append(
-                normalize_entry(entry, name, settings["max_summary_length"])
+                normalize_entry(entry, name, category, settings["max_summary_length"])
             )
         log.info("  Got %d items from %s", len(entries), name)
 

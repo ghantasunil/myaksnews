@@ -211,11 +211,22 @@
     var card = document.createElement("article");
     card.className = "card";
 
+    var badgeRow = document.createElement("div");
+    badgeRow.className = "badge-row";
+
     var badge = document.createElement("span");
     badge.className = "badge";
     badge.textContent = item.source.toUpperCase();
     badge.style.backgroundColor = getBadgeColor(item.source);
-    card.appendChild(badge);
+    badgeRow.appendChild(badge);
+
+    var typeTag = document.createElement("span");
+    var isVideo = item.type === "video" || (item.link && item.link.includes("youtube.com"));
+    typeTag.className = "type-tag type-tag--" + (isVideo ? "video" : "article");
+    typeTag.textContent = isVideo ? "\u25B6 Video" : "\u{1F4C4} Article";
+    badgeRow.appendChild(typeTag);
+
+    card.appendChild(badgeRow);
 
     var titleEl = document.createElement("h3");
     titleEl.className = "card-title";
