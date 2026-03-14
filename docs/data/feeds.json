@@ -1,10 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-03-14T20:00:00.776723+00:00",
-    "total_items": 92,
+    "generated_at": "2026-03-14T20:18:42.679024+00:00",
+    "total_items": 101,
     "sources": [
       "Ars Technica",
+      "CNCF Blog",
       "Hacker News",
+      "KodeKloud",
+      "Kubernetes Blog",
       "Lobsters",
       "TechCrunch",
       "The Verge"
@@ -628,6 +631,13 @@
       "source": "Lobsters"
     },
     {
+      "title": "KubeCon + CloudNativeCon Europe 2026 Co-located Event Deep Dive: Observability Day",
+      "link": "https://www.cncf.io/blog/2026/03/13/kubecon-cloudnativecon-europe-2026-co-located-event-deep-dive-observability-day",
+      "summary": "Observability Day has become a cornerstone gathering for the cloud native observability community. The event evolved from FluentCon at KubeCon Europe 2022 in Valencia and Open Observability Day at KubeCon North America 2022, bringing together maintainers...",
+      "published": "2026-03-13T11:00:00+00:00",
+      "source": "CNCF Blog"
+    },
+    {
       "title": "Before quantum computing arrives, this startup wants enterprises already running on it",
       "link": "https://techcrunch.com/2026/03/12/before-quantum-computing-arrives-this-startup-wants-enterprises-already-running-on-it",
       "summary": "After selling his AI startup to AMD for $665 million, Peter Sarlin is back with Qutwo, a new venture building the infrastructure it believes enterprises will need when quantum computing finally arrives.",
@@ -654,6 +664,62 @@
       "summary": "Comments",
       "published": "2026-03-12T16:43:27+00:00",
       "source": "Lobsters"
+    },
+    {
+      "title": "Making etcd incidents easier to debug in production Kubernetes",
+      "link": "https://www.cncf.io/blog/2026/03/12/making-etcd-incidents-easier-to-debug-in-production-kubernetes",
+      "summary": "Diagnosing and Recovering etcd: Practical tools for Kubernetes Operators When Kubernetes clusters experience serious issues, the symptoms are often vague but the impact is immediate. Control plane requests slow down. API calls begin to time out....",
+      "published": "2026-03-12T11:04:00+00:00",
+      "source": "CNCF Blog"
+    },
+    {
+      "title": "Japan’s CNCF DevStats 2025",
+      "link": "https://www.cncf.io/blog/2026/03/12/japans-cncf-devstats-2025",
+      "summary": "Have you ever heard of CNCF’s DevStats? It is a tool that tracks and quantifies all contribution activities within CNCF projects by pulling data from GitHub. Using this data, we can analyze ongoing development in CNCF...",
+      "published": "2026-03-12T11:00:00+00:00",
+      "source": "CNCF Blog"
+    },
+    {
+      "title": "CNCF Unveils KubeCon + CloudNativeCon India 2026 Schedule",
+      "link": "https://www.cncf.io/announcements/2026/03/10/cncf-unveils-kubecon-cloudnativecon-india-2026-schedule",
+      "summary": "Third annual India event to spotlight AI, observability, platform engineering and more MUMBAI, India, 11 March, 2026 – The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for cloud native software, today announced the conference...",
+      "published": "2026-03-11T03:30:00+00:00",
+      "source": "CNCF Blog"
+    },
+    {
+      "title": "Sustaining open source in the age of generative AI",
+      "link": "https://www.cncf.io/blog/2026/03/10/sustaining-open-source-in-the-age-of-generative-ai",
+      "summary": "Open source has always evolved alongside shifts in technology. From distributed version control and CI/CD, from containers to Kubernetes, each wave of tooling has reshaped how we build, collaborate, and contribute. Generative AI seems to be...",
+      "published": "2026-03-10T11:00:00+00:00",
+      "source": "CNCF Blog"
+    },
+    {
+      "title": "Best Cloud Courses & Training for Beginners to Pros in 2026",
+      "link": "https://kodekloud.com/blog/best-cloud-courses-2026",
+      "summary": "Discover the best cloud courses for 2026 across AWS, Azure, and Google Cloud with structured learning paths for beginners to pros.",
+      "published": "2026-03-10T07:06:22+00:00",
+      "source": "KodeKloud"
+    },
+    {
+      "title": "Announcing the AI Gateway Working Group",
+      "link": "https://kubernetes.io/blog/2026/03/09/announcing-ai-gateway-wg",
+      "summary": "The community around Kubernetes includes a number of Special Interest Groups (SIGs) and Working Groups (WGs) facilitating discussions on important topics between interested contributors. Today, we're excited to announce the formation of the AI Gateway Working Group , a new initiative focused on...",
+      "published": "2026-03-09T18:00:00+00:00",
+      "source": "Kubernetes Blog"
+    },
+    {
+      "title": "KubeCon + CloudNativeCon Europe 2026 Co-located Event Deep Dive: OpenTofu Day",
+      "link": "https://www.cncf.io/blog/2026/03/09/kubecon-cloudnativecon-europe-2026-co-located-event-deep-dive-opentofu-day",
+      "summary": "OpenTofu Day debuted at KubeCon Europe 2024 in Paris and has been held at every KubeCon since. As the infrastructure-as-code ecosystem reaches a clear inflection point with recent licensing shifts, industry consolidation, and changes to commercial...",
+      "published": "2026-03-09T13:00:00+00:00",
+      "source": "CNCF Blog"
+    },
+    {
+      "title": "Registry mirror authentication with Kubernetes secrets",
+      "link": "https://www.cncf.io/blog/2026/03/09/registry-mirror-authentication-with-kubernetes-secrets",
+      "summary": "Part I: Architecture and Implementation In production Kubernetes clusters, pulling container images from private registries happens thousands of times per day. Kubernetes distributions from major cloud vendors provide credential providers for their respective registries like AWS...",
+      "published": "2026-03-09T11:00:00+00:00",
+      "source": "CNCF Blog"
     }
   ]
 }
