@@ -2,14 +2,39 @@
   "use strict";
 
   var allItems = [];
+  var activeSource = "";
   var feedList = document.getElementById("feed-list");
   var emptyState = document.getElementById("empty-state");
   var errorState = document.getElementById("error-state");
   var searchInput = document.getElementById("search");
-  var sourceFilter = document.getElementById("source-filter");
-  var lastUpdated = document.getElementById("last-updated");
   var articleCount = document.getElementById("article-count");
+  var lastUpdated = document.getElementById("last-updated");
+  var sourcePills = document.getElementById("source-pills");
+  var timeFilter = document.getElementById("time-filter");
+  var sortFilter = document.getElementById("sort-filter");
+  var themeToggle = document.getElementById("theme-toggle");
 
+  // ---- Theme ----
+  function getPreferredTheme() {
+    var saved = localStorage.getItem("theme");
+    if (saved) return saved;
+    return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+  }
+
+  function applyTheme(theme) {
+    document.documentElement.setAttribute("data-theme", theme);
+    themeToggle.textContent = theme === "dark" ? "\u2600" : "\u263D";
+    localStorage.setItem("theme", theme);
+  }
+
+  applyTheme(getPreferredTheme());
+
+  themeToggle.addEventListener("click", function () {
+    var current = document.documentElement.getAttribute("data-theme");
+    applyTheme(current === "dark" ? "light" : "dark");
+  });
+
+  // ---- Helpers ----
   function debounce(fn, ms) {
     var timer;
     return function () {
@@ -18,42 +43,24 @@
     };
   }
 
-  // Format date for card meta line: "Mar 13, 2026"
   function formatCardDate(isoString) {
     try {
       return new Intl.DateTimeFormat("en", {
-        month: "short",
-        day: "numeric",
-        year: "numeric",
+        month: "short", day: "numeric", year: "numeric",
       }).format(new Date(isoString));
-    } catch (e) {
-      return "";
-    }
+    } catch (e) { return ""; }
   }
 
-  // Format date for the "last updated" line
-  function formatRelative(isoString) {
+  function formatFullDate(isoString) {
     try {
-      var date = new Date(isoString);
-      var now = new Date();
-      var diffMs = now - date;
-      var diffMin = Math.floor(diffMs / 60000);
-      var diffHr = Math.floor(diffMin / 60);
-      var diffDay = Math.floor(diffHr / 24);
-
-      if (diffDay < 1 && typeof Intl.RelativeTimeFormat !== "undefined") {
-        var rtf = new Intl.RelativeTimeFormat("en", { numeric: "auto" });
-        if (diffHr >= 1) return rtf.format(-diffHr, "hour");
-        if (diffMin >= 1) return rtf.format(-diffMin, "minute");
-        return "just now";
-      }
-      return formatCardDate(isoString);
-    } catch (e) {
-      return "";
-    }
+      return new Intl.DateTimeFormat("en", {
+        weekday: "short", month: "short", day: "numeric",
+        year: "numeric", hour: "2-digit", minute: "2-digit",
+      }).format(new Date(isoString));
+    } catch (e) { return ""; }
   }
 
-  // Get a date-only key (YYYY-MM-DD) in local time
+  // ---- Date grouping ----
   function getDateKey(isoString) {
     var d = new Date(isoString);
     return d.getFullYear() + "-" +
@@ -61,7 +68,6 @@
       String(d.getDate()).padStart(2, "0");
   }
 
-  // Get the Monday of the week for a given date
   function getWeekStart(dateStr) {
     var d = new Date(dateStr);
     var day = d.getDay();
@@ -69,11 +75,9 @@
     return new Date(d.getFullYear(), d.getMonth(), diff);
   }
 
-  // Build a friendly label for a group
   function getGroupLabel(dateKey) {
     var now = new Date();
     var today = getDateKey(now.toISOString());
-
     var yesterday = new Date(now);
     yesterday.setDate(yesterday.getDate() - 1);
     var yesterdayKey = getDateKey(yesterday.toISOString());
@@ -81,20 +85,14 @@
     if (dateKey === today) return "Today";
     if (dateKey === yesterdayKey) return "Yesterday";
 
-    // For dates within this week, show the day name
     var target = new Date(dateKey + "T12:00:00");
     var thisWeekStart = getWeekStart(now.toISOString());
     var lastWeekStart = new Date(thisWeekStart);
     lastWeekStart.setDate(lastWeekStart.getDate() - 7);
 
-    if (target >= thisWeekStart) {
-      return "This Week";
-    }
-    if (target >= lastWeekStart) {
-      return "Last Week";
-    }
+    if (target >= thisWeekStart) return "This Week";
+    if (target >= lastWeekStart) return "Last Week";
 
-    // Older: show week range
     var ws = getWeekStart(dateKey);
     var we = new Date(ws);
     we.setDate(we.getDate() + 6);
@@ -102,7 +100,6 @@
     return fmt.format(ws) + " \u2013 " + fmt.format(we);
   }
 
-  // Group items: today/yesterday by day, then by week
   function groupItems(items) {
     var now = new Date();
     var today = getDateKey(now.toISOString());
@@ -116,14 +113,12 @@
     items.forEach(function (item) {
       var dk = getDateKey(item.published);
       var key;
-
       if (dk === today || dk === yesterdayKey) {
-        key = dk; // group by day
+        key = dk;
       } else {
         var ws = getWeekStart(dk);
-        key = getDateKey(ws.toISOString()); // group by week
+        key = getDateKey(ws.toISOString());
       }
-
       if (!groups[key]) {
         groups[key] = [];
         order.push(key);
@@ -132,13 +127,27 @@
     });
 
     order.sort(function (a, b) { return b.localeCompare(a); });
-
     return order.map(function (key) {
       return { key: key, label: getGroupLabel(key), items: groups[key] };
     });
   }
 
-  // Assign a consistent color to each source
+  // ---- Time filter ----
+  function filterByTime(items, value) {
+    if (value === "all") return items;
+    var now = new Date();
+    var cutoff;
+    if (value === "today") {
+      cutoff = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+    } else if (value === "week") {
+      cutoff = getWeekStart(now.toISOString());
+    }
+    return items.filter(function (item) {
+      return new Date(item.published) >= cutoff;
+    });
+  }
+
+  // ---- Badge colors ----
   var badgeColors = {};
   var colorPalette = [
     "#e74c3c", "#e67e22", "#27ae60", "#2980b9",
@@ -155,6 +164,46 @@
     return badgeColors[source];
   }
 
+  // ---- Source pills ----
+  function buildSourcePills(items) {
+    var counts = {};
+    items.forEach(function (item) {
+      counts[item.source] = (counts[item.source] || 0) + 1;
+    });
+
+    var sources = Object.keys(counts).sort();
+    sourcePills.innerHTML = "";
+
+    var allPill = document.createElement("button");
+    allPill.className = "pill" + (activeSource === "" ? " active" : "");
+    allPill.textContent = "All ";
+    var allCount = document.createElement("span");
+    allCount.className = "pill-count";
+    allCount.textContent = items.length;
+    allPill.appendChild(allCount);
+    allPill.addEventListener("click", function () {
+      activeSource = "";
+      applyFilters();
+    });
+    sourcePills.appendChild(allPill);
+
+    sources.forEach(function (s) {
+      var pill = document.createElement("button");
+      pill.className = "pill" + (activeSource === s ? " active" : "");
+      pill.textContent = s + " ";
+      var count = document.createElement("span");
+      count.className = "pill-count";
+      count.textContent = counts[s];
+      pill.appendChild(count);
+      pill.addEventListener("click", function () {
+        activeSource = s;
+        applyFilters();
+      });
+      sourcePills.appendChild(pill);
+    });
+  }
+
+  // ---- Card rendering ----
   function createCard(item) {
     var card = document.createElement("article");
     card.className = "card";
@@ -177,9 +226,7 @@
 
     var meta = document.createElement("div");
     meta.className = "card-meta";
-    var dateSpan = document.createElement("span");
-    dateSpan.textContent = formatCardDate(item.published);
-    meta.appendChild(dateSpan);
+    meta.textContent = formatCardDate(item.published);
     card.appendChild(meta);
 
     var summary = document.createElement("p");
@@ -216,7 +263,6 @@
           grid.appendChild(createCard(item));
         });
         section.appendChild(grid);
-
         fragment.appendChild(section);
       });
 
@@ -224,12 +270,14 @@
     }
   }
 
+  // ---- Filtering ----
   function applyFilters() {
     var query = searchInput.value.toLowerCase().trim();
-    var source = sourceFilter.value;
+    var timeValue = timeFilter.value;
+    var sortValue = sortFilter.value;
 
     var filtered = allItems.filter(function (item) {
-      if (source && item.source !== source) return false;
+      if (activeSource && item.source !== activeSource) return false;
       if (query) {
         var text = (item.title + " " + item.summary).toLowerCase();
         if (!text.includes(query)) return false;
@@ -237,19 +285,19 @@
       return true;
     });
 
+    filtered = filterByTime(filtered, timeValue);
+
+    filtered.sort(function (a, b) {
+      var da = new Date(a.published);
+      var db = new Date(b.published);
+      return sortValue === "oldest" ? da - db : db - da;
+    });
+
+    buildSourcePills(allItems);
     renderCards(filtered);
   }
 
-  function populateSourceDropdown(items) {
-    var sources = Array.from(new Set(items.map(function (i) { return i.source; }))).sort();
-    sources.forEach(function (s) {
-      var opt = document.createElement("option");
-      opt.value = s;
-      opt.textContent = s;
-      sourceFilter.appendChild(opt);
-    });
-  }
-
+  // ---- Init ----
   async function init() {
     try {
       var resp = await fetch("data/feeds.json");
@@ -258,11 +306,11 @@
 
       allItems = data.items || [];
       if (data.metadata && data.metadata.generated_at) {
-        lastUpdated.textContent = "Last updated: " + formatRelative(data.metadata.generated_at);
+        lastUpdated.textContent = "Last updated: " + formatFullDate(data.metadata.generated_at) +
+          "  \u00B7  " + allItems.length + " articles";
       }
 
-      populateSourceDropdown(allItems);
-      renderCards(allItems);
+      applyFilters();
     } catch (err) {
       console.error("Failed to load feeds:", err);
       errorState.hidden = false;
@@ -270,7 +318,8 @@
   }
 
   searchInput.addEventListener("input", debounce(applyFilters, 300));
-  sourceFilter.addEventListener("change", applyFilters);
+  timeFilter.addEventListener("change", applyFilters);
+  sortFilter.addEventListener("change", applyFilters);
 
   init();
 })();

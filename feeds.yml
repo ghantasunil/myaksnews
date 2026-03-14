@@ -30,14 +30,6 @@ feeds:
     url: https://blog.alexellis.io/rss/
     category: Kubernetes
 
-  - name: Azure AKS Blog
-    url: https://azure.microsoft.com/en-us/blog/tag/azure-kubernetes-service/feed/
-    category: Azure
-
-  - name: Microsoft Azure Blog
-    url: https://azure.microsoft.com/en-us/blog/feed/
-    category: Azure
-
 # Settings
 settings:
   max_items_per_feed: 50
