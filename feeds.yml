@@ -30,17 +30,37 @@ feeds:
     url: https://blog.alexellis.io/rss/
     category: Kubernetes
 
-  - name: Azure AKS Blog
-    url: https://azure.microsoft.com/en-us/blog/tag/azure-kubernetes-service/feed/
-    category: Azure
+  - name: Kubesimplify
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCi-1nnN0eC9nRleXdZA6ncg
+    category: YouTube
 
-  - name: Microsoft Azure Blog
-    url: https://azure.microsoft.com/en-us/blog/feed/
-    category: Azure
+  - name: Rawkode Academy
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCrber_mFvp_FEF7D9u8PDEA
+    category: YouTube
+
+  - name: John Savill
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpIn7ox7j7bH_OFj7tYouOQ
+    category: YouTube
+
+  - name: AKS (Official)
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCWgpFvYA0JCI1ixOvv8q8EQ
+    category: YouTube
+
+  - name: Abhishek Veeramalla
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCnnQ3ybuyFdzvgv2Ky5jnAA
+    category: YouTube
+
+  - name: Piyush Sachdeva
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCh7dyZMOHspOSnDYTNfyMSA
+    category: YouTube
+
+  - name: Houssem Dellai
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCCYR9GpcE3skVnyMU8Wx1kQ
+    category: YouTube
 
 # Settings
 settings:
   max_items_per_feed: 50
   max_total_items: 500
   max_summary_length: 300
-  max_age_days: 7
+  max_age_days: 30
