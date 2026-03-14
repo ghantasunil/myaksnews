@@ -1,0 +1,30 @@
+# RSS Feed Sources
+# Add feeds below with name, url, and category
+
+feeds:
+  - name: Hacker News
+    url: https://hnrss.org/frontpage
+    category: Tech
+
+  - name: TechCrunch
+    url: https://techcrunch.com/feed/
+    category: Tech
+
+  - name: The Verge
+    url: https://www.theverge.com/rss/index.xml
+    category: Tech
+
+  - name: Ars Technica
+    url: https://feeds.arstechnica.com/arstechnica/index
+    category: Tech
+
+  - name: Lobsters
+    url: https://lobste.rs/rss
+    category: Tech
+
+# Settings
+settings:
+  max_items_per_feed: 50
+  max_total_items: 500
+  max_summary_length: 300
+  max_age_days: 7
