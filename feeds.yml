@@ -2,25 +2,45 @@
 # Add feeds below with name, url, and category
 
 feeds:
-  - name: Hacker News
-    url: https://hnrss.org/frontpage
+  - name: AKS Newsletter
+    url: https://aksnewsletter.com/feed.xml
+    category: Newsletter
+
+  - name: iximiuz
+    url: https://iximiuz.com/feed.rss
     category: Tech
 
-  - name: TechCrunch
-    url: https://techcrunch.com/feed/
+  - name: KubeSimplify
+    url: https://blog.kubesimplify.com/rss.xml
     category: Tech
 
-  - name: The Verge
-    url: https://www.theverge.com/rss/index.xml
+  - name: KodeKloud
+    url: https://kodekloud.com/blog/rss/
     category: Tech
 
-  - name: Ars Technica
-    url: https://feeds.arstechnica.com/arstechnica/index
-    category: Tech
+  - name: Kubernetes Blog
+    url: https://kubernetes.io/feed.xml
+    category: Kubernetes
 
-  - name: Lobsters
-    url: https://lobste.rs/rss
-    category: Tech
+  - name: CNCF Blog
+    url: https://www.cncf.io/feed/
+    category: Kubernetes
+
+  - name: LearnK8s
+    url: https://learnk8s.io/rss.xml
+    category: Kubernetes
+
+  - name: Alex Ellis
+    url: https://blog.alexellis.io/rss/
+    category: Kubernetes
+
+  - name: Azure AKS Blog
+    url: https://azure.microsoft.com/en-us/blog/tag/azure-kubernetes-service/feed/
+    category: Azure
+
+  - name: Microsoft Azure Blog
+    url: https://azure.microsoft.com/en-us/blog/feed/
+    category: Azure
 
 # Settings
 settings:
