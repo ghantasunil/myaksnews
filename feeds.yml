@@ -2,25 +2,10 @@
 # Add feeds below with name, url, and category
 
 feeds:
-  - name: Hacker News
-    url: https://hnrss.org/frontpage
-    category: Tech
+  - name: AKS Newsletter
+    url: https://aksnewsletter.com/feed.xml
+    category: Newsletter
 
-  - name: TechCrunch
-    url: https://techcrunch.com/feed/
-    category: Tech
-
-  - name: The Verge
-    url: https://www.theverge.com/rss/index.xml
-    category: Tech
-
-  - name: Ars Technica
-    url: https://feeds.arstechnica.com/arstechnica/index
-    category: Tech
-
-  - name: Lobsters
-    url: https://lobste.rs/rss
-    category: Tech
 
 # Settings
 settings:
