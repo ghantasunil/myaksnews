@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My AKS News</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>My AKS News</h1>
+    <p id="last-updated"></p>
+  </header>
+
+  <div class="controls">
+    <input type="search" id="search" placeholder="Search articles..." aria-label="Search articles">
+    <select id="source-filter" aria-label="Filter by source">
+      <option value="">All Sources</option>
+    </select>
+  </div>
+
+  <main id="feed-list" class="feed-grid"></main>
+
+  <div id="empty-state" class="empty-state" hidden>
+    <p>No articles match your filters.</p>
+  </div>
+
+  <div id="error-state" class="empty-state" hidden>
+    <p>Failed to load feed data. Please try again later.</p>
+  </div>
+
+  <footer>
+    <p>Updated daily via RSS.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
