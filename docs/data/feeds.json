@@ -1,34 +1,216 @@
 {
   "metadata": {
-    "generated_at": "2026-03-15T06:18:44.037137+00:00",
-    "total_items": 75,
+    "generated_at": "2026-03-15T17:29:24.830456+00:00",
+    "total_items": 98,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
       "Abhishek Veeramalla",
+      "Apps on Azure",
       "CNCF Blog",
       "John Savill",
       "KodeKloud",
       "Kubernetes Blog",
       "Kubesimplify",
       "LearnK8s",
-      "Piyush Sachdeva"
+      "Piyush Sachdeva",
+      "The New Stack"
     ]
   },
   "items": [
     {
-      "title": "NVIDIA GTC 👋",
-      "link": "https://www.youtube.com/shorts/RV9YVTpcITA",
-      "summary": "",
-      "published": "2026-03-14T17:31:19+00:00",
-      "source": "Kubesimplify"
+      "title": "How I make best PPTs in just 15 minutes using AI (No one will tell you this).",
+      "link": "https://www.youtube.com/watch?v=1A2TNvwr6ag",
+      "summary": "Join Membership for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nMost people spend hours making PowerPoint presentations. But today I’ll show you how to create a complete conference or office PPT in just 15 minutes using AI for free.\n\nFree Course on the...",
+      "published": "2026-03-15T17:07:17+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/1A2TNvwr6ag/mqdefault.jpg"
     },
     {
-      "title": "One small mistake can lead to a giant cloud bill. 🛑",
-      "link": "https://www.youtube.com/shorts/4IQfE7LKxAk",
-      "summary": "Video link: https://youtu.be/lvZk_sc8u5I\n\nA developer recently learned a hard lesson when they pushed a project to GitHub with their Gemini API key still in the code. Within minutes, bots found the key and racked up a $55,444.78 bill overnight!.\n\nIn this video, we discuss how you can build fast...",
-      "published": "2026-03-13T15:41:02+00:00",
-      "source": "Piyush Sachdeva"
+      "title": "Beginners guide to vibe coding",
+      "link": "https://thenewstack.io/beginners-guide-to-vibe-coding",
+      "summary": "We talk a lot about vibe coding. And to be honest, I’d heard the term far too many times before The post Beginners guide to vibe coding appeared first on The New Stack .",
+      "published": "2026-03-15T16:00:31+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jessica Wachtel",
+      "categories": [
+        "AI Engineering",
+        "Software Development",
+        "Vibe Coding",
+        "Tutorial"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Ex-Snowflake engineers say there’s a blind spot in data engineering — so they built Tower to fix it",
+      "link": "https://thenewstack.io/tower-python-data-pipelines",
+      "summary": "AI coding assistants might have made it easier to generate software, but getting that code to run reliably — packaging The post Ex-Snowflake engineers say there’s a blind spot in data engineering — so they built Tower to fix it appeared first on The New Stack .",
+      "published": "2026-03-15T14:00:36+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI Engineering",
+        "AI Infrastructure",
+        "Data"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "A practical guide to the 6 categories of AI cloud infrastructure in 2026",
+      "link": "https://thenewstack.io/ai-cloud-taxonomy-2026",
+      "summary": "Platform teams and AI engineers are facing an unprecedented wave of decision paralysis. The rollout of NVIDIA’s Blackwell and GB200 The post A practical guide to the 6 categories of AI cloud infrastructure in 2026 appeared first on The New Stack .",
+      "published": "2026-03-15T12:00:07+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Janakiram MSV",
+      "categories": [
+        "AI Infrastructure",
+        "AI Operations",
+        "Cloud Services",
+        "700"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why AI systems are failing in familiar ways",
+      "link": "https://thenewstack.io/ai-agents-batch-size-gravity",
+      "summary": "With the introduction of AI-assisted coding tools and agents, many people hoped we’d solve all the problems for human teams. The post Why AI systems are failing in familiar ways appeared first on The New Stack .",
+      "published": "2026-03-14T20:00:53+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Steve Fenton",
+      "categories": [
+        "AI Engineering",
+        "AI Infrastructure",
+        "Operations",
+        "contributed-octopus-deploy",
+        "contributor"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Tromjaro is a free-trade Linux distribution with plenty to offer",
+      "link": "https://thenewstack.io/tromjaro-is-a-free-trade-linux-distribution-with-plenty-to-offer",
+      "summary": "Imagine having an OS that won’t track you, push ads on you, and not force “free” trials on you. Sounds The post Tromjaro is a free-trade Linux distribution with plenty to offer appeared first on The New Stack .",
+      "published": "2026-03-14T18:00:28+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jack Wallen",
+      "categories": [
+        "Linux"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The Agent that investigates itself",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/the-agent-that-investigates-itself/ba-p/4500073",
+      "summary": "Azure SRE Agent handles tens of thousands of incident investigations each week for internal Microsoft services and external teams running it for their own systems. Last month, one of those incidents was about the agent itself. Our KV cache hit rate alert started firing. Cached token percentage was...",
+      "published": "2026-03-14T16:23:57+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "sanchitmehta",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "TypeScript 6.0 RC arrives as a bridge to a faster future",
+      "link": "https://thenewstack.io/typescript-6-0-rc-arrives-as-a-bridge-to-a-faster-future",
+      "summary": "TypeScript 6.0 Release Candidate (RC) is here, and in some ways, it’s the most consequential release since the project hit The post TypeScript 6.0 RC arrives as a bridge to a faster future appeared first on The New Stack .",
+      "published": "2026-03-14T16:00:18+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "JavaScript",
+        "Programming Languages",
+        "TypeScript"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "MCP’s biggest growing pains for production use will soon be solved",
+      "link": "https://thenewstack.io/model-context-protocol-roadmap-2026",
+      "summary": "The Model Context Protocol (MCP) has emerged as one of the key building blocks of the agentic AI stack, serving The post MCP’s biggest growing pains for production use will soon be solved appeared first on The New Stack .",
+      "published": "2026-03-14T14:00:57+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Model Context Protocol",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI layoffs are here, the MCP vs API debate, and the rise of the Mac Mini-powered Agent",
+      "link": "https://thenewstack.io/ai-layoffs-mcp-api-mac-mini-agent",
+      "summary": "I’m Matt Burns, Head of Content at Insight Media Group. Each week, I round up the most important AI developments The post AI layoffs are here, the MCP vs API debate, and the rise of the Mac Mini-powered Agent appeared first on The New Stack .",
+      "published": "2026-03-14T13:32:07+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Matthew Burns",
+      "categories": [
+        "AI",
+        "AI Engineering",
+        "AI Strategy",
+        "Open Source",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Andrej Karpathy’s 630-line Python script ran 50 experiments overnight without any human input",
+      "link": "https://thenewstack.io/karpathy-autonomous-experiment-loop",
+      "summary": "On the night of March 7, Andrej Karpathy pushed a 630-line Python script to GitHub and went to sleep. By The post Andrej Karpathy’s 630-line Python script ran 50 experiments overnight without any human input appeared first on The New Stack .",
+      "published": "2026-03-14T12:00:11+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Janakiram MSV",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Large Language Models",
+        "Operations"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "NanoClaw and Docker team up to isolate AI agents inside MicroVM sandboxes",
+      "link": "https://thenewstack.io/nanoclaw-docker-sandboxes-ai-agents",
+      "summary": "Like the idea of OpenClaw-style agents, but their insecurity makes you sweat? The combo of NanoClaw and Docker Sandboxes may The post NanoClaw and Docker team up to isolate AI agents inside MicroVM sandboxes appeared first on The New Stack .",
+      "published": "2026-03-13T19:26:34+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Steven J. Vaughan-Nichols",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Open Source",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "F-Droid says Google’s Android developer verification plan is an ‘existential’ threat to alternative app stores",
+      "link": "https://thenewstack.io/f-droid-says-googles-android-developer-verification-plan-is-an-existential-threat-to-alternative-app-stores",
+      "summary": "Attention, any developers hoping to sell their apps to the world’s 3.3 billion Android phones. “Google is changing the way The post F-Droid says Google’s Android developer verification plan is an ‘existential’ threat to alternative app stores appeared first on The New Stack .",
+      "published": "2026-03-13T18:33:01+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "David Cassel",
+      "categories": [
+        "Open Source",
+        "Security",
+        "Software Development"
+      ],
+      "thumbnail": ""
     },
     {
       "title": "Azure Update 13th March 2026",
@@ -36,6 +218,34 @@
       "summary": "Happy Friday the 13th!\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation queue never to be...",
       "published": "2026-03-13T15:18:27+00:00",
       "source": "John Savill"
+    },
+    {
+      "title": "A Practical Path Forward for Heroku Customers with Azure",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/a-practical-path-forward-for-heroku-customers-with-azure/ba-p/4501797",
+      "summary": "On February 6, 2026, Heroku announced it is moving to a sustaining engineering model focused on stability, security, reliability, and ongoing support. Many customers are now reassessing how their application platforms will support today’s workloads and future innovation. Microsoft is committed to...",
+      "published": "2026-03-13T15:00:00+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "NagaSurendran",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "The “files are all you need” debate misses what’s actually happening in agent memory architecture",
+      "link": "https://thenewstack.io/ai-agent-memory-architecture",
+      "summary": "When you look at how top engineering teams actually build agent memory systems, a pattern emerges: There is a filesystem The post The “files are all you need” debate misses what’s actually happening in agent memory architecture appeared first on The New Stack .",
+      "published": "2026-03-13T12:00:28+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Mikiko Bazeley",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Databases",
+        "sponsor-mongodb",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
     },
     {
       "title": "KubeCon + CloudNativeCon Europe 2026 Co-located Event Deep Dive: Observability Day",
@@ -52,6 +262,107 @@
       "source": "John Savill"
     },
     {
+      "title": "Proactive Health Monitoring and Auto-Communication Now Available for Azure Container Registry",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/proactive-health-monitoring-and-auto-communication-now-available/ba-p/4501378",
+      "summary": "Today, we're introducing Azure Container Registry's (ACR) latest service health enhancement: automated auto-communication through Azure Service Health alerts . When ACR detects degradation in critical operations—authentication, image push, and pull—your teams are now proactively notified through...",
+      "published": "2026-03-12T22:54:28+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "FeynmanZhou",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Before you let AI agents loose, you’d better know what they’re capable of",
+      "link": "https://thenewstack.io/risk-mitigation-agentic-ai",
+      "summary": "For enterprises, agentic AI systems potentially allow staff responsibilities to shift from execution to judgment, oversight, and strategy. This creates The post Before you let AI agents loose, you’d better know what they’re capable of appeared first on The New Stack .",
+      "published": "2026-03-12T20:22:11+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Charles Humble",
+      "categories": [
+        "AI Engineering",
+        "AI Operations",
+        "API Management",
+        "sponsor-naftiko",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Google will soon bring Chrome to ARM64 Linux",
+      "link": "https://thenewstack.io/google-will-soon-bring-chrome-to-arm64-linux",
+      "summary": "Google on Thursday announced that it will finally launch Chrome for ARM64 Linux devices in the second quarter of 2026. The post Google will soon bring Chrome to ARM64 Linux appeared first on The New Stack .",
+      "published": "2026-03-12T20:00:43+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "Linux"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "SurePath AI advances MCP policy controls to tighten the cable on AI’s USB-C",
+      "link": "https://thenewstack.io/surepath-ai-mcp-policy-controls",
+      "summary": "AI needs governance. Amid the exponential growth of predictive, generative, and agentic artificial intelligence, humans everywhere have repeatedly asked, “Is The post SurePath AI advances MCP policy controls to tighten the cable on AI’s USB-C appeared first on The New Stack .",
+      "published": "2026-03-12T19:54:57+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Engineering",
+        "Model Context Protocol (MCP)",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "New Perplexity APIs give developers access to agentic workflows and orchestration",
+      "link": "https://thenewstack.io/perplexity-agent-api",
+      "summary": "On the heels of last month’s Perplexity Computer launch, the company on Thursday announced an expansion of the Perplexity API The post New Perplexity APIs give developers access to agentic workflows and orchestration appeared first on The New Stack .",
+      "published": "2026-03-12T19:22:06+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Infrastructure"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic’s Claude can now draw interactive charts and diagrams",
+      "link": "https://thenewstack.io/anthropics-claude-interactive-visualizations",
+      "summary": "Anthropic’s Claude has always been great at coding and working with text, but where Google and OpenAI invested heavily in The post Anthropic’s Claude can now draw interactive charts and diagrams appeared first on The New Stack .",
+      "published": "2026-03-12T18:00:37+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why AI-driven operations are pushing governance beyond a compliance issue and into an operational priority",
+      "link": "https://thenewstack.io/five-pillars-ai-governance",
+      "summary": "Board members and senior executives are pushing hard to accelerate AI adoption. As a result, significant numbers of organizations have The post Why AI-driven operations are pushing governance beyond a compliance issue and into an operational priority appeared first on The New Stack .",
+      "published": "2026-03-12T16:21:37+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "João Freitas",
+      "categories": [
+        "AI Agents",
+        "AI Operations",
+        "AI Strategy",
+        "sponsor-pagerduty",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
       "title": "This is what Top 1 Percent Engineers do different.",
       "link": "https://www.youtube.com/watch?v=PA15ssQkvmU",
       "summary": "Link to Register for NVIDIA GTC (FREE):\nhttps://nvda.ws/49XaLgU\n\nComment - \"Registered\" to enter the raffle.\n\n- MLOps 101: Platforms and Processes for Building AI [S81628]\n- Open Source AI Shaping the Next Era of Intelligent Digital Workers [S81789]\n- How Open Models, Agents, and Physical AI Are...",
@@ -64,6 +375,37 @@
       "summary": "What if you could run a full LLM locally with GPU acceleration — no API keys, no cloud costs, no data leaving your machine? In this video, I demo Docker Model Runner running on the NVIDIA DGX Spark (128GB unified memory, Blackwell GPU) and build a real Release Note Explainer app from scratch.\n\nThe...",
       "published": "2026-03-12T13:38:03+00:00",
       "source": "Kubesimplify"
+    },
+    {
+      "title": "Runpod report: Qwen has overtaken Meta’s Llama as the most-deployed self-hosted LLM",
+      "link": "https://thenewstack.io/runpod-ai-infrastructure-reality",
+      "summary": "The rise of agentic AI services has enabled the enterprise technology market to blossom with a new, fully evolved set The post Runpod report: Qwen has overtaken Meta’s Llama as the most-deployed self-hosted LLM appeared first on The New Stack .",
+      "published": "2026-03-12T13:00:57+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Infrastructure",
+        "AI Strategy",
+        "Cloud Services"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Gloo built a faith-based AI platform that already has secular interest",
+      "link": "https://thenewstack.io/gloo-built-an-ai-platform-where-values-alignment-isnt-a-system-prompt",
+      "summary": "AI models have gotten a lot better at avoiding hallucinations, and the frontier labs tend to put strict guardrails around The post Gloo built a faith-based AI platform that already has secular interest appeared first on The New Stack .",
+      "published": "2026-03-12T12:00:11+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Models"
+      ],
+      "thumbnail": ""
     },
     {
       "title": "Making etcd incidents easier to debug in production Kubernetes",
@@ -88,11 +430,108 @@
       "type": "article"
     },
     {
-      "title": "Keynote speaker at one of the Biggest DevOps events",
-      "link": "https://www.youtube.com/shorts/fEKjnPjt3HA",
-      "summary": "Register - https://cloudconf.ai\n\nUse ABHISHEK30 for 30 percent offer. Avail the offer today.",
-      "published": "2026-03-12T04:39:41+00:00",
-      "source": "Abhishek Veeramalla"
+      "title": "Galileo releases Agent Control, a centralized guardrails platform for enterprise AI agents",
+      "link": "https://thenewstack.io/galileo-agent-control-open-source",
+      "summary": "Galileo, a company known for its AI observability and guardrails technology, on Wednesday released Agent Control, an open source control The post Galileo releases Agent Control, a centralized guardrails platform for enterprise AI agents appeared first on The New Stack .",
+      "published": "2026-03-11T19:48:43+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Steven J. Vaughan-Nichols",
+      "categories": [
+        "AI Agents",
+        "AI Operations",
+        "Open Source",
+        "500"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Nvidia launches Nemotron 3 Super, a 120B open model for large-scale AI systems",
+      "link": "https://thenewstack.io/nvidia-launches-nemotron-3-super-a-120b-open-model-for-large-scale-ai-systems",
+      "summary": "Ahead of its flagship GTC conference next week, Nvidia on Wednesday launched the second model in its open-weight Nemotron 3 The post Nvidia launches Nemotron 3 Super, a 120B open model for large-scale AI systems appeared first on The New Stack .",
+      "published": "2026-03-11T18:30:23+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Tetrate launches open source marketplace to simplify Envoy adoption",
+      "link": "https://thenewstack.io/tetrate-built-on-envoy",
+      "summary": "Agentic AI development company Tetrate has launched Built on Envoy, a free and open source extensions marketplace for Envoy. Envoy The post Tetrate launches open source marketplace to simplify Envoy adoption appeared first on The New Stack .",
+      "published": "2026-03-11T17:52:22+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "Cloud Native Ecosystem",
+        "Microservices",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Microsoft’s VS Code team moved to weekly releases after 10 years of monthly — and credits AI for making it possible",
+      "link": "https://thenewstack.io/vs-code-ai-copilot",
+      "summary": "Earlier this year, Pierce Boggan, the Product Lead for VS Code and GitHub Copilot at Microsoft, quietly dropped a bombshell The post Microsoft’s VS Code team moved to weekly releases after 10 years of monthly — and credits AI for making it possible appeared first on The New Stack .",
+      "published": "2026-03-11T17:38:13+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "JetBrains names the debt AI agents leave behind",
+      "link": "https://thenewstack.io/jetbrains-names-the-debt-ai-agents-leave-behind",
+      "summary": "Developers have spent years fighting technical debt. Now there’s a new variant accumulating in codebases, and many teams don’t even The post JetBrains names the debt AI agents leave behind appeared first on The New Stack .",
+      "published": "2026-03-11T16:57:30+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“Self-healing” IT? HPE research explores how AI-trained models can catch silent infrastructure failures",
+      "link": "https://thenewstack.io/hpe-self-healing-ai-infrastructure",
+      "summary": "The volume of data and noise that comes with enterprise IT complexity leaves operations teams struggling to understand how to The post “Self-healing” IT? HPE research explores how AI-trained models can catch silent infrastructure failures appeared first on The New Stack .",
+      "published": "2026-03-11T16:37:09+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jennifer Riggins",
+      "categories": [
+        "AI Operations",
+        "Large Language Models",
+        "Observability",
+        "Operations",
+        "sponsor-hpe",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "From Single Apps to Scale Solutions: How AI Agents Scale Modernization",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/from-single-apps-to-scale-solutions-how-ai-agents-scale/ba-p/4500059",
+      "summary": "AI is rewriting the modernization playbook. Over the past few years, AI has changed software development faster than anything we’ve seen in decades. And it’s not just about writing code faster. AI is reducing the day-to-day friction that slows teams down: upgrades, migrations, test failures,...",
+      "published": "2026-03-11T15:00:00+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "mandywhaley",
+      "categories": [],
+      "thumbnail": ""
     },
     {
       "title": "Ultimate End to End DevSecOps Project Implementation | 3 Hours Tutorial",
@@ -109,11 +548,77 @@
       "source": "CNCF Blog"
     },
     {
+      "title": "What It Takes to Give SRE Agent a Useful Starting Point",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/what-it-takes-to-give-sre-agent-a-useful-starting-point/ba-p/4500343",
+      "summary": "In our latest posts, The Agent that investigates itself and Azure SRE Agent Now Builds Expertise Like Your Best Engineer Introducing Deep Context , we wrote about a moment that changed how we think about agent systems. Azure SRE Agent investigated a regression in its own prompt cache, traced the...",
+      "published": "2026-03-10T16:10:29+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Dalibor_Kovacevic",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
       "title": "I Built a DevOps Micromanager in 60 seconds (my teams already hates him).",
       "link": "https://www.youtube.com/watch?v=XopzvEhSYGs",
       "summary": "Link to register: https://hostinger.com/TTWP\nCoupon Code: TTWP\n\nStop dealing with toxic micromanagers. Today, we’re building our own. 🤖 I deployed an AI DevOps Agent using OpenClaw on a Hostinger VPS to track PRs, roast developers, and generate reports—all for $5.\nBonus: New users get 2X AI Credits...",
       "published": "2026-03-10T15:15:07+00:00",
       "source": "Piyush Sachdeva"
+    },
+    {
+      "title": "What's new in Azure SRE Agent in the GA release",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/what-s-new-in-azure-sre-agent-in-the-ga-release/ba-p/4500779",
+      "summary": "Azure SRE Agent is now generally available ( read the GA announcement ). . After months in preview with teams across Microsoft and early customers, here's what's shipping at GA. We use SRE Agent in our team We built SRE Agent to solve our own operational problems first. It investigates our...",
+      "published": "2026-03-10T15:03:50+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "dchelupati",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Agent Hooks: Production-Grade Governance for Azure SRE Agent",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/agent-hooks-production-grade-governance-for-azure-sre-agent/ba-p/4500292",
+      "summary": "Introduction Azure SRE Agent helps engineering teams automate incident response, diagnostics, and remediation tasks. But when you're giving an agent access to production systems—your databases, your Kubernetes clusters, your cloud resources—you need more than just automation. You need governance ....",
+      "published": "2026-03-10T14:08:35+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Vineela-Suri",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure SRE Agent Now Builds Expertise Like Your Best Engineer \nIntroducing Deep Context",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-sre-agent-now-builds-expertise-like-your-best-engineer/ba-p/4500754",
+      "summary": "What if SRE Agent already knew your system before the next incident? Your most experienced SRE didn't become an expert overnight. Day one: reading runbooks, studying architecture diagrams, asking a lot of questions. Month three: knowing which services are fragile, which config changes cascade,...",
+      "published": "2026-03-10T14:08:23+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "dchelupati",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Announcing general availability for the Azure SRE Agent",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-general-availability-for-the-azure-sre-agent/ba-p/4500682",
+      "summary": "Today, we’re excited to announce the General Availability (GA) of Azure SRE Agent — your AI‑powered operations teammate that helps organizations improve uptime, reduce incident impact, and cut operational toil by accelerating diagnosis and automating response workflows.  This GA release represents...",
+      "published": "2026-03-10T14:00:00+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Mayunk_Jain",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Migrating to the next generation of Virtual Nodes on Azure Container Instances (ACI)",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/migrating-to-the-next-generation-of-virtual-nodes-on-azure/ba-p/4496565",
+      "summary": "What is ACI/Virtual Nodes? Azure Container Instances (ACI) is a fully-managed serverless container platform which gives you the ability to run containers on-demand without provisioning infrastructure . Virtual Nodes on ACI allows you to run Kubernetes pods managed by an AKS cluster in a serverless...",
+      "published": "2026-03-10T13:13:05+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "adamsharif-msft",
+      "categories": [],
+      "thumbnail": ""
     },
     {
       "title": "Sustaining open source in the age of generative AI",
@@ -123,11 +628,15 @@
       "source": "CNCF Blog"
     },
     {
-      "title": "AI Reduces Time-To-Resolution (TTR) for your Kubernetes Cluster Issues",
-      "link": "https://www.youtube.com/shorts/hNS9fuPo574",
-      "summary": "Reduce the troubleshooting time from 2.5 hours to literally minutes with AI assisted troubleshooting on AKS using AKS MCP Server. \n\nAs a SRE or platform engineer, it is hard to keep a context of all the applications on your Kubernetes clusters. Understanding the context takes a long time and...",
-      "published": "2026-03-10T10:01:07+00:00",
-      "source": "AKS (Official)"
+      "title": "Microsoft Azure at KubeCon Europe 2026 | Amsterdam, NL - March 23-26",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/microsoft-azure-at-kubecon-europe-2026-amsterdam-nl-march-23-26/ba-p/4500716",
+      "summary": "Microsoft Azure is coming back to Amsterdam for  KubeCon + CloudNativeCon Europe 2026 in two short weeks, from March 23-26! As a Diamond Sponsor, we have a full week of sessions, hands-on activities, and ways to connect with the engineers behind AKS and our open-source projects. Here's what's on...",
+      "published": "2026-03-10T09:15:00+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "coryskimming",
+      "categories": [],
+      "thumbnail": ""
     },
     {
       "title": "Best Cloud Courses & Training for Beginners to Pros in 2026",
@@ -158,13 +667,6 @@
       "source": "CNCF Blog"
     },
     {
-      "title": "3 Events in 15 Days — Let’s Meet! (GTC, KubeCon, CloudXAI)",
-      "link": "https://www.youtube.com/shorts/qERiMiVvpYs",
-      "summary": "The next 15 days are stacked with cloud native and AI events — and I’ll be at all of them.\nNVIDIA GTC (March 16-19) — In person! Meeting new cloud providers, exploring AI innovation. If you’re in SF or surrounding areas, DM me to schedule a meeting. Virtual registration is FREE:...",
-      "published": "2026-03-09T12:09:19+00:00",
-      "source": "Kubesimplify"
-    },
-    {
       "title": "Registry mirror authentication with Kubernetes secrets",
       "link": "https://www.cncf.io/blog/2026/03/09/registry-mirror-authentication-with-kubernetes-secrets",
       "summary": "Part I: Architecture and Implementation In production Kubernetes clusters, pulling container images from private registries happens thousands of times per day. Kubernetes distributions from major cloud vendors provide credential providers for their respective registries like AWS...",
@@ -172,25 +674,26 @@
       "source": "CNCF Blog"
     },
     {
-      "title": "\"SysAdmin is dead!\" — Is it a joke or your reality? 📉",
-      "link": "https://www.youtube.com/shorts/vQTv6WCJEHo",
-      "summary": "If you’ve been hearing that your skills are outdated because DevOps has \"replaced\" you, you’ve been told the wrong story. DevOps didn't kill the SysAdmin—it absorbed it. The core fundamentals of networking, Linux, and DNS haven't changed; the way we manage them has.\n\nIn this reel, we discuss why...",
-      "published": "2026-03-07T15:40:07+00:00",
-      "source": "Piyush Sachdeva"
+      "title": "Inference at Enterprise Scale: Why LLM Inference Is a Capital Allocation Problem",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/inference-at-enterprise-scale-why-llm-inference-is-a-capital/ba-p/4498754",
+      "summary": "Most enterprise AI conversations focus on model selection and fine-tuning. The harder problem — and the one that determines whether AI investments produce returns or just costs — is inference: serving those models reliably, at scale, under real production load. For organizations running millions of...",
+      "published": "2026-03-08T18:55:50+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "bobmital",
+      "categories": [],
+      "thumbnail": ""
     },
     {
-      "title": "CloudConf Bengaluru | Meet Your Favorite Creators",
-      "link": "https://www.youtube.com/shorts/dmZKG7AORgA",
-      "summary": "register here: www.cloudconf.ai\n☁️ The Cloud Event of 2026 is Here! \nIf you’ve been learning from your favorite creators behind a screen, it’s time to meet them in the real world. On March 14, 2026, Bengaluru is turning into the ultimate hub for cloud innovation at the CLOUDxAI Conference.\n\nThis...",
-      "published": "2026-03-07T02:00:41+00:00",
-      "source": "Piyush Sachdeva"
-    },
-    {
-      "title": "Context is crucial with AI Debugging - AI Debugging Best Practices",
-      "link": "https://www.youtube.com/shorts/IYpva6_Jo9k",
-      "summary": "Qasim Sarfaraz talks about why providing the right context is crucial when debugging with AI assistants. He also discusses the need for independent analysis and confirming the AI findings rather than just blindly trusting the output. \n\n#ai #debugging #troubleshooting",
-      "published": "2026-03-06T20:35:11+00:00",
-      "source": "AKS (Official)"
+      "title": "The LLM Inference Optimization Stack: A Prioritized Playbook for Enterprise Teams",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/the-llm-inference-optimization-stack-a-prioritized-playbook-for/ba-p/4498818",
+      "summary": "The Solutions — An Optimization Stack for Enterprise Inference The optimizations below are ordered by implementation priority — starting with the highest-leverage. The Three-Layer Serving Stack Most enterprise LLM deployments operate across three layers , each responsible for a different part of...",
+      "published": "2026-03-08T15:43:12+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "bobmital",
+      "categories": [],
+      "thumbnail": ""
     },
     {
       "title": "Azure Update 6th March 2026",
@@ -200,13 +703,6 @@
       "source": "John Savill"
     },
     {
-      "title": "Free Registration for Biggest AI Conference 🚀 | Limited slots",
-      "link": "https://www.youtube.com/shorts/-qwE4_AGAvY",
-      "summary": "‼️ Register Now for FREE:\nhttps://nvda.ws/49XaLgU\n\nNote: I am conducting a special giveaway for my followers. Just register to the event - Comment down \"Registered\" to enter the raffle of 100 USD NVIDIA Brev credits 🏆",
-      "published": "2026-03-06T13:02:17+00:00",
-      "source": "Abhishek Veeramalla"
-    },
-    {
       "title": "KubeCon + CloudNativeCon Europe 2026 Co-located Event Deep Dive: KeycloakCon",
       "link": "https://www.cncf.io/blog/2026/03/06/kubecon-cloudnativecon-europe-2026-co-located-event-deep-dive-keycloakcon",
       "summary": "As cloud native architectures span more clusters, services, and trust domains, identity and access management have become foundational infrastructure rather than an application-level concern. At the same time, emerging patterns such as multi-cluster platforms, agent-based systems,...",
@@ -214,11 +710,15 @@
       "source": "CNCF Blog"
     },
     {
-      "title": "Master The Terminal - Master the DevOps",
-      "link": "https://www.youtube.com/shorts/qotjpTPdXpY",
-      "summary": "Here is the list of top 50 linux commands: https://docs.google.com/document/d/1M_7CSTbMrYStBm_yumcCvlPmrAEXpmhJCdRoxc5fWZM/edit?usp=sharing\n\n𝗖𝗢𝗠𝗣𝗟𝗘𝗧𝗘 COURSES  👌 It’s   🅵🆁🅴🅴 ⛳\n✅ Terraform Full Course For Beginners -...",
-      "published": "2026-03-05T16:39:53+00:00",
-      "source": "Piyush Sachdeva"
+      "title": "Even simpler to Safely Execute AI-generated Code with Azure Container Apps Dynamic Sessions",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/even-simpler-to-safely-execute-ai-generated-code-with-azure/ba-p/4499795",
+      "summary": "AI agents are writing code. The question is: where does that code run? If it runs in your process, a single hallucinated import os; os.remove('/') can ruin your day. Azure Container Apps dynamic sessions solve this with on-demand sandboxed environments — Hyper-V isolated, fully managed, and ready...",
+      "published": "2026-03-05T21:04:59+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Jan-Kalis",
+      "categories": [],
+      "thumbnail": ""
     },
     {
       "title": "Major AI Security Attack on GitHub Actions  | Top Repositories Deleted | Hackerbot-Claw",
@@ -263,6 +763,17 @@
       "source": "KodeKloud"
     },
     {
+      "title": "Get started with Datadog MCP server in Azure SRE Agent",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/get-started-with-datadog-mcp-server-in-azure-sre-agent/ba-p/4497123",
+      "summary": "Overview The Datadog MCP server is a cloud-hosted bridge between your Datadog organization and Azure SRE Agent. Once configured, it enables real-time interaction with logs, metrics, APM traces, monitors, incidents, dashboards, and other Datadog data through natural language. All actions respect...",
+      "published": "2026-03-03T21:52:13+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "dbandaru",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
       "title": "Quickly get rid of fake malware alerts easily",
       "link": "https://www.youtube.com/watch?v=8kdV9rjFRtg",
       "summary": "Do not interact with them. We just need to delete the bad site from being allowed to send notifications in your browser settings.",
@@ -270,25 +781,11 @@
       "source": "John Savill"
     },
     {
-      "title": "Kubernetes local setup got very easy.",
-      "link": "https://www.youtube.com/shorts/EURc8T0CsUk",
-      "summary": "Setup the most lite weight Kubernetes clusters on your local machine using vind (vCluster in Docker). This is probably the best Kubernetes tool for DevOps Engineers.",
-      "published": "2026-03-03T15:27:50+00:00",
-      "source": "Abhishek Veeramalla"
-    },
-    {
       "title": "Stop using old Kubernetes local setup | Use this Instead",
       "link": "https://www.youtube.com/watch?v=Y30pDKruHCE",
       "summary": "STAR the GitHub Repository (They deserve it):\nhttps://github.com/loft-sh/vind\n\nvind (vCluster in Docker) is a revolutionary way to run Kubernetes clusters directly as Docker containers. Built on top of vCluster, vind combines the power of virtual Kubernetes clusters with the simplicity of Docker,...",
       "published": "2026-03-03T13:16:04+00:00",
       "source": "Abhishek Veeramalla"
-    },
-    {
-      "title": "Is devops really not for freshers?",
-      "link": "https://www.youtube.com/shorts/vALMPCAlZ-Y",
-      "summary": "",
-      "published": "2026-03-03T02:31:56+00:00",
-      "source": "Piyush Sachdeva"
     },
     {
       "title": "Getting Started with M365 Copilot",
@@ -340,18 +837,55 @@
       "source": "Kubernetes Blog"
     },
     {
+      "title": "Rethinking Background Workloads with Azure Functions on Azure Container Apps",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/rethinking-background-workloads-with-azure-functions-on-azure/ba-p/4496861",
+      "summary": "Objective Azure Container Apps provides a flexible platform for running background workloads, supporting multiple execution models to address different workload needs. Two commonly used models are: Azure Functions on Azure Container Apps - overview of Azure functions Azure Container Apps Jobs –...",
+      "published": "2026-02-27T07:21:39+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "DeepGanguly",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Get started with PagerDuty MCP server and PagerDuty SRE Agent in Azure SRE Agent",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/get-started-with-pagerduty-mcp-server-and-pagerduty-sre-agent-in/ba-p/4497124",
+      "summary": "Overview The PagerDuty MCP server is a cloud-hosted bridge between your PagerDuty account and Azure SRE Agent. Once configured, it enables real-time interaction with incidents, on-call schedules, services, teams, escalation policies, event orchestration, incident workflows, status pages, and more...",
+      "published": "2026-02-27T01:39:14+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "dbandaru",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Get started with Atlassian Rovo MCP server in Azure SRE Agent",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/get-started-with-atlassian-rovo-mcp-server-in-azure-sre-agent/ba-p/4497122",
+      "summary": "Get started with Atlassian Rovo MCP server in Azure SRE Agent Connect Azure SRE Agent to Jira, Confluence, Compass, and Jira Service Management using the official Atlassian Rovo MCP server. Overview The Atlassian Rovo MCP server is a cloud-hosted bridge between your Atlassian Cloud site and Azure...",
+      "published": "2026-02-26T23:01:46+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "dbandaru",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure Container Registry Premium SKU Now Supports 100 TiB Storage",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-container-registry-premium-sku-now-supports-100-tib/ba-p/4497651",
+      "summary": "Today, we're excited to announce that Azure Container Registry Premium SKU now supports up to 100 TiB of registry storage—a 2.5x increase from the previous 40 TiB limit, and a 5x increase from the original 20 TiB limit just two years ago. We've also improved geo-replication data sync speed ,...",
+      "published": "2026-02-26T20:46:56+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "johshmsft",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
       "title": "Troubleshooting Disk Latency with Burak Ok: AKS Troubleshooting Series: Azure Kubernetes Service",
       "link": "https://www.youtube.com/watch?v=YeO5zTDFtHA",
       "summary": "In todays episode, we talk to Burak Ok and get insights into how to troubleshoot Disk Latency issues on Azure Kubernetes Service. \n \nHe demonstrates how AI tools like Agentic CLI can streamline the debugging process and significantly reduce the time to resolution.\n\nRelevant Links:\n -...",
       "published": "2026-02-26T11:00:54+00:00",
       "source": "AKS (Official)"
-    },
-    {
-      "title": "ExpressRoute Scalable Gateway #azure #networking",
-      "link": "https://www.youtube.com/shorts/uLsM-wl6xUA",
-      "summary": "Quick look at the new scalable ExpressRoute Gateway SKU.",
-      "published": "2026-02-26T08:36:23+00:00",
-      "source": "John Savill"
     },
     {
       "title": "AKS Community Call - US & Europe (Feb 2026) - Azure Kubernetes Service",
@@ -375,18 +909,15 @@
       "source": "John Savill"
     },
     {
-      "title": "Think one bad update can't break the internet? Think again. 📉",
-      "link": "https://www.youtube.com/shorts/KLkLB4leNUA",
-      "summary": "🌎 The Day the Digital World Stood Still 🛑\nThink one bad update can't break the internet? Think again. 📉\n\nIn July 2024, a single corrupted file in a routine security update from CrowdStrike triggered a global catastrophe. Within minutes, millions of Windows machines were trapped in a \"Blue Screen of...",
-      "published": "2026-02-25T01:31:41+00:00",
-      "source": "Piyush Sachdeva"
-    },
-    {
-      "title": "Agent 365 (A365) and Agent ID Short #ai #microsoft #entraid",
-      "link": "https://www.youtube.com/shorts/mHlo2wlDIVQ",
-      "summary": "Quick overview of Agent 365 and Agent ID.",
-      "published": "2026-02-24T12:09:39+00:00",
-      "source": "John Savill"
+      "title": "Best Practice: Using Self-Signed Certificates with Java on Azure Functions (Linux)",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/best-practice-using-self-signed-certificates-with-java-on-azure/ba-p/4496900",
+      "summary": "If you are developing Java applications on Azure Functions (Linux dedicated plan) and need to connect to services secured by self-signed certificates, you have likely encountered the dreaded SSL handshake error: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException:...",
+      "published": "2026-02-25T08:08:28+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "wanjing",
+      "categories": [],
+      "thumbnail": ""
     },
     {
       "title": "AWS DevOps Best Practices in 2026: Automation, Monitoring, and Security",
@@ -394,13 +925,6 @@
       "summary": "Explore AWS DevOps best practices in 2026 covering automation, monitoring, security, and scalable cloud pipelines.",
       "published": "2026-02-24T06:37:29+00:00",
       "source": "KodeKloud"
-    },
-    {
-      "title": "It takes 18 minutes on average for your Kubernetes Cluster to be compromised",
-      "link": "https://www.youtube.com/shorts/hwG40yQoenY",
-      "summary": "𝗖𝗢𝗠𝗣𝗟𝗘𝗧𝗘 COURSES  👌 It’s   🅵🆁🅴🅴 ⛳\n✅ Terraform Full Course For Beginners - #28daysofAZTerraform\nhttps://www.youtube.com/playlist?list=PLl4APkPHzsUUHlbhuq9V02n9AMLPySoEQ\n\n✅ Certified Kubernetes Administrator (CKA) 2024\nhttps://www.youtube.com/playlist?list=PLl4APkPHzsUUOkOv3i62UidrLmSB8DcGC\n\n✅ 𝗔𝘇𝘂𝗿𝗲...",
-      "published": "2026-02-24T01:45:51+00:00",
-      "source": "Piyush Sachdeva"
     },
     {
       "title": "Why etcd breaks at scale in Kubernetes",
@@ -431,32 +955,11 @@
       "source": "John Savill"
     },
     {
-      "title": "Hellooooo Bangalore ❤️",
-      "link": "https://www.youtube.com/shorts/nUCU7946lZE",
-      "summary": "https://cloudconf.ai \ncoupon code - ABHISHEK20",
-      "published": "2026-02-20T03:39:42+00:00",
-      "source": "Abhishek Veeramalla"
-    },
-    {
-      "title": "Audit Log Tampering—Here's how attackers can steal your data",
-      "link": "https://www.youtube.com/shorts/n-YFaZQr_U8",
-      "summary": "𝗖𝗢𝗠𝗣𝗟𝗘𝗧𝗘 COURSES  👌 It’s   🅵🆁🅴🅴 ⛳\n✅ Terraform Full Course For Beginners - #28daysofAZTerraform\nhttps://www.youtube.com/playlist?list=PLl4APkPHzsUUHlbhuq9V02n9AMLPySoEQ\n\n✅ Certified Kubernetes Administrator (CKA) 2024\nhttps://www.youtube.com/playlist?list=PLl4APkPHzsUUOkOv3i62UidrLmSB8DcGC\n\n✅ 𝗔𝘇𝘂𝗿𝗲...",
-      "published": "2026-02-20T02:49:44+00:00",
-      "source": "Piyush Sachdeva"
-    },
-    {
       "title": "This FREE Tool can help you backup and restore anything at Enterprise Level.",
       "link": "https://www.youtube.com/watch?v=2FYw1sQWkE0",
       "summary": "Get started with Plakar:\nhttps://www.plakar.io/\n\nThis video is about Plakar, a simple and powerful backup tool that keeps your data safe without complicated setup. We cover different use cases of Plakar and do a practical deep dive to show how it works in real situations.\n\nPlakar saves storage...",
       "published": "2026-02-19T15:23:51+00:00",
       "source": "Abhishek Veeramalla"
-    },
-    {
-      "title": "NAT Gateway v2 Quick Overview #azure #azurenetworking",
-      "link": "https://www.youtube.com/shorts/qPfY8SRtoWs",
-      "summary": "Really quick overview of NAT Gateway v2. Check out the full video for more detail.",
-      "published": "2026-02-19T12:09:14+00:00",
-      "source": "John Savill"
     },
     {
       "title": "Troubleshooting OOM failures with Claudio Godoy: AKS Troubleshooting Series:Azure Kubernetes Service",
@@ -470,13 +973,6 @@
       "link": "https://www.youtube.com/watch?v=K_EEXbpni3k",
       "summary": "Stey by step roadmap\n\n𝗖𝗢𝗠𝗣𝗟𝗘𝗧𝗘 COURSES  👌 It’s   🅵🆁🅴🅴 ⛳\n✅ Terraform Full Course For Beginners - #28daysofAZTerraform\nhttps://www.youtube.com/playlist?list=PLl4APkPHzsUUHlbhuq9V02n9AMLPySoEQ\n\n✅ Certified Kubernetes Administrator (CKA)...",
       "published": "2026-02-19T10:00:07+00:00",
-      "source": "Piyush Sachdeva"
-    },
-    {
-      "title": "AWS Autoscaling could bankrupt you!",
-      "link": "https://www.youtube.com/shorts/BIbcvvTD174",
-      "summary": "",
-      "published": "2026-02-19T05:07:13+00:00",
       "source": "Piyush Sachdeva"
     },
     {
@@ -494,20 +990,6 @@
       "source": "John Savill"
     },
     {
-      "title": "100k Silver button just arrived and my baby unboxed it with grace ❤️",
-      "link": "https://www.youtube.com/shorts/d3DT8q0szT4",
-      "summary": "",
-      "published": "2026-02-18T01:09:08+00:00",
-      "source": "Piyush Sachdeva"
-    },
-    {
-      "title": "Azure Sovereignty Options Short! #azure #azurelocal",
-      "link": "https://www.youtube.com/shorts/Db9PSZoMPw0",
-      "summary": "Very quick video on Azure sovereignty options including Azure Local.",
-      "published": "2026-02-17T10:41:39+00:00",
-      "source": "John Savill"
-    },
-    {
       "title": "Top 10 AI & Automation Courses Engineers Are Learning",
       "link": "https://kodekloud.com/blog/top-10-ai-courses-engineers-are-learning",
       "summary": "Discover the top 10 AI and automation courses DevOps, Cloud, and backend engineers are learning in 2026.",
@@ -515,25 +997,11 @@
       "source": "KodeKloud"
     },
     {
-      "title": "Solving the trickiest Docker interview question! 🛑 - DevOps Interview #30",
-      "link": "https://www.youtube.com/shorts/-Rnn86KaAjc",
-      "summary": "💥 \"exec format error\" — The silent container killer! 🐳\n\nYour container builds perfectly, but crashes with a cryptic \"exec format error\" the second it hits production. 😱 Why? Because not all CPUs speak the same language.\n\n\nIn this reel, we dive into CPU architecture mismatch and why your sleek M1/M2...",
-      "published": "2026-02-17T04:23:41+00:00",
-      "source": "Piyush Sachdeva"
-    },
-    {
       "title": "Looking at Sovereignty Requirements with Azure",
       "link": "https://www.youtube.com/watch?v=Q6Anv-8a-I0",
       "summary": "A walkthrough of sovereignty considerations and how to meet them with Azure and Azure Local!\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read...",
       "published": "2026-02-16T10:44:03+00:00",
       "source": "John Savill"
-    },
-    {
-      "title": "50+ RealTime DevOps and Cloud Projects For FREE",
-      "link": "https://www.youtube.com/shorts/ZIC3oZuov6w",
-      "summary": "Projects: https://www.youtube.com/playlist?list=PLl4APkPHzsUUhsVS8_pdJz2kxv4bg7hu8",
-      "published": "2026-02-16T03:01:51+00:00",
-      "source": "Piyush Sachdeva"
     },
     {
       "title": "Top Five Cloud Certifications to Pursue in 2026",
