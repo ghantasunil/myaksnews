@@ -228,6 +228,18 @@
 
     card.appendChild(badgeRow);
 
+    // Thumbnail for video cards
+    if (item.thumbnail) {
+      var thumbDiv = document.createElement("div");
+      thumbDiv.className = "card-thumb";
+      var img = document.createElement("img");
+      img.src = item.thumbnail;
+      img.alt = item.title;
+      img.loading = "lazy";
+      thumbDiv.appendChild(img);
+      card.appendChild(thumbDiv);
+    }
+
     var titleEl = document.createElement("h3");
     titleEl.className = "card-title";
     var link = document.createElement("a");
@@ -238,15 +250,36 @@
     titleEl.appendChild(link);
     card.appendChild(titleEl);
 
-    var meta = document.createElement("div");
-    meta.className = "card-meta";
-    meta.textContent = formatCardDate(item.published);
-    card.appendChild(meta);
-
     var summary = document.createElement("p");
     summary.className = "card-summary";
     summary.textContent = item.summary;
     card.appendChild(summary);
+
+    // Author + date meta line
+    var meta = document.createElement("div");
+    meta.className = "card-meta";
+    if (item.author) {
+      var authorSpan = document.createElement("span");
+      authorSpan.textContent = "\uD83D\uDC64 " + item.author;
+      meta.appendChild(authorSpan);
+    }
+    var dateSpan = document.createElement("span");
+    dateSpan.textContent = "\uD83D\uDCC5 " + formatCardDate(item.published);
+    meta.appendChild(dateSpan);
+    card.appendChild(meta);
+
+    // Category tags
+    if (item.categories && item.categories.length > 0) {
+      var tagRow = document.createElement("div");
+      tagRow.className = "card-tags";
+      item.categories.forEach(function (cat) {
+        var tag = document.createElement("span");
+        tag.className = "card-tag";
+        tag.textContent = cat;
+        tagRow.appendChild(tag);
+      });
+      card.appendChild(tagRow);
+    }
 
     return card;
   }
@@ -293,7 +326,7 @@
     var filtered = allItems.filter(function (item) {
       if (activeSource && item.source !== activeSource) return false;
       if (query) {
-        var text = (item.title + " " + item.summary).toLowerCase();
+        var text = (item.title + " " + item.summary + " " + (item.author || "") + " " + (item.categories || []).join(" ")).toLowerCase();
         if (!text.includes(query)) return false;
       }
       return true;

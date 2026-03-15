@@ -58,6 +58,26 @@ feeds:
     url: https://www.youtube.com/feeds/videos.xml?channel_id=UCCYR9GpcE3skVnyMU8Wx1kQ
     category: YouTube
 
+  - name: Apps on Azure
+    url: https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=AppsonAzureBlog&label=Azure+Kubernetes+Service+(AKS)
+    category: Azure
+
+  - name: KubeWeekly
+    url: https://www.cncf.io/feed/?post_type=lf_kubeweekly
+    category: Kubernetes
+
+  - name: The New Stack
+    url: https://thenewstack.io/feed
+    category: Tech
+
+  - name: Collabnix
+    url: https://collabnix.com/category/kubernetes/feed
+    category: Kubernetes
+
+  - name: Helm Blog
+    url: https://helm.sh/blog/index.xml
+    category: Kubernetes
+
 # Settings
 settings:
   max_items_per_feed: 50

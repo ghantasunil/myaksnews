@@ -97,6 +97,18 @@ def normalize_entry(entry, source_name, category="", max_summary_length=300):
     """Extract and normalize a single feed entry."""
     link = normalize_url(entry.get("link", ""))
     summary_raw = entry.get("summary", "") or entry.get("description", "")
+
+    author = entry.get("author", "")
+    tags = entry.get("tags", [])
+    categories = list(dict.fromkeys(t.get("term", "") for t in tags if t.get("term")))
+
+    # YouTube thumbnail from video ID
+    thumbnail = ""
+    if "youtube.com/watch" in link:
+        vid = parse_qs(urlparse(link).query).get("v", [""])[0]
+        if vid:
+            thumbnail = f"https://i.ytimg.com/vi/{vid}/mqdefault.jpg"
+
     return {
         "title": entry.get("title", "Untitled"),
         "link": link,
@@ -104,6 +116,9 @@ def normalize_entry(entry, source_name, category="", max_summary_length=300):
         "published": parse_date(entry),
         "source": source_name,
         "type": "video" if category.lower() == "youtube" else "article",
+        "author": author,
+        "categories": categories,
+        "thumbnail": thumbnail,
     }
 
 
@@ -178,6 +193,10 @@ def main():
                 normalize_entry(entry, name, category, settings["max_summary_length"])
             )
         log.info("  Got %d items from %s", len(entries), name)
+
+    # Filter out YouTube Shorts
+    new_items = [item for item in new_items if "youtube.com/shorts/" not in item["link"]]
+    existing = [item for item in existing if "youtube.com/shorts/" not in item["link"]]
 
     # Merge existing + new, dedup, prune, sort, trim
     all_items = existing + new_items

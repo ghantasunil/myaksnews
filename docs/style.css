@@ -290,8 +290,41 @@ body {
 }
 
 .card-meta {
+  display: flex;
+  gap: 1rem;
   font-size: 0.8rem;
   color: var(--text-muted);
+}
+
+/* Video thumbnail */
+.card-thumb {
+  border-radius: 6px;
+  overflow: hidden;
+  margin: -0.25rem 0 0.25rem;
+}
+
+.card-thumb img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Category tag pills */
+.card-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin-top: 0.25rem;
+}
+
+.card-tag {
+  display: inline-block;
+  font-size: 0.7rem;
+  padding: 0.15rem 0.5rem;
+  border-radius: 3px;
+  background: var(--bg);
+  color: var(--text-muted);
+  border: 1px solid var(--border);
 }
 
 .card-summary {
