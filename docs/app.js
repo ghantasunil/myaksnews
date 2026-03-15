@@ -224,13 +224,27 @@
     badge.style.backgroundColor = getBadgeColor(item.source);
     badgeRow.appendChild(badge);
 
-    var typeTag = document.createElement("span");
     var isVideo = item.type === "video" || (item.link && item.link.includes("youtube.com"));
-    typeTag.className = "type-tag type-tag--" + (isVideo ? "video" : "article");
-    typeTag.textContent = isVideo ? "\u25B6 Video" : "\u{1F4C4} Article";
-    badgeRow.appendChild(typeTag);
+    var typeEmoji = document.createElement("span");
+    typeEmoji.className = "type-emoji";
+    typeEmoji.textContent = isVideo ? "\uD83C\uDFAC" : "\uD83D\uDCC4";
+    typeEmoji.title = isVideo ? "Video" : "Article";
+    badgeRow.appendChild(typeEmoji);
 
     card.appendChild(badgeRow);
+
+    // Author + date meta line
+    var meta = document.createElement("div");
+    meta.className = "card-meta";
+    if (item.author) {
+      var authorSpan = document.createElement("span");
+      authorSpan.textContent = "\uD83D\uDC64 " + item.author;
+      meta.appendChild(authorSpan);
+    }
+    var dateSpan = document.createElement("span");
+    dateSpan.textContent = "\uD83D\uDCC5 " + formatCardDate(item.published);
+    meta.appendChild(dateSpan);
+    card.appendChild(meta);
 
     // Thumbnail for video cards
     if (item.thumbnail) {
@@ -258,19 +272,6 @@
     summary.className = "card-summary";
     summary.textContent = item.summary;
     card.appendChild(summary);
-
-    // Author + date meta line
-    var meta = document.createElement("div");
-    meta.className = "card-meta";
-    if (item.author) {
-      var authorSpan = document.createElement("span");
-      authorSpan.textContent = "\uD83D\uDC64 " + item.author;
-      meta.appendChild(authorSpan);
-    }
-    var dateSpan = document.createElement("span");
-    dateSpan.textContent = "\uD83D\uDCC5 " + formatCardDate(item.published);
-    meta.appendChild(dateSpan);
-    card.appendChild(meta);
 
     // Category tags
     if (item.categories && item.categories.length > 0) {
