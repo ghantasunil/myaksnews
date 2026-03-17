@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-03-16T06:29:16.700687+00:00",
-    "total_items": 98,
+    "generated_at": "2026-03-17T06:20:58.433384+00:00",
+    "total_items": 109,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -18,6 +18,170 @@
     ]
   },
   "items": [
+    {
+      "title": "The Invisible Rewrite: Modernizing the Kubernetes Image Promoter",
+      "link": "https://kubernetes.io/blog/2026/03/17/image-promoter-rewrite",
+      "summary": "Every container image you pull from registry.k8s.io got there through kpromo , the Kubernetes image\npromoter. It copies images from staging registries to\nproduction, signs them with cosign , replicates\nsignatures across more than 20 regional mirrors, and generates SLSA provenance attestations. If...",
+      "published": "2026-03-17T00:00:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Nvidia brings together AI labs to build the next generation of open base models",
+      "link": "https://thenewstack.io/nvidia-tier2-nemotron-coalition",
+      "summary": "Nvidia on Monday announced the Nemotron Coalition at its GTC conference. This new coalition of AI labs will pool expertise, The post Nvidia brings together AI labs to build the next generation of open base models appeared first on The New Stack .",
+      "published": "2026-03-16T20:20:18+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Nvidia’s NemoClaw is OpenClaw with guardrails",
+      "link": "https://thenewstack.io/nemoclaw-openclaw-with-guardrails",
+      "summary": "At its annual GTC conference, Nvidia on Monday announced the Nvidia Agent Toolkit, which brings together open models, runtimes, open The post Nvidia’s NemoClaw is OpenClaw with guardrails appeared first on The New Stack .",
+      "published": "2026-03-16T20:05:24+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Engineering"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Cursor built a fleet of security agents to solve a familiar frustration",
+      "link": "https://thenewstack.io/cursor-open-sources-security-agents",
+      "summary": "Cursor‘s security team has built a fleet of AI agents that continuously monitor and secure the company’s codebase, and it The post Cursor built a fleet of security agents to solve a familiar frustration appeared first on The New Stack .",
+      "published": "2026-03-16T18:17:20+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI Agents",
+        "Developer tools",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Health-Aware Failover for Azure Container Registry Geo-Replication",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/health-aware-failover-for-azure-container-registry-geo/ba-p/4501730",
+      "summary": "Azure Container Registry (ACR) supports geo-replication : one registry resource with active-active (primary-primary), write-enabled geo-replicas across multiple Azure regions. You can push or pull through any replica, and ACR asynchronously replicates content and metadata to all other replicas...",
+      "published": "2026-03-16T18:11:49+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "johnsonshi_msft",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic doubles Claude usage outside peak hours — but it won’t last forever",
+      "link": "https://thenewstack.io/anthropic-doubles-claude-usage-outside-peak-hours",
+      "summary": "AI labs keep searching for ways to pull developers deeper into their ecosystems. The latest move comes from Anthropic, which The post Anthropic doubles Claude usage outside peak hours — but it won’t last forever appeared first on The New Stack .",
+      "published": "2026-03-16T18:02:30+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why AI workloads are breaking traditional Kubernetes observability strategies",
+      "link": "https://thenewstack.io/ai-kubernetes-observability-practices",
+      "summary": "For most platform engineering and ITOps teams, the ability to orchestrate containerized workloads at scale has transformed development organizations. But The post Why AI workloads are breaking traditional Kubernetes observability strategies appeared first on The New Stack .",
+      "published": "2026-03-16T14:04:13+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "TNS Staff",
+      "categories": [
+        "AI Operations",
+        "Kubernetes",
+        "Observability"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic makes a pricing change that matters for Claude’s longest prompts",
+      "link": "https://thenewstack.io/claude-million-token-pricing",
+      "summary": "Anthropic announced Friday that the 1-million-token context window for Claude Opus 4.6 and Claude Sonnet 4.6 is now generally available, The post Anthropic makes a pricing change that matters for Claude’s longest prompts appeared first on The New Stack .",
+      "published": "2026-03-16T13:33:09+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI Agents",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "KubeCon + CloudNativeCon Europe 2026 Co-located Event Deep Dive: Open Sovereign Cloud Day",
+      "link": "https://www.cncf.io/blog/2026/03/16/kubecon-cloudnativecon-europe-2026-co-located-event-deep-dive-open-sovereign-cloud-day",
+      "summary": "Open Sovereign Cloud Day arrives at a moment when digital sovereignty has moved from an abstract policy conversation to an urgent, practical engineering priority—especially across Europe. As cloud native continues to underpin modern infrastructure, the community...",
+      "published": "2026-03-16T13:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Co-chairs: Kurt Garloff, Peter Giese, Sachiko Muto, Margaret Dawson, Chris Aniszczyk, Gabriele Columbro, Mirko Boehm, Susan Remmert, Paula Grzegorzewska",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Agents write code. They don’t do software engineering.",
+      "link": "https://thenewstack.io/ai-agents-software-engineering",
+      "summary": "Long-running and background coding agents have hit a new threshold. When an agent runs for hours, manages its own iteration The post Agents write code. They don’t do software engineering. appeared first on The New Stack .",
+      "published": "2026-03-16T12:00:28+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Arjun Iyer",
+      "categories": [
+        "AI Agents",
+        "AI Strategy",
+        "Software Development",
+        "sponsor-signadot",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Registry Mirror Authentication with Kubernetes Secrets",
+      "link": "https://www.cncf.io/blog/2026/03/16/registry-mirror-authentication-with-kubernetes-secrets-2",
+      "summary": "Part II: A Platform Integration Example In Part I, we explored the architecture of the CRI-O credential provider and walked through a manual setup. In this part, we’ll see how platforms like OpenShift and its upstream...",
+      "published": "2026-03-16T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Sascha Grunert, Red Hat",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI for Anyone - The 30-Minute Beginner’s Guide",
+      "link": "https://www.youtube.com/watch?v=O3F0AVd0nSc",
+      "summary": "Overview of generative AI for everyone!\n\nTry AI at https://copilot.microsoft.com/.\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:25 - Human brains\n04:27 - Neural networks\n06:34 - Training and parameters\n09:57 - Using a generative model\n11:54 - Orchestrators and assistants\n14:22 -...",
+      "published": "2026-03-16T07:33:50+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/O3F0AVd0nSc/mqdefault.jpg"
+    },
     {
       "title": "How I make best PPTs in just 15 minutes using AI (No one will tell you this).",
       "link": "https://www.youtube.com/watch?v=1A2TNvwr6ag",
@@ -1002,13 +1166,6 @@
       "summary": "A walkthrough of sovereignty considerations and how to meet them with Azure and Azure Local!\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read...",
       "published": "2026-02-16T10:44:03+00:00",
       "source": "John Savill"
-    },
-    {
-      "title": "Top Five Cloud Certifications to Pursue in 2026",
-      "link": "https://kodekloud.com/blog/top-five-cloud-certifications-to-pursue-in-2025",
-      "summary": "Discover the best cloud certifications to boost your career in 2025. Get certified in AWS, Azure, GCP, and more.",
-      "published": "2026-02-15T04:09:00+00:00",
-      "source": "KodeKloud"
     }
   ]
 }
