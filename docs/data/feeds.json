@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-03-18T06:21:38.091204+00:00",
-    "total_items": 124,
+    "generated_at": "2026-03-19T06:20:05.670205+00:00",
+    "total_items": 135,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -18,6 +18,164 @@
     ]
   },
   "items": [
+    {
+      "title": "The Swarm Diaries: What Happens When You Let AI Agents Loose on a Codebase",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/the-swarm-diaries-what-happens-when-you-let-ai-agents-loose-on-a/ba-p/4501393",
+      "summary": "The Idea Single-agent coding assistants are impressive, but they have a fundamental bottleneck: they think serially. Ask one to build a full CLI app with a database layer, a command parser, pretty output, and tests, and it’ll grind through each piece one by one. Industry benchmarks bear this out:...",
+      "published": "2026-03-18T18:08:04+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "larohra",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Securing Production Debugging in Kubernetes",
+      "link": "https://kubernetes.io/blog/2026/03/18/securing-production-debugging-in-kubernetes",
+      "summary": "During production debugging, the fastest route is often broad access such as cluster-admin (a ClusterRole that grants administrator-level access), shared bastions/jump boxes, or long-lived SSH keys. It works in the moment, but it comes with two common problems: auditing becomes difficult, and...",
+      "published": "2026-03-18T18:00:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "The AI revolution will be open-sourced",
+      "link": "https://thenewstack.io/kubernetes-open-source-ai",
+      "summary": "At CES 2026, NVIDIA CEO Jensen Huang made the case that AI will proliferate when open innovation is activated across The post The AI revolution will be open-sourced appeared first on The New Stack .",
+      "published": "2026-03-18T17:00:20+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Nathan Taber",
+      "categories": [
+        "KubeCon Cloudnativecon EU 2026",
+        "sponsor-cncf",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Java 26 lands without an LTS badge. Here’s why developers should care anyway.",
+      "link": "https://thenewstack.io/java-26-performance-ai",
+      "summary": "released Java 26 on Tuesday, the opening day of its JavaOne 2026 conference in Redwood Shores, Calif., continuing the platform’s The post Java 26 lands without an LTS badge. Here’s why developers should care anyway. appeared first on The New Stack .",
+      "published": "2026-03-18T16:35:57+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "AI",
+        "Java",
+        "Programming Languages"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Chainguard has a fix for the open source packages your AI agents keep grabbing",
+      "link": "https://thenewstack.io/chainguard-repository-ai-agents",
+      "summary": "As AI coding assistants and autonomous agents dramatically accelerate software development, they’re introducing a security problem that most organizations aren’t The post Chainguard has a fix for the open source packages your AI agents keep grabbing appeared first on The New Stack .",
+      "published": "2026-03-18T16:24:58+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "AI Agents",
+        "Containers",
+        "Open Source",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Sauce Labs wants to solve an AI-created problem nobody wanted to work on",
+      "link": "https://thenewstack.io/ai-test-authoring-launch",
+      "summary": "AI code-generation tools have compressed software development cycles, but testing hasn’t kept up. Sauce Labs thinks it has found an The post Sauce Labs wants to solve an AI-created problem nobody wanted to work on appeared first on The New Stack .",
+      "published": "2026-03-18T16:19:06+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI Engineering",
+        "Developer tools",
+        "Software Testing"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Capital One deprecated an AI tool it once championed. Its DevEx chief says that’s the point.",
+      "link": "https://thenewstack.io/capital-one-developer-enablement",
+      "summary": "How could you possibly ensure you are providing the right tools and processes to 14,000 engineers? How do you even The post Capital One deprecated an AI tool it once championed. Its DevEx chief says that’s the point. appeared first on The New Stack .",
+      "published": "2026-03-18T15:02:53+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jennifer Riggins",
+      "categories": [
+        "AI Engineering",
+        "Developer tools",
+        "Platform Engineering"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "KubeCon + CloudNativeCon Europe 2026 Co-located Event Deep Dive: CiliumCon",
+      "link": "https://www.cncf.io/blog/2026/03/18/kubecon-cloudnativecon-europe-2026-co-located-event-deep-dive-ciliumcon",
+      "summary": "Three years later, CiliumCon is back where it started—at KubeCon + CloudNativeCon Europe in Amsterdam. This will be our seventh time hosting the event, and it comes on the heels of the tenth anniversary of Cilium’s...",
+      "published": "2026-03-18T13:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Co-Chairs: Hemanth Malla & Mahé Tardy, and Katie Meinders (Isovalent)",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Scaling Btrfs to petabytes in production: a 74% cost reduction story",
+      "link": "https://thenewstack.io/btrfs-petabyte-cost-reduction",
+      "summary": "At Chronosphere, we saved 74% of our storage costs by moving petabytes of time-series data from ext4 to Btrfs, the The post Scaling Btrfs to petabytes in production: a 74% cost reduction story appeared first on The New Stack .",
+      "published": "2026-03-18T12:00:02+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Motiejus Jakštys",
+      "categories": [
+        "Databases",
+        "Linux",
+        "Storage",
+        "sponsor-chronosphere",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why your observability bill keeps growing (and it’s not your vendor’s fault)",
+      "link": "https://thenewstack.io/why-observability-bills-grow",
+      "summary": "Over the past year, I have spoken with dozens of engineering teams about their observability pipelines and analyzed their production The post Why your observability bill keeps growing (and it’s not your vendor’s fault) appeared first on The New Stack .",
+      "published": "2026-03-18T11:00:14+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Juraci Paixão Kröhling",
+      "categories": [
+        "FinOps",
+        "KubeCon Cloudnativecon EU 2026",
+        "Observability",
+        "sponsor-cncf",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Understanding Kubernetes metrics: Best practices for effective monitoring",
+      "link": "https://www.cncf.io/blog/2026/03/18/understanding-kubernetes-metrics-best-practices-for-effective-monitoring",
+      "summary": "Kubernetes metrics show cluster activity. You need them to manage Kubernetes clusters, nodes, and applications. Without them, it also makes it harder to find problems and improve performance. This post will explain what Kubernetes metrics are,...",
+      "published": "2026-03-18T10:03:44+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Sam Suthar, Middleware",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "After Ingress NGINX: Migrating to Application Gateway for Containers",
       "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/after-ingress-nginx-migrating-to-application-gateway-for/ba-p/4503110",
@@ -132,6 +290,17 @@
         "sponsored-post-contributed"
       ],
       "thumbnail": ""
+    },
+    {
+      "title": "I Broke Down Top 50 Linux Command a DevOps Engineer Needs — So You Don't Have To",
+      "link": "https://www.youtube.com/watch?v=z9Rsnh2X5Z0",
+      "summary": "Link to register for Hostinger VPS: https://www.hostg.xyz/SHJ4L\n\nTop 50 Linux Commands every DevOps Engineer should know!\nFull cheat sheet here: https://drive.google.com/file/d/1WPmeJO7Fu2WovcMbBmrD5Hn0ICAAxIZw/view?usp=sharing\n\n\n𝗖𝗢𝗠𝗣𝗟𝗘𝗧𝗘 COURSES  👌 It’s   🅵🆁🅴🅴 ⛳\n✅ Terraform Full Course For...",
+      "published": "2026-03-17T15:06:26+00:00",
+      "source": "Piyush Sachdeva",
+      "type": "video",
+      "author": "Tech Tutorials with Piyush",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/z9Rsnh2X5Z0/mqdefault.jpg"
     },
     {
       "title": "The AI blind spot debt: the hidden cost killing your innovation strategy",
@@ -1384,13 +1553,6 @@
       "summary": "Discover the top 10 AI and automation courses DevOps, Cloud, and backend engineers are learning in 2026.",
       "published": "2026-02-17T06:26:23+00:00",
       "source": "KodeKloud"
-    },
-    {
-      "title": "Looking at Sovereignty Requirements with Azure",
-      "link": "https://www.youtube.com/watch?v=Q6Anv-8a-I0",
-      "summary": "A walkthrough of sovereignty considerations and how to meet them with Azure and Azure Local!\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read...",
-      "published": "2026-02-16T10:44:03+00:00",
-      "source": "John Savill"
     }
   ]
 }
