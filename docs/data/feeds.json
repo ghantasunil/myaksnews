@@ -1,13 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-03-22T06:15:38.362902+00:00",
-    "total_items": 158,
+    "generated_at": "2026-03-23T06:23:15.677533+00:00",
+    "total_items": 163,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
       "Abhishek Veeramalla",
       "Apps on Azure",
       "CNCF Blog",
+      "Houssem Dellai",
       "John Savill",
       "KodeKloud",
       "Kubernetes Blog",
@@ -18,6 +19,58 @@
     ]
   },
   "items": [
+    {
+      "title": "Running Text to Image and to Video on Azure Container Apps",
+      "link": "https://www.youtube.com/watch?v=WMYlQNLkMJQ",
+      "summary": "This is how to run ComfyUI on Azure Container Apps (ACA) with serverless GPU (A100 & T4) to access Text to Image and Text to Videos AI models. The infrastructure is provisioned using Terraform, and the ComfyUI application is deployed as a containerized workload on ACA.\n\nLab:...",
+      "published": "2026-03-22T21:53:05+00:00",
+      "source": "Houssem Dellai",
+      "type": "video",
+      "author": "Houssem Dellai",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/WMYlQNLkMJQ/mqdefault.jpg"
+    },
+    {
+      "title": "Running Text to Image and to Video on Azure VM",
+      "link": "https://www.youtube.com/watch?v=1gQ4b0LHSKo",
+      "summary": "This guide provides instructions on how to set up and run Text to Image and Text to Video generation using ComfyUI with an Nvidia H100 GPU on Azure.\n\nIn this guide, the provided Terraform template will create the following:\n\nCreate the infrastructure for Ubuntu VM with Nvidia H100 GPU\nInstall CUDA...",
+      "published": "2026-03-22T21:47:45+00:00",
+      "source": "Houssem Dellai",
+      "type": "video",
+      "author": "Houssem Dellai",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/1gQ4b0LHSKo/mqdefault.jpg"
+    },
+    {
+      "title": "What a security audit of 22,511 AI coding skills found lurking in the code",
+      "link": "https://thenewstack.io/ai-agent-skills-security",
+      "summary": "AI coding agents have spawned a new software supply chain, and a new study suggests the proliferation of new agents The post What a security audit of 22,511 AI coding skills found lurking in the code appeared first on The New Stack .",
+      "published": "2026-03-22T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Will AI force code to evolve or make it extinct?",
+      "link": "https://thenewstack.io/ai-programming-languages-future",
+      "summary": "What would an AI-first language look like? Last year, a developer in Spain warned that our human-friendly syntax consumed an The post Will AI force code to evolve or make it extinct? appeared first on The New Stack .",
+      "published": "2026-03-22T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "David Cassel",
+      "categories": [
+        "AI Engineering",
+        "Programming Languages",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Anthropic’s response to the AI tool that caused lines around the block in Shenzhen",
       "link": "https://thenewstack.io/claude-dispatch-versus-openclaw",
@@ -59,6 +112,17 @@
         "Operations"
       ],
       "thumbnail": ""
+    },
+    {
+      "title": "Deploying LLM to AKS using KAITO",
+      "link": "https://www.youtube.com/watch?v=hdZE_O2fFt0",
+      "summary": "Deploying an LLM model into Kubernetes/AKS can be complex, especially if you prefer not to manage the following tasks yourself:\n\n- Provisioning of the GPU VMs\n- Installing GPU Drivers\n- Installing GPU Device Plugin\n- Running the model on the GPU nodes\n- Exposing an endpoint to interact with the...",
+      "published": "2026-03-21T09:00:06+00:00",
+      "source": "Houssem Dellai",
+      "type": "video",
+      "author": "Houssem Dellai",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/hdZE_O2fFt0/mqdefault.jpg"
     },
     {
       "title": "AI can write your infrastructure code. There’s a reason most teams won’t let it.",
@@ -124,6 +188,17 @@
       "author": "Abhishek.Veeramalla",
       "categories": [],
       "thumbnail": "https://i.ytimg.com/vi/GlZKLS9K_BE/mqdefault.jpg"
+    },
+    {
+      "title": "Azure Update 20th March 2026",
+      "link": "https://www.youtube.com/watch?v=jkpcFAYJjvM",
+      "summary": "Lots of updates this week!\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation queue never to be...",
+      "published": "2026-03-20T16:05:24+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/jkpcFAYJjvM/mqdefault.jpg"
     },
     {
       "title": "Why the ‘glorified host’ for AI is exactly the Kubernetes we need",
@@ -1920,13 +1995,6 @@
       "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nIn this video, Abhishek explains how to run Claude Code for FREE in three simple steps. This video covers Claude Code integration with Ollama and launching it using local models like gpt-oss, qwen3-coder-next, deepseek...",
       "published": "2026-02-23T15:47:51+00:00",
       "source": "Abhishek Veeramalla"
-    },
-    {
-      "title": "Azure Update 20th February 2026",
-      "link": "https://www.youtube.com/watch?v=4EVWtkjKTkI",
-      "summary": "Happy Friday!!\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation queue never to be seen so...",
-      "published": "2026-02-20T16:05:38+00:00",
-      "source": "John Savill"
     }
   ]
 }
