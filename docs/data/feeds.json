@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-03-23T06:23:15.677533+00:00",
-    "total_items": 163,
+    "generated_at": "2026-03-24T06:21:25.619092+00:00",
+    "total_items": 177,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -19,6 +19,187 @@
     ]
   },
   "items": [
+    {
+      "title": "Take Control of Every Message: Partial Failure Handling for Service Bus Triggers in Azure Functions",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/take-control-of-every-message-partial-failure-handling-for/ba-p/4504893",
+      "summary": "The Problem: All-or-Nothing Batch Processing in Azure Service Bus Azure Service Bus is one of the most widely used messaging services for building event-driven applications on Azure. When you use Azure Functions with a Service Bus trigger in batch mode, your function receives multiple messages at...",
+      "published": "2026-03-24T05:34:12+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "swapnil_nagar",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Cloud native agentic standards",
+      "link": "https://www.cncf.io/blog/2026/03/23/cloud-native-agentic-standards",
+      "summary": "An application, composed of one or more containers as dictated by system architecture, that operates either independently or as part of a distributed collaboration—interacting with at least one other entity (container) or achieving quorum-based consensus. It...",
+      "published": "2026-03-23T22:26:46+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "CNCF AI TCG",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Get started with NeuBird Hawkeye MCP server in Azure SRE Agent",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/get-started-with-neubird-hawkeye-mcp-server-in-azure-sre-agent/ba-p/4504860",
+      "summary": "Integrate NeuBird Hawkeye MCP with Azure SRE Agent TL;DR If your infrastructure spans multiple clouds say Azure and GCP, or Azure alongside any other cloud provider investigating incidents means jumping between completely separate consoles, log systems, and monitoring stacks. Azure SRE Agent now...",
+      "published": "2026-03-23T18:07:39+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "dbandaru",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Prompt engineering for developers",
+      "link": "https://thenewstack.io/prompt-engineering-for-developers",
+      "summary": "When I first started writing prompts, I had the unrealistic expectation that since LLMs “know everything,” they would always execute The post Prompt engineering for developers appeared first on The New Stack .",
+      "published": "2026-03-23T18:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jessica Wachtel",
+      "categories": [
+        "AI",
+        "AI Engineering",
+        "Vibe Coding"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Migrating Ant Builds to Maven with GitHub Copilot app modernization",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/migrating-ant-builds-to-maven-with-github-copilot-app/ba-p/4491992",
+      "summary": "Many legacy Java applications still rely on Apache Ant for building, packaging, and dependency management. While Ant remains flexible, it lacks the structured lifecycle, dependency resolution, and ecosystem support that modern build tools like Maven provide. Migrating from Ant to Maven improves...",
+      "published": "2026-03-23T16:49:01+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "ayangupta",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Code Optimizations for Azure App Service Now Available in VS Code",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/code-optimizations-for-azure-app-service-now-available-in-vs/ba-p/4504252",
+      "summary": "Today we shipped a feature in the Azure App Service extension for VS Code that answers both questions: Code Optimizations , powered by Application Insights profiler data and GitHub Copilot. The problem: production performance is a black box You've deployed your .NET app to Azure App Service....",
+      "published": "2026-03-23T15:18:08+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "fiveisprime",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "How to deploy Pi-Hole with Docker and stop ads on every device on your LAN",
+      "link": "https://thenewstack.io/pihole-docker-network-adblocking",
+      "summary": "How do you block ads? Most people install various and sundry ad-blocking software on their computers or add browser extensions The post How to deploy Pi-Hole with Docker and stop ads on every device on your LAN appeared first on The New Stack .",
+      "published": "2026-03-23T14:44:36+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jack Wallen",
+      "categories": [
+        "Containers",
+        "Networking"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "MCP is everywhere, but don’t panic. Here’s why your existing APIs still matter.",
+      "link": "https://thenewstack.io/api-mcp-agent-integration",
+      "summary": "Everyone is excited for the promise of “Digital coworkers” in this agentic era. Model Context Protocol (MCP) is all anyone The post MCP is everywhere, but don’t panic. Here’s why your existing APIs still matter. appeared first on The New Stack .",
+      "published": "2026-03-23T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Camille Crowell-Lee",
+      "categories": [
+        "AI Agents",
+        "API Management",
+        "Model Context Protocol (MCP)",
+        "sponsor-vmware-tanzu",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kusari and CNCF: Advancing software supply chain security for cloud native projects",
+      "link": "https://www.cncf.io/blog/2026/03/23/kusari-and-cncf-advancing-software-supply-chain-security-for-cloud-native-projects",
+      "summary": "Open source has become the foundation of modern software — but the scale and speed of today’s software supply chains are creating new security challenges. Applications depend on hundreds or thousands of components across complex environments,...",
+      "published": "2026-03-23T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Michael Lieberman, Kusari Co-Founder and CTO",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Beyond Batch: Volcano Evolves into the AI-Native Unified Scheduling Platform",
+      "link": "https://www.cncf.io/blog/2026/03/23/beyond-batch-volcano-evolves-into-the-ai-native-unified-scheduling-platform",
+      "summary": "The world of AI workloads is changing fast. A few years ago, “AI on Kubernetes” mostly meant running long training jobs. Today, with the rise of Large Language Models (LLMs), the focus has shifted to include...",
+      "published": "2026-03-23T08:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "The Volcano Community",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "CNCF Introduces a New Recertification Program as Kubestronaut Community Surpasses 3,500",
+      "link": "https://www.cncf.io/blog/2026/03/23/cncf-introduces-a-new-recertification-program-as-kubestronaut-community-surpasses-3500",
+      "summary": "The cloud native ecosystem moves fast and the professionals building it move even faster. Over the past decade, Kubernetes has grown from an underdog orchestration system into the backbone of modern infrastructure. As organizations adopt cloud...",
+      "published": "2026-03-23T08:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Christophe Sauthier, cloud native training and certification lead, CNCF",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "General Availability of Dapr Agents Delivers Production Reliability for Enterprise AI",
+      "link": "https://www.cncf.io/announcements/2026/03/23/general-availability-of-dapr-agents-delivers-production-reliability-for-enterprise-ai",
+      "summary": "Dapr Agents v1.0 reaches stable release, bringing production-grade resiliency and security to AI agent frameworks Key Highlights KUBECON + CLOUDNATIVECON EUROPE, AMSTERDAM, March 23, 2026—The Cloud Native Computing Foundation® (CNCF®), which builds sustainable open source ecosystems...",
+      "published": "2026-03-23T08:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "kthornhill",
+      "categories": [
+        "Announcements"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Metal3 at KubeCon + CloudNativeCon Europe 2026: Meet the CNCF’s Freshly Incubated Bare Metal Project",
+      "link": "https://www.cncf.io/blog/2026/03/23/metal3-at-kubecon-cloudnativecon-europe-2026-meet-the-cncfs-freshly-incubated-bare-metal-project",
+      "summary": "Metal3 (pronounced “metal cubed”) entered 2026 as one of the newest incubating projects in the CNCF. As the foundational layer for infrastructure management in self-hosted Kubernetes clouds, Metal3 and its ‘stack’ offer essential solutions for cloud...",
+      "published": "2026-03-23T08:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Adam Rozman, Metal3 Maintainer",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Agones Moves to the CNCF: A New Era for Open Source Multiplayer Game Infrastructure",
+      "link": "https://www.cncf.io/blog/2026/03/23/agones-moves-to-the-cncf-a-new-era-for-open-source-multiplayer-game-infrastructure",
+      "summary": "The Agones project, the open source platform for scaling and orchestrating dedicated game servers on Kubernetes, celebrates its official transition to the Cloud Native Computing Foundation (CNCF). Originally founded as a deep co-development between Google and...",
+      "published": "2026-03-23T07:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Mark Mandel, Agones Maintainer",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Running Text to Image and to Video on Azure Container Apps",
       "link": "https://www.youtube.com/watch?v=WMYlQNLkMJQ",
