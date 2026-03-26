@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-03-25T06:21:12.286268+00:00",
-    "total_items": 196,
+    "generated_at": "2026-03-26T06:23:31.535222+00:00",
+    "total_items": 211,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -13,12 +13,251 @@
       "KodeKloud",
       "Kubernetes Blog",
       "Kubesimplify",
-      "LearnK8s",
       "Piyush Sachdeva",
       "The New Stack"
     ]
   },
   "items": [
+    {
+      "title": "Shared Agent Context: How We Are Tackling Partner Agent Collaboration",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/shared-agent-context-how-we-are-tackling-partner-agent/ba-p/4505714",
+      "summary": "Your Azure SRE agent detects a spike in error rates. It triages with cloud-native telemetry, but the root cause trail leads into a third-party observability platform your team also runs. The agent can't see that data. A second agent can, one that speaks Datadog or Dynatrace or whatever your team...",
+      "published": "2026-03-26T00:34:52+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "dbandaru",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Edera spent years calling KVM less secure. Here’s why it changed its mind.",
+      "link": "https://thenewstack.io/edera-adds-kvm-support",
+      "summary": "Edera, a top Xen hypervisor company, is shifting gears and will start supporting KVM as well this summer. If you The post Edera spent years calling KVM less secure. Here’s why it changed its mind. appeared first on The New Stack .",
+      "published": "2026-03-25T21:22:59+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Steven J. Vaughan-Nichols",
+      "categories": [
+        "Containers",
+        "Linux",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "CNCF Backstage Documentary Highlights Project Evolution from Development to Global Open Source Standard for Platform Engineering",
+      "link": "https://www.cncf.io/announcements/2026/03/25/cncf-backstage-documentary-highlights-project-evolution-from-development-to-global-open-source-standard-for-platform-engineering",
+      "summary": "Documentary follows the creation and growth of the Backstage project, highlighting its role in accelerating platform engineering initiatives Key Highlights AMSTERDAM—25 March, 2026—The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for cloud native software,...",
+      "published": "2026-03-25T17:15:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "kthornhill",
+      "categories": [
+        "Announcements"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Your Kubernetes isn’t ready for AI workloads, and drift is the reason",
+      "link": "https://thenewstack.io/ai-workloads-kubernetes-infrastructure-drift",
+      "summary": "If you’re a platform engineering leader managing Kubernetes at scale, a new pressure has entered the room. The business wants The post Your Kubernetes isn’t ready for AI workloads, and drift is the reason appeared first on The New Stack .",
+      "published": "2026-03-25T15:43:43+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "TNS Staff",
+      "categories": [
+        "AI Infrastructure",
+        "Kubernetes",
+        "Platform Engineering",
+        "sponsor-siderolabs",
+        "sponsored-webinar"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Fivetran donates its SQLMesh data transformation framework to the Linux Foundation",
+      "link": "https://thenewstack.io/fivetran-donates-sqlmesh-lf",
+      "summary": "Fivetran, the company best known for its data movement platform, on Wednesday announced that it would donate SQLMesh, its open The post Fivetran donates its SQLMesh data transformation framework to the Linux Foundation appeared first on The New Stack .",
+      "published": "2026-03-25T14:39:39+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "Data"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "HPE’s AI agents cut root cause analysis time in half",
+      "link": "https://thenewstack.io/hpe-agentic-ai-ops-burnout",
+      "summary": "Operational fatigue, in the face of increasing complexity and risks, is a real problem. Can partnerships with skills-based AI agents The post HPE’s AI agents cut root cause analysis time in half appeared first on The New Stack .",
+      "published": "2026-03-25T14:14:19+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jennifer Riggins",
+      "categories": [
+        "AI Agents",
+        "AI Operations",
+        "Operations",
+        "sponsor-hpe",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Aspire on Azure App Service is now Generally Available",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/aspire-on-azure-app-service-is-now-generally-available/ba-p/4505549",
+      "summary": "Today we are announcing General Availability of Aspire on Azure App Service, making it easier to take distributed applications from local development to a fully managed production environment on Azure App Service. With the Aspire.Hosting.Azure.AppService package, you can define your hosting...",
+      "published": "2026-03-25T14:04:28+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "TulikaC",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Higress Joins CNCF: Delivering an enterprise-grade AI gateway and a seamless path from Nginx Ingress",
+      "link": "https://www.cncf.io/blog/2026/03/25/higress-joins-cncf-delivering-an-enterprise-grade-ai-gateway-and-a-seamless-path-from-nginx-ingress",
+      "summary": "We are thrilled to announce that Higress has officially passed the Technical Oversight Committee (TOC) vote to join the Cloud Native Computing Foundation (CNCF) as a Sandbox project, becoming a proud member of the CNCF ecosystem....",
+      "published": "2026-03-25T13:22:03+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "epower",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why online stores keep showing the wrong products — and why tensors fix it",
+      "link": "https://thenewstack.io/tensor-ranking-product-discovery",
+      "summary": "I’m a big fan of the UK retail institution Marks & Spencer and a complete addict of their click-and-collect service. The post Why online stores keep showing the wrong products — and why tensors fix it appeared first on The New Stack .",
+      "published": "2026-03-25T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Tim Young",
+      "categories": [
+        "AI Engineering",
+        "AI Infrastructure",
+        "Software Development",
+        "sponsor-vespa-ai",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenClaw’s biggest security flaw is why Jentic Mini exists",
+      "link": "https://thenewstack.io/openclaw-is-a-security-mess-jentic-wants-to-fix-it",
+      "summary": "OpenClaw changed everything. The open-source AI agent, which went from zero to 247,000 GitHub stars in 60 days, finally delivered on The post OpenClaw’s biggest security flaw is why Jentic Mini exists appeared first on The New Stack .",
+      "published": "2026-03-25T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Claude can now open apps, click buttons, and complete tasks on your Mac — but Anthropic says risks remain",
+      "link": "https://thenewstack.io/claude-computer-use",
+      "summary": "Anthropic has released an update to Claude Code and Claude Cowork that brings computer-use capabilities to macOS desktops, enabling autonomous The post Claude can now open apps, click buttons, and complete tasks on your Mac — but Anthropic says risks remain appeared first on The New Stack .",
+      "published": "2026-03-25T11:36:54+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why most AI projects fail after the demo actually works",
+      "link": "https://thenewstack.io/ai-demo-to-production",
+      "summary": "Building an AI demo is easy. Shipping an AI system that runs reliably in production, day after day, under load, The post Why most AI projects fail after the demo actually works appeared first on The New Stack .",
+      "published": "2026-03-25T11:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Oladimeji Sowole",
+      "categories": [
+        "AI Engineering",
+        "AI Operations",
+        "Large Language Models",
+        "sponsor-andela",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "CNCF Celebrates Innovators Advancing Cloud Native at KubeCon + CloudNativeCon Europe",
+      "link": "https://www.cncf.io/announcements/2026/03/25/cncf-celebrates-innovators-advancing-cloud-native-at-kubecon-cloudnativecon-europe",
+      "summary": "Recipients are recognized for their outstanding contributions to the cloud native ecosystem and community Key Highlights KUBECON + CLOUDNATIVECON EUROPE, AMSTERDAM, MARCH 25, 2026 – The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for...",
+      "published": "2026-03-25T09:30:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "kthornhill",
+      "categories": [
+        "Announcements"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Announcing the release of KubeVirt v1.8",
+      "link": "https://www.cncf.io/blog/2026/03/25/announcing-the-release-of-kubevirt-v1-8",
+      "summary": "The KubeVirt Community is happy to announce the release of v1.8, which aligns with Kubernetes v1.35. This is the third release since we started our VEP (Virt Enhancement Proposal) process and, after some shaky starts and...",
+      "published": "2026-03-25T08:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "The KubeVirt Community",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Istio Brings Future Ready Service Mesh to the AI Era with New Ambient Multicluster, Gateway API Inference Extension and More",
+      "link": "https://www.cncf.io/announcements/2026/03/25/istio-brings-future-ready-service-mesh-to-the-ai-era-with-new-ambient-multicluster-gateway-api-inference-extension-and-more",
+      "summary": "New beta capabilities and experimental support aim to simplify service mesh adoption while expanding Istio’s role in next-generation AI infrastructure Key Highlights: KUBECON + CLOUDNATIVECON EUROPE, AMSTERDAM—25 MARCH, 2025—The Cloud Native Computing Foundation® (CNCF®), which builds...",
+      "published": "2026-03-25T08:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "CNCF PR",
+      "categories": [
+        "Announcements"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "CNCF Welcomes 21 New Silver Members As Global Demand Surges for Observability, AI, and Secure Cloud Native Infrastructure",
+      "link": "https://www.cncf.io/announcements/2026/03/25/cncf-welcomes-21-new-silver-members-as-global-demand-surges-for-observability-ai-and-secure-cloud-native-infrastructure",
+      "summary": "New global members join CNCF reflecting the rise of enterprise demand for scalable, cost-efficient cloud native technologies KUBECON + CLOUDNATIVECON EUROPE, AMSTERDAM—25 MARCH, 2025—The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for cloud native...",
+      "published": "2026-03-25T08:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Haley White",
+      "categories": [
+        "Announcements"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Lima v2.1: macOS guests and enhanced AI agent safety",
+      "link": "https://www.cncf.io/blog/2026/03/25/lima-v2-1-macos-guests-and-enhanced-ai-agent-safety",
+      "summary": "Following our expansion into AI workflows in v2.0, Lima v2.1 introduces highly anticipated experimental support for macOS and FreeBSD guests and further hardens local environments against unpredictable AI agents. What is Lima ? Lima (Linux Machines)...",
+      "published": "2026-03-25T07:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Ansuman Sahoo, Lima Project Maintainer",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "HTTP Triggers in Azure SRE Agent: From Jira Ticket to Automated Investigation",
       "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/http-triggers-in-azure-sre-agent-from-jira-ticket-to-automated/ba-p/4504960",
@@ -28,6 +267,22 @@
       "type": "article",
       "author": "Vineela-Suri",
       "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "What Is Serverless Computing? A Beginner's Guide with Real-World Examples",
+      "link": "https://kodekloud.com/blog/what-is-serverless-computing",
+      "summary": "Serverless computing explained from scratch, what it is, how cold starts work, real-world examples, pricing traps, and when to use it in 2026.",
+      "published": "2026-03-24T19:53:00+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "serverless",
+        "AWS",
+        "Azure",
+        "GCP"
+      ],
       "thumbnail": ""
     },
     {
@@ -2413,27 +2668,6 @@
       "summary": "Explore AWS DevOps best practices in 2026 covering automation, monitoring, security, and scalable cloud pipelines.",
       "published": "2026-02-24T06:37:29+00:00",
       "source": "KodeKloud"
-    },
-    {
-      "title": "Why etcd breaks at scale in Kubernetes",
-      "link": "https://learnkube.com/etcd-breaks-at-scale",
-      "summary": "etcd is the database behind every Kubernetes cluster. This article explains etcd's design limits, how the API server amplifies them, and what you can do about it — from sharding to what GKE, EKS, and k3s built.",
-      "published": "2026-02-24T00:00:00+00:00",
-      "source": "LearnK8s"
-    },
-    {
-      "title": "Agent 365 and Agent ID Overview",
-      "link": "https://www.youtube.com/watch?v=WTcyL68qTo8",
-      "summary": "A walkthrough of Agent 365 and Agent ID.\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation...",
-      "published": "2026-02-23T16:40:40+00:00",
-      "source": "John Savill"
-    },
-    {
-      "title": "Setup Claude Code for FREE in 3 Simple steps.",
-      "link": "https://www.youtube.com/watch?v=AKKx1PoNtnM",
-      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nIn this video, Abhishek explains how to run Claude Code for FREE in three simple steps. This video covers Claude Code integration with Ollama and launching it using local models like gpt-oss, qwen3-coder-next, deepseek...",
-      "published": "2026-02-23T15:47:51+00:00",
-      "source": "Abhishek Veeramalla"
     }
   ]
 }
