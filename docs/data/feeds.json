@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-03-26T06:23:31.535222+00:00",
-    "total_items": 211,
+    "generated_at": "2026-03-27T06:24:46.096432+00:00",
+    "total_items": 225,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -14,10 +14,95 @@
       "Kubernetes Blog",
       "Kubesimplify",
       "Piyush Sachdeva",
+      "Rawkode Academy",
       "The New Stack"
     ]
   },
   "items": [
+    {
+      "title": "Millions of secrets exposed - LiteLLM Compromised",
+      "link": "https://www.youtube.com/watch?v=q5kcmbtJMf0",
+      "summary": "Join Membership for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nThis video explains the LiteLLM compromise in simple terms.\nI break down what actually happened, how it affected developers, and why it matters.\n\nThousands of systems may have been exposed during a short attack window....",
+      "published": "2026-03-26T16:24:01+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/q5kcmbtJMf0/mqdefault.jpg"
+    },
+    {
+      "title": "The operational gap is real, and it’s getting wider",
+      "link": "https://thenewstack.io/closing-cloud-operational-gap",
+      "summary": "Why the env zero and CloudQuery merger isn’t just a product story; It’s the thesis that the cloud operations market The post The operational gap is real, and it’s getting wider appeared first on The New Stack .",
+      "published": "2026-03-26T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Yevgeny Pats",
+      "categories": [
+        "Infrastructure as Code",
+        "Operations",
+        "Platform Engineering",
+        "sponsor-env-zero",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Enterprise dev teams are about to hit a wall. And CI pipelines can’t save them.",
+      "link": "https://thenewstack.io/ai-agent-validation-bottleneck",
+      "summary": "Over the last two years, the economics of software development have inverted. Producing code has become fast, but validating it The post Enterprise dev teams are about to hit a wall. And CI pipelines can’t save them. appeared first on The New Stack .",
+      "published": "2026-03-26T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Anirudh Ramanathan",
+      "categories": [
+        "AI Agents",
+        "CI/CD",
+        "Platform Engineering",
+        "sponsor-signadot",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The platform under the model: How cloud native powers AI engineering in production",
+      "link": "https://www.cncf.io/blog/2026/03/26/the-platform-under-the-model-how-cloud-native-powers-ai-engineering-in-production",
+      "summary": "AI workloads are increasingly running on Kubernetes in production, but for many teams, the path from a working model to a reliable system remains unclear. The cloud native ecosystem – its projects, patterns, and community –...",
+      "published": "2026-03-26T09:07:14+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Max Körbächer, CNCF Ambassador",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Announcing Kubescape 4.0 Enterprise Stability Meets the AI Era",
+      "link": "https://www.cncf.io/blog/2026/03/26/announcing-kubescape-4-0-enterprise-stability-meets-the-ai-era",
+      "summary": "We are happy to announce the release of Kubescape 4.0, a milestone bringing enterprise-grade stability and advanced threat detection to open source Kubernetes security. This version focuses on making security more proactive and scalable. It also...",
+      "published": "2026-03-26T08:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Ben Hirschberg, Kubescape Core Maintainer, ARMO CTO",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "F5 Elevates to Gold Membership in the Cloud Native Computing Foundation",
+      "link": "https://www.cncf.io/announcements/2026/03/26/f5-elevates-to-gold-membership-in-the-cloud-native-computing-foundation",
+      "summary": "Application delivery and security provider strengthens collaboration to drive secure, scalable cloud native innovation Key Highlights: AMSTERDAM—26 March 2026—The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for cloud native software, today announced that F5...",
+      "published": "2026-03-26T08:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "kthornhill",
+      "categories": [
+        "Announcements"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Shared Agent Context: How We Are Tackling Partner Agent Collaboration",
       "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/shared-agent-context-how-we-are-tackling-partner-agent/ba-p/4505714",
@@ -73,6 +158,17 @@
         "sponsored-webinar"
       ],
       "thumbnail": ""
+    },
+    {
+      "title": "Run AI based DevSecOps on every Pull request | No coding",
+      "link": "https://www.youtube.com/watch?v=D36ZkJ-sKyQ",
+      "summary": "Get started with Sim:\nsim.ai/r/VL1Mx\n\nUse Code \"ABHI20\" for 20 Percent Discount on the PRO subscription.\n\nPrompt used in the video:\nhttps://gist.github.com/iam-veeramalla/95e03fff6770452f201a252450b7939f\n\nIn this video, I built an AI DevSecOps agent using Sim.ai that automates security checks for...",
+      "published": "2026-03-25T14:43:23+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/D36ZkJ-sKyQ/mqdefault.jpg"
     },
     {
       "title": "Fivetran donates its SQLMesh data transformation framework to the Linux Foundation",
@@ -175,6 +271,17 @@
         "AI Models"
       ],
       "thumbnail": ""
+    },
+    {
+      "title": "Overview of Entra Backup and Recovery",
+      "link": "https://www.youtube.com/watch?v=72nowrDIlQU",
+      "summary": "Quick walkthrough of Entra Backup and Restore and how it complements soft delete and protected actions.\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:17 - Entra daily snapshot\n01:45 - Restoring state\n02:50 - Difference report\n04:34 - Recovering\n05:13 - Soft delete\n07:08 - Protected...",
+      "published": "2026-03-25T11:05:16+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/72nowrDIlQU/mqdefault.jpg"
     },
     {
       "title": "Why most AI projects fail after the demo actually works",
@@ -404,6 +511,72 @@
         "Security"
       ],
       "thumbnail": ""
+    },
+    {
+      "title": "Introduction to Teleport for Kubernetes",
+      "link": "https://www.youtube.com/watch?v=sfv21FY8CCs",
+      "summary": "## Welcome to Teleport for Kubernetes\n\nOver the next six videos, we go from zero to a fully working setup — identity-based access, role-based controls, just-in-time privilege escalation, and full audit logging. Everything you need to lock down Kubernetes access the right way.\n\n## The Problem\n\nIf...",
+      "published": "2026-03-24T08:00:51+00:00",
+      "source": "Rawkode Academy",
+      "type": "video",
+      "author": "Rawkode Academy",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/sfv21FY8CCs/mqdefault.jpg"
+    },
+    {
+      "title": "Just-in-Time Access for Incidents",
+      "link": "https://www.youtube.com/watch?v=iOfrgovJ-Kk",
+      "summary": "## The Problem with Standing Privileges\n\nRole-based access control is a great foundation, but on-call engineers need the ability to respond to incidents at 3 AM. The traditional approach gives them permanent cluster admin access — a security liability. If credentials are compromised, the attacker...",
+      "published": "2026-03-24T08:00:48+00:00",
+      "source": "Rawkode Academy",
+      "type": "video",
+      "author": "Rawkode Academy",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/iOfrgovJ-Kk/mqdefault.jpg"
+    },
+    {
+      "title": "Two-Layer RBAC with Teleport Boundaries",
+      "link": "https://www.youtube.com/watch?v=fLtQBeoCPQQ",
+      "summary": "## The Principle of Least Privilege\n\nHaving identity-based access is a massive improvement, but if every authenticated user has full cluster admin access, we still have a problem. Overprivileged access is one of the most common root causes in Kubernetes security incidents — the problem is the...",
+      "published": "2026-03-24T08:00:41+00:00",
+      "source": "Rawkode Academy",
+      "type": "video",
+      "author": "Rawkode Academy",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/fLtQBeoCPQQ/mqdefault.jpg"
+    },
+    {
+      "title": "Deploying a Teleport Cluster on Kubernetes",
+      "link": "https://www.youtube.com/watch?v=La8ekb674oY",
+      "summary": "## Getting Hands On\n\nTime to get our hands on the keyboard and actually deploy our first Teleport cluster. By the end of this video, you will have a working Teleport cluster running on Kubernetes with TLS certificates and an admin user ready to log in.\n\n## Prerequisites\n\nYou'll need Kind...",
+      "published": "2026-03-24T08:00:19+00:00",
+      "source": "Rawkode Academy",
+      "type": "video",
+      "author": "Rawkode Academy",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/La8ekb674oY/mqdefault.jpg"
+    },
+    {
+      "title": "Identity-Based User Access & RBAC",
+      "link": "https://www.youtube.com/watch?v=2GdMxBqus6M",
+      "summary": "## Moving Beyond Manual Users\n\nIn the last video, we deployed Teleport and created a manual admin user. That's fine for development, but not for production. Today we're setting up GitHub as our identity provider so every user authenticates through SSO and gets a short-lived certificate tied to...",
+      "published": "2026-03-24T08:00:05+00:00",
+      "source": "Rawkode Academy",
+      "type": "video",
+      "author": "Rawkode Academy",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/2GdMxBqus6M/mqdefault.jpg"
+    },
+    {
+      "title": "Auditing and Session Recording",
+      "link": "https://www.youtube.com/watch?v=3HqfANsiLjY",
+      "summary": "## The Missing Piece: Auditing\n\nWe've deployed Teleport, wired up GitHub for SSO, built fine-grained RBAC with deny rules, and set up just-in-time access requests. The final piece of the puzzle is auditing.\n\nEvery time someone runs a kubectl command through Teleport, an audit event is created....",
+      "published": "2026-03-24T08:00:03+00:00",
+      "source": "Rawkode Academy",
+      "type": "video",
+      "author": "Rawkode Academy",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/3HqfANsiLjY/mqdefault.jpg"
     },
     {
       "title": "Tekton Becomes a CNCF Incubating Project",
@@ -636,6 +809,17 @@
         "Blog"
       ],
       "thumbnail": ""
+    },
+    {
+      "title": "Picking the right Agent Builder solution",
+      "link": "https://www.youtube.com/watch?v=WUgujz0y1K4",
+      "summary": "How to pick between Agent Builder, Copilot Studio and Microsoft Foundry to build your agent.\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:17 - Quick way to decide\n02:02 - Organizational maturity progression\n05:19 - Building agents\n05:39 - Agent Builder, Copilot Studio and Microsoft...",
+      "published": "2026-03-23T10:56:00+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/WUgujz0y1K4/mqdefault.jpg"
     },
     {
       "title": "Beyond Batch: Volcano Evolves into the AI-Native Unified Scheduling Platform",
@@ -2661,13 +2845,6 @@
       "author": "wanjing",
       "categories": [],
       "thumbnail": ""
-    },
-    {
-      "title": "AWS DevOps Best Practices in 2026: Automation, Monitoring, and Security",
-      "link": "https://kodekloud.com/blog/aws-devops-best-practices-in-2026",
-      "summary": "Explore AWS DevOps best practices in 2026 covering automation, monitoring, security, and scalable cloud pipelines.",
-      "published": "2026-02-24T06:37:29+00:00",
-      "source": "KodeKloud"
     }
   ]
 }
