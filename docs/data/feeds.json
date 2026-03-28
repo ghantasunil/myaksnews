@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-03-27T06:24:46.096432+00:00",
-    "total_items": 225,
+    "generated_at": "2026-03-28T06:18:48.251838+00:00",
+    "total_items": 228,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -19,6 +19,107 @@
     ]
   },
   "items": [
+    {
+      "title": "AKS Newsletter – March 2026",
+      "link": "https://aksnewsletter.com/2026/2026-03.html",
+      "summary": "54 curated items covering documentation updates, feature announcements, community blogs, and more.",
+      "published": "2026-03-28T00:00:00+00:00",
+      "source": "AKS Newsletter",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Gitleaks creator returns with Betterleaks, an open source secrets scanner for the agentic era",
+      "link": "https://thenewstack.io/betterleaks-open-source-secret-scanner",
+      "summary": "A new open-source secret-scanning tool from the creator of Gitleaks aims to pick up where its widely used predecessor left off, with The post Gitleaks creator returns with Betterleaks, an open source secrets scanner for the agentic era appeared first on The New Stack .",
+      "published": "2026-03-27T18:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "Open Source",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How TeamPCP turned Aqua Security’s own Trivy scanner into a weapon against millions of developers",
+      "link": "https://thenewstack.io/teampcp-trivy-supply-chain-attack",
+      "summary": "Open source is under attack with a new wave of supply chain attacks. It has been a bad, bad few The post How TeamPCP turned Aqua Security’s own Trivy scanner into a weapon against millions of developers appeared first on The New Stack .",
+      "published": "2026-03-27T17:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Steven J. Vaughan-Nichols",
+      "categories": [
+        "CI/CD",
+        "Open Source",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI’s Codex gets plugins",
+      "link": "https://thenewstack.io/openais-codex-gets-plugins",
+      "summary": "OpenAI this week announced that it is adding plugins to Codex. These plugins for third-party services like Box, Figma, Linear, The post OpenAI’s Codex gets plugins appeared first on The New Stack .",
+      "published": "2026-03-27T15:20:51+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Developer tools",
+        "Model Context Protocol"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "GitHub will train AI models on your Copilot data — and share it with Microsoft",
+      "link": "https://thenewstack.io/github-copilot-interaction-data",
+      "summary": "Yet another platform will use your data to train its AI models. This time, it’s GitHub.  GitHub announced this week The post GitHub will train AI models on your Copilot data — and share it with Microsoft appeared first on The New Stack .",
+      "published": "2026-03-27T13:37:49+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI",
+        "AI Models",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The reason your pgvector benchmark is lying to you",
+      "link": "https://thenewstack.io/why-pgvector-benchmarks-lie",
+      "summary": "As an open source Postgres extension, pgvector lets you store and query vector embeddings alongside your relational data, using the The post The reason your pgvector benchmark is lying to you appeared first on The New Stack .",
+      "published": "2026-03-27T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Naina Ananthaswamy",
+      "categories": [
+        "AI Infrastructure",
+        "Databases",
+        "Open Source",
+        "sponsor-instaclustr",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The weight of AI models: Why infrastructure always arrives slowly",
+      "link": "https://www.cncf.io/blog/2026/03/27/the-weight-of-ai-models-why-infrastructure-always-arrives-slowly",
+      "summary": "As AI adoption accelerates across industries, organizations face a critical bottleneck that is often overlooked until it becomes a serious obstacle: reliably managing and distributing large model weight files at scale. A model’s weights serve as...",
+      "published": "2026-03-27T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Wenbo Qi (Dragonfly/ModelPack Maintainer), Chenyu Zhang (Harbor/ModelPack Maintainer) and Feynman Zhou (ORAS Maintainer and CNCF Ambassador)",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Millions of secrets exposed - LiteLLM Compromised",
       "link": "https://www.youtube.com/watch?v=q5kcmbtJMf0",
@@ -2813,38 +2914,6 @@
       "summary": "In todays episode, we talk to Burak Ok and get insights into how to troubleshoot Disk Latency issues on Azure Kubernetes Service. \n \nHe demonstrates how AI tools like Agentic CLI can streamline the debugging process and significantly reduce the time to resolution.\n\nRelevant Links:\n -...",
       "published": "2026-02-26T11:00:54+00:00",
       "source": "AKS (Official)"
-    },
-    {
-      "title": "AKS Community Call - US & Europe (Feb 2026) - Azure Kubernetes Service",
-      "link": "https://www.youtube.com/watch?v=yGc7STl48GE",
-      "summary": "Welcome to the AKS Community Calls! These sessions foster direct interaction between our product teams and the AKS community. Engage with our teams, hear the latest updates, and gain insights into the product’s development. Join our monthly public calls to discuss the product roadmap, provide...",
-      "published": "2026-02-26T03:52:54+00:00",
-      "source": "AKS (Official)"
-    },
-    {
-      "title": "AI Companies don't want you to know this | VS Code + Continue",
-      "link": "https://www.youtube.com/watch?v=13ab5dyOasI",
-      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nIn this video, Abhishek explains how to setup FREE AI Agent in VS Code using Continue.dev and Ollama. \n\nFree Course on the channel\n==============================\n- Free DevOps Playlist:...",
-      "published": "2026-02-25T15:39:10+00:00",
-      "source": "Abhishek Veeramalla"
-    },
-    {
-      "title": "ExpressRoute Gateway Scalable",
-      "link": "https://www.youtube.com/watch?v=2OVNx2quVP0",
-      "summary": "A dive into the new scalable ExpressRoute GW SKU.\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the...",
-      "published": "2026-02-25T12:00:43+00:00",
-      "source": "John Savill"
-    },
-    {
-      "title": "Best Practice: Using Self-Signed Certificates with Java on Azure Functions (Linux)",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/best-practice-using-self-signed-certificates-with-java-on-azure/ba-p/4496900",
-      "summary": "If you are developing Java applications on Azure Functions (Linux dedicated plan) and need to connect to services secured by self-signed certificates, you have likely encountered the dreaded SSL handshake error: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException:...",
-      "published": "2026-02-25T08:08:28+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "wanjing",
-      "categories": [],
-      "thumbnail": ""
     }
   ]
 }
