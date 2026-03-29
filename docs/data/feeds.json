@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-03-28T06:18:48.251838+00:00",
-    "total_items": 228,
+    "generated_at": "2026-03-29T06:23:25.165632+00:00",
+    "total_items": 232,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,81 @@
   },
   "items": [
     {
+      "title": "How platform teams are eliminating a $43,800 “hidden tax” on Kubernetes infrastructure",
+      "link": "https://thenewstack.io/virtual-clusters-kubernetes-cost-isolation",
+      "summary": "The ability to provision a Kubernetes cluster on demand, with full API access, custom RBAC, and isolated resource namespaces, defines The post How platform teams are eliminating a $43,800 “hidden tax” on Kubernetes infrastructure appeared first on The New Stack .",
+      "published": "2026-03-28T20:09:54+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Janakiram MSV",
+      "categories": [
+        "Cloud Native Ecosystem",
+        "Kubernetes",
+        "Platform Engineering"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Nvidia’s NemoClaw has three layers of agent security. None of them solve the real problem.",
+      "link": "https://thenewstack.io/nvidia-nemoclaw-openclaw-security",
+      "summary": "The speed of LLM adoption demands that we check its trajectory from time to time. CEO Jensen Huang, talking at The post Nvidia’s NemoClaw has three layers of agent security. None of them solve the real problem. appeared first on The New Stack .",
+      "published": "2026-03-28T13:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "David Eastman",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Build it yourself: A data pipeline that trains a real model",
+      "link": "https://thenewstack.io/data-pipelines-serve-ai",
+      "summary": "We talk about AI a lot here. We talk about data less often, but data is one of the most The post Build it yourself: A data pipeline that trains a real model appeared first on The New Stack .",
+      "published": "2026-03-28T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jessica Wachtel",
+      "categories": [
+        "AI",
+        "AI Engineering",
+        "Data"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Solo.io launches agentevals to solve agentic AI’s “biggest unsolved problem”",
+      "link": "https://thenewstack.io/soloio-agentevals-evaluates-ai-agents",
+      "summary": "So many agents, so little time to evaluate them. Solo.io‘s new projects can help. Agentic AI has blown up. These The post Solo.io launches agentevals to solve agentic AI’s “biggest unsolved problem” appeared first on The New Stack .",
+      "published": "2026-03-28T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Steven J. Vaughan-Nichols",
+      "categories": [
+        "AI Agents",
+        "Cloud Native Ecosystem",
+        "Observability"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic’s madcap March: 14+ launches, 5 outages, and an accidental Claude Mythos leak",
+      "link": "https://thenewstack.io/anthropic-march-2026-roundup",
+      "summary": "I’m Matt Burns, Head of Content at Insight Media Group. Each week, I round up the most important AI developments The post Anthropic’s madcap March: 14+ launches, 5 outages, and an accidental Claude Mythos leak appeared first on The New Stack .",
+      "published": "2026-03-28T11:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Matthew Burns",
+      "categories": [
+        "AI",
+        "AI Infrastructure",
+        "Model Context Protocol (MCP)"
+      ],
+      "thumbnail": ""
+    },
+    {
       "title": "AKS Newsletter – March 2026",
       "link": "https://aksnewsletter.com/2026/2026-03.html",
       "summary": "54 curated items covering documentation updates, feature announcements, community blogs, and more.",
@@ -27,6 +102,28 @@
       "source": "AKS Newsletter",
       "type": "article",
       "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "What AI Agents for Modernization Look Like in Practice",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/what-ai-agents-for-modernization-look-like-in-practice/ba-p/4506366",
+      "summary": "We’ve all been put onto an initiative to “modernize” our company’s applications. But talk about a haphazard and confusing project to be put on. Apps are older than anyone first thought, there are dependencies nobody can explain, and business critical services blocked behind another team's roadmap....",
+      "published": "2026-03-27T19:50:30+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "PabloLopes",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Building the agentic future together at JDConf 2026",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/building-the-agentic-future-together-at-jdconf-2026/ba-p/4505367",
+      "summary": "JDConf 2026 is just weeks away, and I’m excited to welcome Java developers, architects, and engineering leaders from around the world for two days of learning and connection. Now in its sixth year, JDConf has become a place where the Java community compares notes on their real-world production...",
+      "published": "2026-03-27T18:39:18+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Mayunk_Jain",
       "categories": [],
       "thumbnail": ""
     },
@@ -118,6 +215,17 @@
       "categories": [
         "Blog"
       ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Unit Testing Helm Charts with Terratest: A Pattern Guide for Type-Safe Validation",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/unit-testing-helm-charts-with-terratest-a-pattern-guide-for-type/ba-p/4506165",
+      "summary": "Helm charts are the de facto standard for packaging Kubernetes applications. But here's a question worth asking: how do you know your chart actually produces the manifests you expect, across every environment, before it reaches a cluster? If you're like most teams, the answer is some combination...",
+      "published": "2026-03-27T07:33:36+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "pratikpanda",
+      "categories": [],
       "thumbnail": ""
     },
     {
@@ -2874,46 +2982,6 @@
       "author": "DeepGanguly",
       "categories": [],
       "thumbnail": ""
-    },
-    {
-      "title": "Get started with PagerDuty MCP server and PagerDuty SRE Agent in Azure SRE Agent",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/get-started-with-pagerduty-mcp-server-and-pagerduty-sre-agent-in/ba-p/4497124",
-      "summary": "Overview The PagerDuty MCP server is a cloud-hosted bridge between your PagerDuty account and Azure SRE Agent. Once configured, it enables real-time interaction with incidents, on-call schedules, services, teams, escalation policies, event orchestration, incident workflows, status pages, and more...",
-      "published": "2026-02-27T01:39:14+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "dbandaru",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Get started with Atlassian Rovo MCP server in Azure SRE Agent",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/get-started-with-atlassian-rovo-mcp-server-in-azure-sre-agent/ba-p/4497122",
-      "summary": "Get started with Atlassian Rovo MCP server in Azure SRE Agent Connect Azure SRE Agent to Jira, Confluence, Compass, and Jira Service Management using the official Atlassian Rovo MCP server. Overview The Atlassian Rovo MCP server is a cloud-hosted bridge between your Atlassian Cloud site and Azure...",
-      "published": "2026-02-26T23:01:46+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "dbandaru",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Azure Container Registry Premium SKU Now Supports 100 TiB Storage",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-container-registry-premium-sku-now-supports-100-tib/ba-p/4497651",
-      "summary": "Today, we're excited to announce that Azure Container Registry Premium SKU now supports up to 100 TiB of registry storage—a 2.5x increase from the previous 40 TiB limit, and a 5x increase from the original 20 TiB limit just two years ago. We've also improved geo-replication data sync speed ,...",
-      "published": "2026-02-26T20:46:56+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "johshmsft",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Troubleshooting Disk Latency with Burak Ok: AKS Troubleshooting Series: Azure Kubernetes Service",
-      "link": "https://www.youtube.com/watch?v=YeO5zTDFtHA",
-      "summary": "In todays episode, we talk to Burak Ok and get insights into how to troubleshoot Disk Latency issues on Azure Kubernetes Service. \n \nHe demonstrates how AI tools like Agentic CLI can streamline the debugging process and significantly reduce the time to resolution.\n\nRelevant Links:\n -...",
-      "published": "2026-02-26T11:00:54+00:00",
-      "source": "AKS (Official)"
     }
   ]
 }
