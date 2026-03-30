@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T06:23:25.165632+00:00",
-    "total_items": 232,
+    "generated_at": "2026-03-30T06:34:36.526426+00:00",
+    "total_items": 230,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -19,6 +19,47 @@
     ]
   },
   "items": [
+    {
+      "title": "Gain Visibility into Cloud Browser Usage with Browser Activity Logs in Playwright Workspaces",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/gain-visibility-into-cloud-browser-usage-with-browser-activity/ba-p/4506706",
+      "summary": "Today, we're announcing a new feature to view the usage metrics for a browser session using the Browser Activity Logs in Playwright Workspaces . Modern test automation and browser-based workflows increasingly rely on cloud-hosted browsers. As teams scale their usage across test runs, automation...",
+      "published": "2026-03-30T06:28:43+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "AbhinavPremsekhar",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "WebAssembly is now outperforming containers at the edge",
+      "link": "https://thenewstack.io/webassembly-component-model-future",
+      "summary": "The mass adoption of WebAssembly has yet to be realized.  The true turning point for WebAssembly — specifically its ability The post WebAssembly is now outperforming containers at the edge appeared first on The New Stack .",
+      "published": "2026-03-29T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "B. Cameron Gain",
+      "categories": [
+        "Cloud Native Ecosystem",
+        "Software Development",
+        "WebAssembly"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "96% of codebases rely on open source, and AI slop is putting them at risk",
+      "link": "https://thenewstack.io/ai-slop-open-source",
+      "summary": "Verbose changes. Nonsensical descriptions. Pull requests contributors can’t explain. AI is DDoS-ing open source software (OSS) with slop, and some The post 96% of codebases rely on open source, and AI slop is putting them at risk appeared first on The New Stack .",
+      "published": "2026-03-29T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Bill Doerrfeld",
+      "categories": [
+        "AI Agents",
+        "Open Source",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "How platform teams are eliminating a $43,800 “hidden tax” on Kubernetes infrastructure",
       "link": "https://thenewstack.io/virtual-clusters-kubernetes-cost-isolation",
@@ -2943,45 +2984,6 @@
       "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
       "published": "2026-03-01T15:50:07+00:00",
       "source": "Abhishek Veeramalla"
-    },
-    {
-      "title": "AKS Newsletter – February 2026",
-      "link": "https://aksnewsletter.com/2026/2026-02.html",
-      "summary": "41 curated items covering documentation updates, feature announcements, community blogs, and more.",
-      "published": "2026-02-28T00:00:00+00:00",
-      "source": "AKS Newsletter"
-    },
-    {
-      "title": "Azure Update 27th February 2026",
-      "link": "https://www.youtube.com/watch?v=Tnq0SmW5TPY",
-      "summary": "Nice bag of updates this week!\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation queue never...",
-      "published": "2026-02-27T16:38:13+00:00",
-      "source": "John Savill"
-    },
-    {
-      "title": "5 Linux Commands that will make you fall in Love with Linux",
-      "link": "https://www.youtube.com/watch?v=ygqjCxZTbuk",
-      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
-      "published": "2026-02-27T16:08:29+00:00",
-      "source": "Abhishek Veeramalla"
-    },
-    {
-      "title": "Before You Migrate: Five Surprising Ingress-NGINX Behaviors You Need to Know",
-      "link": "https://kubernetes.io/blog/2026/02/27/ingress-nginx-before-you-migrate",
-      "summary": "As announced November 2025, Kubernetes will retire Ingress-NGINX in March 2026.\nDespite its widespread usage, Ingress-NGINX is full of surprising defaults and side effects that are probably present in your cluster today.\nThis blog highlights these behaviors so that you can migrate away safely and...",
-      "published": "2026-02-27T15:30:00+00:00",
-      "source": "Kubernetes Blog"
-    },
-    {
-      "title": "Rethinking Background Workloads with Azure Functions on Azure Container Apps",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/rethinking-background-workloads-with-azure-functions-on-azure/ba-p/4496861",
-      "summary": "Objective Azure Container Apps provides a flexible platform for running background workloads, supporting multiple execution models to address different workload needs. Two commonly used models are: Azure Functions on Azure Container Apps - overview of Azure functions Azure Container Apps Jobs –...",
-      "published": "2026-02-27T07:21:39+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "DeepGanguly",
-      "categories": [],
-      "thumbnail": ""
     }
   ]
 }
