@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-03-30T06:34:36.526426+00:00",
-    "total_items": 230,
+    "generated_at": "2026-03-31T06:26:59.302994+00:00",
+    "total_items": 236,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,62 @@
   },
   "items": [
     {
+      "title": "Kelsey Hightower at KubeCon 2026: “Everyone is a junior engineer when it comes to AI”",
+      "link": "https://thenewstack.io/hightower-ai-open-source-kubecon",
+      "summary": "Kristina Kondrashevich, site reliability product manager at Electrolux, remembers the impact Kelsey Hightower made on her work with clarity. “We The post Kelsey Hightower at KubeCon 2026: “Everyone is a junior engineer when it comes to AI” appeared first on The New Stack .",
+      "published": "2026-03-30T18:45:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jennifer Riggins",
+      "categories": [
+        "AI",
+        "Software Development",
+        "Tech Careers"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Sparky Linux 9 brings a rolling release to Debian",
+      "link": "https://thenewstack.io/sparky-linux-9-brings-a-rolling-release-to-debian",
+      "summary": "When you think of rolling releases, Arch Linux is probably the first distribution that comes to mind. There’s also openSUSE The post Sparky Linux 9 brings a rolling release to Debian appeared first on The New Stack .",
+      "published": "2026-03-30T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jack Wallen",
+      "categories": [
+        "Linux"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Microsoft’s Copilot makes Anthropic’s Claude and OpenAI’s GPT team up",
+      "link": "https://thenewstack.io/microsofts-copilot-llm-team",
+      "summary": "Microsoft’s AI strategy has, for the most part, been about using third-party large language models (LLMs). First this was mostly The post Microsoft’s Copilot makes Anthropic’s Claude and OpenAI’s GPT team up appeared first on The New Stack .",
+      "published": "2026-03-30T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "LLMs on Kubernetes Part 1: Understanding the threat model",
+      "link": "https://www.cncf.io/blog/2026/03/30/llms-on-kubernetes-part-1-understanding-the-threat-model",
+      "summary": "Let’s say you’ve got an LLM running on Kubernetes. Pods are healthy, logs are clean, users are chatting. Everything looks fine. But here’s the thing: Kubernetes is great at scheduling workloads and keeping them isolated. It...",
+      "published": "2026-03-30T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Nigel Douglas, CloudSmith",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
       "title": "Gain Visibility into Cloud Browser Usage with Browser Activity Logs in Playwright Workspaces",
       "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/gain-visibility-into-cloud-browser-usage-with-browser-activity/ba-p/4506706",
       "summary": "Today, we're announcing a new feature to view the usage metrics for a browser session using the Browser Activity Logs in Playwright Workspaces . Modern test automation and browser-based workflows increasingly rely on cloud-hosted browsers. As teams scale their usage across test runs, automation...",
@@ -27,6 +83,39 @@
       "source": "Apps on Azure",
       "type": "article",
       "author": "AbhinavPremsekhar",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "What Is the Shared Responsibility Model in Cloud Computing?",
+      "link": "https://kodekloud.com/blog/cloud-shared-responsibility-model-explained",
+      "summary": "Learn the cloud shared responsibility model, real breach examples, and how to secure AWS, Azure, and GCP effectively.",
+      "published": "2026-03-30T02:36:00+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "Cloud security",
+        "shared responsibility model",
+        "AWS security",
+        "Azure security",
+        "GCP security",
+        "DevOps security",
+        "cloud misconfiguration",
+        "IAM best practices",
+        "cloud breaches",
+        "zero trust security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes v1.36 Sneak Peek",
+      "link": "https://kubernetes.io/blog/2026/03/30/kubernetes-v1-36-sneak-peek",
+      "summary": "Kubernetes v1.36 is coming at the end of April 2026. This release will include removals and deprecations, and it is packed with an impressive number of\nenhancements. Here are some of the features we are most excited about in this cycle! Please note that this information reflects the current state...",
+      "published": "2026-03-30T00:00:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
       "categories": [],
       "thumbnail": ""
     },
