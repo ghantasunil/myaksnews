@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-03-31T06:26:59.302994+00:00",
-    "total_items": 236,
+    "generated_at": "2026-04-01T06:32:09.280354+00:00",
+    "total_items": 249,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -19,6 +19,173 @@
     ]
   },
   "items": [
+    {
+      "title": "JetBrains: AI agents are about to repeat the cloud ROI crisis",
+      "link": "https://thenewstack.io/jetbrains-central-ai-agents",
+      "summary": "Deploying AI coding agents is no longer hard, but knowing whether they’re working and keeping them from becoming another unmanaged The post JetBrains: AI agents are about to repeat the cloud ROI crisis appeared first on The New Stack .",
+      "published": "2026-03-31T20:02:13+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "AI Agents",
+        "AI Operations",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why Cursor is bringing self-hosted AI agents to the Fortune 500",
+      "link": "https://thenewstack.io/cursor-self-hosted-coding-agents",
+      "summary": "For AI coding agents to work effectively, they need access to a broad range of systems — from private repositories The post Why Cursor is bringing self-hosted AI agents to the Fortune 500 appeared first on The New Stack .",
+      "published": "2026-03-31T19:58:18+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Portkey open-sources its AI gateway after processing 2 trillion tokens a day",
+      "link": "https://thenewstack.io/portkey-gateway-open-source",
+      "summary": "Portkey defines itself as a company that provides a control plane for production AI deployments. This month, the company launched The post Portkey open-sources its AI gateway after processing 2 trillion tokens a day appeared first on The New Stack .",
+      "published": "2026-03-31T19:53:03+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Infrastructure",
+        "Model Context Protocol (MCP)",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Claude Code users say they’re hitting usage limits faster than normal",
+      "link": "https://thenewstack.io/claude-code-usage-limits",
+      "summary": "Claude Code users say they’re reaching usage limits faster than before — an ongoing issue Anthropic confirms on Reddit and The post Claude Code users say they’re hitting usage limits faster than normal appeared first on The New Stack .",
+      "published": "2026-03-31T18:30:29+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI",
+        "AI Infrastructure",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Continued Investment in Azure App Service",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/continued-investment-in-azure-app-service/ba-p/4507398",
+      "summary": "This blog was originally published to the App Service team blog Recent Investments Premium v4 (Pv4) Azure App Service Premium v4 delivers higher performance and scalability on newer Azure infrastructure while preserving the fully managed PaaS experience developers rely on. Premium v4 offers...",
+      "published": "2026-03-31T17:23:11+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Byron Tardif",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "DevOps Engineer to AI DevOps Engineer in 7 Steps | Proven roadmap",
+      "link": "https://www.youtube.com/watch?v=BFY8-NtfBdM",
+      "summary": "Join Membership for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nThe best roadmap for DevOps Engineers to start using AI as part of their Day to Day activities. All the content is available in the below AI Assisted DevOps...",
+      "published": "2026-03-31T16:37:36+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/BFY8-NtfBdM/mqdefault.jpg"
+    },
+    {
+      "title": "How to solve the AI paradox in software development with intelligent orchestration",
+      "link": "https://thenewstack.io/solve-ai-paradox-orchestration",
+      "summary": "The software industry reached an inflection point in late 2025. When three AI models crossed a capability threshold, they pushed The post How to solve the AI paradox in software development with intelligent orchestration appeared first on The New Stack .",
+      "published": "2026-03-31T16:14:58+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Manav Khurana",
+      "categories": [
+        "AI Strategy",
+        "Platform Engineering",
+        "Software Development",
+        "sponsor-gitlab",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Sustaining OpenTelemetry: Moving from dependency management to stewardship",
+      "link": "https://www.cncf.io/blog/2026/03/31/sustaining-opentelemetry-moving-from-dependency-management-to-stewardship",
+      "summary": "Modern software runs on open source. In fact, “free” and open source software generates more than $500 billion in annual value in the U.S. alone and an estimated $8.8 trillion in total global value. For most...",
+      "published": "2026-03-31T16:05:06+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Bloomberg",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI accelerates modernization, but don’t leave human devs behind",
+      "link": "https://thenewstack.io/ai-modernization-human-developers",
+      "summary": "Modernization has traditionally been a choice between two hard options: keep patching a legacy system until it collapses under its The post AI accelerates modernization, but don’t leave human devs behind appeared first on The New Stack .",
+      "published": "2026-03-31T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Matthew Weier O’Phinney",
+      "categories": [
+        "AI Engineering",
+        "AI Strategy",
+        "Software Development",
+        "sponsor-perforce",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The Durable Task Scheduler Consumption SKU is now Generally Available",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/the-durable-task-scheduler-consumption-sku-is-now-generally/ba-p/4506682",
+      "summary": "Today, we're excited to announce that the Durable Task Scheduler Consumption SKU has reached General Availability. Developers can now run durable workflows and agents on Azure with pay-per-use pricing, no storage to manage, no capacity to plan, and no idle costs. Just create a scheduler, connect...",
+      "published": "2026-03-31T12:00:00+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "greenie-msft",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Ollama taps Apple’s MLX framework to make local AI models faster on Macs",
+      "link": "https://thenewstack.io/ollama-taps-apples-mlx",
+      "summary": "Running large language models (LLMs) locally has often meant accepting slower speeds and tighter memory limits. Ollama’s latest update, built The post Ollama taps Apple’s MLX framework to make local AI models faster on Macs appeared first on The New Stack .",
+      "published": "2026-03-31T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Models",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Copilot Cowork Walkthrough",
+      "link": "https://www.youtube.com/watch?v=3jewNNMCxA8",
+      "summary": "Walkthrough of the awesome Copilot Cowork! Note some data integrations are coming soon at time of recording.\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:26 - Copilot agents\n01:18 - Cowork\n01:44 - What is Cowork\n03:36 - Grounded data\n05:50 - Cloud agent\n07:50 - Demo time\n10:30 -...",
+      "published": "2026-03-31T11:01:28+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/3jewNNMCxA8/mqdefault.jpg"
+    },
     {
       "title": "Kelsey Hightower at KubeCon 2026: “Everyone is a junior engineer when it comes to AI”",
       "link": "https://thenewstack.io/hightower-ai-open-source-kubecon",
@@ -76,6 +243,17 @@
       "thumbnail": ""
     },
     {
+      "title": "Work IQ Overview",
+      "link": "https://www.youtube.com/watch?v=gTupe7ou5xI",
+      "summary": "Overview of what Work IQ is!\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:10 - M365 data\n02:15 - Semantic index\n03:33 - Need for context\n04:31 - Data plane\n05:53 - Memory and activity\n10:53 - Business understanding\n11:49 - Skills and tools\n16:30 - Experiences and API\n18:48 -...",
+      "published": "2026-03-30T10:49:16+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/gTupe7ou5xI/mqdefault.jpg"
+    },
+    {
       "title": "Gain Visibility into Cloud Browser Usage with Browser Activity Logs in Playwright Workspaces",
       "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/gain-visibility-into-cloud-browser-usage-with-browser-activity/ba-p/4506706",
       "summary": "Today, we're announcing a new feature to view the usage metrics for a browser session using the Browser Activity Logs in Playwright Workspaces . Modern test automation and browser-based workflows increasingly rely on cloud-hosted browsers. As teams scale their usage across test runs, automation...",
@@ -118,6 +296,17 @@
       "author": "",
       "categories": [],
       "thumbnail": ""
+    },
+    {
+      "title": "DevOps - The last thing to be replaced by AI | Start learning today",
+      "link": "https://www.youtube.com/watch?v=GWQxAgIMQ-c",
+      "summary": "Join Membership for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nAI cannot replace DevOps Engineers. Here is the 5 Important reasons.\n\nFree Course on the channel\n==============================\n- DevOps Zero to Hero Playlist:...",
+      "published": "2026-03-29T17:07:16+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/GWQxAgIMQ-c/mqdefault.jpg"
     },
     {
       "title": "WebAssembly is now outperforming containers at the edge",
@@ -301,6 +490,17 @@
         "Model Context Protocol"
       ],
       "thumbnail": ""
+    },
+    {
+      "title": "Azure Update 27th March 2026",
+      "link": "https://www.youtube.com/watch?v=rz-7PWle174",
+      "summary": "Lots of updates this week!\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation queue never to be...",
+      "published": "2026-03-27T14:28:39+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/rz-7PWle174/mqdefault.jpg"
     },
     {
       "title": "GitHub will train AI models on your Copilot data — and share it with Microsoft",
@@ -3059,20 +3259,6 @@
       "summary": "A walkthrough of some good interactions to start understanding and using M365 Copilot.\n\nSome prompts I used:\n\n💻 Hey Copilot, help me plan my day, including summary of scheduled meetings, outstanding tasks, and important messages (email/chat) that came in overnight.\n\n💻 Goal: Conduct a detailed...",
       "published": "2026-03-02T14:17:43+00:00",
       "source": "John Savill"
-    },
-    {
-      "title": "Why Choosing the Right Learning Path Matters for Your Tech Career",
-      "link": "https://kodekloud.com/blog/right-learning-path-for-devops-cloud-and-ai-careers",
-      "summary": "Discover how choosing the right learning path in DevOps, Cloud, and AI accelerates career growth and prevents skill gaps.",
-      "published": "2026-03-02T02:32:04+00:00",
-      "source": "KodeKloud"
-    },
-    {
-      "title": "5 Linux Commands that makes you feel like a Hacker (Pro Engineer)",
-      "link": "https://www.youtube.com/watch?v=Mlc0--DO3uE",
-      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
-      "published": "2026-03-01T15:50:07+00:00",
-      "source": "Abhishek Veeramalla"
     }
   ]
 }
