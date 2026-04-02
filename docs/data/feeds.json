@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-04-01T06:32:09.280354+00:00",
-    "total_items": 249,
+    "generated_at": "2026-04-02T06:24:06.846867+00:00",
+    "total_items": 252,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -19,6 +19,68 @@
     ]
   },
   "items": [
+    {
+      "title": "Announcing AWS with Azure SRE Agent: Cross-Cloud Investigation using the brand new AWS DevOps Agent",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-aws-with-azure-sre-agent-cross-cloud-investigation/ba-p/4507413",
+      "summary": "Overview Connect Azure SRE Agent to AWS services using the official AWS MCP server . Query AWS documentation, execute any of the 15,000+ AWS APIs, run operational workflows, and kick off incident investigations through AWS DevOps Agent, which is now generally available . The AWS MCP server connects...",
+      "published": "2026-04-01T21:49:12+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "dbandaru",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "How to integrate VS Code with Ollama for local AI assistance",
+      "link": "https://thenewstack.io/how-to-integrate-vs-code-with-ollama-for-local-ai-assistance",
+      "summary": "If you’re starting your journey as a programmer and want to jump-start that process, you might be interested in taking The post How to integrate VS Code with Ollama for local AI assistance appeared first on The New Stack .",
+      "published": "2026-04-01T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jack Wallen",
+      "categories": [
+        "AI",
+        "AI Models",
+        "Developer tools",
+        "Tutorial"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Inside Claude Code’s leaked source: swarms, daemons, and 44 features Anthropic kept behind flags",
+      "link": "https://thenewstack.io/claude-code-source-leak",
+      "summary": "On Wednesday, security researcher Chaofan Shou discovered that Anthropic had shipped version 2.1.88 of Claude Code with a 59.8MB source The post Inside Claude Code’s leaked source: swarms, daemons, and 44 features Anthropic kept behind flags appeared first on The New Stack .",
+      "published": "2026-04-01T11:23:26+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Janakiram MSV",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Edge-forward: Akamai eyes sweet spot between centralized & decentralized AI inference",
+      "link": "https://thenewstack.io/akamai-edge-ai-inference",
+      "summary": "For this edition of The New Stack Makers, we sit down with two leaders at Akamai: Lena Hall, senior director, The post Edge-forward: Akamai eyes sweet spot between centralized & decentralized AI inference appeared first on The New Stack .",
+      "published": "2026-04-01T11:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Infrastructure",
+        "Edge Computing",
+        "KubeCon Cloudnativecon EU 2026",
+        "Operations",
+        "WebAssembly",
+        "Podcast",
+        "sponsor-akamai",
+        "Video"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "JetBrains: AI agents are about to repeat the cloud ROI crisis",
       "link": "https://thenewstack.io/jetbrains-central-ai-agents",
@@ -3252,13 +3314,6 @@
       "summary": "STAR the GitHub Repository (They deserve it):\nhttps://github.com/loft-sh/vind\n\nvind (vCluster in Docker) is a revolutionary way to run Kubernetes clusters directly as Docker containers. Built on top of vCluster, vind combines the power of virtual Kubernetes clusters with the simplicity of Docker,...",
       "published": "2026-03-03T13:16:04+00:00",
       "source": "Abhishek Veeramalla"
-    },
-    {
-      "title": "Getting Started with M365 Copilot",
-      "link": "https://www.youtube.com/watch?v=WiNcWsyENU4",
-      "summary": "A walkthrough of some good interactions to start understanding and using M365 Copilot.\n\nSome prompts I used:\n\n💻 Hey Copilot, help me plan my day, including summary of scheduled meetings, outstanding tasks, and important messages (email/chat) that came in overnight.\n\n💻 Goal: Conduct a detailed...",
-      "published": "2026-03-02T14:17:43+00:00",
-      "source": "John Savill"
     }
   ]
 }
