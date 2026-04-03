@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-04-02T06:24:06.846867+00:00",
-    "total_items": 252,
+    "generated_at": "2026-04-03T06:24:19.288297+00:00",
+    "total_items": 266,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -19,6 +19,267 @@
     ]
   },
   "items": [
+    {
+      "title": "Bring Your Own Model (BYOM) for Azure AI Applications using Azure Machine Learning",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/bring-your-own-model-byom-for-azure-ai-applications-using-azure/ba-p/4508211",
+      "summary": "Modern AI-powered applications running on Azure increasingly require flexibility in model choice. While managed model catalogs accelerate time to value, real-world enterprise applications often need to: Host open‑source or fine‑tuned models Deploy domain‑specific or regulated models inside a tenant...",
+      "published": "2026-04-03T02:00:40+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "vaibhavpandey",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "MCP Apps on Azure Functions: Quick Start with TypeScript",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/mcp-apps-on-azure-functions-quick-start-with-typescript/ba-p/4507859",
+      "summary": "Azure Functions makes hosting MCP apps simple: build locally, create a secure endpoint, and deploy fast with azd. What Are MCP Apps? MCP (Model Context Protocol) apps add new features to AI assistants and clients: MCP Tools : Remote functions that clients call to perform actions (for example, fetch...",
+      "published": "2026-04-03T01:21:43+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "swapnil_nagar",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "An update to the active flow billing model for Azure SRE Agent",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/an-update-to-the-active-flow-billing-model-for-azure-sre-agent/ba-p/4507866",
+      "summary": "Earlier today, we announced that Azure SRE Agent now supports multiple AI model providers , starting with Anthropic. To support multi-model choice, and make active usage costs easier to understand, we’re updating how active flow usage is measured, effective April 15, 2026. At a glance...",
+      "published": "2026-04-02T22:53:51+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Mayunk_Jain",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Give your Foundry Agent Custom Tools with MCP Servers on Azure Functions",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/give-your-foundry-agent-custom-tools-with-mcp-servers-on-azure/ba-p/4507828",
+      "summary": "This blog post is for developers who have an MCP server deployed to Azure Functions and want to connect it to Microsoft Foundry agents. It walks through why you'd want to do this, the different authentication options available, and how to get your agent calling your MCP tools. Connect your MCP...",
+      "published": "2026-04-02T22:31:04+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "lily-ma",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure SRE Agent now supports multiple model providers, including Anthropic Claude",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-sre-agent-now-supports-multiple-model-providers-including/ba-p/4508111",
+      "summary": "Today, Azure SRE Agent adds model provider selection—choose between Azure OpenAI and Anthropic to match the right AI provider to your incident workflow. SRE Agent has saved over 20,000 engineering hours by pulling together logs, deployments, and signals into a single investigation thread, turning...",
+      "published": "2026-04-02T22:23:15+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "dchelupati",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic’s rough week: leaked models, exposed source code, and a botched GitHub takedown",
+      "link": "https://thenewstack.io/anthropic-claude-code-leak",
+      "summary": "Anthropic’s had a rough streak of luck lately.  Last week, Fortune reported on an accidental leak of the AI company’s development of The post Anthropic’s rough week: leaked models, exposed source code, and a botched GitHub takedown appeared first on The New Stack .",
+      "published": "2026-04-02T19:59:40+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI",
+        "AI Infrastructure",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Microsoft execs warn agentic AI is hollowing out the junior developer pipeline",
+      "link": "https://thenewstack.io/agentic-ai-junior-developer-crisis",
+      "summary": "Two of Microsoft’s most prominent developers have some words for organizations overly celebrating agentic AI’s productivity gains: You are hollowing The post Microsoft execs warn agentic AI is hollowing out the junior developer pipeline appeared first on The New Stack .",
+      "published": "2026-04-02T18:52:12+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Engineering",
+        "Tech Careers",
+        "Tech Culture"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why pgEdge thinks MCP (not an API) is the right way for AI agents to talk to databases",
+      "link": "https://thenewstack.io/pgedge-mcp-postgres-agents",
+      "summary": "The Postgres open-source object-relational database system can trace its history back to some three decades, but it’s no artifact. Its The post Why pgEdge thinks MCP (not an API) is the right way for AI agents to talk to databases appeared first on The New Stack .",
+      "published": "2026-04-02T18:30:21+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Infrastructure",
+        "Databases",
+        "Model Context Protocol (MCP)"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The TeamPCP attacks are a warning: Your CI/CD pipeline is the new front line",
+      "link": "https://thenewstack.io/cicd-pipeline-front-line",
+      "summary": "We built the modern software supply chain on a flawed assumption: that the systems and dependencies we rely on are The post The TeamPCP attacks are a warning: Your CI/CD pipeline is the new front line appeared first on The New Stack .",
+      "published": "2026-04-02T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Dan Lorenc",
+      "categories": [
+        "CI/CD",
+        "DevOps",
+        "Security",
+        "sponsor-chainguard",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why coding agents will break your CI/CD pipeline (and how to fix it)",
+      "link": "https://thenewstack.io/coding-agents-cicd-fix",
+      "summary": "Every engineering leader I speak with lately is quietly asking the exact same question. The conversation has shifted entirely. We The post Why coding agents will break your CI/CD pipeline (and how to fix it) appeared first on The New Stack .",
+      "published": "2026-04-02T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Arjun Iyer",
+      "categories": [
+        "AI Engineering",
+        "CI/CD",
+        "Platform Engineering",
+        "sponsor-signadot",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why Broadcom gave Velero to the CNCF Sandbox — and what it means for Kubernetes data protection",
+      "link": "https://thenewstack.io/broadcom-donates-velero-cncf",
+      "summary": "Broadcom has deep roots as one of the leading contributors to CNCF open source as it continues to extend its The post Why Broadcom gave Velero to the CNCF Sandbox — and what it means for Kubernetes data protection appeared first on The New Stack .",
+      "published": "2026-04-02T14:36:51+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "B. Cameron Gain",
+      "categories": [
+        "Cloud Native Ecosystem",
+        "KubeCon Cloudnativecon EU 2026",
+        "Open Source",
+        "Podcast",
+        "sponsor-broadcom",
+        "Video"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenClaw vs. Hermes Agent: The race to build AI assistants that never forget",
+      "link": "https://thenewstack.io/persistent-ai-agents-compared",
+      "summary": "Every developer who has used an AI coding assistant has experienced the same frustration: You spend an afternoon teaching Claude The post OpenClaw vs. Hermes Agent: The race to build AI assistants that never forget appeared first on The New Stack .",
+      "published": "2026-04-02T14:26:17+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Janakiram MSV",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Diagnose & Solve with Andrew Scobie: AKS Troubleshooting Series: Azure Kubernetes Service",
+      "link": "https://www.youtube.com/watch?v=UdRzAdraWAE",
+      "summary": "In today's episode, we talk to Andrew Scobie to understand the Diagnose & Solve experience from Azure portal. \nAKS Diagnose and Solve Problems is an intelligent, self-diagnostic experience that:\n - Helps you identify and resolve problems in your cluster.\n - Requires no extra configuration or...",
+      "published": "2026-04-02T14:14:05+00:00",
+      "source": "AKS (Official)",
+      "type": "video",
+      "author": "Azure Kubernetes Service (AKS)",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/UdRzAdraWAE/mqdefault.jpg"
+    },
+    {
+      "title": "There’s a hidden tax on every AI-generated merge request",
+      "link": "https://thenewstack.io/hidden-tax-ai-code",
+      "summary": "AI coding tools haven’t removed bottlenecks. They’ve moved them to the review queue, putting more pressure on senior engineers. This The post There’s a hidden tax on every AI-generated merge request appeared first on The New Stack .",
+      "published": "2026-04-02T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Brian Wald",
+      "categories": [
+        "AI Strategy",
+        "DevOps",
+        "Software Development",
+        "sponsor-gitlab",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Moving beyond the “magic scaling sauce” myth",
+      "link": "https://thenewstack.io/beyond-magic-scaling-myth",
+      "summary": "The following is an excerpt from the just-published second edition of Designing Data-Intensive Applications, by Martin Kleppmann and Chris Riccomini. The post Moving beyond the “magic scaling sauce” myth appeared first on The New Stack .",
+      "published": "2026-04-02T13:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "TNS Staff",
+      "categories": [
+        "Backend development",
+        "Data",
+        "Databases",
+        "sponsor-scylladb",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why programming became the proving ground for AI",
+      "link": "https://thenewstack.io/programming-ai-proving-ground",
+      "summary": "I’ve always felt that AI found its footing in software engineering first because, frankly, the environment is honest. When you’re The post Why programming became the proving ground for AI appeared first on The New Stack .",
+      "published": "2026-04-02T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Sean Falconer",
+      "categories": [
+        "AI",
+        "AI Strategy",
+        "Software Development",
+        "sponsor-confluent",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The hidden technical debt of agentic engineering",
+      "link": "https://thenewstack.io/hidden-agentic-technical-debt",
+      "summary": "Anyone today can build an agent locally with minimal effort. With some LLM calls, a prompt, and a few tool The post The hidden technical debt of agentic engineering appeared first on The New Stack .",
+      "published": "2026-04-02T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Zohar Einy",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "AI Infrastructure",
+        "sponsor-port",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "GitOps policy-as-code: Securing Kubernetes with Argo CD and Kyverno",
+      "link": "https://www.cncf.io/blog/2026/04/02/gitops-policy-as-code-securing-kubernetes-with-argo-cd-and-kyverno",
+      "summary": "A hands-on guide to deploying Kyverno with Argo CD and enforcing custom policies As Kubernetes environments develop, GitOps with Argo CD has become the standard for declarative, self-healing infrastructure. Yet without guardrails for your deployments, misconfigured,...",
+      "published": "2026-04-02T09:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Albena Galabova, Igtix",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Announcing AWS with Azure SRE Agent: Cross-Cloud Investigation using the brand new AWS DevOps Agent",
       "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-aws-with-azure-sre-agent-cross-cloud-investigation/ba-p/4507413",
@@ -3282,38 +3543,6 @@
       "summary": "Signup the waitlist: www.cannerai.com\n\n-----------------------------------------------------------------------------------------------------------------------\n𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝗺𝗲 𝗛𝗲𝗿𝗲:👇👇\n\n🔥𝗬𝗼𝘂𝗧𝘂𝗯𝗲 ▶  https://www.youtube.com/TechTutorialswithPiyush\n⛳𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻 ▶ ...",
       "published": "2026-03-04T10:00:07+00:00",
       "source": "Piyush Sachdeva"
-    },
-    {
-      "title": "Cloud Certification Roadmap: AWS, Azure & GCP Explained",
-      "link": "https://kodekloud.com/blog/cloud-certification-roadmap-aws-azure-gcp",
-      "summary": "Discover the cloud certification roadmap for AWS, Azure, and Google Cloud. Learn which certification path fits your cloud career goals.",
-      "published": "2026-03-04T03:12:55+00:00",
-      "source": "KodeKloud"
-    },
-    {
-      "title": "Get started with Datadog MCP server in Azure SRE Agent",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/get-started-with-datadog-mcp-server-in-azure-sre-agent/ba-p/4497123",
-      "summary": "Overview The Datadog MCP server is a cloud-hosted bridge between your Datadog organization and Azure SRE Agent. Once configured, it enables real-time interaction with logs, metrics, APM traces, monitors, incidents, dashboards, and other Datadog data through natural language. All actions respect...",
-      "published": "2026-03-03T21:52:13+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "dbandaru",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Quickly get rid of fake malware alerts easily",
-      "link": "https://www.youtube.com/watch?v=8kdV9rjFRtg",
-      "summary": "Do not interact with them. We just need to delete the bad site from being allowed to send notifications in your browser settings.",
-      "published": "2026-03-03T16:55:48+00:00",
-      "source": "John Savill"
-    },
-    {
-      "title": "Stop using old Kubernetes local setup | Use this Instead",
-      "link": "https://www.youtube.com/watch?v=Y30pDKruHCE",
-      "summary": "STAR the GitHub Repository (They deserve it):\nhttps://github.com/loft-sh/vind\n\nvind (vCluster in Docker) is a revolutionary way to run Kubernetes clusters directly as Docker containers. Built on top of vCluster, vind combines the power of virtual Kubernetes clusters with the simplicity of Docker,...",
-      "published": "2026-03-03T13:16:04+00:00",
-      "source": "Abhishek Veeramalla"
     }
   ]
 }
