@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-04-03T06:24:19.288297+00:00",
-    "total_items": 266,
+    "generated_at": "2026-04-04T06:19:46.037866+00:00",
+    "total_items": 269,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -19,6 +19,92 @@
     ]
   },
   "items": [
+    {
+      "title": "Vultr says its Nvidia-powered AI infrastructure costs 50% to 90% less than hyperscalers",
+      "link": "https://thenewstack.io/vultr-nvidia-ai-infrastructure",
+      "summary": "Vultr is using Nvidia GPUs and AI agents like OpenClaw to automate infrastructure setup for developers — and says the The post Vultr says its Nvidia-powered AI infrastructure costs 50% to 90% less than hyperscalers appeared first on The New Stack .",
+      "published": "2026-04-03T19:08:12+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "B. Cameron Gain",
+      "categories": [
+        "AI Infrastructure",
+        "Cloud Services",
+        "KubeCon Cloudnativecon EU 2026",
+        "Platform Engineering",
+        "sponsor-vultr",
+        "Sponsored",
+        "sponsored-event-coverage",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“I started to lose my ability to code”: Developers grapple with the real cost of AI programming tools",
+      "link": "https://thenewstack.io/ai-coding-tools-reckoning",
+      "summary": "Maybe it started in February, when programmer and entrepreneur Paul Ford, 51, wrote a guest essay for The New York The post “I started to lose my ability to code”: Developers grapple with the real cost of AI programming tools appeared first on The New Stack .",
+      "published": "2026-04-03T14:01:11+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "David Cassel",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Digital Experience Monitoring belongs in the modern developer workflow",
+      "link": "https://thenewstack.io/digital-experience-monitoring-workflow",
+      "summary": "The frontend is where the user experience happens. More logic runs in the browser. More state lives on the client. The post Digital Experience Monitoring belongs in the modern developer workflow appeared first on The New Stack .",
+      "published": "2026-04-03T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Kayla Bondy",
+      "categories": [
+        "Frontend Development",
+        "Observability",
+        "Software Development",
+        "sponsor-dynatrace",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The hidden reason your AI assistant feels so sluggish",
+      "link": "https://thenewstack.io/why-ai-feels-sluggish",
+      "summary": "AI workloads are exposing a mismatch in how most teams have built their data platforms. You see it whether you The post The hidden reason your AI assistant feels so sluggish appeared first on The New Stack .",
+      "published": "2026-04-03T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Alasdair Brown",
+      "categories": [
+        "AI Engineering",
+        "AI Infrastructure",
+        "Model Context Protocol (MCP)",
+        "sponsor-clickhouse",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The laptop return that broke a RAG pipeline",
+      "link": "https://thenewstack.io/rag-pipeline-hybrid-search",
+      "summary": "And how to fix it with hybrid search A few months ago, one of our users filed a bug report The post The laptop return that broke a RAG pipeline appeared first on The New Stack .",
+      "published": "2026-04-03T11:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Ed Huang",
+      "categories": [
+        "AI Engineering",
+        "AI Infrastructure",
+        "Databases",
+        "sponsor-pingcap",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Bring Your Own Model (BYOM) for Azure AI Applications using Azure Machine Learning",
       "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/bring-your-own-model-byom-for-azure-ai-applications-using-azure/ba-p/4508211",
@@ -3529,20 +3615,6 @@
       "summary": "In todays episode, we talk to Julia Yin to do a deepdive on the AKS MCP Server. In the previous episodes, you have seen the AKS MCP Server and agentic CLI being used for troubleshooting different scenarios. In this episode, we look at the tool itself. \n\n\nRelevant Links:\n -...",
       "published": "2026-03-05T11:30:30+00:00",
       "source": "AKS (Official)"
-    },
-    {
-      "title": "Scaling organizational structure with Meshery’s expanding ecosystem",
-      "link": "https://www.cncf.io/blog/2026/03/04/scaling-organizational-structure-with-mesherys-expanding-ecosystem",
-      "summary": "As a high velocity project and one of the fastest-growing projects in the CNCF ecosystem, Meshery’s increasing scale and community contributions necessitates this recognition, which requires a revision to its governance and organizational structure that better...",
-      "published": "2026-03-04T12:00:00+00:00",
-      "source": "CNCF Blog"
-    },
-    {
-      "title": "Why Every DevOps Engineer Needs a Personal Brand in 2026 (Google Recruited ME)",
-      "link": "https://www.youtube.com/watch?v=LGHqLaKagcw",
-      "summary": "Signup the waitlist: www.cannerai.com\n\n-----------------------------------------------------------------------------------------------------------------------\n𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝗺𝗲 𝗛𝗲𝗿𝗲:👇👇\n\n🔥𝗬𝗼𝘂𝗧𝘂𝗯𝗲 ▶  https://www.youtube.com/TechTutorialswithPiyush\n⛳𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻 ▶ ...",
-      "published": "2026-03-04T10:00:07+00:00",
-      "source": "Piyush Sachdeva"
     }
   ]
 }
