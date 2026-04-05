@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-04-04T06:19:46.037866+00:00",
-    "total_items": 269,
+    "generated_at": "2026-04-05T06:24:47.113788+00:00",
+    "total_items": 266,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -19,6 +19,24 @@
     ]
   },
   "items": [
+    {
+      "title": "SUSE Rancher and Vultr want to break AI infrastructure free from the hyperscalers",
+      "link": "https://thenewstack.io/vultr-suse-rancher-ai",
+      "summary": "Organizations looking to scale their AI workloads and infrastructure on Kubernetes were largely limited to expensive hyperscaler options. As DevOps The post SUSE Rancher and Vultr want to break AI infrastructure free from the hyperscalers appeared first on The New Stack .",
+      "published": "2026-04-04T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "B. Cameron Gain",
+      "categories": [
+        "AI Infrastructure",
+        "Cloud Services",
+        "KubeCon Cloudnativecon EU 2026",
+        "sponsor-vultr",
+        "Sponsored",
+        "sponsored-event-coverage"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Vultr says its Nvidia-powered AI infrastructure costs 50% to 90% less than hyperscalers",
       "link": "https://thenewstack.io/vultr-nvidia-ai-infrastructure",
@@ -3583,38 +3601,6 @@
       "summary": "As cloud native architectures span more clusters, services, and trust domains, identity and access management have become foundational infrastructure rather than an application-level concern. At the same time, emerging patterns such as multi-cluster platforms, agent-based systems,...",
       "published": "2026-03-06T12:00:00+00:00",
       "source": "CNCF Blog"
-    },
-    {
-      "title": "Even simpler to Safely Execute AI-generated Code with Azure Container Apps Dynamic Sessions",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/even-simpler-to-safely-execute-ai-generated-code-with-azure/ba-p/4499795",
-      "summary": "AI agents are writing code. The question is: where does that code run? If it runs in your process, a single hallucinated import os; os.remove('/') can ruin your day. Azure Container Apps dynamic sessions solve this with on-demand sandboxed environments — Hyper-V isolated, fully managed, and ready...",
-      "published": "2026-03-05T21:04:59+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "Jan-Kalis",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Major AI Security Attack on GitHub Actions  | Top Repositories Deleted | Hackerbot-Claw",
-      "link": "https://www.youtube.com/watch?v=pUExD1VEm0U",
-      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
-      "published": "2026-03-05T16:28:10+00:00",
-      "source": "Abhishek Veeramalla"
-    },
-    {
-      "title": "The great migration: Why every AI platform is converging on Kubernetes",
-      "link": "https://www.cncf.io/blog/2026/03/05/the-great-migration-why-every-ai-platform-is-converging-on-kubernetes",
-      "summary": "When Kubernetes launched a decade ago, its promise was clear: make deploying microservices as simple as running a container. Fast forward to 2026, and Kubernetes is no longer “just” for stateless web services. In the CNCF...",
-      "published": "2026-03-05T12:00:00+00:00",
-      "source": "CNCF Blog"
-    },
-    {
-      "title": "AKS MCP Server with Julia Yin: AKS Troubleshooting Series: Azure Kubernetes Service",
-      "link": "https://www.youtube.com/watch?v=RaPivLnCzRw",
-      "summary": "In todays episode, we talk to Julia Yin to do a deepdive on the AKS MCP Server. In the previous episodes, you have seen the AKS MCP Server and agentic CLI being used for troubleshooting different scenarios. In this episode, we look at the tool itself. \n\n\nRelevant Links:\n -...",
-      "published": "2026-03-05T11:30:30+00:00",
-      "source": "AKS (Official)"
     }
   ]
 }
