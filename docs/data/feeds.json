@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-05T06:24:47.113788+00:00",
+    "generated_at": "2026-04-06T06:35:04.336540+00:00",
     "total_items": 266,
     "sources": [
       "AKS (Official)",
@@ -19,6 +19,32 @@
     ]
   },
   "items": [
+    {
+      "title": "Cursor’s $2 billion bet: The IDE is now a fallback, not the default",
+      "link": "https://thenewstack.io/cursor-3-demotes-ide",
+      "summary": "Last week, the AI code editor with the fastest revenue growth in the category shipped a product that is not The post Cursor’s $2 billion bet: The IDE is now a fallback, not the default appeared first on The New Stack .",
+      "published": "2026-04-05T17:29:19+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Janakiram MSV",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How we build Azure SRE Agent with agentic workflows",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/how-we-build-azure-sre-agent-with-agentic-workflows/ba-p/4508753",
+      "summary": "The Challenge: Ops is critical but takes time from innovation Microsoft operates always-on, mission-critical production systems at extraordinary scale. Thousands of services, millions of deployments, and constant change are the reality of modern cloud engineering. These are titan systems that power...",
+      "published": "2026-04-05T07:40:28+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "saziz_msft",
+      "categories": [],
+      "thumbnail": ""
+    },
     {
       "title": "SUSE Rancher and Vultr want to break AI infrastructure free from the hyperscalers",
       "link": "https://thenewstack.io/vultr-suse-rancher-ai",
@@ -3587,20 +3613,6 @@
       "author": "bobmital",
       "categories": [],
       "thumbnail": ""
-    },
-    {
-      "title": "Azure Update 6th March 2026",
-      "link": "https://www.youtube.com/watch?v=VuXRLdt5dIc",
-      "summary": "Quick update and lots of AI.\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation queue never to...",
-      "published": "2026-03-06T16:43:32+00:00",
-      "source": "John Savill"
-    },
-    {
-      "title": "KubeCon + CloudNativeCon Europe 2026 Co-located Event Deep Dive: KeycloakCon",
-      "link": "https://www.cncf.io/blog/2026/03/06/kubecon-cloudnativecon-europe-2026-co-located-event-deep-dive-keycloakcon",
-      "summary": "As cloud native architectures span more clusters, services, and trust domains, identity and access management have become foundational infrastructure rather than an application-level concern. At the same time, emerging patterns such as multi-cluster platforms, agent-based systems,...",
-      "published": "2026-03-06T12:00:00+00:00",
-      "source": "CNCF Blog"
     }
   ]
 }
