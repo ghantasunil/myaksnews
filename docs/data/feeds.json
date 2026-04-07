@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-04-06T06:35:04.336540+00:00",
-    "total_items": 266,
+    "generated_at": "2026-04-07T06:28:42.457778+00:00",
+    "total_items": 273,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -19,6 +19,107 @@
     ]
   },
   "items": [
+    {
+      "title": "Agentic IIS Migration to Managed Instance on Azure App Service",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/agentic-iis-migration-to-managed-instance-on-azure-app-service/ba-p/4508969",
+      "summary": "Introduction Enterprises running ASP.NET Framework workloads on Windows Server with IIS face a familiar dilemma: modernize or stay put. The applications work, the infrastructure is stable, and nobody wants to be the person who breaks production during a cloud migration. But the cost of maintaining...",
+      "published": "2026-04-06T23:58:35+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Gaurav-Seth",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic’s harness shakeup “just fragments workflows,” developers warn",
+      "link": "https://thenewstack.io/anthropic-claude-harness-restrictions",
+      "summary": "If AI usage can be said to be in a period of embryonic enlightenment, developer licensing and pricing structures for The post Anthropic’s harness shakeup “just fragments workflows,” developers warn appeared first on The New Stack .",
+      "published": "2026-04-06T21:39:44+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Strategy",
+        "Large Language Models",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "MCP servers turn Claude into a reasoning engine for your data",
+      "link": "https://thenewstack.io/build-mcp-server-tutorial",
+      "summary": "Claude knows virtually everything that’s ever been publicly available on the internet by default. But it knows absolutely nothing about The post MCP servers turn Claude into a reasoning engine for your data appeared first on The New Stack .",
+      "published": "2026-04-06T21:01:55+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jessica Wachtel",
+      "categories": [
+        "AI Engineering",
+        "Developer tools",
+        "Model Context Protocol (MCP)"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "MCP maintainers from Anthropic, AWS, Microsoft, and OpenAI lay out enterprise security roadmap at Dev Summit",
+      "link": "https://thenewstack.io/mcp-maintainers-enterprise-roadmap",
+      "summary": "In a roundtable panel at the MCP Dev Summit last week in New York, Model Context Protocol (MCP) maintainers from The post MCP maintainers from Anthropic, AWS, Microsoft, and OpenAI lay out enterprise security roadmap at Dev Summit appeared first on The New Stack .",
+      "published": "2026-04-06T16:25:05+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Eric Newcomer",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Model Context Protocol (MCP)",
+        "sponsor-cncf"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Is observability still an operations problem at your organization?",
+      "link": "https://thenewstack.io/is-observability-still-an-operations-problem-at-your-organization",
+      "summary": "Find out how putting runtime telemetry directly in the hands of developers can help your team debug faster, reduce escalations, The post Is observability still an operations problem at your organization? appeared first on The New Stack .",
+      "published": "2026-04-06T16:05:31+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "TNS Staff",
+      "categories": [
+        "AI",
+        "Cloud Native Ecosystem",
+        "DevOps",
+        "Observability",
+        "Platform Engineering",
+        "Software Development",
+        "sponsor-dynatrace",
+        "sponsored-webinar"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure Red Hat OpenShift: Managed Identity and Workload Identity now generally available",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-red-hat-openshift-managed-identity-and-workload-identity/ba-p/4504940",
+      "summary": "Azure Red Hat OpenShift now supports managed identities and workload identities as a generally available capability, so you can run OpenShift clusters and applications on Azure without long-lived service principal credentials.​ ARO, identity, and Azure governance With GA support for managed...",
+      "published": "2026-04-06T14:44:45+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "MelanieKraintz007",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Peer-to-Peer acceleration for AI model distribution with Dragonfly",
+      "link": "https://www.cncf.io/blog/2026/04/06/peer-to-peer-acceleration-for-ai-model-distribution-with-dragonfly",
+      "summary": "The problem: AI model distribution is broken at scale Large-scale AI model distribution presents challenges in performance, efficiency, and cost. Consider a typical scenario: an ML platform team manages a Kubernetes cluster with 200 GPU nodes....",
+      "published": "2026-04-06T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Pavan Madduri, CNCF Kubestronaut",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Cursor’s $2 billion bet: The IDE is now a fallback, not the default",
       "link": "https://thenewstack.io/cursor-3-demotes-ide",
