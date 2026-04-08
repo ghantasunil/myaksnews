@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-04-07T06:28:42.457778+00:00",
-    "total_items": 273,
+    "generated_at": "2026-04-08T06:29:43.440999+00:00",
+    "total_items": 280,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -19,6 +19,138 @@
     ]
   },
   "items": [
+    {
+      "title": "3 Ways to Get More from Azure SRE Agent",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/3-ways-to-get-more-from-azure-sre-agent/ba-p/4508993",
+      "summary": "When you first set up Azure SRE Agent, it’s tempting to give it everything. Connect all your alert sources, route every severity, set up scheduled tasks to poll your channels every 30 seconds. The agent can handle all of it. But a few simple configuration choices can help you get more value from...",
+      "published": "2026-04-07T23:33:10+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "dchelupati",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure Monitor in Azure SRE Agent: Autonomous Alert Investigation and Intelligent Merging",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-monitor-in-azure-sre-agent-autonomous-alert-investigation/ba-p/4509069",
+      "summary": "Azure Monitor is great at telling you something is wrong. But once the alert fires, the real work begins — someone has to open the portal, triage it, dig into logs, and figure out what happened. That takes time. And while they're investigating, the same alert keeps firing every few minutes,...",
+      "published": "2026-04-07T22:20:53+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Vineela-Suri",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Open-source leaders question whether Meta’s Alexandr Wang will truly give away its AI models",
+      "link": "https://thenewstack.io/meta-open-source-models",
+      "summary": "Meta will release a selection of its AI models under an open-source license. The models in question come under the The post Open-source leaders question whether Meta’s Alexandr Wang will truly give away its AI models appeared first on The New Stack .",
+      "published": "2026-04-07T20:40:07+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Strategy",
+        "Large Language Models",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Sam Altman promised billions for AI safety. Here’s what OpenAI actually spent.",
+      "link": "https://thenewstack.io/altman-openai-ai-safety",
+      "summary": "On Monday, The New Yorker published the results of an 18-month investigation into Sam Altman’s fluctuating stance on AI safety The post Sam Altman promised billions for AI safety. Here’s what OpenAI actually spent. appeared first on The New Stack .",
+      "published": "2026-04-07T20:04:36+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI",
+        "AI Models",
+        "AI Operations"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Amazon S3 Files gives the world’s biggest object store a file system",
+      "link": "https://thenewstack.io/aws-s3-files-filesystem",
+      "summary": "Amazon S3 can now be a file system. On Monday, AWS launched a new S3 feature called S3 Files that The post Amazon S3 Files gives the world’s biggest object store a file system appeared first on The New Stack .",
+      "published": "2026-04-07T19:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "Cloud Services",
+        "Data",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic’s Claude Mythos is now available, but not for you",
+      "link": "https://thenewstack.io/anthropic-claude-mythos-cybersecurity",
+      "summary": "In late March, a misconfiguration in Anthropic’s content management system revealed that the company was working on Claude Mythos, a new The post Anthropic’s Claude Mythos is now available, but not for you appeared first on The New Stack .",
+      "published": "2026-04-07T18:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Amazon EKS Auto Mode wants to end Kubernetes toil — one node at a time",
+      "link": "https://thenewstack.io/eks-auto-mode-kubernetes",
+      "summary": "For this edition of The New Stack Makers, we sit down with Alex Kestner, principal product manager at Amazon Elastic The post Amazon EKS Auto Mode wants to end Kubernetes toil — one node at a time appeared first on The New Stack .",
+      "published": "2026-04-07T17:55:49+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "KubeCon Cloudnativecon EU 2026",
+        "Kubernetes",
+        "Platform Engineering",
+        "Podcast",
+        "sponsor-aws-marketplace",
+        "sponsored-podcast"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "True enterprise sovereignty is more approachable than ever, thanks to K8s-powered cloud-neutral PostgreSQL",
+      "link": "https://thenewstack.io/sovereign-postgresql-kubernetes-portability",
+      "summary": "For years, the debate around digital sovereignty focused on infrastructure. Now the spotlight is shifting to a far more valuable The post True enterprise sovereignty is more approachable than ever, thanks to K8s-powered cloud-neutral PostgreSQL appeared first on The New Stack .",
+      "published": "2026-04-07T15:31:24+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "TNS Staff",
+      "categories": [
+        "Cloud Native Ecosystem",
+        "Databases",
+        "Kubernetes",
+        "sponsor-enterprisedb",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Model Flop Utilization is the metric Aria Networks says will define the AI infrastructure era",
+      "link": "https://thenewstack.io/aria-networks-ai-network",
+      "summary": "As the global race to provide AI infrastructure services accelerates, Aria Networks claims it has engineered a “fundamentally different approach” The post Model Flop Utilization is the metric Aria Networks says will define the AI infrastructure era appeared first on The New Stack .",
+      "published": "2026-04-07T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Networking"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Agentic IIS Migration to Managed Instance on Azure App Service",
       "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/agentic-iis-migration-to-managed-instance-on-azure-app-service/ba-p/4508969",
@@ -3692,28 +3824,6 @@
       "summary": "Part I: Architecture and Implementation In production Kubernetes clusters, pulling container images from private registries happens thousands of times per day. Kubernetes distributions from major cloud vendors provide credential providers for their respective registries like AWS...",
       "published": "2026-03-09T11:00:00+00:00",
       "source": "CNCF Blog"
-    },
-    {
-      "title": "Inference at Enterprise Scale: Why LLM Inference Is a Capital Allocation Problem",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/inference-at-enterprise-scale-why-llm-inference-is-a-capital/ba-p/4498754",
-      "summary": "Most enterprise AI conversations focus on model selection and fine-tuning. The harder problem — and the one that determines whether AI investments produce returns or just costs — is inference: serving those models reliably, at scale, under real production load. For organizations running millions of...",
-      "published": "2026-03-08T18:55:50+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "bobmital",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "The LLM Inference Optimization Stack: A Prioritized Playbook for Enterprise Teams",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/the-llm-inference-optimization-stack-a-prioritized-playbook-for/ba-p/4498818",
-      "summary": "The Solutions — An Optimization Stack for Enterprise Inference The optimizations below are ordered by implementation priority — starting with the highest-leverage. The Three-Layer Serving Stack Most enterprise LLM deployments operate across three layers , each responsible for a different part of...",
-      "published": "2026-03-08T15:43:12+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "bobmital",
-      "categories": [],
-      "thumbnail": ""
     }
   ]
 }
