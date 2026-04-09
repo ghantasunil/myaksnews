@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-04-08T06:29:43.440999+00:00",
-    "total_items": 280,
+    "generated_at": "2026-04-09T06:30:49.906613+00:00",
+    "total_items": 283,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -19,6 +19,99 @@
     ]
   },
   "items": [
+    {
+      "title": "Deploying to Azure Web App from Azure DevOps Using UAMI",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/deploying-to-azure-web-app-from-azure-devops-using-uami/ba-p/4509800",
+      "summary": "TOC UAMI Configuration App Configuration Azure DevOps Configuration Logs UAMI Configuration Create a User Assigned Managed Identity with no additional configuration. This identity will be mentioned in later steps, especially at Object ID. App Configuration On an existing Azure Web App , enable...",
+      "published": "2026-04-09T05:53:29+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "theringe",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Niantic Spatial wants to map the 80% of the economy AI can’t see",
+      "link": "https://thenewstack.io/niantic-spatial-scaniverse-world-models",
+      "summary": "By now, we’re all generally familiar with large language models (LLMs) and the core use of text in predictive, generative, The post Niantic Spatial wants to map the 80% of the economy AI can’t see appeared first on The New Stack .",
+      "published": "2026-04-08T22:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Infrastructure"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "In the AI Age, Java is More Relevant Than Ever",
+      "link": "https://thenewstack.io/in-the-ai-age-java-is-more-relevant-than-ever",
+      "summary": "Powerful, scalable, reliable, cost efficient and ready to be your next AI language, Java can help modernize critical enterprise applications. The post In the AI Age, Java is More Relevant Than Ever appeared first on The New Stack .",
+      "published": "2026-04-08T21:30:10+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Mary Branscombe",
+      "categories": [
+        "Java",
+        "Python",
+        "sponsor-microsoft-azure"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Build and Host MCP Apps on Azure App Service",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/build-and-host-mcp-apps-on-azure-app-service/ba-p/4509705",
+      "summary": "MCP Apps are here, and they're a game-changer for building AI tools with interactive UIs. If you've been following the Model Context Protocol (MCP) ecosystem, you've probably heard about the MCP Apps spec — the first official MCP extension that lets your tools return rich, interactive UIs that...",
+      "published": "2026-04-08T18:10:03+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "jordanselig",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "With Claude Managed Agents, Anthropic wants to run your AI agents for you",
+      "link": "https://thenewstack.io/with-claude-managed-agents-anthropic-wants-to-run-your-ai-agents-for-you",
+      "summary": "Anthropic on Wednesday launched the public beta of Claude Managed Agents, a new service that allows businesses to quickly build The post With Claude Managed Agents, Anthropic wants to run your AI agents for you appeared first on The New Stack .",
+      "published": "2026-04-08T17:55:52+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "Operations"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Microsoft wants to make service mesh invisible",
+      "link": "https://thenewstack.io/microsoft-wants-to-make-service-mesh-invisible",
+      "summary": "At KubeCon EU 2026 in Amsterdam, I sat down with Mitch Connors, a principal software engineer at Microsoft and Istio The post Microsoft wants to make service mesh invisible appeared first on The New Stack .",
+      "published": "2026-04-08T17:11:05+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI Infrastructure",
+        "AI Operations",
+        "Cloud Native Ecosystem",
+        "Containers",
+        "Podcast",
+        "sponsor-microsoft",
+        "Video"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How we build and use Azure SRE Agent with agentic workflows",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/how-we-build-and-use-azure-sre-agent-with-agentic-workflows/ba-p/4508753",
+      "summary": "The Challenge: Ops is critical but takes time from innovation Microsoft operates always-on, mission-critical production systems at extraordinary scale. Thousands of services, millions of deployments, and constant change are the reality of modern cloud engineering. These are titan systems that power...",
+      "published": "2026-04-08T16:00:40+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Shamir_AbdulAziz",
+      "categories": [],
+      "thumbnail": ""
+    },
     {
       "title": "3 Ways to Get More from Azure SRE Agent",
       "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/3-ways-to-get-more-from-azure-sre-agent/ba-p/4508993",
@@ -3796,34 +3889,6 @@
       "summary": "Discover the best cloud courses for 2026 across AWS, Azure, and Google Cloud with structured learning paths for beginners to pros.",
       "published": "2026-03-10T07:06:22+00:00",
       "source": "KodeKloud"
-    },
-    {
-      "title": "Announcing the AI Gateway Working Group",
-      "link": "https://kubernetes.io/blog/2026/03/09/announcing-ai-gateway-wg",
-      "summary": "The community around Kubernetes includes a number of Special Interest Groups (SIGs) and Working Groups (WGs) facilitating discussions on important topics between interested contributors. Today, we're excited to announce the formation of the AI Gateway Working Group , a new initiative focused on...",
-      "published": "2026-03-09T18:00:00+00:00",
-      "source": "Kubernetes Blog"
-    },
-    {
-      "title": "Run LLMs on CPU based machines for FREE in 3 simple steps.",
-      "link": "https://www.youtube.com/watch?v=XJ-hI1TZSWk",
-      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nIn this video, Abhishek explains how to run LLMs locally on a CPU based machine. No GPU's, NO API Tokens, Completely Free.\n\nDocument for...",
-      "published": "2026-03-09T14:02:46+00:00",
-      "source": "Abhishek Veeramalla"
-    },
-    {
-      "title": "KubeCon + CloudNativeCon Europe 2026 Co-located Event Deep Dive: OpenTofu Day",
-      "link": "https://www.cncf.io/blog/2026/03/09/kubecon-cloudnativecon-europe-2026-co-located-event-deep-dive-opentofu-day",
-      "summary": "OpenTofu Day debuted at KubeCon Europe 2024 in Paris and has been held at every KubeCon since. As the infrastructure-as-code ecosystem reaches a clear inflection point with recent licensing shifts, industry consolidation, and changes to commercial...",
-      "published": "2026-03-09T13:00:00+00:00",
-      "source": "CNCF Blog"
-    },
-    {
-      "title": "Registry mirror authentication with Kubernetes secrets",
-      "link": "https://www.cncf.io/blog/2026/03/09/registry-mirror-authentication-with-kubernetes-secrets",
-      "summary": "Part I: Architecture and Implementation In production Kubernetes clusters, pulling container images from private registries happens thousands of times per day. Kubernetes distributions from major cloud vendors provide credential providers for their respective registries like AWS...",
-      "published": "2026-03-09T11:00:00+00:00",
-      "source": "CNCF Blog"
     }
   ]
 }
