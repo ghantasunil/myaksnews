@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-04-09T06:30:49.906613+00:00",
-    "total_items": 283,
+    "generated_at": "2026-04-10T06:34:20.821366+00:00",
+    "total_items": 282,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -19,6 +19,156 @@
     ]
   },
   "items": [
+    {
+      "title": "PyTorch Foundation Expands AI Stack with Safetensors, ExecuTorch, and Helion",
+      "link": "https://thenewstack.io/pytorch-ai-stack-expand",
+      "summary": "This week at PyTorch Conference EU in Paris, the PyTorch Foundation announced a trio of new projects joining its portfolio: The post PyTorch Foundation Expands AI Stack with Safetensors, ExecuTorch, and Helion appeared first on The New Stack .",
+      "published": "2026-04-09T19:18:44+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI Engineering",
+        "AI Infrastructure",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI’s new $100 tier targets developers hitting Codex (and Claude Code) limits",
+      "link": "https://thenewstack.io/openais-new-100-tier-targets-developers-hitting-codex-and-claude-code-limits",
+      "summary": "On Thursday, OpenAI announced a new $100/month ChatGPT Pro tier that, while open to anyone, is specifically meant for Codex The post OpenAI’s new $100 tier targets developers hitting Codex (and Claude Code) limits appeared first on The New Stack .",
+      "published": "2026-04-09T18:30:11+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "Operations"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Replit taps RevenueCat to help vibe-coders make money",
+      "link": "https://thenewstack.io/replit-revenuecat-help-vibe-coders-monetize",
+      "summary": "Creating software is easier than ever, but figuring out how to make money from it is an entirely different proposition. The post Replit taps RevenueCat to help vibe-coders make money appeared first on The New Stack .",
+      "published": "2026-04-09T18:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Vibe Coding"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic takes Claude Cowork out of preview and straight into the enterprise",
+      "link": "https://thenewstack.io/anthropic-takes-claude-cowork-out-of-preview-and-straight-into-the-enterprise",
+      "summary": "Anthropic on Thursday took Claude Cowork, its tool for letting non-developers delegate tasks and workflows to a Claude-based agent, out The post Anthropic takes Claude Cowork out of preview and straight into the enterprise appeared first on The New Stack .",
+      "published": "2026-04-09T17:59:15+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "Operations"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AWS wants to register your AI agents",
+      "link": "https://thenewstack.io/aws-wants-to-register-your-ai-agents",
+      "summary": "AWS on Thursday launched the AWS Agent Registry, a new service that aims to help enterprises discover, share, and reuse The post AWS wants to register your AI agents appeared first on The New Stack .",
+      "published": "2026-04-09T17:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "Operations"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The next stages of AI conformance in the cloud-native, open-source world",
+      "link": "https://thenewstack.io/the-next-stages-of-ai-conformance-in-the-cloud-native-open-source-world",
+      "summary": "Until recently, running an AI model on Kubernetes was a guessing game. What worked on one cloud provider could fail The post The next stages of AI conformance in the cloud-native, open-source world appeared first on The New Stack .",
+      "published": "2026-04-09T17:05:28+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jennifer Riggins",
+      "categories": [
+        "AI Engineering",
+        "Cloud Native Ecosystem",
+        "KubeCon Cloudnativecon EU 2026",
+        "Operations",
+        "Podcast",
+        "sponsor-cncf",
+        "Video"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Open source maintainers are drowning in AI-generated pull requests. Enterprise teams are next.",
+      "link": "https://thenewstack.io/ai-generated-code-crisis",
+      "summary": "Something is breaking in open source, and it should alarm every engineering leader pushing coding agents into their organization. Over The post Open source maintainers are drowning in AI-generated pull requests. Enterprise teams are next. appeared first on The New Stack .",
+      "published": "2026-04-09T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Arjun Iyer",
+      "categories": [
+        "AI Engineering",
+        "AI Strategy",
+        "Open Source",
+        "sponsor-signadot",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Zencoder goes beyond coding",
+      "link": "https://thenewstack.io/zencoder-goes-beyond-coding",
+      "summary": "Zencoder on Thursday launched Zenflow for Work, its first product for non-coders. The company started out as a code completion The post Zencoder goes beyond coding appeared first on The New Stack .",
+      "published": "2026-04-09T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI Agents",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Ramp targets AI’s fastest-growing cost: spend that’s hard to track",
+      "link": "https://thenewstack.io/ramp-ai-token-spend-management",
+      "summary": "Companies are spending more on AI than they can easily track. What started as a handful of API calls and The post Ramp targets AI’s fastest-growing cost: spend that’s hard to track appeared first on The New Stack .",
+      "published": "2026-04-09T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI Infrastructure",
+        "AI Operations",
+        "FinOps"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How to See What's Using Your Resources on a Linux Server",
+      "link": "https://kodekloud.com/blog/how-to-see-whats-using-your-resources-on-a-linux-server",
+      "summary": "Is your Linux server slow? Learn how to pinpoint the exact processes draining your CPU, RAM, and Disk I/O using powerful ps and pidstat commands.",
+      "published": "2026-04-09T10:33:57+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Alexandru Andrei",
+      "categories": [
+        "linux commands",
+        "system administration",
+        "server administration",
+        "Command Line"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Deploying to Azure Web App from Azure DevOps Using UAMI",
       "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/deploying-to-azure-web-app-from-azure-devops-using-uami/ba-p/4509800",
@@ -3784,111 +3934,6 @@
       "summary": "Join Membership for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nIn this video, I will prepare, build and deploy a full-stack blog platform called **Jerney** from scratch using a complete **DevSecOps Implementation**. This isn't just \"deploy an app\". This is production-grade...",
       "published": "2026-03-11T13:59:00+00:00",
       "source": "Abhishek Veeramalla"
-    },
-    {
-      "title": "CNCF Unveils KubeCon + CloudNativeCon India 2026 Schedule",
-      "link": "https://www.cncf.io/announcements/2026/03/10/cncf-unveils-kubecon-cloudnativecon-india-2026-schedule",
-      "summary": "Third annual India event to spotlight AI, observability, platform engineering and more MUMBAI, India, 11 March, 2026 – The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for cloud native software, today announced the conference...",
-      "published": "2026-03-11T03:30:00+00:00",
-      "source": "CNCF Blog"
-    },
-    {
-      "title": "What It Takes to Give SRE Agent a Useful Starting Point",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/what-it-takes-to-give-sre-agent-a-useful-starting-point/ba-p/4500343",
-      "summary": "In our latest posts, The Agent that investigates itself and Azure SRE Agent Now Builds Expertise Like Your Best Engineer Introducing Deep Context , we wrote about a moment that changed how we think about agent systems. Azure SRE Agent investigated a regression in its own prompt cache, traced the...",
-      "published": "2026-03-10T16:10:29+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "Dalibor_Kovacevic",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "I Built a DevOps Micromanager in 60 seconds (my teams already hates him).",
-      "link": "https://www.youtube.com/watch?v=XopzvEhSYGs",
-      "summary": "Link to register: https://hostinger.com/TTWP\nCoupon Code: TTWP\n\nStop dealing with toxic micromanagers. Today, we’re building our own. 🤖 I deployed an AI DevOps Agent using OpenClaw on a Hostinger VPS to track PRs, roast developers, and generate reports—all for $5.\nBonus: New users get 2X AI Credits...",
-      "published": "2026-03-10T15:15:07+00:00",
-      "source": "Piyush Sachdeva"
-    },
-    {
-      "title": "What's new in Azure SRE Agent in the GA release",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/what-s-new-in-azure-sre-agent-in-the-ga-release/ba-p/4500779",
-      "summary": "Azure SRE Agent is now generally available ( read the GA announcement ). . After months in preview with teams across Microsoft and early customers, here's what's shipping at GA. We use SRE Agent in our team We built SRE Agent to solve our own operational problems first. It investigates our...",
-      "published": "2026-03-10T15:03:50+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "dchelupati",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Agent Hooks: Production-Grade Governance for Azure SRE Agent",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/agent-hooks-production-grade-governance-for-azure-sre-agent/ba-p/4500292",
-      "summary": "Introduction Azure SRE Agent helps engineering teams automate incident response, diagnostics, and remediation tasks. But when you're giving an agent access to production systems—your databases, your Kubernetes clusters, your cloud resources—you need more than just automation. You need governance ....",
-      "published": "2026-03-10T14:08:35+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "Vineela-Suri",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Azure SRE Agent Now Builds Expertise Like Your Best Engineer \nIntroducing Deep Context",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-sre-agent-now-builds-expertise-like-your-best-engineer/ba-p/4500754",
-      "summary": "What if SRE Agent already knew your system before the next incident? Your most experienced SRE didn't become an expert overnight. Day one: reading runbooks, studying architecture diagrams, asking a lot of questions. Month three: knowing which services are fragile, which config changes cascade,...",
-      "published": "2026-03-10T14:08:23+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "dchelupati",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Announcing general availability for the Azure SRE Agent",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-general-availability-for-the-azure-sre-agent/ba-p/4500682",
-      "summary": "Today, we’re excited to announce the General Availability (GA) of Azure SRE Agent — your AI‑powered operations teammate that helps organizations improve uptime, reduce incident impact, and cut operational toil by accelerating diagnosis and automating response workflows.  This GA release represents...",
-      "published": "2026-03-10T14:00:00+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "Mayunk_Jain",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Migrating to the next generation of Virtual Nodes on Azure Container Instances (ACI)",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/migrating-to-the-next-generation-of-virtual-nodes-on-azure/ba-p/4496565",
-      "summary": "What is ACI/Virtual Nodes? Azure Container Instances (ACI) is a fully-managed serverless container platform which gives you the ability to run containers on-demand without provisioning infrastructure . Virtual Nodes on ACI allows you to run Kubernetes pods managed by an AKS cluster in a serverless...",
-      "published": "2026-03-10T13:13:05+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "adamsharif-msft",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Sustaining open source in the age of generative AI",
-      "link": "https://www.cncf.io/blog/2026/03/10/sustaining-open-source-in-the-age-of-generative-ai",
-      "summary": "Open source has always evolved alongside shifts in technology. From distributed version control and CI/CD, from containers to Kubernetes, each wave of tooling has reshaped how we build, collaborate, and contribute. Generative AI seems to be...",
-      "published": "2026-03-10T11:00:00+00:00",
-      "source": "CNCF Blog"
-    },
-    {
-      "title": "Microsoft Azure at KubeCon Europe 2026 | Amsterdam, NL - March 23-26",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/microsoft-azure-at-kubecon-europe-2026-amsterdam-nl-march-23-26/ba-p/4500716",
-      "summary": "Microsoft Azure is coming back to Amsterdam for  KubeCon + CloudNativeCon Europe 2026 in two short weeks, from March 23-26! As a Diamond Sponsor, we have a full week of sessions, hands-on activities, and ways to connect with the engineers behind AKS and our open-source projects. Here's what's on...",
-      "published": "2026-03-10T09:15:00+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "coryskimming",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Best Cloud Courses & Training for Beginners to Pros in 2026",
-      "link": "https://kodekloud.com/blog/best-cloud-courses-2026",
-      "summary": "Discover the best cloud courses for 2026 across AWS, Azure, and Google Cloud with structured learning paths for beginners to pros.",
-      "published": "2026-03-10T07:06:22+00:00",
-      "source": "KodeKloud"
     }
   ]
 }
