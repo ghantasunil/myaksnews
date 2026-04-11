@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-04-10T06:34:20.821366+00:00",
-    "total_items": 282,
+    "generated_at": "2026-04-11T06:21:06.390089+00:00",
+    "total_items": 292,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -19,6 +19,113 @@
     ]
   },
   "items": [
+    {
+      "title": "Where are the guardrails everyone promised for AI?",
+      "link": "https://thenewstack.io/skiplabs-ai-guardrails-skipper",
+      "summary": "Everyone says AI needs guardrails. Julien Verlaguet wants to know who is actually building them. Verlaguet, founder of SkipLabs, has The post Where are the guardrails everyone promised for AI? appeared first on The New Stack .",
+      "published": "2026-04-10T17:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "AI",
+        "AI Engineering",
+        "AI Infrastructure",
+        "Operations"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How to build an AI-powered private document search app with RAG, ChromaDB, and memory",
+      "link": "https://thenewstack.io/build-rag-document-search",
+      "summary": "As AI advances, more tools are being introduced into the ecosystem, enabling engineers and developers to experiment and build custom The post How to build an AI-powered private document search app with RAG, ChromaDB, and memory appeared first on The New Stack .",
+      "published": "2026-04-10T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Teri Eyenike",
+      "categories": [
+        "AI Engineering",
+        "Large Language Models",
+        "Python",
+        "sponsor-andela",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure Update 10th April 2026",
+      "link": "https://www.youtube.com/watch?v=pQ9em70ZHd4",
+      "summary": "Quick update but some big AI updates.\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation queue...",
+      "published": "2026-04-10T15:31:35+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/pQ9em70ZHd4/mqdefault.jpg"
+    },
+    {
+      "title": "Why data governance is the secret to AI agent success",
+      "link": "https://thenewstack.io/data-governance-ai-agents",
+      "summary": "Fact: AI is not replacing DevOps; it is amplifying it, with 70% of IT leaders worldwide agreeing that strong DevOps The post Why data governance is the secret to AI agent success appeared first on The New Stack .",
+      "published": "2026-04-10T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Rod Cope",
+      "categories": [
+        "AI Operations",
+        "AI Strategy",
+        "DevOps",
+        "sponsor-perforce",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Rethinking platform engineering through diverse perspectives at KubeCon + CloudNativeCon EU Amsterdam",
+      "link": "https://www.cncf.io/blog/2026/04/10/rethinking-platform-engineering-through-diverse-perspectives-at-kubecon-cloudnativecon-eu-amsterdam",
+      "summary": "KubeCon + CloudNativeCon Europe 2026 in Amsterdam highlighted the evolution of cloud native practices, particularly in platform engineering, and the growing focus on inclusion and accessibility within the community. This year’s conference emphasized that technical success...",
+      "published": "2026-04-10T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Diana Todea, DevRel Engineer at VictoriaMetrics and CNCF Community Organizer in Romania",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "PHP 8.5 is now available on Azure App Service for Linux",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/php-8-5-is-now-available-on-azure-app-service-for-linux/ba-p/4510254",
+      "summary": "PHP 8.5 is now available on Azure App Service for Linux across all public regions. You can create a new PHP 8.5 app through the Azure portal, automate it with the Azure CLI, or deploy using ARM/Bicep templates. PHP 8.5 brings several useful runtime improvements. It includes better diagnostics ,...",
+      "published": "2026-04-10T10:11:11+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "TulikaC",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Building scalable, serverless search solution with Elastic: CN Partner Showcase: Azure Kubernetes",
+      "link": "https://www.youtube.com/watch?v=sSh5sLVoLPA",
+      "summary": "Welcome to the Cloud Native Partners Showcase where we highlight innovative Partner solutions built on top of Azure Kubernetes Service (AKS). \n\nIn today's episode, David Giard talks to Greg Crist from Elastic Search to discuss how Elastic uses AKS to deliver a scalable, serverless cloud solution...",
+      "published": "2026-04-10T10:01:26+00:00",
+      "source": "AKS (Official)",
+      "type": "video",
+      "author": "Azure Kubernetes Service (AKS)",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/sSh5sLVoLPA/mqdefault.jpg"
+    },
+    {
+      "title": "A simpler way to deploy your code to Azure App Service for Linux",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/a-simpler-way-to-deploy-your-code-to-azure-app-service-for-linux/ba-p/4510240",
+      "summary": "We’ve added a new deployment experience for Azure App Service for Linux that makes it easier to get your code running on your web app. To get started, go to the Kudu/SCM site for your app: <sitename>.scm.azurewebsites.net From there, open the new Deployments experience. You can now deploy your app...",
+      "published": "2026-04-10T09:48:40+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "TulikaC",
+      "categories": [],
+      "thumbnail": ""
+    },
     {
       "title": "PyTorch Foundation Expands AI Stack with Safetensors, ExecuTorch, and Helion",
       "link": "https://thenewstack.io/pytorch-ai-stack-expand",
@@ -106,6 +213,39 @@
         "Video"
       ],
       "thumbnail": ""
+    },
+    {
+      "title": "Monitor AI Agents on App Service with OpenTelemetry and the New Application Insights Agents View",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/monitor-ai-agents-on-app-service-with-opentelemetry-and-the-new/ba-p/4510023",
+      "summary": "Part 2 of 2: In Blog 1 , we deployed a multi-agent travel planner on Azure App Service using the Microsoft Agent Framework (MAF) 1.0 GA. This post dives deep into how we instrumented those agents with OpenTelemetry and lit up the brand-new Agents (Preview) view in Application Insights. 📋...",
+      "published": "2026-04-09T16:43:43+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "jordanselig",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Build Multi-Agent AI Apps on Azure App Service with Microsoft Agent Framework 1.0",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/build-multi-agent-ai-apps-on-azure-app-service-with-microsoft/ba-p/4510017",
+      "summary": "A couple of months ago, we published a three-part series showing how to build multi-agent AI systems on Azure App Service using preview packages from the Microsoft Agent Framework (MAF) (formerly AutoGen / Semantic Kernel Agents). The series walked through async processing, the request-reply...",
+      "published": "2026-04-09T16:24:13+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "jordanselig",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "AWS just did the Impossible in Object Stores | S3Files can mount S3 on EC2",
+      "link": "https://www.youtube.com/watch?v=j30RsHnC99A",
+      "summary": "Join Membership for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nS3 Files is a shared file system that connects any AWS compute directly with your data in Amazon S3. It provides fast, direct access to all of your S3 data as files with full file system semantics and low-latency...",
+      "published": "2026-04-09T16:23:38+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/j30RsHnC99A/mqdefault.jpg"
     },
     {
       "title": "Open source maintainers are drowning in AI-generated pull requests. Enterprise teams are next.",
@@ -362,6 +502,17 @@
       "thumbnail": ""
     },
     {
+      "title": "KEDA Zero to Hero with 2 Real-time Demos",
+      "link": "https://www.youtube.com/watch?v=LwC71u2DyD0",
+      "summary": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCnnQ3ybuyFdzvgv2Ky5jnAA/join",
+      "published": "2026-04-07T16:38:40+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/LwC71u2DyD0/mqdefault.jpg"
+    },
+    {
       "title": "True enterprise sovereignty is more approachable than ever, thanks to K8s-powered cloud-neutral PostgreSQL",
       "link": "https://thenewstack.io/sovereign-postgresql-kubernetes-portability",
       "summary": "For years, the debate around digital sovereignty focused on infrastructure. Now the spotlight is shifting to a far more valuable The post True enterprise sovereignty is more approachable than ever, thanks to K8s-powered cloud-neutral PostgreSQL appeared first on The New Stack .",
@@ -393,6 +544,17 @@
         "Networking"
       ],
       "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes Operators: Handle multiple controllers, conflicts and retries like a pro",
+      "link": "https://www.youtube.com/watch?v=0PyNl-iE5G0",
+      "summary": "When multiple Kubernetes controllers update the same custom resource, you WILL hit conflict errors. Your operator caches an old resource version, another controller updates the object, and your update fails — \"the object has been modified, please apply your changes to the latest version.\"\n\nIn this...",
+      "published": "2026-04-07T12:30:01+00:00",
+      "source": "Kubesimplify",
+      "type": "video",
+      "author": "Kubesimplify",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/0PyNl-iE5G0/mqdefault.jpg"
     },
     {
       "title": "Agentic IIS Migration to Managed Instance on Azure App Service",
@@ -483,6 +645,17 @@
       "thumbnail": ""
     },
     {
+      "title": "Cosmos DB Optimization",
+      "link": "https://www.youtube.com/watch?v=RbH5F_3w47E",
+      "summary": "A dive into how we can optimize our Cosmos DB deployments and data morels.\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:37 - Service options and structure\n01:48 - Request Units (RUs)\n04:07 - Free SKU\n05:26 - Provisioned\n06:06 - Manual\n11:13 - Autoscale\n16:58 - Configuration\n23:03 -...",
+      "published": "2026-04-06T11:02:11+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/RbH5F_3w47E/mqdefault.jpg"
+    },
+    {
       "title": "Peer-to-Peer acceleration for AI model distribution with Dragonfly",
       "link": "https://www.cncf.io/blog/2026/04/06/peer-to-peer-acceleration-for-ai-model-distribution-with-dragonfly",
       "summary": "The problem: AI model distribution is broken at scale Large-scale AI model distribution presents challenges in performance, efficiency, and cost. Consider a typical scenario: an ML platform team manages a Kubernetes cluster with 200 GPU nodes....",
@@ -509,6 +682,17 @@
         "Developer tools"
       ],
       "thumbnail": ""
+    },
+    {
+      "title": "Google just shocked the AI world with Gemma 4 | You just need 1 GPU",
+      "link": "https://www.youtube.com/watch?v=PJsr9mc4lCM",
+      "summary": "Join Membership for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nGemma 4 is Google DeepMind’s latest open model focused on efficiency and local deployment. It brings strong performance to consumer GPUs without relying on the cloud.\n\nFree Course on the...",
+      "published": "2026-04-05T17:08:29+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/PJsr9mc4lCM/mqdefault.jpg"
     },
     {
       "title": "How we build Azure SRE Agent with agentic workflows",
@@ -560,6 +744,17 @@
       "thumbnail": ""
     },
     {
+      "title": "Anthropic code leak explained",
+      "link": "https://www.youtube.com/watch?v=rJEsh9A_wFQ",
+      "summary": "Join Membership for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- DevOps Zero to Hero Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
+      "published": "2026-04-03T17:02:37+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/rJEsh9A_wFQ/mqdefault.jpg"
+    },
+    {
       "title": "“I started to lose my ability to code”: Developers grapple with the real cost of AI programming tools",
       "link": "https://thenewstack.io/ai-coding-tools-reckoning",
       "summary": "Maybe it started in February, when programmer and entrepreneur Paul Ford, 51, wrote a guest essay for The New York The post “I started to lose my ability to code”: Developers grapple with the real cost of AI programming tools appeared first on The New Stack .",
@@ -609,6 +804,17 @@
       "thumbnail": ""
     },
     {
+      "title": "Building A Realtime AWS Serverless + AI Project",
+      "link": "https://www.youtube.com/watch?v=5AujrREXW0c",
+      "summary": "Prerequisites\n- Node.js 20+ installed\n- Requestly desktop app: (https://requestly.com/desktop) \n- Google Gemini Key\n- X API key\n\n𝗖𝗢𝗠𝗣𝗟𝗘𝗧𝗘 COURSES  👌 It’s   🅵🆁🅴🅴 ⛳\n✅ Terraform Full Course For Beginners - #28daysofAZTerraform\nhttps://www.youtube.com/playlist?list=PLl4APkPHzsUUHlbhuq9V02n9AMLPySoEQ\n\n✅...",
+      "published": "2026-04-03T11:00:06+00:00",
+      "source": "Piyush Sachdeva",
+      "type": "video",
+      "author": "Tech Tutorials with Piyush",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/5AujrREXW0c/mqdefault.jpg"
+    },
+    {
       "title": "The laptop return that broke a RAG pipeline",
       "link": "https://thenewstack.io/rag-pipeline-hybrid-search",
       "summary": "And how to fix it with hybrid search A few months ago, one of our users filed a bug report The post The laptop return that broke a RAG pipeline appeared first on The New Stack .",
@@ -624,6 +830,17 @@
         "sponsored-post-contributed"
       ],
       "thumbnail": ""
+    },
+    {
+      "title": "Azure Update 3rd April 2026",
+      "link": "https://www.youtube.com/watch?v=x8ULC4uDQos",
+      "summary": "Pretty quick update this week but some amaze amaze amaze items!\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just...",
+      "published": "2026-04-03T10:18:23+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/x8ULC4uDQos/mqdefault.jpg"
     },
     {
       "title": "Bring Your Own Model (BYOM) for Azure AI Applications using Azure Machine Learning",
@@ -1006,6 +1223,17 @@
         "Developer tools"
       ],
       "thumbnail": ""
+    },
+    {
+      "title": "Ollama Switched to Apple MLX - Here's Why Everything is Faster",
+      "link": "https://www.youtube.com/watch?v=OGJLV2H8b6I",
+      "summary": "Ollama 0.19 replaced llama.cpp with Apple's MLX framework on Apple Silicon  and the performance difference is massive. I tested it on my M1 Max (64 GB): decode speed went from 3.19 tok/s (llama.cpp) to 23.39 tok/s (MLX). 7x faster, same machine.\n\nIn this video I break down exactly what changed and...",
+      "published": "2026-03-31T17:50:55+00:00",
+      "source": "Kubesimplify",
+      "type": "video",
+      "author": "Kubesimplify",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/OGJLV2H8b6I/mqdefault.jpg"
     },
     {
       "title": "Continued Investment in Azure App Service",
@@ -3815,125 +4043,6 @@
       "summary": "Have you ever heard of CNCF’s DevStats? It is a tool that tracks and quantifies all contribution activities within CNCF projects by pulling data from GitHub. Using this data, we can analyze ongoing development in CNCF...",
       "published": "2026-03-12T11:00:00+00:00",
       "source": "CNCF Blog"
-    },
-    {
-      "title": "Cloud Tutorials That Prepare You for Cloud Certifications in 2026",
-      "link": "https://kodekloud.com/blog/cloud-tutorials-that-prepare-you-for-cloud-certifications-in-2026",
-      "summary": "Best cloud tutorials to prepare for certifications in 2026. Learn AWS, containers, Kubernetes, and DevOps with hands-on resources.",
-      "published": "2026-03-12T05:58:00+00:00",
-      "source": "KodeKloud",
-      "type": "article"
-    },
-    {
-      "title": "Galileo releases Agent Control, a centralized guardrails platform for enterprise AI agents",
-      "link": "https://thenewstack.io/galileo-agent-control-open-source",
-      "summary": "Galileo, a company known for its AI observability and guardrails technology, on Wednesday released Agent Control, an open source control The post Galileo releases Agent Control, a centralized guardrails platform for enterprise AI agents appeared first on The New Stack .",
-      "published": "2026-03-11T19:48:43+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Steven J. Vaughan-Nichols",
-      "categories": [
-        "AI Agents",
-        "AI Operations",
-        "Open Source",
-        "500"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Nvidia launches Nemotron 3 Super, a 120B open model for large-scale AI systems",
-      "link": "https://thenewstack.io/nvidia-launches-nemotron-3-super-a-120b-open-model-for-large-scale-ai-systems",
-      "summary": "Ahead of its flagship GTC conference next week, Nvidia on Wednesday launched the second model in its open-weight Nemotron 3 The post Nvidia launches Nemotron 3 Super, a 120B open model for large-scale AI systems appeared first on The New Stack .",
-      "published": "2026-03-11T18:30:23+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Tetrate launches open source marketplace to simplify Envoy adoption",
-      "link": "https://thenewstack.io/tetrate-built-on-envoy",
-      "summary": "Agentic AI development company Tetrate has launched Built on Envoy, a free and open source extensions marketplace for Envoy. Envoy The post Tetrate launches open source marketplace to simplify Envoy adoption appeared first on The New Stack .",
-      "published": "2026-03-11T17:52:22+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "Cloud Native Ecosystem",
-        "Microservices",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Microsoft’s VS Code team moved to weekly releases after 10 years of monthly — and credits AI for making it possible",
-      "link": "https://thenewstack.io/vs-code-ai-copilot",
-      "summary": "Earlier this year, Pierce Boggan, the Product Lead for VS Code and GitHub Copilot at Microsoft, quietly dropped a bombshell The post Microsoft’s VS Code team moved to weekly releases after 10 years of monthly — and credits AI for making it possible appeared first on The New Stack .",
-      "published": "2026-03-11T17:38:13+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Darryl K. Taft",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "JetBrains names the debt AI agents leave behind",
-      "link": "https://thenewstack.io/jetbrains-names-the-debt-ai-agents-leave-behind",
-      "summary": "Developers have spent years fighting technical debt. Now there’s a new variant accumulating in codebases, and many teams don’t even The post JetBrains names the debt AI agents leave behind appeared first on The New Stack .",
-      "published": "2026-03-11T16:57:30+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Darryl K. Taft",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“Self-healing” IT? HPE research explores how AI-trained models can catch silent infrastructure failures",
-      "link": "https://thenewstack.io/hpe-self-healing-ai-infrastructure",
-      "summary": "The volume of data and noise that comes with enterprise IT complexity leaves operations teams struggling to understand how to The post “Self-healing” IT? HPE research explores how AI-trained models can catch silent infrastructure failures appeared first on The New Stack .",
-      "published": "2026-03-11T16:37:09+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jennifer Riggins",
-      "categories": [
-        "AI Operations",
-        "Large Language Models",
-        "Observability",
-        "Operations",
-        "sponsor-hpe",
-        "Sponsored",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "From Single Apps to Scale Solutions: How AI Agents Scale Modernization",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/from-single-apps-to-scale-solutions-how-ai-agents-scale/ba-p/4500059",
-      "summary": "AI is rewriting the modernization playbook. Over the past few years, AI has changed software development faster than anything we’ve seen in decades. And it’s not just about writing code faster. AI is reducing the day-to-day friction that slows teams down: upgrades, migrations, test failures,...",
-      "published": "2026-03-11T15:00:00+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "mandywhaley",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Ultimate End to End DevSecOps Project Implementation | 3 Hours Tutorial",
-      "link": "https://www.youtube.com/watch?v=fuiTqI3noTo",
-      "summary": "Join Membership for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nIn this video, I will prepare, build and deploy a full-stack blog platform called **Jerney** from scratch using a complete **DevSecOps Implementation**. This isn't just \"deploy an app\". This is production-grade...",
-      "published": "2026-03-11T13:59:00+00:00",
-      "source": "Abhishek Veeramalla"
     }
   ]
 }
