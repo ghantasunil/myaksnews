@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-04-11T06:21:06.390089+00:00",
-    "total_items": 292,
+    "generated_at": "2026-04-12T06:30:19.835789+00:00",
+    "total_items": 282,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -19,6 +19,51 @@
     ]
   },
   "items": [
+    {
+      "title": "HPA-managed workloads: Why the obvious waste stays",
+      "link": "https://thenewstack.io/hpa-managed-workloads-why-waste-stays",
+      "summary": "Teams running Kubernetes can usually see where they’re overprovisioned. Requests are higher than they need to be, there’s consistent headroom, and capacity The post HPA-managed workloads: Why the obvious waste stays appeared first on The New Stack .",
+      "published": "2026-04-12T01:51:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Yasmin Rajabi",
+      "categories": [
+        "Operations",
+        "Software Development",
+        "Contributed",
+        "contributed-cloudbolt"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "What I Learned at My First KubeCon + CloudNativeCon as a High School Speaker",
+      "link": "https://www.cncf.io/blog/2026/04/11/what-i-learned-at-my-first-kubecon-cloudnativecon-as-a-high-school-speaker",
+      "summary": "KubeCon + CloudNativeCon Europe 2026 is one of the biggest open-source conferences in the world, organized by the Cloud Native Computing Foundation (part of the Linux Foundation, which manages major projects like Linux). It brings together...",
+      "published": "2026-04-11T12:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Avery Yang, Student at North Carolina School of Science and Mathematics",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Karpathy says developers have ‘AI Psychosis.’ Everyone else is next.",
+      "link": "https://thenewstack.io/karpathy-says-developers-have-ai-psychosis-everyone-else-is-next",
+      "summary": "I’m Matt Burns, Chief Content Officer at Insight Media Group. Each week, I round up the most important AI developments, The post Karpathy says developers have ‘AI Psychosis.’ Everyone else is next. appeared first on The New Stack .",
+      "published": "2026-04-11T10:10:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Matthew Burns",
+      "categories": [
+        "AI Models",
+        "AI Strategy",
+        "Vibe Coding",
+        "ai-signal"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Where are the guardrails everyone promised for AI?",
       "link": "https://thenewstack.io/skiplabs-ai-guardrails-skipper",
@@ -3883,166 +3928,6 @@
       "summary": "An AMA to celebrate hitting 400,000 subscribers. A great 60 minutes of interactive Q&A!",
       "published": "2026-03-13T09:05:00+00:00",
       "source": "John Savill"
-    },
-    {
-      "title": "Proactive Health Monitoring and Auto-Communication Now Available for Azure Container Registry",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/proactive-health-monitoring-and-auto-communication-now-available/ba-p/4501378",
-      "summary": "Today, we're introducing Azure Container Registry's (ACR) latest service health enhancement: automated auto-communication through Azure Service Health alerts . When ACR detects degradation in critical operations—authentication, image push, and pull—your teams are now proactively notified through...",
-      "published": "2026-03-12T22:54:28+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "FeynmanZhou",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Before you let AI agents loose, you’d better know what they’re capable of",
-      "link": "https://thenewstack.io/risk-mitigation-agentic-ai",
-      "summary": "For enterprises, agentic AI systems potentially allow staff responsibilities to shift from execution to judgment, oversight, and strategy. This creates The post Before you let AI agents loose, you’d better know what they’re capable of appeared first on The New Stack .",
-      "published": "2026-03-12T20:22:11+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Charles Humble",
-      "categories": [
-        "AI Engineering",
-        "AI Operations",
-        "API Management",
-        "sponsor-naftiko",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Google will soon bring Chrome to ARM64 Linux",
-      "link": "https://thenewstack.io/google-will-soon-bring-chrome-to-arm64-linux",
-      "summary": "Google on Thursday announced that it will finally launch Chrome for ARM64 Linux devices in the second quarter of 2026. The post Google will soon bring Chrome to ARM64 Linux appeared first on The New Stack .",
-      "published": "2026-03-12T20:00:43+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "Linux"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "SurePath AI advances MCP policy controls to tighten the cable on AI’s USB-C",
-      "link": "https://thenewstack.io/surepath-ai-mcp-policy-controls",
-      "summary": "AI needs governance. Amid the exponential growth of predictive, generative, and agentic artificial intelligence, humans everywhere have repeatedly asked, “Is The post SurePath AI advances MCP policy controls to tighten the cable on AI’s USB-C appeared first on The New Stack .",
-      "published": "2026-03-12T19:54:57+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI Engineering",
-        "Model Context Protocol (MCP)",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "New Perplexity APIs give developers access to agentic workflows and orchestration",
-      "link": "https://thenewstack.io/perplexity-agent-api",
-      "summary": "On the heels of last month’s Perplexity Computer launch, the company on Thursday announced an expansion of the Perplexity API The post New Perplexity APIs give developers access to agentic workflows and orchestration appeared first on The New Stack .",
-      "published": "2026-03-12T19:22:06+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Infrastructure"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic’s Claude can now draw interactive charts and diagrams",
-      "link": "https://thenewstack.io/anthropics-claude-interactive-visualizations",
-      "summary": "Anthropic’s Claude has always been great at coding and working with text, but where Google and OpenAI invested heavily in The post Anthropic’s Claude can now draw interactive charts and diagrams appeared first on The New Stack .",
-      "published": "2026-03-12T18:00:37+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why AI-driven operations are pushing governance beyond a compliance issue and into an operational priority",
-      "link": "https://thenewstack.io/five-pillars-ai-governance",
-      "summary": "Board members and senior executives are pushing hard to accelerate AI adoption. As a result, significant numbers of organizations have The post Why AI-driven operations are pushing governance beyond a compliance issue and into an operational priority appeared first on The New Stack .",
-      "published": "2026-03-12T16:21:37+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "João Freitas",
-      "categories": [
-        "AI Agents",
-        "AI Operations",
-        "AI Strategy",
-        "sponsor-pagerduty",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "This is what Top 1 Percent Engineers do different.",
-      "link": "https://www.youtube.com/watch?v=PA15ssQkvmU",
-      "summary": "Link to Register for NVIDIA GTC (FREE):\nhttps://nvda.ws/49XaLgU\n\nComment - \"Registered\" to enter the raffle.\n\n- MLOps 101: Platforms and Processes for Building AI [S81628]\n- Open Source AI Shaping the Next Era of Intelligent Digital Workers [S81789]\n- How Open Models, Agents, and Physical AI Are...",
-      "published": "2026-03-12T16:12:00+00:00",
-      "source": "Abhishek Veeramalla"
-    },
-    {
-      "title": "Docker Model Runner on NVIDIA DGX Spark - Build a Local AI App (No API Keys!)",
-      "link": "https://www.youtube.com/watch?v=ANyZCmRktbY",
-      "summary": "What if you could run a full LLM locally with GPU acceleration — no API keys, no cloud costs, no data leaving your machine? In this video, I demo Docker Model Runner running on the NVIDIA DGX Spark (128GB unified memory, Blackwell GPU) and build a real Release Note Explainer app from scratch.\n\nThe...",
-      "published": "2026-03-12T13:38:03+00:00",
-      "source": "Kubesimplify"
-    },
-    {
-      "title": "Runpod report: Qwen has overtaken Meta’s Llama as the most-deployed self-hosted LLM",
-      "link": "https://thenewstack.io/runpod-ai-infrastructure-reality",
-      "summary": "The rise of agentic AI services has enabled the enterprise technology market to blossom with a new, fully evolved set The post Runpod report: Qwen has overtaken Meta’s Llama as the most-deployed self-hosted LLM appeared first on The New Stack .",
-      "published": "2026-03-12T13:00:57+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI Infrastructure",
-        "AI Strategy",
-        "Cloud Services"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Gloo built a faith-based AI platform that already has secular interest",
-      "link": "https://thenewstack.io/gloo-built-an-ai-platform-where-values-alignment-isnt-a-system-prompt",
-      "summary": "AI models have gotten a lot better at avoiding hallucinations, and the frontier labs tend to put strict guardrails around The post Gloo built a faith-based AI platform that already has secular interest appeared first on The New Stack .",
-      "published": "2026-03-12T12:00:11+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Infrastructure",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Making etcd incidents easier to debug in production Kubernetes",
-      "link": "https://www.cncf.io/blog/2026/03/12/making-etcd-incidents-easier-to-debug-in-production-kubernetes",
-      "summary": "Diagnosing and Recovering etcd: Practical tools for Kubernetes Operators When Kubernetes clusters experience serious issues, the symptoms are often vague but the impact is immediate. Control plane requests slow down. API calls begin to time out....",
-      "published": "2026-03-12T11:04:00+00:00",
-      "source": "CNCF Blog"
-    },
-    {
-      "title": "Japan’s CNCF DevStats 2025",
-      "link": "https://www.cncf.io/blog/2026/03/12/japans-cncf-devstats-2025",
-      "summary": "Have you ever heard of CNCF’s DevStats? It is a tool that tracks and quantifies all contribution activities within CNCF projects by pulling data from GitHub. Using this data, we can analyze ongoing development in CNCF...",
-      "published": "2026-03-12T11:00:00+00:00",
-      "source": "CNCF Blog"
     }
   ]
 }
