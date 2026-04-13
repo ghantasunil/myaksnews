@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-04-12T06:30:19.835789+00:00",
-    "total_items": 282,
+    "generated_at": "2026-04-13T06:41:39.658264+00:00",
+    "total_items": 277,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,21 @@
   },
   "items": [
     {
+      "title": "Cursor, Claude Code, and Codex are merging into one AI coding stack nobody planned",
+      "link": "https://thenewstack.io/ai-coding-tool-stack",
+      "summary": "The AI coding tool market was supposed to consolidate. One winner would emerge, developers would standardize around it, and the The post Cursor, Claude Code, and Codex are merging into one AI coding stack nobody planned appeared first on The New Stack .",
+      "published": "2026-04-12T12:56:18+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Janakiram MSV",
+      "categories": [
+        "AI Agents",
+        "Developer tools",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
+    {
       "title": "HPA-managed workloads: Why the obvious waste stays",
       "link": "https://thenewstack.io/hpa-managed-workloads-why-waste-stays",
       "summary": "Teams running Kubernetes can usually see where they’re overprovisioned. Requests are higher than they need to be, there’s consistent headroom, and capacity The post HPA-managed workloads: Why the obvious waste stays appeared first on The New Stack .",
@@ -34,6 +49,17 @@
         "contributed-cloudbolt"
       ],
       "thumbnail": ""
+    },
+    {
+      "title": "If AI can create DevOps Configuration, Why learn DevOps?",
+      "link": "https://www.youtube.com/watch?v=NohaG-bqRjs",
+      "summary": "Join Membership for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nIf AI can create DevOps Configuration, Why learn DevOps?\n\nFree Course on the channel\n==============================\n- DevOps Zero to Hero Playlist:...",
+      "published": "2026-04-11T16:28:56+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/NohaG-bqRjs/mqdefault.jpg"
     },
     {
       "title": "What I Learned at My First KubeCon + CloudNativeCon as a High School Speaker",
@@ -3848,86 +3874,6 @@
         "Operations"
       ],
       "thumbnail": ""
-    },
-    {
-      "title": "NanoClaw and Docker team up to isolate AI agents inside MicroVM sandboxes",
-      "link": "https://thenewstack.io/nanoclaw-docker-sandboxes-ai-agents",
-      "summary": "Like the idea of OpenClaw-style agents, but their insecurity makes you sweat? The combo of NanoClaw and Docker Sandboxes may The post NanoClaw and Docker team up to isolate AI agents inside MicroVM sandboxes appeared first on The New Stack .",
-      "published": "2026-03-13T19:26:34+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Steven J. Vaughan-Nichols",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Open Source",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "F-Droid says Google’s Android developer verification plan is an ‘existential’ threat to alternative app stores",
-      "link": "https://thenewstack.io/f-droid-says-googles-android-developer-verification-plan-is-an-existential-threat-to-alternative-app-stores",
-      "summary": "Attention, any developers hoping to sell their apps to the world’s 3.3 billion Android phones. “Google is changing the way The post F-Droid says Google’s Android developer verification plan is an ‘existential’ threat to alternative app stores appeared first on The New Stack .",
-      "published": "2026-03-13T18:33:01+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "David Cassel",
-      "categories": [
-        "Open Source",
-        "Security",
-        "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Azure Update 13th March 2026",
-      "link": "https://www.youtube.com/watch?v=17uHDPjdkto",
-      "summary": "Happy Friday the 13th!\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation queue never to be...",
-      "published": "2026-03-13T15:18:27+00:00",
-      "source": "John Savill"
-    },
-    {
-      "title": "A Practical Path Forward for Heroku Customers with Azure",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/a-practical-path-forward-for-heroku-customers-with-azure/ba-p/4501797",
-      "summary": "On February 6, 2026, Heroku announced it is moving to a sustaining engineering model focused on stability, security, reliability, and ongoing support. Many customers are now reassessing how their application platforms will support today’s workloads and future innovation. Microsoft is committed to...",
-      "published": "2026-03-13T15:00:00+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "NagaSurendran",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "The “files are all you need” debate misses what’s actually happening in agent memory architecture",
-      "link": "https://thenewstack.io/ai-agent-memory-architecture",
-      "summary": "When you look at how top engineering teams actually build agent memory systems, a pattern emerges: There is a filesystem The post The “files are all you need” debate misses what’s actually happening in agent memory architecture appeared first on The New Stack .",
-      "published": "2026-03-13T12:00:28+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Mikiko Bazeley",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Databases",
-        "sponsor-mongodb",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "KubeCon + CloudNativeCon Europe 2026 Co-located Event Deep Dive: Observability Day",
-      "link": "https://www.cncf.io/blog/2026/03/13/kubecon-cloudnativecon-europe-2026-co-located-event-deep-dive-observability-day",
-      "summary": "Observability Day has become a cornerstone gathering for the cloud native observability community. The event evolved from FluentCon at KubeCon Europe 2022 in Valencia and Open Observability Day at KubeCon North America 2022, bringing together maintainers...",
-      "published": "2026-03-13T11:00:00+00:00",
-      "source": "CNCF Blog"
-    },
-    {
-      "title": "400K Ask Me Anything YouTube Live Stream",
-      "link": "https://www.youtube.com/watch?v=-agWE4TNPD0",
-      "summary": "An AMA to celebrate hitting 400,000 subscribers. A great 60 minutes of interactive Q&A!",
-      "published": "2026-03-13T09:05:00+00:00",
-      "source": "John Savill"
     }
   ]
 }
