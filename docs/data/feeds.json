@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-04-13T06:41:39.658264+00:00",
-    "total_items": 277,
+    "generated_at": "2026-04-14T06:34:54.264381+00:00",
+    "total_items": 275,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -13,12 +13,57 @@
       "KodeKloud",
       "Kubernetes Blog",
       "Kubesimplify",
+      "LearnK8s",
       "Piyush Sachdeva",
       "Rawkode Academy",
       "The New Stack"
     ]
   },
   "items": [
+    {
+      "title": "Govern AI Agents on App Service with the Microsoft Agent Governance Toolkit",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/govern-ai-agents-on-app-service-with-the-microsoft-agent/ba-p/4510962",
+      "summary": "Part 3 of 3 — Multi-Agent AI on Azure App Service In Blog 1 , we built a multi-agent travel planner with Microsoft Agent Framework 1.0 on App Service. In Blog 2 , we added observability with OpenTelemetry and the new Application Insights Agents view. Now in Part 3, we secure those agents for...",
+      "published": "2026-04-13T21:15:44+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "jordanselig",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Entra ID Integrated SFTP",
+      "link": "https://www.youtube.com/watch?v=pzPqnTHxNPU",
+      "summary": "A dive into how we can optimize our Cosmos DB deployments and data morels.\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:32 - Using SFTP\n03:22 - Local user challenges\n05:04 - Entra ID integrated auth\n07:34 - Demo time\n12:44 - Token lifetime\n13:39 - Data plane RBAC and ABAC\n15:07 -...",
+      "published": "2026-04-13T07:31:05+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/pzPqnTHxNPU/mqdefault.jpg"
+    },
+    {
+      "title": "Introducing Wildcard Roles in Azure Web PubSub: simpler, smarter permissions for real-time apps",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/introducing-wildcard-roles-in-azure-web-pubsub-simpler-smarter/ba-p/4509524",
+      "summary": "Real-time interactivity is now a baseline expectation across industries, from collaborative dashboards to trading platforms, IoT monitoring, and live data visualizations. Developers need a way to broadcast data instantly to connected clients without worrying about connection management, scaling, or...",
+      "published": "2026-04-13T07:11:33+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "kevinguo",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "How does the Kubernetes controller manager work?",
+      "link": "https://learnkube.com/kubernetes-controller-manager-explained",
+      "summary": "The controller manager runs the control loops that make Kubernetes self-healing. Learn how controllers watch resources, reconcile desired state, and drive the chain reaction from Deployment to running Pods.",
+      "published": "2026-04-13T00:00:00+00:00",
+      "source": "LearnK8s",
+      "type": "article",
+      "author": "Daniele Polencic",
+      "categories": [],
+      "thumbnail": ""
+    },
     {
       "title": "Cursor, Claude Code, and Codex are merging into one AI coding stack nobody planned",
       "link": "https://thenewstack.io/ai-coding-tool-stack",
@@ -2160,6 +2205,17 @@
       "thumbnail": ""
     },
     {
+      "title": "400K Ask Me Anything YouTube Live Stream",
+      "link": "https://www.youtube.com/watch?v=-agWE4TNPD0",
+      "summary": "An AMA to celebrate hitting 400,000 subscribers. A great 60 minutes of interactive Q&A!",
+      "published": "2026-03-24T17:15:47+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/-agWE4TNPD0/mqdefault.jpg"
+    },
+    {
       "title": "Ai2 launches MolmoWeb, an open-source web agent",
       "link": "https://thenewstack.io/ai2-launches-molmoweb-an-open-source-web-agent",
       "summary": "AI agents that can browse the web and complete tasks on behalf of their users have gotten significantly better over The post Ai2 launches MolmoWeb, an open-source web agent appeared first on The New Stack .",
@@ -3767,111 +3823,6 @@
         "AI Operations",
         "Cloud Services",
         "700"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why AI systems are failing in familiar ways",
-      "link": "https://thenewstack.io/ai-agents-batch-size-gravity",
-      "summary": "With the introduction of AI-assisted coding tools and agents, many people hoped we’d solve all the problems for human teams. The post Why AI systems are failing in familiar ways appeared first on The New Stack .",
-      "published": "2026-03-14T20:00:53+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Steve Fenton",
-      "categories": [
-        "AI Engineering",
-        "AI Infrastructure",
-        "Operations",
-        "contributed-octopus-deploy",
-        "contributor"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Tromjaro is a free-trade Linux distribution with plenty to offer",
-      "link": "https://thenewstack.io/tromjaro-is-a-free-trade-linux-distribution-with-plenty-to-offer",
-      "summary": "Imagine having an OS that won’t track you, push ads on you, and not force “free” trials on you. Sounds The post Tromjaro is a free-trade Linux distribution with plenty to offer appeared first on The New Stack .",
-      "published": "2026-03-14T18:00:28+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jack Wallen",
-      "categories": [
-        "Linux"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The Agent that investigates itself",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/the-agent-that-investigates-itself/ba-p/4500073",
-      "summary": "Azure SRE Agent handles tens of thousands of incident investigations each week for internal Microsoft services and external teams running it for their own systems. Last month, one of those incidents was about the agent itself. Our KV cache hit rate alert started firing. Cached token percentage was...",
-      "published": "2026-03-14T16:23:57+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "sanchitmehta",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "TypeScript 6.0 RC arrives as a bridge to a faster future",
-      "link": "https://thenewstack.io/typescript-6-0-rc-arrives-as-a-bridge-to-a-faster-future",
-      "summary": "TypeScript 6.0 Release Candidate (RC) is here, and in some ways, it’s the most consequential release since the project hit The post TypeScript 6.0 RC arrives as a bridge to a faster future appeared first on The New Stack .",
-      "published": "2026-03-14T16:00:18+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Darryl K. Taft",
-      "categories": [
-        "JavaScript",
-        "Programming Languages",
-        "TypeScript"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "MCP’s biggest growing pains for production use will soon be solved",
-      "link": "https://thenewstack.io/model-context-protocol-roadmap-2026",
-      "summary": "The Model Context Protocol (MCP) has emerged as one of the key building blocks of the agentic AI stack, serving The post MCP’s biggest growing pains for production use will soon be solved appeared first on The New Stack .",
-      "published": "2026-03-14T14:00:57+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Model Context Protocol",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AI layoffs are here, the MCP vs API debate, and the rise of the Mac Mini-powered Agent",
-      "link": "https://thenewstack.io/ai-layoffs-mcp-api-mac-mini-agent",
-      "summary": "I’m Matt Burns, Head of Content at Insight Media Group. Each week, I round up the most important AI developments The post AI layoffs are here, the MCP vs API debate, and the rise of the Mac Mini-powered Agent appeared first on The New Stack .",
-      "published": "2026-03-14T13:32:07+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Matthew Burns",
-      "categories": [
-        "AI",
-        "AI Engineering",
-        "AI Strategy",
-        "Open Source",
-        "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Andrej Karpathy’s 630-line Python script ran 50 experiments overnight without any human input",
-      "link": "https://thenewstack.io/karpathy-autonomous-experiment-loop",
-      "summary": "On the night of March 7, Andrej Karpathy pushed a 630-line Python script to GitHub and went to sleep. By The post Andrej Karpathy’s 630-line Python script ran 50 experiments overnight without any human input appeared first on The New Stack .",
-      "published": "2026-03-14T12:00:11+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Janakiram MSV",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Large Language Models",
-        "Operations"
       ],
       "thumbnail": ""
     }
