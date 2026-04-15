@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-04-14T06:34:54.264381+00:00",
-    "total_items": 275,
+    "generated_at": "2026-04-15T06:34:46.210389+00:00",
+    "total_items": 281,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,161 @@
     ]
   },
   "items": [
+    {
+      "title": "Why observability platforms are becoming AI auditing tools",
+      "link": "https://thenewstack.io/agentic-ai-observability-auditing",
+      "summary": "Unknown unknowns take on a whole new meaning when AI agents are acting on our behalf. Up until now, autonomous The post Why observability platforms are becoming AI auditing tools appeared first on The New Stack .",
+      "published": "2026-04-14T22:55:01+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jennifer Riggins",
+      "categories": [
+        "AI Agents",
+        "AI Operations",
+        "Observability",
+        "sponsor-hpe",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic’s redesigned Claude Code desktop app lets you burn through tokens even faster",
+      "link": "https://thenewstack.io/claude-code-desktop-redesign",
+      "summary": "You’d think one major update to Claude Code would be enough for one day, but on Tuesday, Anthropic didn’t just The post Anthropic’s redesigned Claude Code desktop app lets you burn through tokens even faster appeared first on The New Stack .",
+      "published": "2026-04-14T21:43:48+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Claude Code can now do your job overnight",
+      "link": "https://thenewstack.io/claude-code-can-now-do-your-job-overnight",
+      "summary": "On Tuesday, Anthropic launched an oft-requested feature for Claude Code: routines. The idea here is that you can now run The post Claude Code can now do your job overnight appeared first on The New Stack .",
+      "published": "2026-04-14T18:56:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "CI/CD"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Spring creator wants Java’s type system to tame agentic AI",
+      "link": "https://thenewstack.io/spring-creator-java-type-system-agentic-ai-rod-johnson",
+      "summary": "Rod Johnson, the creator of the Spring Framework, is back with another open source project — and this time he’s The post Spring creator wants Java’s type system to tame agentic AI appeared first on The New Stack .",
+      "published": "2026-04-14T18:49:24+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "Operations"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Claude Mythos Preview completes full cyberattack simulation for the first time",
+      "link": "https://thenewstack.io/claude-mythos-preview-simulation",
+      "summary": "The UK-based AI Security Institute (ASI) this week released the results of its evaluation of Anthropic’s new Claude Mythos Preview, The post Claude Mythos Preview completes full cyberattack simulation for the first time appeared first on The New Stack .",
+      "published": "2026-04-14T18:35:03+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI Models",
+        "Emerging technologies",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Can you make Kubernetes invisible? Here’s why AWS is on a mission to do it.",
+      "link": "https://thenewstack.io/aws-kubernetes-invisible-simplicity",
+      "summary": "For this edition of The New Stack Makers, we sit down with Jesse Butler, principal product manager at AWS Elastic The post Can you make Kubernetes invisible? Here’s why AWS is on a mission to do it. appeared first on The New Stack .",
+      "published": "2026-04-14T17:52:51+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "KubeCon Cloudnativecon EU 2026",
+        "Kubernetes",
+        "Open Source",
+        "sponsor-aws-marketplace",
+        "sponsored-podcast-day-of-podcasting",
+        "sponsored-podcast-event"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Google’s Gemini in Chrome now lets you save prompts as “skills”",
+      "link": "https://thenewstack.io/gemini-chrome-saved-prompts",
+      "summary": "Google is bringing a new feature to Gemini in Chrome that lets you save and reuse your favorite AI prompts. The post Google’s Gemini in Chrome now lets you save prompts as “skills” appeared first on The New Stack .",
+      "published": "2026-04-14T17:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Emerging technologies"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kumo’s new foundation model replaces months of data science engineering with plain-English queries",
+      "link": "https://thenewstack.io/kumo-ai-foundation-models",
+      "summary": "Large language models are very good at predicting the next word in a sequence. That’s because they’ve been trained on The post Kumo’s new foundation model replaces months of data science engineering with plain-English queries appeared first on The New Stack .",
+      "published": "2026-04-14T16:01:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Infrastructure",
+        "AI Models",
+        "Data"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Beyond the VPN: Cloudflare Mesh builds a private network for the age of AI agents",
+      "link": "https://thenewstack.io/cloudflare-mesh-agent-networking",
+      "summary": "Cloud connectivity has long been a manual, fragmented headache for DevOps teams. On Tuesday, Cloudflare moved to bridge that gap The post Beyond the VPN: Cloudflare Mesh builds a private network for the age of AI agents appeared first on The New Stack .",
+      "published": "2026-04-14T15:04:59+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Networking"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "From clobbered drafts to real-time sync",
+      "link": "https://thenewstack.io/real-time-sync-engine",
+      "summary": "My colleague lost an afternoon of work because my auto-save overwrote his draft. That's when we knew we needed a sync engine. The post From clobbered drafts to real-time sync appeared first on The New Stack .",
+      "published": "2026-04-14T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "David Moore",
+      "categories": [
+        "Backend development",
+        "Software Development",
+        "TypeScript",
+        "sponsor-nitric",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Govern AI Agents on App Service with the Microsoft Agent Governance Toolkit",
       "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/govern-ai-agents-on-app-service-with-the-microsoft-agent/ba-p/4510962",
@@ -3767,64 +3922,6 @@
       "author": "John Savill's Technical Training",
       "categories": [],
       "thumbnail": "https://i.ytimg.com/vi/O3F0AVd0nSc/mqdefault.jpg"
-    },
-    {
-      "title": "How I make best PPTs in just 15 minutes using AI (No one will tell you this).",
-      "link": "https://www.youtube.com/watch?v=1A2TNvwr6ag",
-      "summary": "Join Membership for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nMost people spend hours making PowerPoint presentations. But today I’ll show you how to create a complete conference or office PPT in just 15 minutes using AI for free.\n\nFree Course on the...",
-      "published": "2026-03-15T17:07:17+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/1A2TNvwr6ag/mqdefault.jpg"
-    },
-    {
-      "title": "Beginners guide to vibe coding",
-      "link": "https://thenewstack.io/beginners-guide-to-vibe-coding",
-      "summary": "We talk a lot about vibe coding. And to be honest, I’d heard the term far too many times before The post Beginners guide to vibe coding appeared first on The New Stack .",
-      "published": "2026-03-15T16:00:31+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jessica Wachtel",
-      "categories": [
-        "AI Engineering",
-        "Software Development",
-        "Vibe Coding",
-        "Tutorial"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Ex-Snowflake engineers say there’s a blind spot in data engineering — so they built Tower to fix it",
-      "link": "https://thenewstack.io/tower-python-data-pipelines",
-      "summary": "AI coding assistants might have made it easier to generate software, but getting that code to run reliably — packaging The post Ex-Snowflake engineers say there’s a blind spot in data engineering — so they built Tower to fix it appeared first on The New Stack .",
-      "published": "2026-03-15T14:00:36+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI Engineering",
-        "AI Infrastructure",
-        "Data"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "A practical guide to the 6 categories of AI cloud infrastructure in 2026",
-      "link": "https://thenewstack.io/ai-cloud-taxonomy-2026",
-      "summary": "Platform teams and AI engineers are facing an unprecedented wave of decision paralysis. The rollout of NVIDIA’s Blackwell and GB200 The post A practical guide to the 6 categories of AI cloud infrastructure in 2026 appeared first on The New Stack .",
-      "published": "2026-03-15T12:00:07+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Janakiram MSV",
-      "categories": [
-        "AI Infrastructure",
-        "AI Operations",
-        "Cloud Services",
-        "700"
-      ],
-      "thumbnail": ""
     }
   ]
 }
