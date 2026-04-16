@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-04-15T06:34:46.210389+00:00",
-    "total_items": 281,
+    "generated_at": "2026-04-16T06:35:24.894697+00:00",
+    "total_items": 283,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,216 @@
     ]
   },
   "items": [
+    {
+      "title": "How To Measure the ROI of Developer Tools",
+      "link": "https://www.cncf.io/blog/2026/04/15/how-to-measure-the-roi-of-developer-tools",
+      "summary": "There’s been a growing emphasis in the cloud native community on investing in tools that improve developer experience. Platform engineering, accompanied with the rise of projects like Backstage, is all about making developers more productive by...",
+      "published": "2026-04-16T05:28:45+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Arsh Sharma | CNCF Ambassador, Senior Dev Rel at MetalBear",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Managing Multi‑Tenant Azure Resource with SRE Agent and Lighthouse",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/managing-multi-tenant-azure-resource-with-sre-agent-and/ba-p/4511789",
+      "summary": "Azure SRE Agent is an AI‑powered reliability assistant that helps teams diagnose and resolve production issues faster while reducing operational toil. It analyzes logs, metrics, alerts, and deployment data to perform root cause analysis and recommend or execute mitigations with human approval. It’s...",
+      "published": "2026-04-16T04:58:53+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Pranab_Mandal",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Using an AI Agent to Troubleshoot and Fix Azure Function App Issues",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/using-an-ai-agent-to-troubleshoot-and-fix-azure-function-app/ba-p/4511781",
+      "summary": "TOC Preparation Troubleshooting Workflow Conclusion Preparation Topic: Required tools AI agent: for example, Copilot CLI / OpenCode / Hermes / OpenClaw, etc. In this example, we use Copilot CLI. Model access: for example, Anthropic Claude Opus. Relevant skills: this example does not use skills, but...",
+      "published": "2026-04-16T03:11:32+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "theringe",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "A year in, Google wants its Axion processors to feel like a scheduling decision",
+      "link": "https://thenewstack.io/google-axion-kubernetes-arm",
+      "summary": "At KubeCon Europe in Amsterdam, The New Stack sat down with Jago Macleod and Abdel Sghiouar from Google Cloud to The post A year in, Google wants its Axion processors to feel like a scheduling decision appeared first on The New Stack .",
+      "published": "2026-04-15T22:41:08+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI Infrastructure",
+        "KubeCon Cloudnativecon EU 2026",
+        "Operations",
+        "Podcast",
+        "sponsor-arm",
+        "sponsor-google",
+        "Video"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Google Gemini Mac app debuts to end the clunky hunt for browser tabs",
+      "link": "https://thenewstack.io/gemini-app-macos-launch",
+      "summary": "Chipping away at the Apple-native stronghold is never easy; dedicated Mac addicts often harbor a curious proclivity for Mail and Safari, sometimes The post Google Gemini Mac app debuts to end the clunky hunt for browser tabs appeared first on The New Stack .",
+      "published": "2026-04-15T20:13:11+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI’s Agents SDK separates the harness from the compute",
+      "link": "https://thenewstack.io/openai-agents-sdk-sandboxes",
+      "summary": "OpenAI announced a major update to its Agents SDK on Wednesday, one that takes the model-agnostic SDK from being a The post OpenAI’s Agents SDK separates the harness from the compute appeared first on The New Stack .",
+      "published": "2026-04-15T18:48:52+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Engineering",
+        "AI Infrastructure"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Claude Code and the rise of personal software",
+      "link": "https://thenewstack.io/claude-code-and-the-rise-of-personal-software",
+      "summary": "It’s not news to say Claude Code is actively changing how software is built. But what is news is who’s The post Claude Code and the rise of personal software appeared first on The New Stack .",
+      "published": "2026-04-15T17:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jessica Wachtel",
+      "categories": [
+        "AI",
+        "Developer tools",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Gemma 4 on Azure Container Apps Serverless GPU",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/gemma-4-on-azure-container-apps-serverless-gpu/ba-p/4511671",
+      "summary": "Every prompt you send to a hosted AI service leaves your tenant. Your code, your architecture decisions, your proprietary logic — all of it crosses a network boundary you don't control. For teams building in regulated industries or handling sensitive IP, that's not a philosophical concern. It's a...",
+      "published": "2026-04-15T16:20:22+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "simonjj",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "What engineering leaders get wrong about data stack consolidation",
+      "link": "https://thenewstack.io/data-stack-consolidation-risks",
+      "summary": "When IBM announced its $11 billion agreement to acquire Confluent (shortly after also absorbing DataStax), most of the commentary focused The post What engineering leaders get wrong about data stack consolidation appeared first on The New Stack .",
+      "published": "2026-04-15T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Anil Inamdar",
+      "categories": [
+        "Data",
+        "Open Source",
+        "Platform Engineering",
+        "sponsor-instaclustr",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Postgres to Iceberg in 13 minutes: How Supermetal compares to Flink, Kafka Connect, and Spark",
+      "link": "https://thenewstack.io/postgres-iceberg-cdc-benchmarks",
+      "summary": "Supermetal recently added Iceberg sink support, and I wanted to take it for a spin. A couple of months ago, The post Postgres to Iceberg in 13 minutes: How Supermetal compares to Flink, Kafka Connect, and Spark appeared first on The New Stack .",
+      "published": "2026-04-15T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Yaroslav Tkachenko",
+      "categories": [
+        "Cloud Services",
+        "Data Streaming",
+        "Databases",
+        "sponsor-supermetal",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Cal.com goes private: A security reckoning for open source",
+      "link": "https://thenewstack.io/cal-com-codebase-security-ai",
+      "summary": "Cal.com, an open-source startup that builds scheduling infrastructure for developers and enterprises, announced on Tuesday that it’s moving its core codebase behind The post Cal.com goes private: A security reckoning for open source appeared first on The New Stack .",
+      "published": "2026-04-15T14:25:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "Open Source",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why “good enough” cloud databases are becoming a business risk",
+      "link": "https://thenewstack.io/cloud-database-complacency-research",
+      "summary": "A database is like a water heater. When all is well, it just does its job in the background. You The post Why “good enough” cloud databases are becoming a business risk appeared first on The New Stack .",
+      "published": "2026-04-15T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Cynthia Dunlop",
+      "categories": [
+        "AI Infrastructure",
+        "Cloud Services",
+        "Databases",
+        "sponsor-scylladb",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Agents are rewriting the rules of security. Here’s what engineering needs to know.",
+      "link": "https://thenewstack.io/securing-ai-agent-systems",
+      "summary": "AI agents are reshaping software development. They can autonomously read codebases, write and edit files, run tests, and fix bugs, The post Agents are rewriting the rules of security. Here’s what engineering needs to know. appeared first on The New Stack .",
+      "published": "2026-04-15T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Michelle Gill",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Security",
+        "sponsor-gitlab",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "When AI writes 100K lines of code, QA becomes the whole job",
+      "link": "https://thenewstack.io/ai-code-qa-bottleneck",
+      "summary": "Artur Balabanskyy runs Tapforce, an AI-first development agency, and he has a problem that nobody in the industry talks about The post When AI writes 100K lines of code, QA becomes the whole job appeared first on The New Stack .",
+      "published": "2026-04-15T11:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "John Biggs",
+      "categories": [
+        "AI Engineering",
+        "AI Operations",
+        "Software Development",
+        "Contributed"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Why observability platforms are becoming AI auditing tools",
       "link": "https://thenewstack.io/agentic-ai-observability-auditing",
@@ -3758,170 +3968,6 @@
         "Cloud Infrastructure"
       ],
       "thumbnail": ""
-    },
-    {
-      "title": "The Invisible Rewrite: Modernizing the Kubernetes Image Promoter",
-      "link": "https://kubernetes.io/blog/2026/03/17/image-promoter-rewrite",
-      "summary": "Every container image you pull from registry.k8s.io got there through kpromo , the Kubernetes image\npromoter. It copies images from staging registries to\nproduction, signs them with cosign , replicates\nsignatures across more than 20 regional mirrors, and generates SLSA provenance attestations. If...",
-      "published": "2026-03-17T00:00:00+00:00",
-      "source": "Kubernetes Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Nvidia brings together AI labs to build the next generation of open base models",
-      "link": "https://thenewstack.io/nvidia-tier2-nemotron-coalition",
-      "summary": "Nvidia on Monday announced the Nemotron Coalition at its GTC conference. This new coalition of AI labs will pool expertise, The post Nvidia brings together AI labs to build the next generation of open base models appeared first on The New Stack .",
-      "published": "2026-03-16T20:20:18+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Nvidia’s NemoClaw is OpenClaw with guardrails",
-      "link": "https://thenewstack.io/nemoclaw-openclaw-with-guardrails",
-      "summary": "At its annual GTC conference, Nvidia on Monday announced the Nvidia Agent Toolkit, which brings together open models, runtimes, open The post Nvidia’s NemoClaw is OpenClaw with guardrails appeared first on The New Stack .",
-      "published": "2026-03-16T20:05:24+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Engineering"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Cursor built a fleet of security agents to solve a familiar frustration",
-      "link": "https://thenewstack.io/cursor-open-sources-security-agents",
-      "summary": "Cursor‘s security team has built a fleet of AI agents that continuously monitor and secure the company’s codebase, and it The post Cursor built a fleet of security agents to solve a familiar frustration appeared first on The New Stack .",
-      "published": "2026-03-16T18:17:20+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI Agents",
-        "Developer tools",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Health-Aware Failover for Azure Container Registry Geo-Replication",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/health-aware-failover-for-azure-container-registry-geo/ba-p/4501730",
-      "summary": "Azure Container Registry (ACR) supports geo-replication : one registry resource with active-active (primary-primary), write-enabled geo-replicas across multiple Azure regions. You can push or pull through any replica, and ACR asynchronously replicates content and metadata to all other replicas...",
-      "published": "2026-03-16T18:11:49+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "johnsonshi_msft",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic doubles Claude usage outside peak hours — but it won’t last forever",
-      "link": "https://thenewstack.io/anthropic-doubles-claude-usage-outside-peak-hours",
-      "summary": "AI labs keep searching for ways to pull developers deeper into their ecosystems. The latest move comes from Anthropic, which The post Anthropic doubles Claude usage outside peak hours — but it won’t last forever appeared first on The New Stack .",
-      "published": "2026-03-16T18:02:30+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why AI workloads are breaking traditional Kubernetes observability strategies",
-      "link": "https://thenewstack.io/ai-kubernetes-observability-practices",
-      "summary": "For most platform engineering and ITOps teams, the ability to orchestrate containerized workloads at scale has transformed development organizations. But The post Why AI workloads are breaking traditional Kubernetes observability strategies appeared first on The New Stack .",
-      "published": "2026-03-16T14:04:13+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "TNS Staff",
-      "categories": [
-        "AI Operations",
-        "Kubernetes",
-        "Observability"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic makes a pricing change that matters for Claude’s longest prompts",
-      "link": "https://thenewstack.io/claude-million-token-pricing",
-      "summary": "Anthropic announced Friday that the 1-million-token context window for Claude Opus 4.6 and Claude Sonnet 4.6 is now generally available, The post Anthropic makes a pricing change that matters for Claude’s longest prompts appeared first on The New Stack .",
-      "published": "2026-03-16T13:33:09+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI Agents",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "KubeCon + CloudNativeCon Europe 2026 Co-located Event Deep Dive: Open Sovereign Cloud Day",
-      "link": "https://www.cncf.io/blog/2026/03/16/kubecon-cloudnativecon-europe-2026-co-located-event-deep-dive-open-sovereign-cloud-day",
-      "summary": "Open Sovereign Cloud Day arrives at a moment when digital sovereignty has moved from an abstract policy conversation to an urgent, practical engineering priority—especially across Europe. As cloud native continues to underpin modern infrastructure, the community...",
-      "published": "2026-03-16T13:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Co-chairs: Kurt Garloff, Peter Giese, Sachiko Muto, Margaret Dawson, Chris Aniszczyk, Gabriele Columbro, Mirko Boehm, Susan Remmert, Paula Grzegorzewska",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Agents write code. They don’t do software engineering.",
-      "link": "https://thenewstack.io/ai-agents-software-engineering",
-      "summary": "Long-running and background coding agents have hit a new threshold. When an agent runs for hours, manages its own iteration The post Agents write code. They don’t do software engineering. appeared first on The New Stack .",
-      "published": "2026-03-16T12:00:28+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Arjun Iyer",
-      "categories": [
-        "AI Agents",
-        "AI Strategy",
-        "Software Development",
-        "sponsor-signadot",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Registry Mirror Authentication with Kubernetes Secrets",
-      "link": "https://www.cncf.io/blog/2026/03/16/registry-mirror-authentication-with-kubernetes-secrets-2",
-      "summary": "Part II: A Platform Integration Example In Part I, we explored the architecture of the CRI-O credential provider and walked through a manual setup. In this part, we’ll see how platforms like OpenShift and its upstream...",
-      "published": "2026-03-16T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Sascha Grunert, Red Hat",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AI for Anyone - The 30-Minute Beginner’s Guide",
-      "link": "https://www.youtube.com/watch?v=O3F0AVd0nSc",
-      "summary": "Overview of generative AI for everyone!\n\nTry AI at https://copilot.microsoft.com/.\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:25 - Human brains\n04:27 - Neural networks\n06:34 - Training and parameters\n09:57 - Using a generative model\n11:54 - Orchestrators and assistants\n14:22 -...",
-      "published": "2026-03-16T07:33:50+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/O3F0AVd0nSc/mqdefault.jpg"
     }
   ]
 }
