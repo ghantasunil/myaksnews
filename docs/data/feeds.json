@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-04-16T06:35:24.894697+00:00",
-    "total_items": 283,
+    "generated_at": "2026-04-17T06:35:23.440796+00:00",
+    "total_items": 280,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,201 @@
     ]
   },
   "items": [
+    {
+      "title": "New in Azure SRE Agent: Log Analytics and Application Insights Connectors",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/new-in-azure-sre-agent-log-analytics-and-application-insights/ba-p/4509649",
+      "summary": "Azure SRE Agent now supports Log Analytics and Application Insights as log providers, backed by the Azure MCP Server . Connect your workspaces and App Insights resources, and the agent can query them directly during investigations. Why This Matters Log Analytics and Application Insights are common...",
+      "published": "2026-04-17T02:14:28+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Dalibor_Kovacevic",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Event-Driven IaC Operations with Azure SRE Agent: Terraform Drift Detection via HTTP Triggers",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/event-driven-iac-operations-with-azure-sre-agent-terraform-drift/ba-p/4512233",
+      "summary": "What Happens After terraform plan Finds Drift? If your team is like most, the answer looks something like this: A nightly terraform plan runs and finds 3 drifted resources A notification lands in Slack or Teams Someone files a ticket During the next sprint, an engineer opens 4 browser tabs —...",
+      "published": "2026-04-17T02:13:18+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Vineela-Suri",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "The AI-driven shift in vulnerability discovery: What maintainers and bug finders need to know",
+      "link": "https://www.cncf.io/blog/2026/04/16/the-ai-driven-shift-in-vulnerability-discovery-what-maintainers-and-bug-finders-need-to-know",
+      "summary": "AI models have recently drastically changed the sophistication, speed and scale of software vulnerability discovery. It is now trivial for non-experts to find real vulnerabilities in software with minimal effort and expertise. It is also now...",
+      "published": "2026-04-16T22:29:24+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Greg Castle (Kubernetes, Google)",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Explaining what GitHub Copilot Modernization can (and cannot do)",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/explaining-what-github-copilot-modernization-can-and-cannot-do/ba-p/4511739",
+      "summary": "In the last post , we looked at the workflow: assess, plan, execute. You get reports you can review and the agent makes changes you can inspect. If you don’t know, GitHub Copilot Modernization is the new agentic tool that supports you to in modernizing older applications. Could it support you with...",
+      "published": "2026-04-16T21:45:41+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "PabloLopes",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "As agentic AI explodes, Amazon doubles down on MCP",
+      "link": "https://thenewstack.io/amazon-aws-mcp-agentic",
+      "summary": "At the recent MCP Summit in New York City, The New Stack sat down with Clare Liguori, Senior Principal Software The post As agentic AI explodes, Amazon doubles down on MCP appeared first on The New Stack .",
+      "published": "2026-04-16T19:56:29+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Alex Wilhelm",
+      "categories": [
+        "AI Agents",
+        "Model Context Protocol (MCP)",
+        "Open Source",
+        "Podcast",
+        "sponsor-aws-marketplace",
+        "sponsored-podcast",
+        "Video"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Hugging Face pushes into “computer use” with HoloTab agent that works through your browser",
+      "link": "https://thenewstack.io/hugging-face-holotab",
+      "summary": "Most AI systems interact with software through structured pathways — APIs, code repositories, or tightly defined tool integrations. That setup The post Hugging Face pushes into “computer use” with HoloTab agent that works through your browser appeared first on The New Stack .",
+      "published": "2026-04-16T19:03:25+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI Agents",
+        "AI Models",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Who will maintain the web when PHP’s veterans retire?",
+      "link": "https://thenewstack.io/php-web-skills-hiring-age",
+      "summary": "A new report on the state of the PHP programming language shows that there is an emerging skills gap as The post Who will maintain the web when PHP’s veterans retire? appeared first on The New Stack .",
+      "published": "2026-04-16T18:53:18+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "Programming Languages",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Claude Opus 4.7 arrives with better vision, memory, and instruction-following",
+      "link": "https://thenewstack.io/claude-opus-47-launch",
+      "summary": "On Wednesday, Anthropic made available Claude Opus 4.7, a direct upgrade to Opus 4.6 that may outperform its predecessor on The post Claude Opus 4.7 arrives with better vision, memory, and instruction-following appeared first on The New Stack .",
+      "published": "2026-04-16T17:56:33+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI Engineering",
+        "AI Models",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI’s superapp is taking shape as Codex goes beyond coding",
+      "link": "https://thenewstack.io/openais-superapp-takes-shape",
+      "summary": "OpenAI has openly talked about its plans to build a unified AI superapp that combines ChatGPT with its Codex coding The post OpenAI’s superapp is taking shape as Codex goes beyond coding appeared first on The New Stack .",
+      "published": "2026-04-16T17:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Dogfooding and platforms: Spotify’s agentic-first development",
+      "link": "https://thenewstack.io/dogfooding-and-platforms-spotifys-agentic-first-development",
+      "summary": "If it’s good for engineers, it’s good for AI. But is the opposite true too? Spotify has famously gone all-in The post Dogfooding and platforms: Spotify’s agentic-first development appeared first on The New Stack .",
+      "published": "2026-04-16T16:55:03+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jennifer Riggins",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Developer tools",
+        "Operations",
+        "Platform Engineering",
+        "Software Development",
+        "sponsor-spotify",
+        "sponsored-webinar"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Expo bets big on React Native’s agentic future",
+      "link": "https://thenewstack.io/expo-bets-big-on-react-natives-agentic-future",
+      "summary": "As someone who spent more than six years leading React at Meta, few are as well-placed as Seth Webster to The post Expo bets big on React Native’s agentic future appeared first on The New Stack .",
+      "published": "2026-04-16T15:37:32+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI Agents",
+        "Backend development",
+        "Frontend Development",
+        "Open Source",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic lays down identity verification on Claude",
+      "link": "https://thenewstack.io/anthropic-claude-identity-verification",
+      "summary": "A new identity verification layer is being rolled out on Claude. Not a broad-brush edict or ruling applied to every The post Anthropic lays down identity verification on Claude appeared first on The New Stack .",
+      "published": "2026-04-16T13:21:54+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI",
+        "Large Language Models",
+        "Operations",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Is your internal platform ready to keep up with AI-accelerated development?",
+      "link": "https://thenewstack.io/is-your-internal-platform-ready-to-keep-up-with-ai-accelerated-development",
+      "summary": "Join our conversation to learn how an IDP-driven approach can turn your existing delivery infrastructure into a true self-service experience, The post Is your internal platform ready to keep up with AI-accelerated development? appeared first on The New Stack .",
+      "published": "2026-04-16T10:07:08+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "TNS Staff",
+      "categories": [
+        "CI/CD",
+        "Developer tools",
+        "DevOps",
+        "Platform Engineering",
+        "Software Development",
+        "sponsor-harness",
+        "sponsored-webinar"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "How To Measure the ROI of Developer Tools",
       "link": "https://www.cncf.io/blog/2026/04/15/how-to-measure-the-roi-of-developer-tools",
@@ -397,6 +592,19 @@
       "thumbnail": ""
     },
     {
+      "title": "ingress-nginx to Envoy Gateway migration on CNCF internal services cluster",
+      "link": "https://www.cncf.io/blog/2026/04/13/ingress-nginx-to-envoy-gateway-migration-on-cncf-internal-services-cluster",
+      "summary": "CNCF hosts a Kubernetes cluster to run some services for internal purposes (namely; codimd, GUAC, kcp). The Kubernetes Project announced the ingress-nginx retirement (not to be confused with NGINX or NGINX Ingress Controller), which also affects the above mentioned Cluster. So...",
+      "published": "2026-04-13T14:01:35+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Koray Oksay, Kubermatic",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
       "title": "Entra ID Integrated SFTP",
       "link": "https://www.youtube.com/watch?v=pzPqnTHxNPU",
       "summary": "A dive into how we can optimize our Cosmos DB deployments and data morels.\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:32 - Using SFTP\n03:22 - Local user challenges\n05:04 - Entra ID integrated auth\n07:34 - Demo time\n12:44 - Token lifetime\n13:39 - Data plane RBAC and ABAC\n15:07 -...",
@@ -742,6 +950,19 @@
         "Open Source",
         "sponsor-signadot",
         "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "CNCF and PyTorch communities come together at KubeCon + CloudNativeCon China 2026: CFP now open",
+      "link": "https://www.cncf.io/blog/2026/04/09/cncf-and-pytorch-communities-come-together-at-kubecon-china-2026-cfp-now-open",
+      "summary": "The cloud native, open infrastructure, and AI communities are coming together this year at one of Asia’s flagship open source events. KubeCon + CloudNativeCon + OpenInfra Summit Asia + PyTorch Conference China 2026 will take place from...",
+      "published": "2026-04-09T14:19:42+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "epower",
+      "categories": [
+        "Blog"
       ],
       "thumbnail": ""
     },
@@ -3698,276 +3919,6 @@
       "author": "John Savill's Technical Training",
       "categories": [],
       "thumbnail": "https://i.ytimg.com/vi/tQlNq8bH674/mqdefault.jpg"
-    },
-    {
-      "title": "After Ingress NGINX: Migrating to Application Gateway for Containers",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/after-ingress-nginx-migrating-to-application-gateway-for/ba-p/4503110",
-      "summary": "If you're running Ingress NGINX on AKS, you've probably seen the announcements by now. The community Ingress Nginx project is being retired, upstream maintenance ends in March 2026, and Microsoft's extended support for the Application Routing add-on runs out in November 2026. A requirement to...",
-      "published": "2026-03-17T21:03:22+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "samcogan",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Chainguard thinks most DevOps teams are solving container security the hard way",
-      "link": "https://thenewstack.io/chainguard-os-packages-containers",
-      "summary": "Chainguard OS is great, but what if you want to customize your own Linux? Now, with the Chainguard OS Package, The post Chainguard thinks most DevOps teams are solving container security the hard way appeared first on The New Stack .",
-      "published": "2026-03-17T20:04:28+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Steven J. Vaughan-Nichols",
-      "categories": [
-        "Containers",
-        "Linux",
-        "Open Source",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI’s GPT-5.4 mini and nano are built for the subagent era",
-      "link": "https://thenewstack.io/gpt-54-nano-mini",
-      "summary": "On Tuesday, OpenAI released GPT-5.4 mini and nano, two smaller models designed for tasks that agentic AI systems delegate: codebase searches, The post OpenAI’s GPT-5.4 mini and nano are built for the subagent era appeared first on The New Stack .",
-      "published": "2026-03-17T18:57:58+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "WebMCP turns any Chrome web page into an MCP server for AI agents",
-      "link": "https://thenewstack.io/webmcp-chrome-ai-agents",
-      "summary": "About two weeks ago, I posted about websites returning Markdown to make life easier for AI agents. While agents are already quite The post WebMCP turns any Chrome web page into an MCP server for AI agents appeared first on The New Stack .",
-      "published": "2026-03-17T18:50:12+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "David Eastman",
-      "categories": [
-        "AI Agents",
-        "Frontend Development",
-        "Model Context Protocol (MCP)"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "GitHub Copilot’s effect on collaboration has stunned researchers",
-      "link": "https://thenewstack.io/copilot-reshapes-developer-work",
-      "summary": "Generative AI tools like GitHub Copilot are not just speeding up coding; they are quietly rewiring how software developers divide The post GitHub Copilot’s effect on collaboration has stunned researchers appeared first on The New Stack .",
-      "published": "2026-03-17T18:42:31+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Steven J. Vaughan-Nichols",
-      "categories": [
-        "AI",
-        "Open Source",
-        "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Building an Enterprise Platform for Inference at Scale",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/building-an-enterprise-platform-for-inference-at-scale/ba-p/4498820",
-      "summary": "Architecture Decisions With the optimization stack in place, the next layer of decisions is architectural — how you distribute compute across GPUs, nodes, and deployment environments to match your model size and traffic profile. GPU Parallelism Strategy on AKS Strategy How It Works When to Use...",
-      "published": "2026-03-17T18:28:24+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "bobmital",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "The security hole that every enterprise AI deployment has (but nobody looks for)",
-      "link": "https://thenewstack.io/red-teaming-enterprise-ai-agents",
-      "summary": "The anti-automation glitterati may now be preparing for a new swathe of naysaying as agentic AI services are brought to The post The security hole that every enterprise AI deployment has (but nobody looks for) appeared first on The New Stack .",
-      "published": "2026-03-17T16:42:50+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI Agents",
-        "Security",
-        "Software Testing"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "What is KubeVirt and why it’s growing",
-      "link": "https://thenewstack.io/kubevirt-live-migration-mayastor",
-      "summary": "KubeVirt is an open-source project that brings virtual machines into the Kubernetes control plane, letting teams run VMs and containers The post What is KubeVirt and why it’s growing appeared first on The New Stack .",
-      "published": "2026-03-17T16:00:18+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Tiago Castro",
-      "categories": [
-        "Cloud Native Ecosystem",
-        "KubeCon Cloudnativecon EU 2026",
-        "Kubernetes",
-        "Storage",
-        "sponsor-cncf",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "I Broke Down Top 50 Linux Command a DevOps Engineer Needs — So You Don't Have To",
-      "link": "https://www.youtube.com/watch?v=z9Rsnh2X5Z0",
-      "summary": "Link to register for Hostinger VPS: https://www.hostg.xyz/SHJ4L\n\nTop 50 Linux Commands every DevOps Engineer should know!\nFull cheat sheet here: https://drive.google.com/file/d/1WPmeJO7Fu2WovcMbBmrD5Hn0ICAAxIZw/view?usp=sharing\n\n\n𝗖𝗢𝗠𝗣𝗟𝗘𝗧𝗘 COURSES  👌 It’s   🅵🆁🅴🅴 ⛳\n✅ Terraform Full Course For...",
-      "published": "2026-03-17T15:06:26+00:00",
-      "source": "Piyush Sachdeva",
-      "type": "video",
-      "author": "Tech Tutorials with Piyush",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/z9Rsnh2X5Z0/mqdefault.jpg"
-    },
-    {
-      "title": "This AI Platform creates Full stack apps with Auth + DB + Storage at lowest cost.",
-      "link": "https://www.youtube.com/watch?v=LoKELPCEy9M",
-      "summary": "Try Insforge for Free:\nhttps://insforge.dev\n\nIn this video, I will show you how to use an AI Native backend that is designed in a way, it can be automatically configured by AI agents like claude, copilot, codex etc.,. \n\nI built a full functional JIRA app with backend, database, authentication and...",
-      "published": "2026-03-17T14:42:56+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/LoKELPCEy9M/mqdefault.jpg"
-    },
-    {
-      "title": "The AI blind spot debt: the hidden cost killing your innovation strategy",
-      "link": "https://thenewstack.io/ai-blind-spot-debt",
-      "summary": "In today’s AI rush, I’ve seen even the most disciplined organizations find it nearly impossible to enforce the hard-won lessons The post The AI blind spot debt: the hidden cost killing your innovation strategy appeared first on The New Stack .",
-      "published": "2026-03-17T14:00:37+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Yuval Fernbach",
-      "categories": [
-        "AI Operations",
-        "AI Strategy",
-        "KubeCon Cloudnativecon EU 2026",
-        "Security",
-        "sponsor-cncf",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "KubeCon + CloudNativeCon Europe 2026 Co-located Event Deep Dive: KyvernoCon",
-      "link": "https://www.cncf.io/blog/2026/03/17/kubecon-cloudnativecon-europe-2026-co-located-event-deep-dive-kyvernocon",
-      "summary": "As Kubernetes adoption continues to accelerate across enterprise platforms and AI-driven workloads, organizations increasingly need automated guardrails for security, governance, and compliance. KyvernoCon launched in 2025 as the first event dedicated to the Kyverno community and...",
-      "published": "2026-03-17T13:08:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Co-chairs: Cortney Nickerson & Shuting Zhao",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Managed OpenClaw bids to kill hidden token tax on AI agents",
-      "link": "https://thenewstack.io/managed-openclaw-serverless-agents",
-      "summary": "Featherless is a serverless platform specialist that provides API-based access to open-source AI models via a supporting infrastructure. The concept The post Managed OpenClaw bids to kill hidden token tax on AI agents appeared first on The New Stack .",
-      "published": "2026-03-17T13:00:18+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Operations",
-        "Serverless"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why agentic AI stalls in production — and how a control plane fixes it",
-      "link": "https://thenewstack.io/agentic-ai-control-plane-production",
-      "summary": "For SREs, platform engineers, and AI/ML teams, agentic AI makes many promises that are hard to ignore. Autonomous agents that The post Why agentic AI stalls in production — and how a control plane fixes it appeared first on The New Stack .",
-      "published": "2026-03-17T13:00:16+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "TNS Staff",
-      "categories": [
-        "AI Agents",
-        "AI Strategy",
-        "Observability"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Your database is about to become an AI tool. Is it ready?",
-      "link": "https://thenewstack.io/securing-mcp-database-access",
-      "summary": "For 25 years, I’ve watched the database sit behind layers of protection: firewalls, VPNs, connection poolers, role-based access, and even The post Your database is about to become an AI tool. Is it ready? appeared first on The New Stack .",
-      "published": "2026-03-17T12:00:22+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Dan Baskette",
-      "categories": [
-        "AI Agents",
-        "Model Context Protocol (MCP)",
-        "Security",
-        "sponsor-vmware-tanzu",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "From monolith to global mesh: How Uber standardized ML at scale",
-      "link": "https://thenewstack.io/uber-standardized-ml-scale",
-      "summary": "Introduction: the scaling wall In 2015, Uber’s growth was outpacing its infrastructure. As the company evolved from a luxury car The post From monolith to global mesh: How Uber standardized ML at scale appeared first on The New Stack .",
-      "published": "2026-03-17T11:00:06+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Eric Wang",
-      "categories": [
-        "AI Infrastructure",
-        "KubeCon Cloudnativecon EU 2026",
-        "Kubernetes",
-        "Platform Engineering",
-        "sponsor-cncf",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "When Kubernetes restarts your pod — And when it doesn’t",
-      "link": "https://www.cncf.io/blog/2026/03/17/when-kubernetes-restarts-your-pod-and-when-it-doesnt",
-      "summary": "A production internals guide verified against Kubernetes 1.35 GACompanion repository: github.com/opscart/k8s-pod-restart-mechanics The terminology problem Engineers say “the pod restarted” when they mean four different things. Getting this wrong leads to flawed runbooks and bad on-call decisions....",
-      "published": "2026-03-17T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Shamsher Khan, Project Maintainer",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AWS vs Azure vs GCP: An Honest Comparison for 2026",
-      "link": "https://kodekloud.com/blog/aws-vs-azure-vs-gcp",
-      "summary": "Compare AWS, Azure, and GCP on pricing, AI/ML, compute, and Kubernetes. An honest guide to choosing the right cloud provider in 2026.",
-      "published": "2026-03-17T07:26:00+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "AWS vs Azure vs GCP",
-        "Cloud Provider Comparison",
-        "Cloud computing",
-        "AWS",
-        "Azure",
-        "GCP",
-        "Google Cloud",
-        "Cloud Pricing",
-        "Multi-Cloud",
-        "AI and Machine Learning",
-        "Cloud Infrastructure"
-      ],
-      "thumbnail": ""
     }
   ]
 }
