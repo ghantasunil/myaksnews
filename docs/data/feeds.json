@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-04-18T06:24:02.119505+00:00",
-    "total_items": 273,
+    "generated_at": "2026-04-19T06:32:54.195377+00:00",
+    "total_items": 267,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,37 @@
     ]
   },
   "items": [
+    {
+      "title": "Anthropic, OpenAI, Google, and Microsoft agree that the harness is the product. They disagree on the price.",
+      "link": "https://thenewstack.io/ai-agent-harness-pricing-split",
+      "summary": "On March 30, Sycamore announced a $65 million seed round to build what its founder calls an operating system for The post Anthropic, OpenAI, Google, and Microsoft agree that the harness is the product. They disagree on the price. appeared first on The New Stack .",
+      "published": "2026-04-18T16:40:04+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Janakiram MSV",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Strategy"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Google and OpenAI are making a run at Claude’s desktop moat, and Anthropic is making it easy",
+      "link": "https://thenewstack.io/google-and-openai-are-making-a-run-at-claudes-desktop-moat-and-anthropic-is-making-it-easy",
+      "summary": "I’m Matt Burns, Chief Content Officer at Insight Media Group. Each week, I round up the most important AI developments, The post Google and OpenAI are making a run at Claude’s desktop moat, and Anthropic is making it easy appeared first on The New Stack .",
+      "published": "2026-04-18T10:04:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Matthew Burns",
+      "categories": [
+        "AI",
+        "AI Models",
+        "AI Strategy",
+        "ai-signal"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "How to prepare your company for the era of agentic ITops",
       "link": "https://thenewstack.io/how-to-prepare-your-company-for-the-era-of-agentic-itops",
@@ -3708,123 +3739,6 @@
       "source": "CNCF Blog",
       "type": "article",
       "author": "End User Technical Advisory Board (TAB)",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Heroku Set the Standard. We're Just Removing the Ceiling",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/heroku-set-the-standard-we-re-just-removing-the-ceiling/ba-p/4504021",
-      "summary": "For a generation of developers, Heroku was where it clicked — the moment you realized shipping software didn't have to mean fighting infrastructure. Push your code, get a URL, focus on your product. That idea changed an industry, and a lot of us built our first real apps on it. Now that Heroku has...",
-      "published": "2026-03-20T05:15:54+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "simonjj",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Backend Development in 2026: What’s Changed, What Matters, and What to Learn Next",
-      "link": "https://thenewstack.io/introduction-to-backend-development",
-      "summary": "Overview of Backend Development Backend development, often called server-side development, involves building and overseeing applications that run on computers controlled The post Backend Development in 2026: What’s Changed, What Matters, and What to Learn Next appeared first on The New Stack .",
-      "published": "2026-03-19T18:37:14+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "TNS Staff",
-      "categories": [
-        "Backend development",
-        "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Jellyfish AI development study: The real sting has yet to land",
-      "link": "https://thenewstack.io/jellyfish-ai-engineering-trends",
-      "summary": "Developers are adopting and eschewing AI coding tools depending on their trust in the new automation mantra, the level of The post Jellyfish AI development study: The real sting has yet to land appeared first on The New Stack .",
-      "published": "2026-03-19T18:01:43+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI Engineering",
-        "Developer tools",
-        "Operations",
-        "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Cursor’s Composer 2 beats Opus 4.6 on coding benchmarks at a fraction of the price",
-      "link": "https://thenewstack.io/cursors-composer-2-beats-opus",
-      "summary": "Cursor on Thursday released Composer 2, the third generation of its in-house coding model. The model outperforms Anthropic’s Opus 4.6 The post Cursor’s Composer 2 beats Opus 4.6 on coding benchmarks at a fraction of the price appeared first on The New Stack .",
-      "published": "2026-03-19T15:39:18+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Sampling: the philosopher’s stone of distributed tracing",
-      "link": "https://thenewstack.io/distributed-tracing-sampling-opentelemetry",
-      "summary": "In modern observability, distributed tracing is often considered the most expressive signal. It can be used to capture much of The post Sampling: the philosopher’s stone of distributed tracing appeared first on The New Stack .",
-      "published": "2026-03-19T15:00:28+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Michele Mancioppi",
-      "categories": [
-        "Cloud Native Ecosystem",
-        "KubeCon Cloudnativecon EU 2026",
-        "Observability",
-        "Software Development",
-        "sponsor-cncf",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "KubeCon + CloudNativeCon Europe 2026 Co-located Event Deep Dive: Platform Engineering Day",
-      "link": "https://www.cncf.io/blog/2026/03/19/kubecon-cloudnativecon-europe-2026-co-located-event-deep-dive-platform-engineering-day",
-      "summary": "Platform Engineering Day launched at KubeCon in Paris in spring 2024 to create space for deeper discussion on platform engineering principles, practices, and real-world experiences. Now in its fifth edition in Amsterdam, the event reflects growing...",
-      "published": "2026-03-19T13:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Co-Chairs: Paula Kennedy, Stacey Potter and Stéphane Di Cesare",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Building a Kubernetes-native pattern for AI infrastructure at scale",
-      "link": "https://thenewstack.io/kubernetes-native-ai-infrastructure",
-      "summary": "When AI developer and ops teams first adopt large models on Kubernetes, the focus is usually on getting something to The post Building a Kubernetes-native pattern for AI infrastructure at scale appeared first on The New Stack .",
-      "published": "2026-03-19T12:00:19+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Sachi Desai",
-      "categories": [
-        "AI Infrastructure",
-        "AI Operations",
-        "KubeCon Cloudnativecon EU 2026",
-        "Kubernetes",
-        "sponsor-cncf",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Policy-as-Code: Flexible Kubernetes governance with Kyverno",
-      "link": "https://www.cncf.io/blog/2026/03/19/policy-as-code-flexible-kubernetes-governance-with-kyverno",
-      "summary": "Overview Kubernetes has fundamentally transformed how enterprises deploy and manage business workloads. As organizations build production applications at scale on Kubernetes, cluster size and complexity continue to grow—creating unprecedented challenges in ensuring cluster security, compliance,...",
-      "published": "2026-03-19T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Dahu Kuang, Lei Hou, and Shuting Zhao, Kyverno Project Maintainers",
       "categories": [
         "Blog"
       ],
