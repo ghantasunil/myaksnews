@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-04-19T06:32:54.195377+00:00",
-    "total_items": 267,
+    "generated_at": "2026-04-20T06:42:43.953633+00:00",
+    "total_items": 254,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,22 @@
     ]
   },
   "items": [
+    {
+      "title": "SmartBear’s Swagger update targets the API drift problem AI coding tools created",
+      "link": "https://thenewstack.io/smartbear-swagger-ai-api-management",
+      "summary": "Last week, SmartBear announced new capabilities for its commercial Swagger toolset designed to help organizations govern, validate, and scale APIs The post SmartBear’s Swagger update targets the API drift problem AI coding tools created appeared first on The New Stack .",
+      "published": "2026-04-19T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "API Management"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Anthropic, OpenAI, Google, and Microsoft agree that the harness is the product. They disagree on the price.",
       "link": "https://thenewstack.io/ai-agent-harness-pricing-split",
@@ -160,6 +176,17 @@
       "source": "Apps on Azure",
       "type": "article",
       "author": "Vineela-Suri",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "How the Kubernetes control plane works",
+      "link": "https://learnkube.com/kubernetes-control-plane",
+      "summary": "A visual map of the Kubernetes control plane with linked deep dives into the API server, scheduler, controller manager, and etcd.",
+      "published": "2026-04-17T00:00:00+00:00",
+      "source": "LearnK8s",
+      "type": "article",
+      "author": "LearnKube",
       "categories": [],
       "thumbnail": ""
     },
@@ -3531,218 +3558,6 @@
       "author": "Houssem Dellai",
       "categories": [],
       "thumbnail": "https://i.ytimg.com/vi/hdZE_O2fFt0/mqdefault.jpg"
-    },
-    {
-      "title": "AI can write your infrastructure code. There’s a reason most teams won’t let it.",
-      "link": "https://thenewstack.io/spacelift-ai-infrastructure-code",
-      "summary": "For this episode of The New Stack Agents, I sat down with Marcin Wyszynski, the technical co-founder of Spacelift and The post AI can write your infrastructure code. There’s a reason most teams won’t let it. appeared first on The New Stack .",
-      "published": "2026-03-20T20:18:14+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "AI Infrastructure",
-        "Podcast",
-        "Video"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Announcing Ingress2Gateway 1.0: Your Path to Gateway API",
-      "link": "https://kubernetes.io/blog/2026/03/20/ingress2gateway-1-0-release",
-      "summary": "With the Ingress-NGINX retirement scheduled for March 2026, the Kubernetes networking landscape is at a turning point.\nFor most organizations, the question isn't whether to migrate to Gateway API , but how to do so safely. Migrating from Ingress to Gateway API is a fundamental shift in API...",
-      "published": "2026-03-20T19:00:00+00:00",
-      "source": "Kubernetes Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Running Agents on Kubernetes with Agent Sandbox",
-      "link": "https://kubernetes.io/blog/2026/03/20/running-agents-on-kubernetes-with-agent-sandbox",
-      "summary": "The landscape of artificial intelligence is undergoing a massive architectural shift. In the early days of generative AI, interacting with a model was often treated as a transient, stateless function call: a request that spun up, executed for perhaps 50 milliseconds, and terminated. Today, the...",
-      "published": "2026-03-20T18:00:00+00:00",
-      "source": "Kubernetes Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "China is winning the open source AI race — but a US company still controls everything underneath",
-      "link": "https://thenewstack.io/china-leads-open-ai-models",
-      "summary": "Most of the AI spotlight shines on the biggest models from the biggest labs — Claude from Anthropic, GPT from The post China is winning the open source AI race — but a US company still controls everything underneath appeared first on The New Stack .",
-      "published": "2026-03-20T17:46:28+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Models",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "This FREE utility can make you 10X efficient with Kubernetes",
-      "link": "https://www.youtube.com/watch?v=GlZKLS9K_BE",
-      "summary": "Join Membership for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- DevOps Zero to Hero Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
-      "published": "2026-03-20T16:48:49+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/GlZKLS9K_BE/mqdefault.jpg"
-    },
-    {
-      "title": "Azure Update 20th March 2026",
-      "link": "https://www.youtube.com/watch?v=jkpcFAYJjvM",
-      "summary": "Lots of updates this week!\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation queue never to be...",
-      "published": "2026-03-20T16:05:24+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/jkpcFAYJjvM/mqdefault.jpg"
-    },
-    {
-      "title": "Why the ‘glorified host’ for AI is exactly the Kubernetes we need",
-      "link": "https://thenewstack.io/kubernetes-glorified-ai-host",
-      "summary": "I recently caught a post from Hyperframe Research that asked a question many of us in the cloud-native trenches have The post Why the ‘glorified host’ for AI is exactly the Kubernetes we need appeared first on The New Stack .",
-      "published": "2026-03-20T16:00:51+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Danielle Cook",
-      "categories": [
-        "AI Infrastructure",
-        "Cloud Native Ecosystem",
-        "KubeCon Cloudnativecon EU 2026",
-        "Kubernetes",
-        "sponsor-cncf",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI acquires Astral to bring open source Python developer tools to Codex — but details are still fuzzy",
-      "link": "https://thenewstack.io/openai-astral-acquisition",
-      "summary": "OpenAI this week announced its acquisition of Astral to bring the startup’s open source Python developer tools into the Codex The post OpenAI acquires Astral to bring open source Python developer tools to Codex — but details are still fuzzy appeared first on The New Stack .",
-      "published": "2026-03-20T14:33:55+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "AI Infrastructure",
-        "Developer tools",
-        "Python"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Heroku Entered Maintenance Mode — Here's Your Next Move",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/heroku-entered-maintenance-mode-here-s-your-next-move/ba-p/4504021",
-      "summary": "Heroku has entered sustaining engineering — no new features, no new enterprise contracts. If you're running production workloads on the platform, you're probably thinking about what comes next. Azure Container Apps is worth a serious look. Scale-to-zero pricing, event-driven autoscaling, built-in...",
-      "published": "2026-03-20T14:27:30+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "simonjj",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why flat Kubernetes networks fail at scale",
-      "link": "https://thenewstack.io/kubernetes-network-security-hierarchies",
-      "summary": "Rethinking network security hierarchies for cloud-native platforms Kubernetes networking is powerful. Its flexibility lets teams connect hundreds of microservices across The post Why flat Kubernetes networks fail at scale appeared first on The New Stack .",
-      "published": "2026-03-20T14:00:17+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Reza Ramezanpour",
-      "categories": [
-        "KubeCon Cloudnativecon EU 2026",
-        "Kubernetes",
-        "Networking",
-        "Security",
-        "sponsor-cncf",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "From pillars to platform: How open observability data is changing the industry",
-      "link": "https://thenewstack.io/open-observability-ai-platforms",
-      "summary": "As the observability industry pivots from proprietary systems to open frameworks, the traditional “pillars” of metrics, logs, and traces are The post From pillars to platform: How open observability data is changing the industry appeared first on The New Stack .",
-      "published": "2026-03-20T13:00:14+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Ted Young",
-      "categories": [
-        "AI Operations",
-        "KubeCon Cloudnativecon EU 2026",
-        "Observability",
-        "Open Source",
-        "sponsor-cncf",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Linux kernel scale is swamping an already-flawed CVE system",
-      "link": "https://thenewstack.io/linux-kernel-cve-system",
-      "summary": "Linux kernel developers operate under constraints that very few other open source community maintainers experience. Evolving the capabilities of the The post Linux kernel scale is swamping an already-flawed CVE system appeared first on The New Stack .",
-      "published": "2026-03-20T11:30:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jed Salazar",
-      "categories": [
-        "Cloud Native Ecosystem",
-        "Linux",
-        "Security",
-        "sponsor-edera",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Your Merge Forward guide to KubeCon + CloudNativeCon Amsterdam",
-      "link": "https://www.cncf.io/blog/2026/03/20/your-merge-forward-guide-to-kubecon-cloudnativecon-amsterdam",
-      "summary": "KubeCon + CloudNativeCon Europe 2026 is coming to Amsterdam, and Merge Forward is one of several groups bringing community, conversation, and a full lineup of sessions and events. Whether you’re a first-time attendee or a KubeCon...",
-      "published": "2026-03-20T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Beatriz Datangel Rodgers, Merge Forward",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Crossplane and AI: The case for API-first infrastructure",
-      "link": "https://www.cncf.io/blog/2026/03/20/crossplane-and-ai-the-case-for-api-first-infrastructure",
-      "summary": "AI-assisted development has changed the way engineers create and commit code. But writing code is no longer the bottleneck. The bottleneck is everything that happens after git push. From infrastructure provisioning, policy enforcement, day-two operations, drift,...",
-      "published": "2026-03-20T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Ana Margarita Medina, CNCF Ambassador",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "KubeCon + CloudNativeCon EU 2026: End User TAB recommendations and tips",
-      "link": "https://www.cncf.io/blog/2026/03/20/kubecon-cloudnativecon-eu-2026-end-user-tab-recommendations-and-tips",
-      "summary": "KubeCon + CloudNativeCon EU 2026 in Amsterdam will bring the cloud native community together with projects, vendors and end users in what is one of the largest open source events. In this post, we highlight sessions...",
-      "published": "2026-03-20T09:48:25+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "End User Technical Advisory Board (TAB)",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
     }
   ]
 }
