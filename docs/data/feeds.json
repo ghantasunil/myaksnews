@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-04-20T06:42:43.953633+00:00",
-    "total_items": 254,
+    "generated_at": "2026-04-21T06:35:36.136831+00:00",
+    "total_items": 255,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,78 @@
     ]
   },
   "items": [
+    {
+      "title": "SUSE and Nvidia reveal a turnkey AI factory for sovereign enterprise workloads",
+      "link": "https://thenewstack.io/suse-nvidia-ai-factory",
+      "summary": "Want to run your own digitally sovereign AI on Nvidia hardware? SUSE has the software stack you need. At SUSECON The post SUSE and Nvidia reveal a turnkey AI factory for sovereign enterprise workloads appeared first on The New Stack .",
+      "published": "2026-04-21T06:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Steven J. Vaughan-Nichols",
+      "categories": [
+        "AI",
+        "AI Infrastructure"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The Complete AWS Certified AI Practitioner (AIF‑C01) Study Guide",
+      "link": "https://kodekloud.com/blog/the-complete-aws-certified-ai-practitioner-aif-c01-study-guide",
+      "summary": "Complete AIF‑C01 study guide covering all five domains, AWS AI service mappings, Bedrock, responsible AI, and a three week preparation plan.",
+      "published": "2026-04-20T16:34:33+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "AWS Certification",
+        "AWS",
+        "aws certified ai practitioner",
+        "Cloud"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Cloud-Native vs Cloud-Hosted: Why \"Being in the Cloud\" Isn't the Same as \"Built for the Cloud\"",
+      "link": "https://kodekloud.com/blog/cloud-native-vs-cloud-hosted",
+      "summary": "Cloud-native vs cloud-hosted: learn the real difference, when to use each, and how to migrate from lift-and-shift to true cloud-native apps.",
+      "published": "2026-04-20T14:02:51+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "Cloud Native",
+        "cloud hosted",
+        "microservices",
+        "Containers",
+        "CI/CD",
+        "DevOps"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "From public static void main to Golden Kubestronaut: The Art of unlearning",
+      "link": "https://www.cncf.io/blog/2026/04/20/from-public-static-void-main-to-golden-kubestronaut-the-art-of-unlearning",
+      "summary": "Ten years ago, my entire world fit inside a public static void main. I was a Java developer. Infrastructure? That was someone else’s problem a black box where my JAR files went to live, or quietly...",
+      "published": "2026-04-20T10:50:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Pavan Madduri, CNCF Kubestronaut",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AKS App Routing's Next Chapter: Gateway API with Istio",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/aks-app-routing-s-next-chapter-gateway-api-with-istio/ba-p/4512729",
+      "summary": "If you've been following my previous posts on the Ingress NGINX retirement, you'll know the story so far. The community Ingress NGINX project was retired in March 2026, and Microsoft's extended support for the NGINX-based App Routing add-on runs until November 2026. I've covered migrating from...",
+      "published": "2026-04-19T18:25:14+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "samcogan",
+      "categories": [],
+      "thumbnail": ""
+    },
     {
       "title": "SmartBear’s Swagger update targets the API drift problem AI coding tools created",
       "link": "https://thenewstack.io/smartbear-swagger-ai-api-management",
@@ -3505,59 +3577,6 @@
         "Software Development"
       ],
       "thumbnail": ""
-    },
-    {
-      "title": "Anthropic’s response to the AI tool that caused lines around the block in Shenzhen",
-      "link": "https://thenewstack.io/claude-dispatch-versus-openclaw",
-      "summary": "It is sometimes difficult to capture just how popular OpenClaw is around the world. Then there are reports like one The post Anthropic’s response to the AI tool that caused lines around the block in Shenzhen appeared first on The New Stack .",
-      "published": "2026-03-21T17:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "David Eastman",
-      "categories": [
-        "AI Agents",
-        "Model Context Protocol (MCP)"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why WebAssembly won’t replace Kubernetes but makes Helm more secure",
-      "link": "https://thenewstack.io/helm-webassembly-kubernetes-security",
-      "summary": "My gut reaction has often been to compare WebAssembly to Kubernetes. Flash back to over four years ago: Then, I The post Why WebAssembly won’t replace Kubernetes but makes Helm more secure appeared first on The New Stack .",
-      "published": "2026-03-21T15:45:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "B. Cameron Gain",
-      "categories": [
-        "Cloud Native Ecosystem",
-        "Kubernetes",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Cursor beats Opus at 10x less, Meta’s agent goes rogue, and the 300-page Trump America AI Act",
-      "link": "https://thenewstack.io/cursor-beats-opus-metas-agent-rogue-and-trump-america-ai-act",
-      "summary": "I’m Matt Burns, Director of Editorial at Insight Media Group. Each week, I round up the most important AI developments, The post Cursor beats Opus at 10x less, Meta’s agent goes rogue, and the 300-page Trump America AI Act appeared first on The New Stack .",
-      "published": "2026-03-21T12:52:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Matthew Burns",
-      "categories": [
-        "Operations"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Deploying LLM to AKS using KAITO",
-      "link": "https://www.youtube.com/watch?v=hdZE_O2fFt0",
-      "summary": "Deploying an LLM model into Kubernetes/AKS can be complex, especially if you prefer not to manage the following tasks yourself:\n\n- Provisioning of the GPU VMs\n- Installing GPU Drivers\n- Installing GPU Device Plugin\n- Running the model on the GPU nodes\n- Exposing an endpoint to interact with the...",
-      "published": "2026-03-21T09:00:06+00:00",
-      "source": "Houssem Dellai",
-      "type": "video",
-      "author": "Houssem Dellai",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/hdZE_O2fFt0/mqdefault.jpg"
     }
   ]
 }
