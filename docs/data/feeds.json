@@ -1,14 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-04-21T06:35:36.136831+00:00",
-    "total_items": 255,
+    "generated_at": "2026-04-22T06:35:17.837125+00:00",
+    "total_items": 259,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
       "Abhishek Veeramalla",
       "Apps on Azure",
       "CNCF Blog",
-      "Houssem Dellai",
       "John Savill",
       "KodeKloud",
       "Kubernetes Blog",
@@ -20,6 +19,140 @@
     ]
   },
   "items": [
+    {
+      "title": "Anthropic is thinking about removing Claude Code from its cheapest plan",
+      "link": "https://thenewstack.io/anthropic-claude-code-limits",
+      "summary": "It seems like the resource constraints at Anthropic are for real. The company appears to have removed access to Claude The post Anthropic is thinking about removing Claude Code from its cheapest plan appeared first on The New Stack .",
+      "published": "2026-04-22T00:28:09+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI Models",
+        "AI Strategy",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "GitHub pauses Copilot sign-ups as AI coding drives up compute demand",
+      "link": "https://thenewstack.io/github-copilot-signups-paused",
+      "summary": "GitHub has announced that it’s pausing new sign-ups for its Copilot individual plans and tightening usage limits for existing users, The post GitHub pauses Copilot sign-ups as AI coding drives up compute demand appeared first on The New Stack .",
+      "published": "2026-04-21T23:03:22+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Operations",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "With the launch of ChatGPT Images 2.0, OpenAI now “thinks” before it draws",
+      "link": "https://thenewstack.io/chatgpt-images-20-openai",
+      "summary": "OpenAI has launched ChatGPT Images 2.0, positioning its new image model as a shift from a rendering tool to what The post With the launch of ChatGPT Images 2.0, OpenAI now “thinks” before it draws appeared first on The New Stack .",
+      "published": "2026-04-21T22:54:41+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "AI",
+        "AI Engineering",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why Microsoft is betting on temporary identities to stop autonomous agents from going rogue",
+      "link": "https://thenewstack.io/aks-edge-ai-agents",
+      "summary": "For this episode of The New Stack Makers, we sat down with Jorge Palma, the PM lead for Azure Kubernetes The post Why Microsoft is betting on temporary identities to stop autonomous agents from going rogue appeared first on The New Stack .",
+      "published": "2026-04-21T18:45:51+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI Engineering",
+        "Operations",
+        "Podcast",
+        "sponsor-microsoft",
+        "Video"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Amazon and Anthropic deepen AI ties with a $100B AWS commitment",
+      "link": "https://thenewstack.io/anthropic-amazon-aws-investment",
+      "summary": "On Monday, Amazon and Anthropic announced a new agreement under which Anthropic commits to investing more than $100 billion in The post Amazon and Anthropic deepen AI ties with a $100B AWS commitment appeared first on The New Stack .",
+      "published": "2026-04-21T17:15:53+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI Infrastructure",
+        "AI Models",
+        "Cloud Services"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Auto-diagnosing Kubernetes alerts with HolmesGPT and CNCF tools",
+      "link": "https://www.cncf.io/blog/2026/04/21/auto-diagnosing-kubernetes-alerts-with-holmesgpt-and-cncf-tools",
+      "summary": "What a two-person SRE team learned building an AI investigation pipeline. Spoiler: the runbooks mattered more than the model. Why we built this At STCLab, our SRE team supports multiple Amazon EKS clusters running high-traffic production...",
+      "published": "2026-04-21T15:06:09+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Grace Park and Ihyeok Song, DevOps Engineer, STCLab SRE Team",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why only 37% of developers trust AI for incident response",
+      "link": "https://thenewstack.io/fix-developer-burnout-outages",
+      "summary": "IT uptime is now firmly established as a board-level priority. It’s not hard to see why organizations are paying a The post Why only 37% of developers trust AI for incident response appeared first on The New Stack .",
+      "published": "2026-04-21T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Mandi Walls",
+      "categories": [
+        "AI Engineering",
+        "AI Operations",
+        "Tech Culture",
+        "sponsor-pagerduty",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Eclipse Foundation offers enterprise-grade open source alternative to Microsoft’s VS Code Marketplace",
+      "link": "https://thenewstack.io/open-vsx-managed-registry",
+      "summary": "Platform engineering requires something of a leap of faith. Developers need to “believe” that foundation-level tools, libraries, and repositories will always offer The post Eclipse Foundation offers enterprise-grade open source alternative to Microsoft’s VS Code Marketplace appeared first on The...",
+      "published": "2026-04-21T11:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "Developer tools",
+        "Open Source",
+        "Platform Engineering"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How to Troubleshoot Azure Functions Host Startup Issue",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/how-to-troubleshoot-azure-functions-host-startup-issue/ba-p/4512966",
+      "summary": "Overview Azure Functions is a powerful serverless compute service that enables you to run event-driven code without managing infrastructure. When you deploy a Function App, the Azure Functions host is the runtime process responsible for discovering your functions, loading extensions and bindings,...",
+      "published": "2026-04-21T07:04:42+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "vikasgupta5",
+      "categories": [],
+      "thumbnail": ""
+    },
     {
       "title": "SUSE and Nvidia reveal a turnkey AI factory for sovereign enterprise workloads",
       "link": "https://thenewstack.io/suse-nvidia-ai-factory",
@@ -3512,69 +3645,6 @@
       "author": "Mark Mandel, Agones Maintainer",
       "categories": [
         "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Running Text to Image and to Video on Azure Container Apps",
-      "link": "https://www.youtube.com/watch?v=WMYlQNLkMJQ",
-      "summary": "This is how to run ComfyUI on Azure Container Apps (ACA) with serverless GPU (A100 & T4) to access Text to Image and Text to Videos AI models. The infrastructure is provisioned using Terraform, and the ComfyUI application is deployed as a containerized workload on ACA.\n\nLab:...",
-      "published": "2026-03-22T21:53:05+00:00",
-      "source": "Houssem Dellai",
-      "type": "video",
-      "author": "Houssem Dellai",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/WMYlQNLkMJQ/mqdefault.jpg"
-    },
-    {
-      "title": "Running Text to Image and to Video on Azure VM",
-      "link": "https://www.youtube.com/watch?v=1gQ4b0LHSKo",
-      "summary": "This guide provides instructions on how to set up and run Text to Image and Text to Video generation using ComfyUI with an Nvidia H100 GPU on Azure.\n\nIn this guide, the provided Terraform template will create the following:\n\nCreate the infrastructure for Ubuntu VM with Nvidia H100 GPU\nInstall CUDA...",
-      "published": "2026-03-22T21:47:45+00:00",
-      "source": "Houssem Dellai",
-      "type": "video",
-      "author": "Houssem Dellai",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/1gQ4b0LHSKo/mqdefault.jpg"
-    },
-    {
-      "title": "Top 10 DevOps concepts you should learn in 2026.",
-      "link": "https://www.youtube.com/watch?v=v1tGG2_OxQg",
-      "summary": "Join Membership for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nIn this video, I will cover the top 10 DevOps tools that you should focus on in 2026. If you are looking for a Roadmap video, here is the link:\nhttps://youtu.be/MD68qernLS0?si=iv59uKbXcvCcjsID\n\nFree Course on the...",
-      "published": "2026-03-22T15:59:39+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/v1tGG2_OxQg/mqdefault.jpg"
-    },
-    {
-      "title": "What a security audit of 22,511 AI coding skills found lurking in the code",
-      "link": "https://thenewstack.io/ai-agent-skills-security",
-      "summary": "AI coding agents have spawned a new software supply chain, and a new study suggests the proliferation of new agents The post What a security audit of 22,511 AI coding skills found lurking in the code appeared first on The New Stack .",
-      "published": "2026-03-22T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Darryl K. Taft",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Will AI force code to evolve or make it extinct?",
-      "link": "https://thenewstack.io/ai-programming-languages-future",
-      "summary": "What would an AI-first language look like? Last year, a developer in Spain warned that our human-friendly syntax consumed an The post Will AI force code to evolve or make it extinct? appeared first on The New Stack .",
-      "published": "2026-03-22T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "David Cassel",
-      "categories": [
-        "AI Engineering",
-        "Programming Languages",
-        "Software Development"
       ],
       "thumbnail": ""
     }
