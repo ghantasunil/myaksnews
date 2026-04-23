@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-04-22T06:35:17.837125+00:00",
-    "total_items": 259,
+    "generated_at": "2026-04-23T06:36:12.977092+00:00",
+    "total_items": 260,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,166 @@
   },
   "items": [
     {
+      "title": "The Hidden Risks in Public Container Registries and How to Mitigate Them",
+      "link": "https://kodekloud.com/blog/the-hidden-risks-in-public-container-registries-and-how-to-mitigate-them",
+      "summary": "Public container registries expose your infrastructure to malware, typosquatting, and supply chain attacks. Learn the risks and ways to fix them.",
+      "published": "2026-04-23T06:28:16+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "Container security",
+        "Docker",
+        "Containers",
+        "CKS Kubernetes",
+        "Kubernetes security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The SpaceX-Cursor deal is a gutsy Hail Mary that could work",
+      "link": "https://thenewstack.io/spacex-cursor-ai-deal",
+      "summary": "Rockets, satellite internet, AI, and social media conglomerate SpaceX on Tuesday announced a deal with Cursor that’s worth anywhere between $10 billion The post The SpaceX-Cursor deal is a gutsy Hail Mary that could work appeared first on The New Stack .",
+      "published": "2026-04-22T18:43:06+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Alex Wilhelm",
+      "categories": [
+        "AI Engineering",
+        "AI Strategy",
+        "Developer tools",
+        "Operations",
+        "Cautious Optimism"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "SELinux Volume Label Changes goes GA (and likely implications in v1.37)",
+      "link": "https://kubernetes.io/blog/2026/04/22/breaking-changes-in-selinux-volume-labeling",
+      "summary": "If you run Kubernetes on Linux with SELinux in enforcing mode, plan ahead: a future release (anticipated to be v1.37) is\nexpected to turn the SELinuxMount feature gate on by default. This makes volume setup faster\nfor most workloads, but it can break applications that still depend on the older...",
+      "published": "2026-04-22T18:35:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "How AWS Bedrock is shaping Model Context Protocol",
+      "link": "https://thenewstack.io/mcp-summit-aws-bedrock",
+      "summary": "At the recent MCP Summit in New York City, The New Stack sat down with AWS’s Luca Chang, who works The post How AWS Bedrock is shaping Model Context Protocol appeared first on The New Stack .",
+      "published": "2026-04-22T18:07:44+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Alex Wilhelm",
+      "categories": [
+        "AI Strategy",
+        "Model Context Protocol (MCP)",
+        "Open Source",
+        "Podcast",
+        "sponsor-amazon-web-services-aws",
+        "Video"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why Accenture and WaveMaker are betting on agentic AI to close a $3 billion software gap",
+      "link": "https://thenewstack.io/accenture-wavemaker-ai-modernization",
+      "summary": "Accenture and WaveMaker have announced a strategic partnership to help mid-market organizations modernize applications using WaveMaker’s agentic AI platform, targeting companies with The post Why Accenture and WaveMaker are betting on agentic AI to close a $3 billion software gap appeared first on...",
+      "published": "2026-04-22T17:55:52+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Engineering"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Roo Code pivots to cloud-based agent, says IDEs aren’t the future of coding",
+      "link": "https://thenewstack.io/roo-code-cloud-ides-ai-coding",
+      "summary": "Roo Code, an open source AI coding tool built for VS Code, has announced that it’s shutting down its VS The post Roo Code pivots to cloud-based agent, says IDEs aren’t the future of coding appeared first on The New Stack .",
+      "published": "2026-04-22T17:49:07+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI Agents",
+        "Open Source",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Google finally builds the AI and agent platform it’s been describing for years",
+      "link": "https://thenewstack.io/google-gemini-agent-platform",
+      "summary": "At Cloud Next ’26 on Wednesday, Google filled in the missing parts of its enterprise agent platform — and shuffled The post Google finally builds the AI and agent platform it’s been describing for years appeared first on The New Stack .",
+      "published": "2026-04-22T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI Infrastructure",
+        "AI Operations",
+        "Model Context Protocol (MCP)"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Google wants AI defense to be as fast as AI offense",
+      "link": "https://thenewstack.io/google-cloud-cat-mouse",
+      "summary": "The core problem in AI security right now is that attackers are using AI models to find and exploit zero-day The post Google wants AI defense to be as fast as AI offense appeared first on The New Stack .",
+      "published": "2026-04-22T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI Agents",
+        "Cloud Services",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Google splits its TPU line in two for the agentic era",
+      "link": "https://thenewstack.io/google-splits-tpu-line",
+      "summary": "For most of Google’s Tensor Processing Unit’s (TPU) decade-long history, Google has shipped a single chip per generation — sometimes The post Google splits its TPU line in two for the agentic era appeared first on The New Stack .",
+      "published": "2026-04-22T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "Operations"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "NFS Permission Denied in Azure App Service on Linux: What It Means and What to Do",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/nfs-permission-denied-in-azure-app-service-on-linux-what-it/ba-p/4513627",
+      "summary": "If your Azure App Service on Linux uses an Azure Files NFS share, you may sometimes see errors like Permission denied or Errno 13 when your app tries to write to the mounted path. Azure Files supports NFS for Linux and Unix workloads, and NFS uses Unix-style numeric ownership and permissions...",
+      "published": "2026-04-22T07:31:52+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "michelleyau",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Groundcover eyes visibility gap in agentic AI monitoring by targeting multi-step workflows",
+      "link": "https://thenewstack.io/groundcover-ai-observability-agents",
+      "summary": "Cloud monitoring specialist Groundcover announced an expansion of its AI Observability service this Wednesday. The move sees the company add native support for agentic The post Groundcover eyes visibility gap in agentic AI monitoring by targeting multi-step workflows appeared first on The New Stack...",
+      "published": "2026-04-22T07:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "Operations"
+      ],
+      "thumbnail": ""
+    },
+    {
       "title": "Anthropic is thinking about removing Claude Code from its cheapest plan",
       "link": "https://thenewstack.io/anthropic-claude-code-limits",
       "summary": "It seems like the resource constraints at Anthropic are for real. The company appears to have removed access to Claude The post Anthropic is thinking about removing Claude Code from its cheapest plan appeared first on The New Stack .",
@@ -32,6 +192,17 @@
         "AI Strategy",
         "Software Development"
       ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes v1.36: ハル (Haru)",
+      "link": "https://kubernetes.io/blog/2026/04/22/kubernetes-v1-36-release",
+      "summary": "Editors: Chad M. Crowell, Kirti Goyal, Sophia Ugochukwu, Swathi Rao, Utkarsh Umre Similar to previous releases, the release of Kubernetes v1.36 introduces new stable, beta, and alpha features. The consistent delivery of high-quality releases underscores the strength of our development cycle and the...",
+      "published": "2026-04-22T00:00:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
       "thumbnail": ""
     },
     {
@@ -95,6 +266,17 @@
         "AI Models",
         "Cloud Services"
       ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Gateway API v1.5: Moving features to Stable",
+      "link": "https://kubernetes.io/blog/2026/04/21/gateway-api-v1-5",
+      "summary": "The Kubernetes SIG Network community presents the release of Gateway API (v1.5)!\nReleased on March 14, 2026, version 1.5 is our biggest release yet, and concentrates on moving existing Experimental features to Standard (Stable). The Gateway API v1.5.1 patch release is already available The Gateway...",
+      "published": "2026-04-21T16:30:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
       "thumbnail": ""
     },
     {
@@ -184,6 +366,17 @@
       "thumbnail": ""
     },
     {
+      "title": "Absolute Beginner Guide to Python",
+      "link": "https://www.youtube.com/watch?v=VE1HAjJB7cs",
+      "summary": "A walk through how to get setup then being productive with Python!\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:26 - Setup\n04:50 - My sample files\n06:05 - Hello world\n08:02 - Executing a python script\n10:48 - Breaking down the syntax\n13:25 - AI help\n16:08 - Variables\n20:21 -...",
+      "published": "2026-04-20T14:19:12+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/VE1HAjJB7cs/mqdefault.jpg"
+    },
+    {
       "title": "Cloud-Native vs Cloud-Hosted: Why \"Being in the Cloud\" Isn't the Same as \"Built for the Cloud\"",
       "link": "https://kodekloud.com/blog/cloud-native-vs-cloud-hosted",
       "summary": "Cloud-native vs cloud-hosted: learn the real difference, when to use each, and how to migrate from lift-and-shift to true cloud-native apps.",
@@ -240,6 +433,17 @@
         "API Management"
       ],
       "thumbnail": ""
+    },
+    {
+      "title": "3 hours of forest cleanup in 3 minutes",
+      "link": "https://www.youtube.com/watch?v=ETTmwOu1cy0",
+      "summary": "First time in 2026 I got to go out and clean up the forest. Had some heavy rain then strong winds that fell a lot of trees. Time to start clearing up!\n\nMusic:\nCarefree by Kevin MacLeod is licensed under a Creative Commons Attribution 4.0 license. https://creativecommons.org/licenses/by/4.0/",
+      "published": "2026-04-19T11:49:59+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/ETTmwOu1cy0/mqdefault.jpg"
     },
     {
       "title": "Anthropic, OpenAI, Google, and Microsoft agree that the harness is the product. They disagree on the price.",
@@ -550,6 +754,17 @@
       "thumbnail": ""
     },
     {
+      "title": "Azure Update 16th April 2026",
+      "link": "https://www.youtube.com/watch?v=WjvN_XjMr6U",
+      "summary": "Quick update and sorry about location :-)\n\n00:00 - Introduction\n00:15 - New videos\n01:09 - StandardV2 NAT Gateway as outbound for AKS\n01:34 - Azure Monitor OpenTelemetry support for AKS workloads\n02:20 - Azure Bastion MI for graphical session recording\n02:53 - ASR NVMe disk controller support\n03:04...",
+      "published": "2026-04-16T12:48:40+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/WjvN_XjMr6U/mqdefault.jpg"
+    },
+    {
       "title": "Is your internal platform ready to keep up with AI-accelerated development?",
       "link": "https://thenewstack.io/is-your-internal-platform-ready-to-keep-up-with-ai-accelerated-development",
       "summary": "Join our conversation to learn how an IDP-driven approach can turn your existing delivery infrastructure into a true self-service experience, The post Is your internal platform ready to keep up with AI-accelerated development? appeared first on The New Stack .",
@@ -777,6 +992,17 @@
         "Contributed"
       ],
       "thumbnail": ""
+    },
+    {
+      "title": "Does Microsoft AI Train Models on my Data and Interactions?",
+      "link": "https://www.youtube.com/watch?v=LKA9U9T7_t0",
+      "summary": "Easy answer to a common question!\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:16 - Signed in with work or school account\n03:34 - Signed in with personal account\n04:56 - Training does not equal personalization\n06:06 - Close\n\n▬▬▬▬▬▬  K E Y   L I N K S 🔗 ▬▬▬▬▬▬\n► Whiteboard:\n🔗 ...",
+      "published": "2026-04-15T08:03:20+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/LKA9U9T7_t0/mqdefault.jpg"
     },
     {
       "title": "Why observability platforms are becoming AI auditing tools",
@@ -3440,209 +3666,6 @@
       "source": "CNCF Blog",
       "type": "article",
       "author": "By Jamie Lynch, Senior Software Engineer, Embrace (CNCF member company)",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Take Control of Every Message: Partial Failure Handling for Service Bus Triggers in Azure Functions",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/take-control-of-every-message-partial-failure-handling-for/ba-p/4504893",
-      "summary": "The Problem: All-or-Nothing Batch Processing in Azure Service Bus Azure Service Bus is one of the most widely used messaging services for building event-driven applications on Azure. When you use Azure Functions with a Service Bus trigger in batch mode, your function receives multiple messages at...",
-      "published": "2026-03-24T05:34:12+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "swapnil_nagar",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Cloud native agentic standards",
-      "link": "https://www.cncf.io/blog/2026/03/23/cloud-native-agentic-standards",
-      "summary": "An application, composed of one or more containers as dictated by system architecture, that operates either independently or as part of a distributed collaboration—interacting with at least one other entity (container) or achieving quorum-based consensus. It...",
-      "published": "2026-03-23T22:26:46+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "CNCF AI TCG",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Get started with NeuBird Hawkeye MCP server in Azure SRE Agent",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/get-started-with-neubird-hawkeye-mcp-server-in-azure-sre-agent/ba-p/4504860",
-      "summary": "Integrate NeuBird Hawkeye MCP with Azure SRE Agent TL;DR If your infrastructure spans multiple clouds say Azure and GCP, or Azure alongside any other cloud provider investigating incidents means jumping between completely separate consoles, log systems, and monitoring stacks. Azure SRE Agent now...",
-      "published": "2026-03-23T18:07:39+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "dbandaru",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Prompt engineering for developers",
-      "link": "https://thenewstack.io/prompt-engineering-for-developers",
-      "summary": "When I first started writing prompts, I had the unrealistic expectation that since LLMs “know everything,” they would always execute The post Prompt engineering for developers appeared first on The New Stack .",
-      "published": "2026-03-23T18:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jessica Wachtel",
-      "categories": [
-        "AI",
-        "AI Engineering",
-        "Vibe Coding"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Migrating Ant Builds to Maven with GitHub Copilot app modernization",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/migrating-ant-builds-to-maven-with-github-copilot-app/ba-p/4491992",
-      "summary": "Many legacy Java applications still rely on Apache Ant for building, packaging, and dependency management. While Ant remains flexible, it lacks the structured lifecycle, dependency resolution, and ecosystem support that modern build tools like Maven provide. Migrating from Ant to Maven improves...",
-      "published": "2026-03-23T16:49:01+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "ayangupta",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Best CyberSecurity Roadmap with Practical Learning.",
-      "link": "https://www.youtube.com/watch?v=CESnkjFOC4o",
-      "summary": "Get started with TryHackMe (30 Percent off on Premium)\nhttps://tryhackme.com/AbhishekVeeramalla\n\nUse Coupon - ABHISHEK30\n\nLearn Cybersecurity the practical way with TryHackMe 🚀\n\nIn this video, I walk through the TryHackMe learning path and show how you can build real skills step by step. Perfect...",
-      "published": "2026-03-23T15:30:06+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/CESnkjFOC4o/mqdefault.jpg"
-    },
-    {
-      "title": "Code Optimizations for Azure App Service Now Available in VS Code",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/code-optimizations-for-azure-app-service-now-available-in-vs/ba-p/4504252",
-      "summary": "Today we shipped a feature in the Azure App Service extension for VS Code that answers both questions: Code Optimizations , powered by Application Insights profiler data and GitHub Copilot. The problem: production performance is a black box You've deployed your .NET app to Azure App Service....",
-      "published": "2026-03-23T15:18:08+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "fiveisprime",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to deploy Pi-Hole with Docker and stop ads on every device on your LAN",
-      "link": "https://thenewstack.io/pihole-docker-network-adblocking",
-      "summary": "How do you block ads? Most people install various and sundry ad-blocking software on their computers or add browser extensions The post How to deploy Pi-Hole with Docker and stop ads on every device on your LAN appeared first on The New Stack .",
-      "published": "2026-03-23T14:44:36+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jack Wallen",
-      "categories": [
-        "Containers",
-        "Networking"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "MCP is everywhere, but don’t panic. Here’s why your existing APIs still matter.",
-      "link": "https://thenewstack.io/api-mcp-agent-integration",
-      "summary": "Everyone is excited for the promise of “Digital coworkers” in this agentic era. Model Context Protocol (MCP) is all anyone The post MCP is everywhere, but don’t panic. Here’s why your existing APIs still matter. appeared first on The New Stack .",
-      "published": "2026-03-23T12:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Camille Crowell-Lee",
-      "categories": [
-        "AI Agents",
-        "API Management",
-        "Model Context Protocol (MCP)",
-        "sponsor-vmware-tanzu",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kusari and CNCF: Advancing software supply chain security for cloud native projects",
-      "link": "https://www.cncf.io/blog/2026/03/23/kusari-and-cncf-advancing-software-supply-chain-security-for-cloud-native-projects",
-      "summary": "Open source has become the foundation of modern software — but the scale and speed of today’s software supply chains are creating new security challenges. Applications depend on hundreds or thousands of components across complex environments,...",
-      "published": "2026-03-23T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Michael Lieberman, Kusari Co-Founder and CTO",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Picking the right Agent Builder solution",
-      "link": "https://www.youtube.com/watch?v=WUgujz0y1K4",
-      "summary": "How to pick between Agent Builder, Copilot Studio and Microsoft Foundry to build your agent.\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:17 - Quick way to decide\n02:02 - Organizational maturity progression\n05:19 - Building agents\n05:39 - Agent Builder, Copilot Studio and Microsoft...",
-      "published": "2026-03-23T10:56:00+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/WUgujz0y1K4/mqdefault.jpg"
-    },
-    {
-      "title": "Beyond Batch: Volcano Evolves into the AI-Native Unified Scheduling Platform",
-      "link": "https://www.cncf.io/blog/2026/03/23/beyond-batch-volcano-evolves-into-the-ai-native-unified-scheduling-platform",
-      "summary": "The world of AI workloads is changing fast. A few years ago, “AI on Kubernetes” mostly meant running long training jobs. Today, with the rise of Large Language Models (LLMs), the focus has shifted to include...",
-      "published": "2026-03-23T08:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "The Volcano Community",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "CNCF Introduces a New Recertification Program as Kubestronaut Community Surpasses 3,500",
-      "link": "https://www.cncf.io/blog/2026/03/23/cncf-introduces-a-new-recertification-program-as-kubestronaut-community-surpasses-3500",
-      "summary": "The cloud native ecosystem moves fast and the professionals building it move even faster. Over the past decade, Kubernetes has grown from an underdog orchestration system into the backbone of modern infrastructure. As organizations adopt cloud...",
-      "published": "2026-03-23T08:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Christophe Sauthier, cloud native training and certification lead, CNCF",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "General Availability of Dapr Agents Delivers Production Reliability for Enterprise AI",
-      "link": "https://www.cncf.io/announcements/2026/03/23/general-availability-of-dapr-agents-delivers-production-reliability-for-enterprise-ai",
-      "summary": "Dapr Agents v1.0 reaches stable release, bringing production-grade resiliency and security to AI agent frameworks Key Highlights KUBECON + CLOUDNATIVECON EUROPE, AMSTERDAM, March 23, 2026—The Cloud Native Computing Foundation® (CNCF®), which builds sustainable open source ecosystems...",
-      "published": "2026-03-23T08:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "kthornhill",
-      "categories": [
-        "Announcements"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Metal3 at KubeCon + CloudNativeCon Europe 2026: Meet the CNCF’s Freshly Incubated Bare Metal Project",
-      "link": "https://www.cncf.io/blog/2026/03/23/metal3-at-kubecon-cloudnativecon-europe-2026-meet-the-cncfs-freshly-incubated-bare-metal-project",
-      "summary": "Metal3 (pronounced “metal cubed”) entered 2026 as one of the newest incubating projects in the CNCF. As the foundational layer for infrastructure management in self-hosted Kubernetes clouds, Metal3 and its ‘stack’ offer essential solutions for cloud...",
-      "published": "2026-03-23T08:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Adam Rozman, Metal3 Maintainer",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Agones Moves to the CNCF: A New Era for Open Source Multiplayer Game Infrastructure",
-      "link": "https://www.cncf.io/blog/2026/03/23/agones-moves-to-the-cncf-a-new-era-for-open-source-multiplayer-game-infrastructure",
-      "summary": "The Agones project, the open source platform for scaling and orchestrating dedicated game servers on Kubernetes, celebrates its official transition to the Cloud Native Computing Foundation (CNCF). Originally founded as a deep co-development between Google and...",
-      "published": "2026-03-23T07:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Mark Mandel, Agones Maintainer",
       "categories": [
         "Blog"
       ],
