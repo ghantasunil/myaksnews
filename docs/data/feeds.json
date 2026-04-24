@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-04-23T06:36:12.977092+00:00",
-    "total_items": 260,
+    "generated_at": "2026-04-24T06:36:57.098201+00:00",
+    "total_items": 243,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -14,11 +14,127 @@
       "Kubesimplify",
       "LearnK8s",
       "Piyush Sachdeva",
-      "Rawkode Academy",
       "The New Stack"
     ]
   },
   "items": [
+    {
+      "title": "OpenAI’s new Privacy Filter runs on your laptop so PII never hits the cloud",
+      "link": "https://thenewstack.io/openai-privacy-filter-pii",
+      "summary": "OpenAI has debuted Privacy Filter, a bidirectional token-classification model for detecting and redacting personally identifiable information (PII) that can scan The post OpenAI’s new Privacy Filter runs on your laptop so PII never hits the cloud appeared first on The New Stack .",
+      "published": "2026-04-23T20:54:34+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI",
+        "AI Infrastructure",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI debuts always-on agents to end the friction of manual team handoffs",
+      "link": "https://thenewstack.io/openai-shared-workspace-agents",
+      "summary": "OpenAI is pushing ChatGPT further into the day-to-day operations of companies, introducing this week shared “workspace agents” that can carry The post OpenAI debuts always-on agents to end the friction of manual team handoffs appeared first on The New Stack .",
+      "published": "2026-04-23T18:39:57+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI launches GPT-5.5, calling it “a new class of intelligence”",
+      "link": "https://thenewstack.io/openai-launches-gpt-5-5-calling-it-a-new-class-of-intelligence",
+      "summary": "The AI model release cycle continues. On Thursday, OpenAI released GPT-5.5 and GPT-5.5 Pro. The new model is, unsurprisingly, its The post OpenAI launches GPT-5.5, calling it “a new class of intelligence” appeared first on The New Stack .",
+      "published": "2026-04-23T18:04:44+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "Operations"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Jim Bugwadia on why finding a Kubernetes problem is only half the battle for Kyverno users",
+      "link": "https://thenewstack.io/kyverno-cncf-graduation-interview",
+      "summary": "What does it actually mean when your open source project becomes one of the few to graduate from the Cloud The post Jim Bugwadia on why finding a Kubernetes problem is only half the battle for Kyverno users appeared first on The New Stack .",
+      "published": "2026-04-23T17:48:08+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jennifer Riggins",
+      "categories": [
+        "AI Operations",
+        "KubeCon Cloudnativecon EU 2026",
+        "Operations",
+        "Podcast",
+        "sponsor-cncf",
+        "Video"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Only 5% of firms are seeing AI ROI.  Our May 7 live event will explain how to change those metrics.",
+      "link": "https://thenewstack.io/solving-ai-productivity-gap",
+      "summary": "Not hitting the headline-grabbing, promised productivity gains of 10, 20, 30, 50%? You’re not alone. There’s a lot more data The post Only 5% of firms are seeing AI ROI.  Our May 7 live event will explain how to change those metrics. appeared first on The New Stack .",
+      "published": "2026-04-23T17:04:54+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jennifer Riggins",
+      "categories": [
+        "AI Strategy",
+        "Developer tools",
+        "Platform Engineering",
+        "sponsor-octopus-deploy",
+        "sponsored-webinar"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Microsoft 365 multi-agent workflow with Microsoft Agent Framework",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/microsoft-365-multi-agent-workflow-with-microsoft-agent/ba-p/4514164",
+      "summary": "Most production AI tasks are too complex for a single agent. You need specialists that collaborate, a destination expert that researches the best places to visit, a budget analyst that breaks down costs, an activities curator that finds the best experiences, all coordinated by an orchestration...",
+      "published": "2026-04-23T16:16:15+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "vgiraud",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "From Ingress NGINX to Higress: migrating 60+ resources in 30 minutes with AI",
+      "link": "https://www.cncf.io/blog/2026/04/23/from-ingress-nginx-to-higress-migrating-60-resources-in-30-minutes-with-ai",
+      "summary": "With the official retirement of Ingress NGINX that took place in March 2026, enterprise platform teams are facing an urgent security and compliance mandate. Remaining on a retired controller leaves critical infrastructure vulnerable to unpatched security...",
+      "published": "2026-04-23T13:37:18+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Tianyi Zhang, Alibaba",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI shrinkflation: Why Anthropic’s Claude Opus 4.7 may be less capable than the model it replaced",
+      "link": "https://thenewstack.io/claude-opus-47-flaky-performance",
+      "summary": "A week is a long time in politics, but it’s even longer in AI developer power user circles. That’s the The post AI shrinkflation: Why Anthropic’s Claude Opus 4.7 may be less capable than the model it replaced appeared first on The New Stack .",
+      "published": "2026-04-23T12:52:54+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Engineering",
+        "AI Models",
+        "Large Language Models",
+        "Operations"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "The Hidden Risks in Public Container Registries and How to Mitigate Them",
       "link": "https://kodekloud.com/blog/the-hidden-risks-in-public-container-registries-and-how-to-mitigate-them",
@@ -3337,335 +3453,6 @@
       "source": "CNCF Blog",
       "type": "article",
       "author": "Ansuman Sahoo, Lima Project Maintainer",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "HTTP Triggers in Azure SRE Agent: From Jira Ticket to Automated Investigation",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/http-triggers-in-azure-sre-agent-from-jira-ticket-to-automated/ba-p/4504960",
-      "summary": "Introduction Many teams run their observability, incident management, ticketing, and deployment on platforms outside of Azure—Jira, Opsgenie, Grafana, Zendesk, GitLab, Jenkins, Harness, or homegrown internal tools. These are the systems where alerts fire, tickets get filed, deployments happen, and...",
-      "published": "2026-03-24T21:09:11+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "Vineela-Suri",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "What Is Serverless Computing? A Beginner's Guide with Real-World Examples",
-      "link": "https://kodekloud.com/blog/what-is-serverless-computing",
-      "summary": "Serverless computing explained from scratch, what it is, how cold starts work, real-world examples, pricing traps, and when to use it in 2026.",
-      "published": "2026-03-24T19:53:00+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "serverless",
-        "AWS",
-        "Azure",
-        "GCP"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "400K Ask Me Anything YouTube Live Stream",
-      "link": "https://www.youtube.com/watch?v=-agWE4TNPD0",
-      "summary": "An AMA to celebrate hitting 400,000 subscribers. A great 60 minutes of interactive Q&A!",
-      "published": "2026-03-24T17:15:47+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/-agWE4TNPD0/mqdefault.jpg"
-    },
-    {
-      "title": "Ai2 launches MolmoWeb, an open-source web agent",
-      "link": "https://thenewstack.io/ai2-launches-molmoweb-an-open-source-web-agent",
-      "summary": "AI agents that can browse the web and complete tasks on behalf of their users have gotten significantly better over The post Ai2 launches MolmoWeb, an open-source web agent appeared first on The New Stack .",
-      "published": "2026-03-24T16:07:20+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "WebAssembly could solve AI agents’ most dangerous security gap",
-      "link": "https://thenewstack.io/webassembly-sandboxing-ai-agents",
-      "summary": "AI agent-generated code poses an often-overlooked threat: the possibility that an agent will generate unchecked, potentially lethal commands. Think of The post WebAssembly could solve AI agents’ most dangerous security gap appeared first on The New Stack .",
-      "published": "2026-03-24T16:01:42+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "B. Cameron Gain",
-      "categories": [
-        "AI Agents",
-        "Operations",
-        "Security",
-        "WebAssembly"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Broadcom donates Velero to CNCF — and it could reshape how Kubernetes users handle backup and disaster recovery",
-      "link": "https://thenewstack.io/broadcom-velero-cncf-kubernetes",
-      "summary": "Broadcom VMware announced on Monday that it will donate Velero to the CNCF sandbox project, a move the company describes The post Broadcom donates Velero to CNCF — and it could reshape how Kubernetes users handle backup and disaster recovery appeared first on The New Stack .",
-      "published": "2026-03-24T15:38:12+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "B. Cameron Gain",
-      "categories": [
-        "KubeCon Cloudnativecon EU 2026",
-        "Kubernetes",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "IBM, Red Hat, and Google just donated a Kubernetes blueprint for LLM inference to the CNCF",
-      "link": "https://thenewstack.io/llm-d-cncf-kubernetes-inference",
-      "summary": "The marriage of Kubernetes and AI has arrived in llm‑d, a replicable Kubernetes blueprint to deploy inference stacks for any The post IBM, Red Hat, and Google just donated a Kubernetes blueprint for LLM inference to the CNCF appeared first on The New Stack .",
-      "published": "2026-03-24T15:20:01+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Steven J. Vaughan-Nichols",
-      "categories": [
-        "AI Infrastructure",
-        "KubeCon Cloudnativecon EU 2026",
-        "Kubernetes",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kubernetes co-founder Brendan Burns: AI-generated code will become as invisible as assembly",
-      "link": "https://thenewstack.io/ai-generated-code-invisible",
-      "summary": "For this edition of The New Stack Makers, I sat down with Brendan Burns, one of the co-founders of Kubernetes, The post Kubernetes co-founder Brendan Burns: AI-generated code will become as invisible as assembly appeared first on The New Stack .",
-      "published": "2026-03-24T14:20:40+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "Operations",
-        "Podcast",
-        "Video"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "PwC’s AI agents are now your consultants — whether you’re ready or not",
-      "link": "https://thenewstack.io/pwcs-ai-agents-are-now-your-consultants-whether-youre-ready-or-not",
-      "summary": "PwC is putting its AI agents directly in front of clients and cutting out the traditional back-and-forth with consultants as The post PwC’s AI agents are now your consultants — whether you’re ready or not appeared first on The New Stack .",
-      "published": "2026-03-24T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Darryl K. Taft",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "AI Strategy"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Exton Linux’s light version will “enlighten” you",
-      "link": "https://thenewstack.io/exton-linuxs-light-version-will-enlighten-you",
-      "summary": "I’ve been using Linux for a very, very long time. My Linux usage goes way back to the days of The post Exton Linux’s light version will “enlighten” you appeared first on The New Stack .",
-      "published": "2026-03-24T12:43:25+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jack Wallen",
-      "categories": [
-        "Operations"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Minimus aims to solve one of open-source’s long-festering problems",
-      "link": "https://thenewstack.io/minimus-open-source-container-security",
-      "summary": "Container security company Minimus has outlined a new initiative to help open-source project maintainers strengthen the security and integrity of The post Minimus aims to solve one of open-source’s long-festering problems appeared first on The New Stack .",
-      "published": "2026-03-24T10:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "Containers",
-        "Open Source",
-        "Operations",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Introduction to Teleport for Kubernetes",
-      "link": "https://www.youtube.com/watch?v=sfv21FY8CCs",
-      "summary": "## Welcome to Teleport for Kubernetes\n\nOver the next six videos, we go from zero to a fully working setup — identity-based access, role-based controls, just-in-time privilege escalation, and full audit logging. Everything you need to lock down Kubernetes access the right way.\n\n## The Problem\n\nIf...",
-      "published": "2026-03-24T08:00:51+00:00",
-      "source": "Rawkode Academy",
-      "type": "video",
-      "author": "Rawkode Academy",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/sfv21FY8CCs/mqdefault.jpg"
-    },
-    {
-      "title": "Just-in-Time Access for Incidents",
-      "link": "https://www.youtube.com/watch?v=iOfrgovJ-Kk",
-      "summary": "## The Problem with Standing Privileges\n\nRole-based access control is a great foundation, but on-call engineers need the ability to respond to incidents at 3 AM. The traditional approach gives them permanent cluster admin access — a security liability. If credentials are compromised, the attacker...",
-      "published": "2026-03-24T08:00:48+00:00",
-      "source": "Rawkode Academy",
-      "type": "video",
-      "author": "Rawkode Academy",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/iOfrgovJ-Kk/mqdefault.jpg"
-    },
-    {
-      "title": "Two-Layer RBAC with Teleport Boundaries",
-      "link": "https://www.youtube.com/watch?v=fLtQBeoCPQQ",
-      "summary": "## The Principle of Least Privilege\n\nHaving identity-based access is a massive improvement, but if every authenticated user has full cluster admin access, we still have a problem. Overprivileged access is one of the most common root causes in Kubernetes security incidents — the problem is the...",
-      "published": "2026-03-24T08:00:41+00:00",
-      "source": "Rawkode Academy",
-      "type": "video",
-      "author": "Rawkode Academy",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/fLtQBeoCPQQ/mqdefault.jpg"
-    },
-    {
-      "title": "Deploying a Teleport Cluster on Kubernetes",
-      "link": "https://www.youtube.com/watch?v=La8ekb674oY",
-      "summary": "## Getting Hands On\n\nTime to get our hands on the keyboard and actually deploy our first Teleport cluster. By the end of this video, you will have a working Teleport cluster running on Kubernetes with TLS certificates and an admin user ready to log in.\n\n## Prerequisites\n\nYou'll need Kind...",
-      "published": "2026-03-24T08:00:19+00:00",
-      "source": "Rawkode Academy",
-      "type": "video",
-      "author": "Rawkode Academy",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/La8ekb674oY/mqdefault.jpg"
-    },
-    {
-      "title": "Identity-Based User Access & RBAC",
-      "link": "https://www.youtube.com/watch?v=2GdMxBqus6M",
-      "summary": "## Moving Beyond Manual Users\n\nIn the last video, we deployed Teleport and created a manual admin user. That's fine for development, but not for production. Today we're setting up GitHub as our identity provider so every user authenticates through SSO and gets a short-lived certificate tied to...",
-      "published": "2026-03-24T08:00:05+00:00",
-      "source": "Rawkode Academy",
-      "type": "video",
-      "author": "Rawkode Academy",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/2GdMxBqus6M/mqdefault.jpg"
-    },
-    {
-      "title": "Auditing and Session Recording",
-      "link": "https://www.youtube.com/watch?v=3HqfANsiLjY",
-      "summary": "## The Missing Piece: Auditing\n\nWe've deployed Teleport, wired up GitHub for SSO, built fine-grained RBAC with deny rules, and set up just-in-time access requests. The final piece of the puzzle is auditing.\n\nEvery time someone runs a kubectl command through Teleport, an audit event is created....",
-      "published": "2026-03-24T08:00:03+00:00",
-      "source": "Rawkode Academy",
-      "type": "video",
-      "author": "Rawkode Academy",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/3HqfANsiLjY/mqdefault.jpg"
-    },
-    {
-      "title": "Tekton Becomes a CNCF Incubating Project",
-      "link": "https://www.cncf.io/blog/2026/03/24/tekton-becomes-a-cncf-incubating-project",
-      "summary": "The CNCF Technical Oversight Committee (TOC) has voted to accept Tekton as a CNCF incubating project.  What is Tekton? Tekton is a powerful and flexible open source framework for creating continuous integration and delivery (CI/CD) systems...",
-      "published": "2026-03-24T08:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Tekton Project Maintainers",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "CNCF and SlashData Report Finds Cloud Native Community Reaches Nearly 20 Million Developers",
-      "link": "https://www.cncf.io/announcements/2026/03/24/cncf-and-slashdata-report-finds-cloud-native-community-reaches-nearly-20-million-developers",
-      "summary": "New research highlights the rapid growth of cloud native development and evolving platform engineering and AI adoption trends Key Highlights: AMSTERDAM, KUBECON + CLOUDNATIVECON EUROPE– March 24, 2026 – The Cloud Native Computing Foundation® (CNCF®), which builds...",
-      "published": "2026-03-24T08:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "CNCF",
-      "categories": [
-        "Announcements"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "CNCF Nearly Doubles Certified Kubernetes AI Platforms",
-      "link": "https://www.cncf.io/announcements/2026/03/24/cncf-nearly-doubles-certified-kubernetes-ai-platforms",
-      "summary": "Following an over 70% surge in certified offerings, the program now includes agentic workflows and introduces stricter v1.35 requirements to eliminate infrastructure fragmentation Key Highlights KUBECON + CLOUDNATIVECON EUROPE, AMSTERDAM—24 MARCH, 2026— The Cloud Native Computing...",
-      "published": "2026-03-24T08:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "kthornhill",
-      "categories": [
-        "Announcements"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Cloud Native Computing Foundation Announces Kyverno’s Graduation",
-      "link": "https://www.cncf.io/announcements/2026/03/24/cloud-native-computing-foundation-announces-kyvernos-graduation",
-      "summary": "Kyverno reaches graduation after demonstrating broad enterprise adoption as platform teams adopt declarative governance Key Highlights: KUBECON + CLOUDNATIVECON NORTH EUROPE, AMSTERDAM, The Netherlands – March 24, 2026 – The Cloud Native Computing Foundation® (CNCF®), which...",
-      "published": "2026-03-24T08:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Haley White",
-      "categories": [
-        "Announcements"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "CNCF and SlashData Report Finds Platform Engineering Tools Maturing as Organizations Prepare for AI-Driven Infrastructure",
-      "link": "https://www.cncf.io/announcements/2026/03/24/cncf-and-slashdata-report-finds-platform-engineering-tools-maturing-as-organizations-prepare-for-ai-driven-infrastructure",
-      "summary": "New CNCF Technology Radar survey shows which cloud native tools developers view as mature and ready for broad adoption Key Highlights: AMSTERDAM, KUBECON + CLOUDNATIVECON EUROPE– March 24, 2026 – The Cloud Native Computing Foundation®  (CNCF®),...",
-      "published": "2026-03-24T08:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Haley White",
-      "categories": [
-        "Announcements",
-        "Report / Whitepaper"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Fluid Becomes a CNCF Incubating Project",
-      "link": "https://www.cncf.io/blog/2026/03/24/fluid-becomes-a-cncf-incubating-project",
-      "summary": "The CNCF Technical Oversight Committee (TOC) has voted to accept Fluid as a CNCF incubating project.  What is Fluid? Kubernetes provides a data access layer through the Container Storage Interface (CSI), enabling workloads to connect to...",
-      "published": "2026-03-24T08:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Haley White",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Welcome llm-d to the CNCF: Evolving Kubernetes into SOTA AI infrastructure",
-      "link": "https://www.cncf.io/blog/2026/03/24/welcome-llm-d-to-the-cncf-evolving-kubernetes-into-sota-ai-infrastructure",
-      "summary": "We are thrilled to announce that llm-d has officially been accepted as a Cloud Native Computing Foundation (CNCF) Sandbox project! As generative AI transitions from research labs to production environments, platform engineering teams are facing a...",
-      "published": "2026-03-24T07:45:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Carlos Costa (IBM Research), Clayton Coleman (Google), and Rob Shaw (Red Hat)",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Announcing a Kotlin Multiplatform API and SDK for OpenTelemetry",
-      "link": "https://www.cncf.io/blog/2026/03/24/announcing-a-kotlin-multiplatform-api-and-sdk-for-opentelemetry",
-      "summary": "OpenTelemetry has become the de facto standard for collecting and exporting telemetry data across cloud native systems. Its success has been driven by strong community collaboration, a clear specification, and a growing ecosystem of language-specific SDKs...",
-      "published": "2026-03-24T07:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "By Jamie Lynch, Senior Software Engineer, Embrace (CNCF member company)",
       "categories": [
         "Blog"
       ],
