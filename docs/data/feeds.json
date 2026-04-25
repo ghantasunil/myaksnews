@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-04-24T06:36:57.098201+00:00",
-    "total_items": 243,
+    "generated_at": "2026-04-25T06:28:51.377013+00:00",
+    "total_items": 247,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -14,10 +14,164 @@
       "Kubesimplify",
       "LearnK8s",
       "Piyush Sachdeva",
+      "Rawkode Academy",
       "The New Stack"
     ]
   },
   "items": [
+    {
+      "title": "AKS Newsletter – April 2026",
+      "link": "https://aksnewsletter.com/2026/2026-04.html",
+      "summary": "71 curated items covering documentation updates, feature announcements, community blogs, and more.",
+      "published": "2026-04-28T00:00:00+00:00",
+      "source": "AKS Newsletter",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "How to Secure Pod to Pod and Pod to Cloud Communication in Kubernetes",
+      "link": "https://kodekloud.com/blog/how-to-secure-pod-to-pod-and-pod-to-cloud-communication-in-kubernetes",
+      "summary": "By default, Kubernetes pods communicate openly. Apply network policies, mTLS, and workload identity to secure pod to pod and cloud communication.",
+      "published": "2026-04-25T05:36:17+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "Kubernetes",
+        "Kubernetes security",
+        "Network policies",
+        "Istio",
+        "cilium",
+        "Service Meshes",
+        "pod security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "MVP Summit 2026: Daniel Paulus on AKS Local, Data sovereignty in EU & GPUs-Azure Kubernetes Service",
+      "link": "https://www.youtube.com/watch?v=j08978WEn8k",
+      "summary": "Daniel Paulus talks to Jorge Arteiro at the MVP Summit 2026 in Redmond, WA. They talk about various different topics including AKS Local, Data sovereignty in EU & GPUs-Azure Kubernetes Service.\n\nThe MVP Summit is an exclusive multi-day event for all active Microsoft MVPs (Most Valuable...",
+      "published": "2026-04-24T20:05:03+00:00",
+      "source": "AKS (Official)",
+      "type": "video",
+      "author": "Azure Kubernetes Service (AKS)",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/j08978WEn8k/mqdefault.jpg"
+    },
+    {
+      "title": "DevOps Live Q&A | As me anything",
+      "link": "https://www.youtube.com/watch?v=yv0uoKR7928",
+      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
+      "published": "2026-04-24T19:00:30+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/yv0uoKR7928/mqdefault.jpg"
+    },
+    {
+      "title": "Kubernetes v1.36: Fine-Grained Kubelet API Authorization Graduates to GA",
+      "link": "https://kubernetes.io/blog/2026/04/24/kubernetes-v1-36-fine-grained-kubelet-authorization-ga",
+      "summary": "On behalf of Kubernetes SIG Auth and SIG Node, we are pleased to announce the\ngraduation of fine-grained kubelet API authorization to General Availability\n(GA) in Kubernetes v1.36! The KubeletFineGrainedAuthz feature gate was introduced as an opt-in alpha\nfeature in Kubernetes v1.32, then graduated...",
+      "published": "2026-04-24T18:35:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Mistral’s Leanstral wants to kill off human-in-the-loop code checks, but is it blowing in the wind?",
+      "link": "https://thenewstack.io/leanstral-formal-verification-code",
+      "summary": "As fast as the technology industry is formalizing the term Human-In-The-Loop, the global automation lobby is seeking to push the The post Mistral’s Leanstral wants to kill off human-in-the-loop code checks, but is it blowing in the wind? appeared first on The New Stack .",
+      "published": "2026-04-24T16:04:18+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Agents",
+        "AI Models",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure Update 24th April 2026",
+      "link": "https://www.youtube.com/watch?v=AxxFqiUImV4",
+      "summary": "Lots of updates this week!\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation queue never to be...",
+      "published": "2026-04-24T15:42:33+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/AxxFqiUImV4/mqdefault.jpg"
+    },
+    {
+      "title": "Vectors gave us AI search, tensors are going to make it smarter",
+      "link": "https://thenewstack.io/vectors-tensors-ai-search-explained",
+      "summary": "If you’ve paid AI any mind in the last few years, you’ve heard of vectors. They are easy to understand: The post Vectors gave us AI search, tensors are going to make it smarter appeared first on The New Stack .",
+      "published": "2026-04-24T13:42:03+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Alex Wilhelm",
+      "categories": [
+        "AI",
+        "Data",
+        "Databases",
+        "sponsor-vespa-ai",
+        "sponsored-webinar"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“Mythos-like hacking, open to all”: Industry reacts to OpenAI’s GPT 5.5",
+      "link": "https://thenewstack.io/openai-chatgpt-gpt-5-5-security",
+      "summary": "OpenAI may dominate the consumer chatbot market with ChatGPT, but among developers, Anthropic’s Claude models, via its Claude Code agent, The post “Mythos-like hacking, open to all”: Industry reacts to OpenAI’s GPT 5.5 appeared first on The New Stack .",
+      "published": "2026-04-24T12:49:34+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Models",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why Claude needs a real environment to validate cloud-native code",
+      "link": "https://thenewstack.io/claude-cloud-native-validation",
+      "summary": "Boris Cherny, who built Claude Code, recently shared on X how to get the most out of it following the The post Why Claude needs a real environment to validate cloud-native code appeared first on The New Stack .",
+      "published": "2026-04-24T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Arjun Iyer",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Cloud Native Ecosystem",
+        "sponsor-signadot",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Cursor and Chainguard partner to lock down the AI agent supply chain",
+      "link": "https://thenewstack.io/cursor-chainguard-agentic-ai-secure",
+      "summary": "Cursor and Chainguard are setting their sights on securing the open source dependency chain in AI-generated code — a problem The post Cursor and Chainguard partner to lock down the AI agent supply chain appeared first on The New Stack .",
+      "published": "2026-04-24T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "OpenAI’s new Privacy Filter runs on your laptop so PII never hits the cloud",
       "link": "https://thenewstack.io/openai-privacy-filter-pii",
@@ -45,6 +199,17 @@
         "AI",
         "AI Agents"
       ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes v1.36: User Namespaces in Kubernetes are finally GA",
+      "link": "https://kubernetes.io/blog/2026/04/23/kubernetes-v1-36-userns-ga",
+      "summary": "After several years of development, User Namespaces support in\nKubernetes reached General Availability (GA) with the v1.36 release.\nThis is a Linux-only feature. For those of us working on low level container runtimes and rootless\ntechnologies, this has been a long awaited milestone. We...",
+      "published": "2026-04-23T18:35:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
       "thumbnail": ""
     },
     {
@@ -94,6 +259,17 @@
         "sponsored-webinar"
       ],
       "thumbnail": ""
+    },
+    {
+      "title": "This is the reason why your DevOps Resume is getting rejected.",
+      "link": "https://www.youtube.com/watch?v=rm3T4X2HBa0",
+      "summary": "Join our discord server for career guidance or doubts:\nwww.youtube.com/abhishekveeramalla/join\n\nIn today's video, I will talk about the \"DevOps Real-time projects\".\n1. Are projects still relevant for DevOps Engineers to get a job? \n2. Fresher DevOps projects vs Experienced Engineer DevOps...",
+      "published": "2026-04-23T16:57:19+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/rm3T4X2HBa0/mqdefault.jpg"
     },
     {
       "title": "Microsoft 365 multi-agent workflow with Microsoft Agent Framework",
@@ -229,6 +405,17 @@
       "thumbnail": ""
     },
     {
+      "title": "Make Your Kubernetes Operator Handle 10× More Users",
+      "link": "https://www.youtube.com/watch?v=hCsEHR5aJJQ",
+      "summary": "Your Kubernetes operator reconciles one object at a time — by default. With a single worker, 100 custom resources and a 5-second reconcile means customer #100 waits over 8 minutes just to get started. In this video,  Shubham shows why this happens, how the controller-runtime work queue actually...",
+      "published": "2026-04-22T12:31:03+00:00",
+      "source": "Kubesimplify",
+      "type": "video",
+      "author": "Kubesimplify",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/hCsEHR5aJJQ/mqdefault.jpg"
+    },
+    {
       "title": "Google finally builds the AI and agent platform it’s been describing for years",
       "link": "https://thenewstack.io/google-gemini-agent-platform",
       "summary": "At Cloud Next ’26 on Wednesday, Google filled in the missing parts of its enterprise agent platform — and shuffled The post Google finally builds the AI and agent platform it’s been describing for years appeared first on The New Stack .",
@@ -270,6 +457,17 @@
         "Operations"
       ],
       "thumbnail": ""
+    },
+    {
+      "title": "kubectl run nginx — Every Step Inside Kubernetes (6 min)",
+      "link": "https://www.youtube.com/watch?v=LLuUhU3SwJo",
+      "summary": "You type kubectl run nginx. Three seconds later, the pod is Running.\nBut in those three seconds — seven Kubernetes components, 23 distinct steps.\nThis video opens the black box.\nWe trace every single step: kubectl parsing argv, TCP + TLS 1.3 to the API server, authentication, RBAC, mutating and...",
+      "published": "2026-04-22T09:52:43+00:00",
+      "source": "Kubesimplify",
+      "type": "video",
+      "author": "Kubesimplify",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/LLuUhU3SwJo/mqdefault.jpg"
     },
     {
       "title": "NFS Permission Denied in Azure App Service on Linux: What It Means and What to Do",
@@ -394,6 +592,17 @@
       "author": "",
       "categories": [],
       "thumbnail": ""
+    },
+    {
+      "title": "You will never forget Apache Kafka after watching this.",
+      "link": "https://www.youtube.com/watch?v=NIQshbx88hs",
+      "summary": "Join our discord server for career guidance or doubts:\nwww.youtube.com/abhishekveeramalla/join\n\nThis is a practical and most real-time tutorial of Apache Kafka by Abhishek Veeramalla. In this tutorial, Abhishek explains:\n- What is Kafka?\n- Why Kafka?\n- Building block of Kafka\n- Kafka real-time use...",
+      "published": "2026-04-21T15:10:05+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/NIQshbx88hs/mqdefault.jpg"
     },
     {
       "title": "Auto-diagnosing Kubernetes alerts with HolmesGPT and CNCF tools",
@@ -535,6 +744,17 @@
       "thumbnail": ""
     },
     {
+      "title": "Am I Quitting Content Creation and YouTube forever?",
+      "link": "https://www.youtube.com/watch?v=R4ihDMkbUsA",
+      "summary": "Join our discord server for career guidance or doubts:\nwww.youtube.com/abhishekveeramalla/join\n\nEsc Bash is a practical DevOps learning platform by Abhishek Veeramalla. The platform focuses on three things - Lessons, Tasks and Challenges. The platform covers every skill that DevOps engineers should...",
+      "published": "2026-04-19T16:53:59+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/R4ihDMkbUsA/mqdefault.jpg"
+    },
+    {
       "title": "SmartBear’s Swagger update targets the API drift problem AI coding tools created",
       "link": "https://thenewstack.io/smartbear-swagger-ai-api-management",
       "summary": "Last week, SmartBear announced new capabilities for its commercial Swagger toolset designed to help organizations govern, validate, and scale APIs The post SmartBear’s Swagger update targets the API drift problem AI coding tools created appeared first on The New Stack .",
@@ -560,6 +780,17 @@
       "author": "John Savill's Technical Training",
       "categories": [],
       "thumbnail": "https://i.ytimg.com/vi/ETTmwOu1cy0/mqdefault.jpg"
+    },
+    {
+      "title": "Micro services was a Mistake? Stop learning now?",
+      "link": "https://www.youtube.com/watch?v=7nz_VKeuFFc",
+      "summary": "Join Membership for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nIn this video, Abhishek explains the difference between Monolithic and Microservices architecture in very simple words through practical scenarios.\n\nFree Course on the channel\n==============================\n- DevOps Zero...",
+      "published": "2026-04-18T16:50:24+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/7nz_VKeuFFc/mqdefault.jpg"
     },
     {
       "title": "Anthropic, OpenAI, Google, and Microsoft agree that the harness is the product. They disagree on the price.",
@@ -683,6 +914,17 @@
       "thumbnail": ""
     },
     {
+      "title": "Hands-on Introduction to sympozium | Rawkode Live",
+      "link": "https://www.youtube.com/watch?v=mYoq_6CekSQ",
+      "summary": "Diving into Sympozium AI: The Future of Collaborative Intelligence\n\nWelcome to the live stream! Today, we are exploring **Sympozium**, an ambitious open-source project designed to bridge the gap between human collaboration and AI-driven insights. \n\nWhether you're a developer, a data scientist, or...",
+      "published": "2026-04-17T05:38:22+00:00",
+      "source": "Rawkode Academy",
+      "type": "video",
+      "author": "Rawkode Academy",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/mYoq_6CekSQ/mqdefault.jpg"
+    },
+    {
       "title": "New in Azure SRE Agent: Log Analytics and Application Insights Connectors",
       "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/new-in-azure-sre-agent-log-analytics-and-application-insights/ba-p/4509649",
       "summary": "Azure SRE Agent now supports Log Analytics and Application Insights as log providers, backed by the Azure MCP Server . Connect your workspaces and App Insights resources, and the agent can query them directly during investigations. Why This Matters Log Analytics and Application Insights are common...",
@@ -757,6 +999,17 @@
         "Video"
       ],
       "thumbnail": ""
+    },
+    {
+      "title": "Container Network Insights agent: Agentic AI network troubleshooting for Azure Kubernetes Service",
+      "link": "https://www.youtube.com/watch?v=cxwq8rEchFI",
+      "summary": "Discover how the Container Network Insights Agent (CNIA) transforms Kubernetes networking troubleshooting in Azure Kubernetes Service (AKS). This video demonstrates how CNIA uses AI to diagnose complex networking issues, like DNS failures, service misconfigurations, buffer overruns and packet loss,...",
+      "published": "2026-04-16T19:24:52+00:00",
+      "source": "AKS (Official)",
+      "type": "video",
+      "author": "Azure Kubernetes Service (AKS)",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/cxwq8rEchFI/mqdefault.jpg"
     },
     {
       "title": "Hugging Face pushes into “computer use” with HoloTab agent that works through your browser",
@@ -854,6 +1107,17 @@
       "thumbnail": ""
     },
     {
+      "title": "After 1 year of quitting Job | Introducing my startup",
+      "link": "https://www.youtube.com/watch?v=Gl8fFodjrws",
+      "summary": "Join our discord server for career guidance or doubts:\nwww.youtube.com/abhishekveeramalla/join\n\nEsc Bash is a practical DevOps learning platform by Abhishek Veeramalla. The platform focuses on three things - Lessons, Tasks and Challenges. The platform covers every skill that DevOps engineers should...",
+      "published": "2026-04-16T15:31:50+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/Gl8fFodjrws/mqdefault.jpg"
+    },
+    {
       "title": "Anthropic lays down identity verification on Claude",
       "link": "https://thenewstack.io/anthropic-claude-identity-verification",
       "summary": "A new identity verification layer is being rolled out on Claude. Not a broad-brush edict or ruling applied to every The post Anthropic lays down identity verification on Claude appeared first on The New Stack .",
@@ -879,6 +1143,17 @@
       "author": "John Savill's Technical Training",
       "categories": [],
       "thumbnail": "https://i.ytimg.com/vi/WjvN_XjMr6U/mqdefault.jpg"
+    },
+    {
+      "title": "TRMNL E-Ink Dashboard -  Setup in 5 Minutes",
+      "link": "https://www.youtube.com/watch?v=HLc3vHy2dNg",
+      "summary": "Setting up the TRMNL e-ink display - a tiny screen that sits beside your laptop and shows Hacker News, Google Calendar, YouTube stats, and more without touching your phone or browser. No distractions, just a glance.                                                                                    ...",
+      "published": "2026-04-16T10:46:01+00:00",
+      "source": "Kubesimplify",
+      "type": "video",
+      "author": "Kubesimplify",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/HLc3vHy2dNg/mqdefault.jpg"
     },
     {
       "title": "Is your internal platform ready to keep up with AI-accelerated development?",
@@ -1242,6 +1517,17 @@
         "Data"
       ],
       "thumbnail": ""
+    },
+    {
+      "title": "Redis is Dead - Migrate to Valkey in 5 minutes using BetterDB for FREE",
+      "link": "https://www.youtube.com/watch?v=7VjIFqvDs1Y",
+      "summary": "Get started with BetterDB Enterprise for FREE:\nhttps://betterdb.com/b/jYYXg\n\nRedis is dead. The Redis you knew, the open-source, community-loved, in-memory data store that powered half the internet's caching layer, that Redis is gone. And if you are still running it the way you were two years ago,...",
+      "published": "2026-04-14T15:41:13+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/7VjIFqvDs1Y/mqdefault.jpg"
     },
     {
       "title": "Beyond the VPN: Cloudflare Mesh builds a private network for the age of AI agents",
@@ -3193,268 +3479,6 @@
       "author": "kthornhill",
       "categories": [
         "Announcements"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Shared Agent Context: How We Are Tackling Partner Agent Collaboration",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/shared-agent-context-how-we-are-tackling-partner-agent/ba-p/4505714",
-      "summary": "Your Azure SRE agent detects a spike in error rates. It triages with cloud-native telemetry, but the root cause trail leads into a third-party observability platform your team also runs. The agent can't see that data. A second agent can, one that speaks Datadog or Dynatrace or whatever your team...",
-      "published": "2026-03-26T00:34:52+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "dbandaru",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Edera spent years calling KVM less secure. Here’s why it changed its mind.",
-      "link": "https://thenewstack.io/edera-adds-kvm-support",
-      "summary": "Edera, a top Xen hypervisor company, is shifting gears and will start supporting KVM as well this summer. If you The post Edera spent years calling KVM less secure. Here’s why it changed its mind. appeared first on The New Stack .",
-      "published": "2026-03-25T21:22:59+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Steven J. Vaughan-Nichols",
-      "categories": [
-        "Containers",
-        "Linux",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "CNCF Backstage Documentary Highlights Project Evolution from Development to Global Open Source Standard for Platform Engineering",
-      "link": "https://www.cncf.io/announcements/2026/03/25/cncf-backstage-documentary-highlights-project-evolution-from-development-to-global-open-source-standard-for-platform-engineering",
-      "summary": "Documentary follows the creation and growth of the Backstage project, highlighting its role in accelerating platform engineering initiatives Key Highlights AMSTERDAM—25 March, 2026—The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for cloud native software,...",
-      "published": "2026-03-25T17:15:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "kthornhill",
-      "categories": [
-        "Announcements"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Your Kubernetes isn’t ready for AI workloads, and drift is the reason",
-      "link": "https://thenewstack.io/ai-workloads-kubernetes-infrastructure-drift",
-      "summary": "If you’re a platform engineering leader managing Kubernetes at scale, a new pressure has entered the room. The business wants The post Your Kubernetes isn’t ready for AI workloads, and drift is the reason appeared first on The New Stack .",
-      "published": "2026-03-25T15:43:43+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "TNS Staff",
-      "categories": [
-        "AI Infrastructure",
-        "Kubernetes",
-        "Platform Engineering",
-        "sponsor-siderolabs",
-        "sponsored-webinar"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Run AI based DevSecOps on every Pull request | No coding",
-      "link": "https://www.youtube.com/watch?v=D36ZkJ-sKyQ",
-      "summary": "Get started with Sim:\nsim.ai/r/VL1Mx\n\nUse Code \"ABHI20\" for 20 Percent Discount on the PRO subscription.\n\nPrompt used in the video:\nhttps://gist.github.com/iam-veeramalla/95e03fff6770452f201a252450b7939f\n\nIn this video, I built an AI DevSecOps agent using Sim.ai that automates security checks for...",
-      "published": "2026-03-25T14:43:23+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/D36ZkJ-sKyQ/mqdefault.jpg"
-    },
-    {
-      "title": "Fivetran donates its SQLMesh data transformation framework to the Linux Foundation",
-      "link": "https://thenewstack.io/fivetran-donates-sqlmesh-lf",
-      "summary": "Fivetran, the company best known for its data movement platform, on Wednesday announced that it would donate SQLMesh, its open The post Fivetran donates its SQLMesh data transformation framework to the Linux Foundation appeared first on The New Stack .",
-      "published": "2026-03-25T14:39:39+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "Data"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "HPE’s AI agents cut root cause analysis time in half",
-      "link": "https://thenewstack.io/hpe-agentic-ai-ops-burnout",
-      "summary": "Operational fatigue, in the face of increasing complexity and risks, is a real problem. Can partnerships with skills-based AI agents The post HPE’s AI agents cut root cause analysis time in half appeared first on The New Stack .",
-      "published": "2026-03-25T14:14:19+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jennifer Riggins",
-      "categories": [
-        "AI Agents",
-        "AI Operations",
-        "Operations",
-        "sponsor-hpe",
-        "Sponsored",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Aspire on Azure App Service is now Generally Available",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/aspire-on-azure-app-service-is-now-generally-available/ba-p/4505549",
-      "summary": "Today we are announcing General Availability of Aspire on Azure App Service, making it easier to take distributed applications from local development to a fully managed production environment on Azure App Service. With the Aspire.Hosting.Azure.AppService package, you can define your hosting...",
-      "published": "2026-03-25T14:04:28+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "TulikaC",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Higress Joins CNCF: Delivering an enterprise-grade AI gateway and a seamless path from Nginx Ingress",
-      "link": "https://www.cncf.io/blog/2026/03/25/higress-joins-cncf-delivering-an-enterprise-grade-ai-gateway-and-a-seamless-path-from-nginx-ingress",
-      "summary": "We are thrilled to announce that Higress has officially passed the Technical Oversight Committee (TOC) vote to join the Cloud Native Computing Foundation (CNCF) as a Sandbox project, becoming a proud member of the CNCF ecosystem....",
-      "published": "2026-03-25T13:22:03+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "epower",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why online stores keep showing the wrong products — and why tensors fix it",
-      "link": "https://thenewstack.io/tensor-ranking-product-discovery",
-      "summary": "I’m a big fan of the UK retail institution Marks & Spencer and a complete addict of their click-and-collect service. The post Why online stores keep showing the wrong products — and why tensors fix it appeared first on The New Stack .",
-      "published": "2026-03-25T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Tim Young",
-      "categories": [
-        "AI Engineering",
-        "AI Infrastructure",
-        "Software Development",
-        "sponsor-vespa-ai",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenClaw’s biggest security flaw is why Jentic Mini exists",
-      "link": "https://thenewstack.io/openclaw-is-a-security-mess-jentic-wants-to-fix-it",
-      "summary": "OpenClaw changed everything. The open-source AI agent, which went from zero to 247,000 GitHub stars in 60 days, finally delivered on The post OpenClaw’s biggest security flaw is why Jentic Mini exists appeared first on The New Stack .",
-      "published": "2026-03-25T12:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Darryl K. Taft",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Claude can now open apps, click buttons, and complete tasks on your Mac — but Anthropic says risks remain",
-      "link": "https://thenewstack.io/claude-computer-use",
-      "summary": "Anthropic has released an update to Claude Code and Claude Cowork that brings computer-use capabilities to macOS desktops, enabling autonomous The post Claude can now open apps, click buttons, and complete tasks on your Mac — but Anthropic says risks remain appeared first on The New Stack .",
-      "published": "2026-03-25T11:36:54+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Overview of Entra Backup and Recovery",
-      "link": "https://www.youtube.com/watch?v=72nowrDIlQU",
-      "summary": "Quick walkthrough of Entra Backup and Restore and how it complements soft delete and protected actions.\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:17 - Entra daily snapshot\n01:45 - Restoring state\n02:50 - Difference report\n04:34 - Recovering\n05:13 - Soft delete\n07:08 - Protected...",
-      "published": "2026-03-25T11:05:16+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/72nowrDIlQU/mqdefault.jpg"
-    },
-    {
-      "title": "Why most AI projects fail after the demo actually works",
-      "link": "https://thenewstack.io/ai-demo-to-production",
-      "summary": "Building an AI demo is easy. Shipping an AI system that runs reliably in production, day after day, under load, The post Why most AI projects fail after the demo actually works appeared first on The New Stack .",
-      "published": "2026-03-25T11:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Oladimeji Sowole",
-      "categories": [
-        "AI Engineering",
-        "AI Operations",
-        "Large Language Models",
-        "sponsor-andela",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "CNCF Celebrates Innovators Advancing Cloud Native at KubeCon + CloudNativeCon Europe",
-      "link": "https://www.cncf.io/announcements/2026/03/25/cncf-celebrates-innovators-advancing-cloud-native-at-kubecon-cloudnativecon-europe",
-      "summary": "Recipients are recognized for their outstanding contributions to the cloud native ecosystem and community Key Highlights KUBECON + CLOUDNATIVECON EUROPE, AMSTERDAM, MARCH 25, 2026 – The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for...",
-      "published": "2026-03-25T09:30:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "kthornhill",
-      "categories": [
-        "Announcements"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Announcing the release of KubeVirt v1.8",
-      "link": "https://www.cncf.io/blog/2026/03/25/announcing-the-release-of-kubevirt-v1-8",
-      "summary": "The KubeVirt Community is happy to announce the release of v1.8, which aligns with Kubernetes v1.35. This is the third release since we started our VEP (Virt Enhancement Proposal) process and, after some shaky starts and...",
-      "published": "2026-03-25T08:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "The KubeVirt Community",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Istio Brings Future Ready Service Mesh to the AI Era with New Ambient Multicluster, Gateway API Inference Extension and More",
-      "link": "https://www.cncf.io/announcements/2026/03/25/istio-brings-future-ready-service-mesh-to-the-ai-era-with-new-ambient-multicluster-gateway-api-inference-extension-and-more",
-      "summary": "New beta capabilities and experimental support aim to simplify service mesh adoption while expanding Istio’s role in next-generation AI infrastructure Key Highlights: KUBECON + CLOUDNATIVECON EUROPE, AMSTERDAM—25 MARCH, 2025—The Cloud Native Computing Foundation® (CNCF®), which builds...",
-      "published": "2026-03-25T08:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "CNCF PR",
-      "categories": [
-        "Announcements"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "CNCF Welcomes 21 New Silver Members As Global Demand Surges for Observability, AI, and Secure Cloud Native Infrastructure",
-      "link": "https://www.cncf.io/announcements/2026/03/25/cncf-welcomes-21-new-silver-members-as-global-demand-surges-for-observability-ai-and-secure-cloud-native-infrastructure",
-      "summary": "New global members join CNCF reflecting the rise of enterprise demand for scalable, cost-efficient cloud native technologies KUBECON + CLOUDNATIVECON EUROPE, AMSTERDAM—25 MARCH, 2025—The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for cloud native...",
-      "published": "2026-03-25T08:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Haley White",
-      "categories": [
-        "Announcements"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Lima v2.1: macOS guests and enhanced AI agent safety",
-      "link": "https://www.cncf.io/blog/2026/03/25/lima-v2-1-macos-guests-and-enhanced-ai-agent-safety",
-      "summary": "Following our expansion into AI workflows in v2.0, Lima v2.1 introduces highly anticipated experimental support for macOS and FreeBSD guests and further hardens local environments against unpredictable AI agents. What is Lima ? Lima (Linux Machines)...",
-      "published": "2026-03-25T07:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Ansuman Sahoo, Lima Project Maintainer",
-      "categories": [
-        "Blog"
       ],
       "thumbnail": ""
     }
