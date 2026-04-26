@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-04-25T06:28:51.377013+00:00",
-    "total_items": 247,
+    "generated_at": "2026-04-26T06:35:47.575122+00:00",
+    "total_items": 244,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -28,6 +28,47 @@
       "type": "article",
       "author": "",
       "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "How ACR Artifact Cache Handles Multi-Arch Images: What Gets Cached and When Webhooks Fire",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/how-acr-artifact-cache-handles-multi-arch-images-what-gets/ba-p/4514744",
+      "summary": "By Johnson Shi (Senior Product Manager) , Toddy Mladenov (Principal PM Manager) , Luis Dieguez (Principal SWE Manager), Akash Singhal (Senior Software Engineer ), Kiran Challa (Senior Software Engineer), Ren Shao (Senior Software Engineer) Introduction Three of the most common questions we hear...",
+      "published": "2026-04-25T19:37:56+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "johnsonshi_msft",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Jaeger adopts OpenTelemetry at its core to solve the AI agent observability gap",
+      "link": "https://thenewstack.io/jaeger-v2-ai-observability",
+      "summary": "As software architectures evolve, observability tools must adapt. When the industry moved to microservices, distributed tracing became a necessity. Jaeger The post Jaeger adopts OpenTelemetry at its core to solve the AI agent observability gap appeared first on The New Stack .",
+      "published": "2026-04-25T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jonah Kowall",
+      "categories": [
+        "AI Operations",
+        "Observability",
+        "Open Source",
+        "sponsor-cncf",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The real story from OpenAI’s big week is Workspace Agents, not GPT-5.5",
+      "link": "https://thenewstack.io/openai-workspace-agents-gpt-5-5",
+      "summary": "I’m Matt Burns, Chief Content Officer at Insight Media Group. Each week, I round up the most important AI developments, The post The real story from OpenAI’s big week is Workspace Agents, not GPT-5.5 appeared first on The New Stack .",
+      "published": "2026-04-25T10:14:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Matthew Burns",
+      "categories": [
+        "Operations"
+      ],
       "thumbnail": ""
     },
     {
@@ -3396,90 +3437,6 @@
       "type": "article",
       "author": "pratikpanda",
       "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Millions of secrets exposed - LiteLLM Compromised",
-      "link": "https://www.youtube.com/watch?v=q5kcmbtJMf0",
-      "summary": "Join Membership for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nThis video explains the LiteLLM compromise in simple terms.\nI break down what actually happened, how it affected developers, and why it matters.\n\nThousands of systems may have been exposed during a short attack window....",
-      "published": "2026-03-26T16:24:01+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/q5kcmbtJMf0/mqdefault.jpg"
-    },
-    {
-      "title": "The operational gap is real, and it’s getting wider",
-      "link": "https://thenewstack.io/closing-cloud-operational-gap",
-      "summary": "Why the env zero and CloudQuery merger isn’t just a product story; It’s the thesis that the cloud operations market The post The operational gap is real, and it’s getting wider appeared first on The New Stack .",
-      "published": "2026-03-26T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Yevgeny Pats",
-      "categories": [
-        "Infrastructure as Code",
-        "Operations",
-        "Platform Engineering",
-        "sponsor-env-zero",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Enterprise dev teams are about to hit a wall. And CI pipelines can’t save them.",
-      "link": "https://thenewstack.io/ai-agent-validation-bottleneck",
-      "summary": "Over the last two years, the economics of software development have inverted. Producing code has become fast, but validating it The post Enterprise dev teams are about to hit a wall. And CI pipelines can’t save them. appeared first on The New Stack .",
-      "published": "2026-03-26T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Anirudh Ramanathan",
-      "categories": [
-        "AI Agents",
-        "CI/CD",
-        "Platform Engineering",
-        "sponsor-signadot",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The platform under the model: How cloud native powers AI engineering in production",
-      "link": "https://www.cncf.io/blog/2026/03/26/the-platform-under-the-model-how-cloud-native-powers-ai-engineering-in-production",
-      "summary": "AI workloads are increasingly running on Kubernetes in production, but for many teams, the path from a working model to a reliable system remains unclear. The cloud native ecosystem – its projects, patterns, and community –...",
-      "published": "2026-03-26T09:07:14+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Max Körbächer, CNCF Ambassador",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Announcing Kubescape 4.0 Enterprise Stability Meets the AI Era",
-      "link": "https://www.cncf.io/blog/2026/03/26/announcing-kubescape-4-0-enterprise-stability-meets-the-ai-era",
-      "summary": "We are happy to announce the release of Kubescape 4.0, a milestone bringing enterprise-grade stability and advanced threat detection to open source Kubernetes security. This version focuses on making security more proactive and scalable. It also...",
-      "published": "2026-03-26T08:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Ben Hirschberg, Kubescape Core Maintainer, ARMO CTO",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "F5 Elevates to Gold Membership in the Cloud Native Computing Foundation",
-      "link": "https://www.cncf.io/announcements/2026/03/26/f5-elevates-to-gold-membership-in-the-cloud-native-computing-foundation",
-      "summary": "Application delivery and security provider strengthens collaboration to drive secure, scalable cloud native innovation Key Highlights: AMSTERDAM—26 March 2026—The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for cloud native software, today announced that F5...",
-      "published": "2026-03-26T08:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "kthornhill",
-      "categories": [
-        "Announcements"
-      ],
       "thumbnail": ""
     }
   ]
