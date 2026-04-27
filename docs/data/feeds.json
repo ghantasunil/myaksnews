@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-04-26T06:35:47.575122+00:00",
-    "total_items": 244,
+    "generated_at": "2026-04-27T06:50:29.541584+00:00",
+    "total_items": 240,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -27,6 +27,109 @@
       "source": "AKS Newsletter",
       "type": "article",
       "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "How to Troubleshoot Azure Functions Service Bus Trigger Issues",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/how-to-troubleshoot-azure-functions-service-bus-trigger-issues/ba-p/4514006",
+      "summary": "Table of Contents Overview Understanding How the Service Bus Trigger Works Message Processing Flow Key Concepts host.json Configuration Reference Issue Categories Common Causes and Solutions 1. Connection String or Configuration Errors 2. Authentication and Authorization Failures (RBAC / SAS) 3....",
+      "published": "2026-04-27T06:01:56+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "vikasgupta5",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "The disappearing AI middle class",
+      "link": "https://thenewstack.io/disappearing-ai-middle-class",
+      "summary": "In 24 hours last week, OpenAI and DeepSeek made opposite bets on what frontier AI is worth. One says it The post The disappearing AI middle class appeared first on The New Stack .",
+      "published": "2026-04-26T17:16:16+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Janakiram MSV",
+      "categories": [
+        "AI",
+        "AI Models",
+        "AI Strategy"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Beyond prompting: How KubeStellar reached 81% PR acceptance with AI agents",
+      "link": "https://thenewstack.io/ai-codebase-maturity-model",
+      "summary": "The surprise in building KubeStellar Console with coding agents was not the extent of the model’s capabilities, but the heavy The post Beyond prompting: How KubeStellar reached 81% PR acceptance with AI agents appeared first on The New Stack .",
+      "published": "2026-04-26T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Andy Anderson",
+      "categories": [
+        "AI Engineering",
+        "Kubernetes",
+        "Platform Engineering",
+        "sponsor-cncf",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The one Slack message that proved our elite engineering team was flying blind",
+      "link": "https://thenewstack.io/multi-cloud-blind-spots",
+      "summary": "Someone posted a question in Slack that seemed straightforward: What are we actually running across both cloud environments? Not what The post The one Slack message that proved our elite engineering team was flying blind appeared first on The New Stack .",
+      "published": "2026-04-26T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Joe Karlsson",
+      "categories": [
+        "Cloud Services",
+        "Infrastructure as Code",
+        "Observability",
+        "sponsor-env-zero",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How to find and unlock the data hidden within videos",
+      "link": "https://thenewstack.io/build-video-search-vespa",
+      "summary": "Video is everywhere in today’s world, and more video content is being pumped out than ever before. It is estimated The post How to find and unlock the data hidden within videos appeared first on The New Stack .",
+      "published": "2026-04-26T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Kai Borgen",
+      "categories": [
+        "AI Engineering",
+        "Data",
+        "Developer tools",
+        "sponsor-vespa-ai",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The debugging wars: Cursor 3 takes aim at Claude Code’s agentic edge",
+      "link": "https://thenewstack.io/cursors-agents-window-vs-claude-code",
+      "summary": "The Cursor we’ve come to know and love has always been an IDE with AI assistance. Working with Cursor gave The post The debugging wars: Cursor 3 takes aim at Claude Code’s agentic edge appeared first on The New Stack .",
+      "published": "2026-04-26T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jessica Wachtel",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Microsoft’s New In‑House AI Models (MAI‑Transcribe, MAI‑Voice, MAI‑Image)",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/microsoft-s-new-in-house-ai-models-mai-transcribe-mai-voice-mai/ba-p/4512731",
+      "summary": "What Are the New MAI Models? MAI‑Transcribe‑1 (Speech‑to‑Text) MAI‑Transcribe‑1 is Microsoft’s first‑generation in‑house speech recognition model. It supports 25 languages and is optimized for real‑world, noisy enterprise audio , such as meetings and call centers. Key highlights Enterprise‑grade...",
+      "published": "2026-04-26T11:56:35+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "kumar_rahul",
       "categories": [],
       "thumbnail": ""
     },
@@ -3292,151 +3395,6 @@
         "AI Infrastructure",
         "Model Context Protocol (MCP)"
       ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AKS Newsletter – March 2026",
-      "link": "https://aksnewsletter.com/2026/2026-03.html",
-      "summary": "54 curated items covering documentation updates, feature announcements, community blogs, and more.",
-      "published": "2026-03-28T00:00:00+00:00",
-      "source": "AKS Newsletter",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "What AI Agents for Modernization Look Like in Practice",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/what-ai-agents-for-modernization-look-like-in-practice/ba-p/4506366",
-      "summary": "We’ve all been put onto an initiative to “modernize” our company’s applications. But talk about a haphazard and confusing project to be put on. Apps are older than anyone first thought, there are dependencies nobody can explain, and business critical services blocked behind another team's roadmap....",
-      "published": "2026-03-27T19:50:30+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "PabloLopes",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Building the agentic future together at JDConf 2026",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/building-the-agentic-future-together-at-jdconf-2026/ba-p/4505367",
-      "summary": "JDConf 2026 is just weeks away, and I’m excited to welcome Java developers, architects, and engineering leaders from around the world for two days of learning and connection. Now in its sixth year, JDConf has become a place where the Java community compares notes on their real-world production...",
-      "published": "2026-03-27T18:39:18+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "Mayunk_Jain",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Gitleaks creator returns with Betterleaks, an open source secrets scanner for the agentic era",
-      "link": "https://thenewstack.io/betterleaks-open-source-secret-scanner",
-      "summary": "A new open-source secret-scanning tool from the creator of Gitleaks aims to pick up where its widely used predecessor left off, with The post Gitleaks creator returns with Betterleaks, an open source secrets scanner for the agentic era appeared first on The New Stack .",
-      "published": "2026-03-27T18:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "Open Source",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How TeamPCP turned Aqua Security’s own Trivy scanner into a weapon against millions of developers",
-      "link": "https://thenewstack.io/teampcp-trivy-supply-chain-attack",
-      "summary": "Open source is under attack with a new wave of supply chain attacks. It has been a bad, bad few The post How TeamPCP turned Aqua Security’s own Trivy scanner into a weapon against millions of developers appeared first on The New Stack .",
-      "published": "2026-03-27T17:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Steven J. Vaughan-Nichols",
-      "categories": [
-        "CI/CD",
-        "Open Source",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI’s Codex gets plugins",
-      "link": "https://thenewstack.io/openais-codex-gets-plugins",
-      "summary": "OpenAI this week announced that it is adding plugins to Codex. These plugins for third-party services like Box, Figma, Linear, The post OpenAI’s Codex gets plugins appeared first on The New Stack .",
-      "published": "2026-03-27T15:20:51+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Developer tools",
-        "Model Context Protocol"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Azure Update 27th March 2026",
-      "link": "https://www.youtube.com/watch?v=rz-7PWle174",
-      "summary": "Lots of updates this week!\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation queue never to be...",
-      "published": "2026-03-27T14:28:39+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/rz-7PWle174/mqdefault.jpg"
-    },
-    {
-      "title": "GitHub will train AI models on your Copilot data — and share it with Microsoft",
-      "link": "https://thenewstack.io/github-copilot-interaction-data",
-      "summary": "Yet another platform will use your data to train its AI models. This time, it’s GitHub.  GitHub announced this week The post GitHub will train AI models on your Copilot data — and share it with Microsoft appeared first on The New Stack .",
-      "published": "2026-03-27T13:37:49+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "AI",
-        "AI Models",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The reason your pgvector benchmark is lying to you",
-      "link": "https://thenewstack.io/why-pgvector-benchmarks-lie",
-      "summary": "As an open source Postgres extension, pgvector lets you store and query vector embeddings alongside your relational data, using the The post The reason your pgvector benchmark is lying to you appeared first on The New Stack .",
-      "published": "2026-03-27T12:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Naina Ananthaswamy",
-      "categories": [
-        "AI Infrastructure",
-        "Databases",
-        "Open Source",
-        "sponsor-instaclustr",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The weight of AI models: Why infrastructure always arrives slowly",
-      "link": "https://www.cncf.io/blog/2026/03/27/the-weight-of-ai-models-why-infrastructure-always-arrives-slowly",
-      "summary": "As AI adoption accelerates across industries, organizations face a critical bottleneck that is often overlooked until it becomes a serious obstacle: reliably managing and distributing large model weight files at scale. A model’s weights serve as...",
-      "published": "2026-03-27T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Wenbo Qi (Dragonfly/ModelPack Maintainer), Chenyu Zhang (Harbor/ModelPack Maintainer) and Feynman Zhou (ORAS Maintainer and CNCF Ambassador)",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Unit Testing Helm Charts with Terratest: A Pattern Guide for Type-Safe Validation",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/unit-testing-helm-charts-with-terratest-a-pattern-guide-for-type/ba-p/4506165",
-      "summary": "Helm charts are the de facto standard for packaging Kubernetes applications. But here's a question worth asking: how do you know your chart actually produces the manifests you expect, across every environment, before it reaches a cluster? If you're like most teams, the answer is some combination...",
-      "published": "2026-03-27T07:33:36+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "pratikpanda",
-      "categories": [],
       "thumbnail": ""
     }
   ]
