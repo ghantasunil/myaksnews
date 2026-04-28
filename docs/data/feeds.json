@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-04-27T06:50:29.541584+00:00",
-    "total_items": 240,
+    "generated_at": "2026-04-28T06:52:27.445441+00:00",
+    "total_items": 246,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,17 @@
   },
   "items": [
     {
+      "title": "Why Does Azure App Service Return HTTP 404?",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/why-does-azure-app-service-return-http-404/ba-p/4514004",
+      "summary": "When an application deployed to Azure App Service suddenly starts returning HTTP 404 – Not Found , it can be confusing —especially when: The deployment completed successfully The App Service shows as Running No obvious errors appear in the portal This behaviour is more common than it appears and is...",
+      "published": "2026-04-28T06:39:38+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "AmritpalSinghNaroo",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
       "title": "AKS Newsletter – April 2026",
       "link": "https://aksnewsletter.com/2026/2026-04.html",
       "summary": "71 curated items covering documentation updates, feature announcements, community blogs, and more.",
@@ -28,6 +39,158 @@
       "type": "article",
       "author": "",
       "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Microsoft-OpenAI rewrite opens the door for Anthropic and Google",
+      "link": "https://thenewstack.io/openai-microsoft-partnership-restructured",
+      "summary": "ChatGPT creator OpenAI and Microsoft announced on Monday a reworking of their joint partnership agreements. The repositioning by both companies The post Microsoft-OpenAI rewrite opens the door for Anthropic and Google appeared first on The New Stack .",
+      "published": "2026-04-27T22:25:40+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Strategy",
+        "Cloud Services",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "GitHub moves Copilot to usage-based billing as AI coding costs climb",
+      "link": "https://thenewstack.io/github-copilot-usage-billing",
+      "summary": "The rumors were true: GitHub announced today that it’s overhauling how it charges for Copilot, shifting to a usage-based billing The post GitHub moves Copilot to usage-based billing as AI coding costs climb appeared first on The New Stack .",
+      "published": "2026-04-27T19:02:17+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Models",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why AI engineering needs old-school discipline",
+      "link": "https://thenewstack.io/thoughtworks-radar-agentic-ai",
+      "summary": "For this episode of The New Stack Makers, we sat down with Nimisha Asthagiri, the data and AI advisor at The post Why AI engineering needs old-school discipline appeared first on The New Stack .",
+      "published": "2026-04-27T18:53:33+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "Operations",
+        "Podcast",
+        "sponsor-thoughtworks",
+        "Video"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes v1.36: Mutable Pod Resources for Suspended Jobs (beta)",
+      "link": "https://kubernetes.io/blog/2026/04/27/kubernetes-v1-36-mutable-pod-resources-for-suspended-jobs",
+      "summary": "Kubernetes v1.36 promotes the ability to modify container resource requests and limits\nin the pod template of a suspended Job to beta. First introduced as alpha in v1.35, this\nfeature allows queue controllers and cluster administrators to adjust CPU, memory, GPU,\nand extended resource...",
+      "published": "2026-04-27T18:35:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "“I was tired of explaining it to somebody who was supposed to build it for me”: Meet the executives vibe-coding their own tools.",
+      "link": "https://thenewstack.io/vibe-coding-ceos-executives-ai-agents",
+      "summary": "While software developers seem to have wholly adopted AI coding assistants, the business side of organizations — the C-suite and The post “I was tired of explaining it to somebody who was supposed to build it for me”: Meet the executives vibe-coding their own tools. appeared first on The New Stack .",
+      "published": "2026-04-27T16:08:38+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Vibe Coding"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "What the 2026 State of Open Source report reveals about digital autonomy",
+      "link": "https://thenewstack.io/open-source-digital-autonomy",
+      "summary": "Over the past few years, digital autonomy has moved beyond architecture discussions and into executive conversations. More CIOs and CTOs The post What the 2026 State of Open Source report reveals about digital autonomy appeared first on The New Stack .",
+      "published": "2026-04-27T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Matthew Weier O’Phinney",
+      "categories": [
+        "Compliance",
+        "Open Source",
+        "Operations",
+        "sponsor-perforce",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why developers are betting on Postgres for AI",
+      "link": "https://thenewstack.io/postgres-ai-ground-truth",
+      "summary": "Everyone, it seems, is rushing to build AI applications and agents, seeking new tools to support everything from customer support The post Why developers are betting on Postgres for AI appeared first on The New Stack .",
+      "published": "2026-04-27T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI Engineering",
+        "Databases",
+        "Open Source",
+        "sponsor-pgedge",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Can your operations handle your security ambitions?",
+      "link": "https://thenewstack.io/security-operational-maturity-scaling",
+      "summary": "For software companies, security is inseparable from software quality. That makes security excellence a real competitive advantage. But closing the The post Can your operations handle your security ambitions? appeared first on The New Stack .",
+      "published": "2026-04-27T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jamie Dicken",
+      "categories": [
+        "Platform Engineering",
+        "Security",
+        "Software Development",
+        "sponsor-gitlab",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "GitHub veteran Brian Douglas launches Paper Compute to fix AI agent infrastructure",
+      "link": "https://thenewstack.io/paper-compute-agent-infrastructure",
+      "summary": "“Everyone’s building agents, not enough people are building the systems underneath them,” open source veteran Brian Douglas wrote on LinkedIn The post GitHub veteran Brian Douglas launches Paper Compute to fix AI agent infrastructure appeared first on The New Stack .",
+      "published": "2026-04-27T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes for platform teams: Leveraging k0s and k0rdent",
+      "link": "https://www.cncf.io/blog/2026/04/27/kubernetes-for-platform-teams-leveraging-k0s-and-k0rdent",
+      "summary": "In our previous blog, we explored a GitOps use case for on-premises infrastructure, managing multiple clusters hosted on the k3s Kubernetes distribution using k0rdent.  But the platform engineering ecosystem is vast, and one blog barely scratches...",
+      "published": "2026-04-27T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Prithvi Raj (CNCF Ambassador) & Shivani Rathod (Bacancy Technology)",
+      "categories": [
+        "Blog"
+      ],
       "thumbnail": ""
     },
     {
@@ -3319,81 +3482,6 @@
         "AI Agents",
         "Open Source",
         "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How platform teams are eliminating a $43,800 “hidden tax” on Kubernetes infrastructure",
-      "link": "https://thenewstack.io/virtual-clusters-kubernetes-cost-isolation",
-      "summary": "The ability to provision a Kubernetes cluster on demand, with full API access, custom RBAC, and isolated resource namespaces, defines The post How platform teams are eliminating a $43,800 “hidden tax” on Kubernetes infrastructure appeared first on The New Stack .",
-      "published": "2026-03-28T20:09:54+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Janakiram MSV",
-      "categories": [
-        "Cloud Native Ecosystem",
-        "Kubernetes",
-        "Platform Engineering"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Nvidia’s NemoClaw has three layers of agent security. None of them solve the real problem.",
-      "link": "https://thenewstack.io/nvidia-nemoclaw-openclaw-security",
-      "summary": "The speed of LLM adoption demands that we check its trajectory from time to time. CEO Jensen Huang, talking at The post Nvidia’s NemoClaw has three layers of agent security. None of them solve the real problem. appeared first on The New Stack .",
-      "published": "2026-03-28T13:30:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "David Eastman",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Build it yourself: A data pipeline that trains a real model",
-      "link": "https://thenewstack.io/data-pipelines-serve-ai",
-      "summary": "We talk about AI a lot here. We talk about data less often, but data is one of the most The post Build it yourself: A data pipeline that trains a real model appeared first on The New Stack .",
-      "published": "2026-03-28T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jessica Wachtel",
-      "categories": [
-        "AI",
-        "AI Engineering",
-        "Data"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Solo.io launches agentevals to solve agentic AI’s “biggest unsolved problem”",
-      "link": "https://thenewstack.io/soloio-agentevals-evaluates-ai-agents",
-      "summary": "So many agents, so little time to evaluate them. Solo.io‘s new projects can help. Agentic AI has blown up. These The post Solo.io launches agentevals to solve agentic AI’s “biggest unsolved problem” appeared first on The New Stack .",
-      "published": "2026-03-28T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Steven J. Vaughan-Nichols",
-      "categories": [
-        "AI Agents",
-        "Cloud Native Ecosystem",
-        "Observability"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic’s madcap March: 14+ launches, 5 outages, and an accidental Claude Mythos leak",
-      "link": "https://thenewstack.io/anthropic-march-2026-roundup",
-      "summary": "I’m Matt Burns, Head of Content at Insight Media Group. Each week, I round up the most important AI developments The post Anthropic’s madcap March: 14+ launches, 5 outages, and an accidental Claude Mythos leak appeared first on The New Stack .",
-      "published": "2026-03-28T11:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Matthew Burns",
-      "categories": [
-        "AI",
-        "AI Infrastructure",
-        "Model Context Protocol (MCP)"
       ],
       "thumbnail": ""
     }
