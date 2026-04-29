@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-04-28T06:52:27.445441+00:00",
-    "total_items": 246,
+    "generated_at": "2026-04-29T06:47:28.500651+00:00",
+    "total_items": 252,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -19,6 +19,180 @@
     ]
   },
   "items": [
+    {
+      "title": "“Developer loyalty is at zero right now”: Google doesn’t care which AI coding tool you use",
+      "link": "https://thenewstack.io/google-doesnt-care",
+      "summary": "“Developer loyalty is at zero right now,” Richard Seroter, Google Cloud’s Senior Director and Chief Evangelist, told The New Stack The post “Developer loyalty is at zero right now”: Google doesn’t care which AI coding tool you use appeared first on The New Stack .",
+      "published": "2026-04-28T20:29:49+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Engineering"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes v1.36: Staleness Mitigation and Observability for Controllers",
+      "link": "https://kubernetes.io/blog/2026/04/28/kubernetes-v1-36-staleness-mitigation-for-controllers",
+      "summary": "Staleness in Kubernetes controllers is a problem that affects many controllers, and is something may affect controller behavior\nin subtle ways. It is usually not until it is too late, when a controller in production has already taken incorrect action, that\nstaleness is found to be an issue due to...",
+      "published": "2026-04-28T18:35:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why Broadcom is betting on a private cloud comeback",
+      "link": "https://thenewstack.io/broadcom-vcf-kubernetes-platform",
+      "summary": "Broadcom’s VMware Cloud Foundation (VCF) continues to evolve from a turnkey infrastructure stack to a modern app substrate. At stake The post Why Broadcom is betting on a private cloud comeback appeared first on The New Stack .",
+      "published": "2026-04-28T18:09:41+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "B. Cameron Gain",
+      "categories": [
+        "KubeCon Cloudnativecon EU 2026",
+        "Kubernetes",
+        "Platform Engineering",
+        "Podcast",
+        "sponsor-broadcom",
+        "sponsored-podcast",
+        "sponsored-post",
+        "Video"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "SAS opens its analytics engine to Claude, Copilot and any AI agent with Viya MCP Server",
+      "link": "https://thenewstack.io/sas-viya-mcp-governance",
+      "summary": "SAS has spent 50 years building analytics and decisioning software for regulated industries like banks, insurers, government agencies, and manufacturers. The post SAS opens its analytics engine to Claude, Copilot and any AI agent with Viya MCP Server appeared first on The New Stack .",
+      "published": "2026-04-28T17:29:49+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI Agents",
+        "AI Strategy",
+        "Model Context Protocol (MCP)"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why JSON Schema matters more than ever in the age of generative AI",
+      "link": "https://thenewstack.io/json-schema-ai-reliability",
+      "summary": "As enterprises grapple with the unpredictability of large language models, the quietly ubiquitous JSON Schema standard is emerging as a The post Why JSON Schema matters more than ever in the age of generative AI appeared first on The New Stack .",
+      "published": "2026-04-28T17:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Charles Humble",
+      "categories": [
+        "AI Strategy",
+        "API Management",
+        "Large Language Models",
+        "sponsor-naftiko",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How Microsoft 1ES uses agentic AI to take on security and compliance at scale",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/how-microsoft-1es-uses-agentic-ai-to-take-on-security-and/ba-p/4515191",
+      "summary": "Microsoft’s Customer Zero blog series gives an insider view of how Microsoft builds and operates Microsoft using our trusted, enterprise-grade IQ platform. Learn best practices from our engineering teams with real-world lessons, architectural patterns, and operational strategies for pressure-tested...",
+      "published": "2026-04-28T16:15:00+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "JennyF",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Sentry’s Seer Agent lets developers debug production issues in natural language",
+      "link": "https://thenewstack.io/sentrys-seer-agent-debug",
+      "summary": "Sentry, the application monitoring and error tracking service, on Tuesday launched Seer Agent, a natural-language debugging tool that lets developers The post Sentry’s Seer Agent lets developers debug production issues in natural language appeared first on The New Stack .",
+      "published": "2026-04-28T16:01:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI Agents",
+        "Developer tools",
+        "Observability"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "From system of record to system of control: How NetBox Labs is making network engineers “masters of intent.”",
+      "link": "https://thenewstack.io/netbox-labs-network-intent",
+      "summary": "Early internet networks were small enough that a single engineer could hold the entire system in their head. You didn’t The post From system of record to system of control: How NetBox Labs is making network engineers “masters of intent.” appeared first on The New Stack .",
+      "published": "2026-04-28T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Doug Sillars",
+      "categories": [
+        "AI Infrastructure",
+        "Networking",
+        "Platform Engineering",
+        "sponsor-netbox-labs",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The Complete AWS Certified Generative AI Developer Professional (AIP‑C01) Study Guide",
+      "link": "https://kodekloud.com/blog/the-complete-aws-certified-generative-ai-developer-professional-aip-c01-study-guide",
+      "summary": "Complete AIP‑C01 study guide covering all five exam domains, Bedrock Agents, RAG pipelines, guardrails, and a six to eight week prep strategy.",
+      "published": "2026-04-28T14:06:45+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Securing Your AI Agents Before They Ship: Red Teaming with Microsoft PyRIT",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/securing-your-ai-agents-before-they-ship-red-teaming-with/ba-p/4515514",
+      "summary": "Securing Your AI Agents Before They Ship: Red Teaming with Microsoft PyRIT You wouldn't ship a web app without running OWASP ZAP or Snyk. So why are AI agents going to production without a single security scan? Prompt injection, data leakage, system prompt theft — the OWASP Top 10 for LLM...",
+      "published": "2026-04-28T13:48:33+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "vsriramdas",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why Terraform is green when your cloud is broken",
+      "link": "https://thenewstack.io/terraform-state-infrastructure-drift",
+      "summary": "It was a Tuesday afternoon. Terraform plan came back clean. No changes. I double-checked, because the last few deploys had The post Why Terraform is green when your cloud is broken appeared first on The New Stack .",
+      "published": "2026-04-28T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Joe Karlsson",
+      "categories": [
+        "Cloud Services",
+        "DevOps",
+        "Infrastructure as Code",
+        "sponsor-env-zero",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Lovelace emerges from stealth with context engine that claims 1000x AI investigative power",
+      "link": "https://thenewstack.io/lovelace-ai-context-engine-elemental-andrew-moore",
+      "summary": "Andrew Moore has spent two decades watching enterprise AI projects fail the tests that mattered most. Not the demos. Not The post Lovelace emerges from stealth with context engine that claims 1000x AI investigative power appeared first on The New Stack .",
+      "published": "2026-04-28T12:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Engineering"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Why Does Azure App Service Return HTTP 404?",
       "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/why-does-azure-app-service-return-http-404/ba-p/4514004",
@@ -3399,91 +3573,6 @@
       "author": "John Savill's Technical Training",
       "categories": [],
       "thumbnail": "https://i.ytimg.com/vi/gTupe7ou5xI/mqdefault.jpg"
-    },
-    {
-      "title": "Gain Visibility into Cloud Browser Usage with Browser Activity Logs in Playwright Workspaces",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/gain-visibility-into-cloud-browser-usage-with-browser-activity/ba-p/4506706",
-      "summary": "Today, we're announcing a new feature to view the usage metrics for a browser session using the Browser Activity Logs in Playwright Workspaces . Modern test automation and browser-based workflows increasingly rely on cloud-hosted browsers. As teams scale their usage across test runs, automation...",
-      "published": "2026-03-30T06:28:43+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "AbhinavPremsekhar",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "What Is the Shared Responsibility Model in Cloud Computing?",
-      "link": "https://kodekloud.com/blog/cloud-shared-responsibility-model-explained",
-      "summary": "Learn the cloud shared responsibility model, real breach examples, and how to secure AWS, Azure, and GCP effectively.",
-      "published": "2026-03-30T02:36:00+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "Cloud security",
-        "shared responsibility model",
-        "AWS security",
-        "Azure security",
-        "GCP security",
-        "DevOps security",
-        "cloud misconfiguration",
-        "IAM best practices",
-        "cloud breaches",
-        "zero trust security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kubernetes v1.36 Sneak Peek",
-      "link": "https://kubernetes.io/blog/2026/03/30/kubernetes-v1-36-sneak-peek",
-      "summary": "Kubernetes v1.36 is coming at the end of April 2026. This release will include removals and deprecations, and it is packed with an impressive number of\nenhancements. Here are some of the features we are most excited about in this cycle! Please note that this information reflects the current state...",
-      "published": "2026-03-30T00:00:00+00:00",
-      "source": "Kubernetes Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "DevOps - The last thing to be replaced by AI | Start learning today",
-      "link": "https://www.youtube.com/watch?v=GWQxAgIMQ-c",
-      "summary": "Join Membership for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nAI cannot replace DevOps Engineers. Here is the 5 Important reasons.\n\nFree Course on the channel\n==============================\n- DevOps Zero to Hero Playlist:...",
-      "published": "2026-03-29T17:07:16+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/GWQxAgIMQ-c/mqdefault.jpg"
-    },
-    {
-      "title": "WebAssembly is now outperforming containers at the edge",
-      "link": "https://thenewstack.io/webassembly-component-model-future",
-      "summary": "The mass adoption of WebAssembly has yet to be realized.  The true turning point for WebAssembly — specifically its ability The post WebAssembly is now outperforming containers at the edge appeared first on The New Stack .",
-      "published": "2026-03-29T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "B. Cameron Gain",
-      "categories": [
-        "Cloud Native Ecosystem",
-        "Software Development",
-        "WebAssembly"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "96% of codebases rely on open source, and AI slop is putting them at risk",
-      "link": "https://thenewstack.io/ai-slop-open-source",
-      "summary": "Verbose changes. Nonsensical descriptions. Pull requests contributors can’t explain. AI is DDoS-ing open source software (OSS) with slop, and some The post 96% of codebases rely on open source, and AI slop is putting them at risk appeared first on The New Stack .",
-      "published": "2026-03-29T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Bill Doerrfeld",
-      "categories": [
-        "AI Agents",
-        "Open Source",
-        "Software Development"
-      ],
-      "thumbnail": ""
     }
   ]
 }
