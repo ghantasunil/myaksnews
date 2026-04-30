@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-04-29T06:47:28.500651+00:00",
-    "total_items": 252,
+    "generated_at": "2026-04-30T06:49:56.287347+00:00",
+    "total_items": 262,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -19,6 +19,191 @@
     ]
   },
   "items": [
+    {
+      "title": "Azure SRE Agent for Azure Monitor Alerts: Reduce Alert Fatigue, Investigate What Matters",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-sre-agent-for-azure-monitor-alerts-reduce-alert-fatigue/ba-p/4513458",
+      "summary": "The Alert Problem Organizations running Azure Monitor tend to land in one of two situations: Alert fatigue has set in. Alert rules tend to grow over time — a CPU threshold from two years ago, a health probe check from a migration, a disk alert from an outage that never got cleaned up. These rules...",
+      "published": "2026-04-30T01:28:49+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Vineela-Suri",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Plugin Marketplace for Azure SRE Agent: Build Once, Install Anywhere",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/plugin-marketplace-for-azure-sre-agent-build-once-install/ba-p/4513501",
+      "summary": "What's a Plugin? A plugin bundles two things: Skills — Operational knowledge (triage runbooks, policy rules, known issues) the agent reads at runtime to guide its reasoning MCP Connectors — Live integrations to your internal APIs (deployment tracker, cost dashboard, CMDB) the agent can query during...",
+      "published": "2026-04-29T22:25:23+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Vineela-Suri",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Cut AI token usage by 96%? Here’s how AWS Strands Agents does it.",
+      "link": "https://thenewstack.io/strands-agents-tool-design",
+      "summary": "For this episode of The New Stack Makers, I sat down with AWS developer advocate Morgan Willis to talk about The post Cut AI token usage by 96%? Here’s how AWS Strands Agents does it. appeared first on The New Stack .",
+      "published": "2026-04-29T18:52:32+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI Agents",
+        "Model Context Protocol",
+        "Model Context Protocol (MCP)",
+        "Operations",
+        "Podcast",
+        "sponsor-amazon-web-services-aws",
+        "sponsored-post",
+        "Video"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes v1.36: Tiered Memory Protection with Memory QoS",
+      "link": "https://kubernetes.io/blog/2026/04/29/kubernetes-v1-36-memory-qos-tiered-protection",
+      "summary": "On behalf of SIG Node, we are pleased to announce updates to the Memory QoS\nfeature (alpha) in Kubernetes v1.36. Memory QoS uses the cgroup v2 memory\ncontroller to give the kernel better guidance on how to treat container memory.\nIt was first introduced in v1.22 and updated in v1.27. In Kubernetes...",
+      "published": "2026-04-29T18:35:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Get started with the New Relic MCP server in Azure SRE Agent",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/get-started-with-the-new-relic-mcp-server-in-azure-sre-agent/ba-p/4515268",
+      "summary": "Overview The New Relic MCP server is a cloud-hosted bridge between your New Relic account and Azure SRE Agent. Once configured, it enables real-time interaction with your observability data—APM traces, distributed traces, logs, metrics, alerts, incidents, dashboards, and entities—through natural...",
+      "published": "2026-04-29T17:35:44+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "dbandaru",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anaconda acquires Outerbounds to rein in the buggy code AI agents keep shipping",
+      "link": "https://thenewstack.io/anaconda-ai-outerbounds-python-metaflow",
+      "summary": "Anaconda, which provides an AI-native dev platform, is acquiring Outerbounds, the company behind Metaflow, an open source AI/ML orchestration framework The post Anaconda acquires Outerbounds to rein in the buggy code AI agents keep shipping appeared first on The New Stack .",
+      "published": "2026-04-29T16:43:08+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "AI Engineering",
+        "AI Infrastructure",
+        "AI Strategy",
+        "Operations"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic wants to be the AWS of agentic AI",
+      "link": "https://thenewstack.io/anthropic-agents-managed-aws-claude",
+      "summary": "Earlier this month, Anthropic launched Claude Managed Agents in public beta. Two weeks later it added persistent memory. From this The post Anthropic wants to be the AWS of agentic AI appeared first on The New Stack .",
+      "published": "2026-04-29T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jessica Wachtel",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "AI Strategy"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AWS lands OpenAI on Bedrock, but Trainium is the real story",
+      "link": "https://thenewstack.io/openai-bedrock-trainium-silicon",
+      "summary": "AWS is finally closing the gap for developers who want OpenAI models without leaving the Amazon ecosystem. Speaking at an The post AWS lands OpenAI on Bedrock, but Trainium is the real story appeared first on The New Stack .",
+      "published": "2026-04-29T14:54:40+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Janakiram MSV",
+      "categories": [
+        "AI Infrastructure",
+        "AI Strategy",
+        "Cloud Services"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Warp’s gamble: Going open source to take on closed-source rivals",
+      "link": "https://thenewstack.io/warp-open-source-client",
+      "summary": "Warp, the popular Rust-based agentic development environment, has released its client as open source. Warp began in 2022 as, believe The post Warp’s gamble: Going open source to take on closed-source rivals appeared first on The New Stack .",
+      "published": "2026-04-29T13:57:41+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Steven J. Vaughan-Nichols",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Developer tools",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How AI transforms your role as a platform engineer",
+      "link": "https://thenewstack.io/platform-engineering-ai-agents",
+      "summary": "Platform engineering’s goal has always been to make engineers more self-sufficient without sacrificing standards. The best way to accomplish this The post How AI transforms your role as a platform engineer appeared first on The New Stack .",
+      "published": "2026-04-29T13:05:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Zohar Einy",
+      "categories": [
+        "AI Agents",
+        "AI Strategy",
+        "Platform Engineering",
+        "sponsor-port",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How HPE is closing the loop on cloud and AI sprawl with agentic AI",
+      "link": "https://thenewstack.io/hpe-agentic-ops-copilot",
+      "summary": "Nothing is Greenfield in an enterprise. Hybrid cloud complexity sits atop siloed teams and systems, making it nearly impossible to The post How HPE is closing the loop on cloud and AI sprawl with agentic AI appeared first on The New Stack .",
+      "published": "2026-04-29T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jennifer Riggins",
+      "categories": [
+        "AI Agents",
+        "AI Operations",
+        "Operations",
+        "sponsor-hpe",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The state of AI in CNCF projects: A first look at the data",
+      "link": "https://www.cncf.io/blog/2026/04/29/the-state-of-ai-in-cncf-projects-a-first-look-at-the-data",
+      "summary": "At CNCF TAG Developer Experience, we recently set out to understand how Artificial Intelligence is shaping open-source development. The response from the community has been impressive in its scale, with nearly half of our initial responses...",
+      "published": "2026-04-29T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Graziano Casto, Hélia Barroso, Alessandro Pomponio, Sonali Srivastava - CNCF TAG Developer Experience",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AG-UI: The Future of Agent-Driven User Interfaces",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/ag-ui-the-future-of-agent-driven-user-interfaces/ba-p/4515769",
+      "summary": "As AI agents evolve from simple chatbots into workflow engines, decision-makers, and copilots, one challenge has remained stubbornly unsolved: How do we connect intelligent agents to rich, dynamic, user-facing interfaces without custom plumbing every single time? Introducing AG-UI (Agent–User...",
+      "published": "2026-04-29T09:30:48+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "VaidhyaP",
+      "categories": [],
+      "thumbnail": ""
+    },
     {
       "title": "“Developer loyalty is at zero right now”: Google doesn’t care which AI coding tool you use",
       "link": "https://thenewstack.io/google-doesnt-care",
@@ -212,6 +397,28 @@
       "source": "AKS Newsletter",
       "type": "article",
       "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Hello from LearnKube Content Studio",
+      "link": "https://learnkube.com/studio/hello-world",
+      "summary": "A short placeholder playbook introducing the LearnKube Content Studio editorial track for marketers, creators, and GTM teams.",
+      "published": "2026-04-28T00:00:00+00:00",
+      "source": "LearnK8s",
+      "type": "article",
+      "author": "Daniele Polencic",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "How a 3-part Kubernetes GPU webinar series generated 1,963 ebook leads",
+      "link": "https://learnkube.com/studio/gpu-ebook-playbook",
+      "summary": "Learn how LearnKube and vCluster launched a Kubernetes GPU ebook through a 3-part webinar series, demos, lifecycle emails, and an on-demand hub.",
+      "published": "2026-04-28T00:00:00+00:00",
+      "source": "LearnK8s",
+      "type": "article",
+      "author": "Daniele Polencic",
       "categories": [],
       "thumbnail": ""
     },
@@ -3506,73 +3713,6 @@
       "author": "John Savill's Technical Training",
       "categories": [],
       "thumbnail": "https://i.ytimg.com/vi/3jewNNMCxA8/mqdefault.jpg"
-    },
-    {
-      "title": "Kelsey Hightower at KubeCon 2026: “Everyone is a junior engineer when it comes to AI”",
-      "link": "https://thenewstack.io/hightower-ai-open-source-kubecon",
-      "summary": "Kristina Kondrashevich, site reliability product manager at Electrolux, remembers the impact Kelsey Hightower made on her work with clarity. “We The post Kelsey Hightower at KubeCon 2026: “Everyone is a junior engineer when it comes to AI” appeared first on The New Stack .",
-      "published": "2026-03-30T18:45:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jennifer Riggins",
-      "categories": [
-        "AI",
-        "Software Development",
-        "Tech Careers"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Sparky Linux 9 brings a rolling release to Debian",
-      "link": "https://thenewstack.io/sparky-linux-9-brings-a-rolling-release-to-debian",
-      "summary": "When you think of rolling releases, Arch Linux is probably the first distribution that comes to mind. There’s also openSUSE The post Sparky Linux 9 brings a rolling release to Debian appeared first on The New Stack .",
-      "published": "2026-03-30T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jack Wallen",
-      "categories": [
-        "Linux"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Microsoft’s Copilot makes Anthropic’s Claude and OpenAI’s GPT team up",
-      "link": "https://thenewstack.io/microsofts-copilot-llm-team",
-      "summary": "Microsoft’s AI strategy has, for the most part, been about using third-party large language models (LLMs). First this was mostly The post Microsoft’s Copilot makes Anthropic’s Claude and OpenAI’s GPT team up appeared first on The New Stack .",
-      "published": "2026-03-30T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "LLMs on Kubernetes Part 1: Understanding the threat model",
-      "link": "https://www.cncf.io/blog/2026/03/30/llms-on-kubernetes-part-1-understanding-the-threat-model",
-      "summary": "Let’s say you’ve got an LLM running on Kubernetes. Pods are healthy, logs are clean, users are chatting. Everything looks fine. But here’s the thing: Kubernetes is great at scheduling workloads and keeping them isolated. It...",
-      "published": "2026-03-30T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Nigel Douglas, CloudSmith",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Work IQ Overview",
-      "link": "https://www.youtube.com/watch?v=gTupe7ou5xI",
-      "summary": "Overview of what Work IQ is!\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:10 - M365 data\n02:15 - Semantic index\n03:33 - Need for context\n04:31 - Data plane\n05:53 - Memory and activity\n10:53 - Business understanding\n11:49 - Skills and tools\n16:30 - Experiences and API\n18:48 -...",
-      "published": "2026-03-30T10:49:16+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/gTupe7ou5xI/mqdefault.jpg"
     }
   ]
 }
