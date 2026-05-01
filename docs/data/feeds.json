@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-04-30T06:49:56.287347+00:00",
-    "total_items": 262,
+    "generated_at": "2026-05-01T06:53:07.022510+00:00",
+    "total_items": 260,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -19,6 +19,138 @@
     ]
   },
   "items": [
+    {
+      "title": "AKS Network Observability Reimagined 🚀 | Metrics Filtering & Log Aggregation (ACNS GA + Hubble OSS)",
+      "link": "https://www.youtube.com/watch?v=3QmJ4HwNK54",
+      "summary": "Kubernetes observability shouldn’t force a tradeoff between visibility and cost.\nIn this demo, discover how Advanced Container Networking Services (ACNS) in Microsoft Azure brings metrics filtering and flow log aggregation to Azure Kubernetes Service—helping you capture only what matters while...",
+      "published": "2026-04-30T19:46:16+00:00",
+      "source": "AKS (Official)",
+      "type": "video",
+      "author": "Azure Kubernetes Service (AKS)",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/3QmJ4HwNK54/mqdefault.jpg"
+    },
+    {
+      "title": "AI sandboxing is having its Kubernetes moment",
+      "link": "https://www.cncf.io/blog/2026/04/30/ai-sandboxing-is-having-its-kubernetes-moment",
+      "summary": "Recently, Anthropic announced that its new model, Mythos, had autonomously found and exploited zero-day vulnerabilities in every major operating system and web browser – including a 27-year-old bug that had survived decades of human review and...",
+      "published": "2026-04-30T19:37:27+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Jed Salazar, Field CTO, Edera",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes v1.36: In-Place Vertical Scaling for Pod-Level Resources Graduates to Beta",
+      "link": "https://kubernetes.io/blog/2026/04/30/kubernetes-v1-36-inplace-pod-level-resources-beta",
+      "summary": "Following the graduation of Pod-Level Resources to Beta in v1.34 and the General Availability (GA) of In-Place Pod Vertical Scaling in v1.35, the Kubernetes community is thrilled to announce that In-Place Pod-Level Resources Vertical Scaling has graduated to Beta in v1.36! This feature is now...",
+      "published": "2026-04-30T18:35:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "A nine-point checklist for shipping production-ready AI",
+      "link": "https://thenewstack.io/production-ready-ai-platforms",
+      "summary": "Starting from square one Most teams can build an AI prototype. A notebook answers a few prompts, a demo agent The post A nine-point checklist for shipping production-ready AI appeared first on The New Stack .",
+      "published": "2026-04-30T18:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Oladimeji Sowole",
+      "categories": [
+        "AI Engineering",
+        "AI Infrastructure",
+        "Platform Engineering",
+        "sponsor-andela",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Serverless vs Containers in Modern Architectures and When to Choose Each",
+      "link": "https://kodekloud.com/blog/serverless-vs-containers-in-modern-architectures-and-when-to-choose-each",
+      "summary": "Serverless and containers each solve different problems. Compare cost, scaling, cold starts, and operational overhead to make the right decision.",
+      "published": "2026-04-30T17:24:14+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "serverless",
+        "Containers",
+        "AWS Lambda",
+        "cloud architecture",
+        "Kubernetes",
+        "Cloud DevOps",
+        "DevOps"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The OpenAI-Microsoft reset, decoded: Why AWS may come out ahead",
+      "link": "https://thenewstack.io/openai-aws-bedrock-integration",
+      "summary": "OpenAI wasted little time since announcing changes to its partnership with Microsoft on Monday. T \\he ChatGPT hitmaker is now The post The OpenAI-Microsoft reset, decoded: Why AWS may come out ahead appeared first on The New Stack .",
+      "published": "2026-04-30T17:17:41+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Infrastructure",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic’s Claude Security emerges from closed preview to scan your codebases for vulnerabilities",
+      "link": "https://thenewstack.io/anthropics-claude-security-beta",
+      "summary": "On Thursday, Anthropic took Claude Security, a defensive security tool in Claude Code on the web that scans codebases for The post Anthropic’s Claude Security emerges from closed preview to scan your codebases for vulnerabilities appeared first on The New Stack .",
+      "published": "2026-04-30T17:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Meta abandons open-source Llama for proprietary Muse Spark",
+      "link": "https://thenewstack.io/meta-abandons-llama-spark",
+      "summary": "Meta’s decided its new proprietary AI LLM, Muse Spark, would be much more profitable than the open-source Llama. What are The post Meta abandons open-source Llama for proprietary Muse Spark appeared first on The New Stack .",
+      "published": "2026-04-30T15:05:45+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Steven J. Vaughan-Nichols",
+      "categories": [
+        "AI",
+        "AI Models",
+        "AI Strategy",
+        "Open Source",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Quickbase’s Pave targets vibe coding’s notorious 80% problem",
+      "link": "https://thenewstack.io/quickbase-pave-vibe-coding",
+      "summary": "Vibe coding was funky, then it was clunky. The ability to describe a software application’s intended form and function in The post Quickbase’s Pave targets vibe coding’s notorious 80% problem appeared first on The New Stack .",
+      "published": "2026-04-30T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Engineering",
+        "Security",
+        "Vibe Coding"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Azure SRE Agent for Azure Monitor Alerts: Reduce Alert Fatigue, Investigate What Matters",
       "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-sre-agent-for-azure-monitor-alerts-reduce-alert-fatigue/ba-p/4513458",
@@ -217,6 +349,17 @@
         "AI Engineering"
       ],
       "thumbnail": ""
+    },
+    {
+      "title": "MVP Summit 2026: Mohit Chhabra on using AKS to build SaaS platforms",
+      "link": "https://www.youtube.com/watch?v=TyxZlfHiBLk",
+      "summary": "Discover how leading SaaS companies are leveraging Azure Kubernetes Service (AKS) to scale and modernize their applications! In this exclusive interview from the Microsoft MVP Summit, Mohit Chhabra shares real-world insights on migrating from Azure App Services to AKS, building multi-tenant SaaS...",
+      "published": "2026-04-28T19:24:06+00:00",
+      "source": "AKS (Official)",
+      "type": "video",
+      "author": "Azure Kubernetes Service (AKS)",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/TyxZlfHiBLk/mqdefault.jpg"
     },
     {
       "title": "Kubernetes v1.36: Staleness Mitigation and Observability for Controllers",
@@ -573,6 +716,17 @@
         "Blog"
       ],
       "thumbnail": ""
+    },
+    {
+      "title": "Post Quantum Cryptography (PQC) overview and why you should care!",
+      "link": "https://www.youtube.com/watch?v=QQMLzxqJlMA",
+      "summary": "What PQC is and things to think about now.\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:43 - The problem\n04:01 - PQC\n07:04 - What should you do\n08:14 - Stop harvest now, decrypt later\n09:21 - Close\n\n▬▬▬▬▬▬  K E Y   L I N K S 🔗 ▬▬▬▬▬▬\n► Microsoft Quantum Safe Program info:\n🔗...",
+      "published": "2026-04-27T10:40:55+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/QQMLzxqJlMA/mqdefault.jpg"
     },
     {
       "title": "How to Troubleshoot Azure Functions Service Bus Trigger Issues",
@@ -3535,184 +3689,6 @@
         "Video"
       ],
       "thumbnail": ""
-    },
-    {
-      "title": "JetBrains: AI agents are about to repeat the cloud ROI crisis",
-      "link": "https://thenewstack.io/jetbrains-central-ai-agents",
-      "summary": "Deploying AI coding agents is no longer hard, but knowing whether they’re working and keeping them from becoming another unmanaged The post JetBrains: AI agents are about to repeat the cloud ROI crisis appeared first on The New Stack .",
-      "published": "2026-03-31T20:02:13+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Darryl K. Taft",
-      "categories": [
-        "AI Agents",
-        "AI Operations",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why Cursor is bringing self-hosted AI agents to the Fortune 500",
-      "link": "https://thenewstack.io/cursor-self-hosted-coding-agents",
-      "summary": "For AI coding agents to work effectively, they need access to a broad range of systems — from private repositories The post Why Cursor is bringing self-hosted AI agents to the Fortune 500 appeared first on The New Stack .",
-      "published": "2026-03-31T19:58:18+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Portkey open-sources its AI gateway after processing 2 trillion tokens a day",
-      "link": "https://thenewstack.io/portkey-gateway-open-source",
-      "summary": "Portkey defines itself as a company that provides a control plane for production AI deployments. This month, the company launched The post Portkey open-sources its AI gateway after processing 2 trillion tokens a day appeared first on The New Stack .",
-      "published": "2026-03-31T19:53:03+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI Infrastructure",
-        "Model Context Protocol (MCP)",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Claude Code users say they’re hitting usage limits faster than normal",
-      "link": "https://thenewstack.io/claude-code-usage-limits",
-      "summary": "Claude Code users say they’re reaching usage limits faster than before — an ongoing issue Anthropic confirms on Reddit and The post Claude Code users say they’re hitting usage limits faster than normal appeared first on The New Stack .",
-      "published": "2026-03-31T18:30:29+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "AI",
-        "AI Infrastructure",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Ollama Switched to Apple MLX - Here's Why Everything is Faster",
-      "link": "https://www.youtube.com/watch?v=OGJLV2H8b6I",
-      "summary": "Ollama 0.19 replaced llama.cpp with Apple's MLX framework on Apple Silicon  and the performance difference is massive. I tested it on my M1 Max (64 GB): decode speed went from 3.19 tok/s (llama.cpp) to 23.39 tok/s (MLX). 7x faster, same machine.\n\nIn this video I break down exactly what changed and...",
-      "published": "2026-03-31T17:50:55+00:00",
-      "source": "Kubesimplify",
-      "type": "video",
-      "author": "Kubesimplify",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/OGJLV2H8b6I/mqdefault.jpg"
-    },
-    {
-      "title": "Continued Investment in Azure App Service",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/continued-investment-in-azure-app-service/ba-p/4507398",
-      "summary": "This blog was originally published to the App Service team blog Recent Investments Premium v4 (Pv4) Azure App Service Premium v4 delivers higher performance and scalability on newer Azure infrastructure while preserving the fully managed PaaS experience developers rely on. Premium v4 offers...",
-      "published": "2026-03-31T17:23:11+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "Byron Tardif",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "DevOps Engineer to AI DevOps Engineer in 7 Steps | Proven roadmap",
-      "link": "https://www.youtube.com/watch?v=BFY8-NtfBdM",
-      "summary": "Join Membership for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nThe best roadmap for DevOps Engineers to start using AI as part of their Day to Day activities. All the content is available in the below AI Assisted DevOps...",
-      "published": "2026-03-31T16:37:36+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/BFY8-NtfBdM/mqdefault.jpg"
-    },
-    {
-      "title": "How to solve the AI paradox in software development with intelligent orchestration",
-      "link": "https://thenewstack.io/solve-ai-paradox-orchestration",
-      "summary": "The software industry reached an inflection point in late 2025. When three AI models crossed a capability threshold, they pushed The post How to solve the AI paradox in software development with intelligent orchestration appeared first on The New Stack .",
-      "published": "2026-03-31T16:14:58+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Manav Khurana",
-      "categories": [
-        "AI Strategy",
-        "Platform Engineering",
-        "Software Development",
-        "sponsor-gitlab",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Sustaining OpenTelemetry: Moving from dependency management to stewardship",
-      "link": "https://www.cncf.io/blog/2026/03/31/sustaining-opentelemetry-moving-from-dependency-management-to-stewardship",
-      "summary": "Modern software runs on open source. In fact, “free” and open source software generates more than $500 billion in annual value in the U.S. alone and an estimated $8.8 trillion in total global value. For most...",
-      "published": "2026-03-31T16:05:06+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Bloomberg",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AI accelerates modernization, but don’t leave human devs behind",
-      "link": "https://thenewstack.io/ai-modernization-human-developers",
-      "summary": "Modernization has traditionally been a choice between two hard options: keep patching a legacy system until it collapses under its The post AI accelerates modernization, but don’t leave human devs behind appeared first on The New Stack .",
-      "published": "2026-03-31T16:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Matthew Weier O’Phinney",
-      "categories": [
-        "AI Engineering",
-        "AI Strategy",
-        "Software Development",
-        "sponsor-perforce",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The Durable Task Scheduler Consumption SKU is now Generally Available",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/the-durable-task-scheduler-consumption-sku-is-now-generally/ba-p/4506682",
-      "summary": "Today, we're excited to announce that the Durable Task Scheduler Consumption SKU has reached General Availability. Developers can now run durable workflows and agents on Azure with pay-per-use pricing, no storage to manage, no capacity to plan, and no idle costs. Just create a scheduler, connect...",
-      "published": "2026-03-31T12:00:00+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "greenie-msft",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Ollama taps Apple’s MLX framework to make local AI models faster on Macs",
-      "link": "https://thenewstack.io/ollama-taps-apples-mlx",
-      "summary": "Running large language models (LLMs) locally has often meant accepting slower speeds and tighter memory limits. Ollama’s latest update, built The post Ollama taps Apple’s MLX framework to make local AI models faster on Macs appeared first on The New Stack .",
-      "published": "2026-03-31T12:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Infrastructure",
-        "AI Models",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Copilot Cowork Walkthrough",
-      "link": "https://www.youtube.com/watch?v=3jewNNMCxA8",
-      "summary": "Walkthrough of the awesome Copilot Cowork! Note some data integrations are coming soon at time of recording.\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:26 - Copilot agents\n01:18 - Cowork\n01:44 - What is Cowork\n03:36 - Grounded data\n05:50 - Cloud agent\n07:50 - Demo time\n10:30 -...",
-      "published": "2026-03-31T11:01:28+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/3jewNNMCxA8/mqdefault.jpg"
     }
   ]
 }
