@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-05-01T06:53:07.022510+00:00",
-    "total_items": 260,
+    "generated_at": "2026-05-02T06:37:05.468039+00:00",
+    "total_items": 263,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -19,6 +19,119 @@
     ]
   },
   "items": [
+    {
+      "title": "How to Switch to Another User on the Linux Command Line",
+      "link": "https://kodekloud.com/blog/how-to-switch-to-another-user-on-the-linux-command-line",
+      "summary": "Learn when to use su vs sudo to switch users on Linux — including what to do when you don't know the target user's password.",
+      "published": "2026-05-02T01:35:59+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Alexandru Andrei",
+      "categories": [
+        "Linux",
+        "linux commands",
+        "Command Line"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI agents are running wild on developer machines. Incredibuild has a fix.",
+      "link": "https://thenewstack.io/incredibuild-ai-agents-sandbox-coding",
+      "summary": "Somewhere out there, a developer is walking around with their laptop half-open, so their AI coding agent doesn’t die. That’s The post AI agents are running wild on developer machines. Incredibuild has a fix. appeared first on The New Stack .",
+      "published": "2026-05-01T20:21:31+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Fresh data has us asking, does AI demand Kubernetes?",
+      "link": "https://thenewstack.io/does-ai-demand-kubernetes",
+      "summary": "Kubernetes is becoming the de facto operating system for AI. Two-thirds of organizations running generative AI models use Kubernetes for The post Fresh data has us asking, does AI demand Kubernetes? appeared first on The New Stack .",
+      "published": "2026-05-01T20:18:11+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jennifer Riggins",
+      "categories": [
+        "KubeCon Cloudnativecon EU 2026",
+        "Operations",
+        "Podcast",
+        "sponsor-cncf",
+        "Video"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How SUSE positions itself as the infrastructure layer for the AI era",
+      "link": "https://thenewstack.io/suse-ai-infrastructure-kubernetes",
+      "summary": "For this edition of The New Stack Makers, we sat down with Pete Smails, SVP and general manager for cloud-native The post How SUSE positions itself as the infrastructure layer for the AI era appeared first on The New Stack .",
+      "published": "2026-05-01T20:16:22+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Infrastructure",
+        "KubeCon Cloudnativecon EU 2026",
+        "Kubernetes",
+        "Podcast",
+        "sponsor-susesuse",
+        "sponsored-post",
+        "Video"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "IBM Bob hits 80,000 developers with 45% productivity gains",
+      "link": "https://thenewstack.io/ibm-bob-agentic-development",
+      "summary": "IBM is betting that the next competitive frontier in AI-assisted development isn’t raw code-generation speed — it’s governance, auditability, and the The post IBM Bob hits 80,000 developers with 45% productivity gains appeared first on The New Stack .",
+      "published": "2026-05-01T19:06:02+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Mistral, Europe’s answer to OpenAI and Anthropic, pushes its coding agents to the cloud",
+      "link": "https://thenewstack.io/mistral-vibe-cloud-agents",
+      "summary": "Countless companies are capitalizing on the AI boom, building everything from coding assistants to customer support bots. But only a The post Mistral, Europe’s answer to OpenAI and Anthropic, pushes its coding agents to the cloud appeared first on The New Stack .",
+      "published": "2026-05-01T14:46:14+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "Open Source",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Cursor’s $60 billion bet is on the harness, not the model",
+      "link": "https://thenewstack.io/cursor-sdk-harness",
+      "summary": "I’m Matt Burns, Chief Content Officer at Insight Media Group. Each week, I round up the most important AI developments, The post Cursor’s $60 billion bet is on the harness, not the model appeared first on The New Stack .",
+      "published": "2026-05-01T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Matthew Burns",
+      "categories": [
+        "AI Agents",
+        "AI Models",
+        "AI Strategy"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "AKS Network Observability Reimagined 🚀 | Metrics Filtering & Log Aggregation (ACNS GA + Hubble OSS)",
       "link": "https://www.youtube.com/watch?v=3QmJ4HwNK54",
@@ -3625,68 +3738,6 @@
       "author": "Albena Galabova, Igtix",
       "categories": [
         "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Announcing AWS with Azure SRE Agent: Cross-Cloud Investigation using the brand new AWS DevOps Agent",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-aws-with-azure-sre-agent-cross-cloud-investigation/ba-p/4507413",
-      "summary": "Overview Connect Azure SRE Agent to AWS services using the official AWS MCP server . Query AWS documentation, execute any of the 15,000+ AWS APIs, run operational workflows, and kick off incident investigations through AWS DevOps Agent, which is now generally available . The AWS MCP server connects...",
-      "published": "2026-04-01T21:49:12+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "dbandaru",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to integrate VS Code with Ollama for local AI assistance",
-      "link": "https://thenewstack.io/how-to-integrate-vs-code-with-ollama-for-local-ai-assistance",
-      "summary": "If you’re starting your journey as a programmer and want to jump-start that process, you might be interested in taking The post How to integrate VS Code with Ollama for local AI assistance appeared first on The New Stack .",
-      "published": "2026-04-01T12:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jack Wallen",
-      "categories": [
-        "AI",
-        "AI Models",
-        "Developer tools",
-        "Tutorial"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Inside Claude Code’s leaked source: swarms, daemons, and 44 features Anthropic kept behind flags",
-      "link": "https://thenewstack.io/claude-code-source-leak",
-      "summary": "On Wednesday, security researcher Chaofan Shou discovered that Anthropic had shipped version 2.1.88 of Claude Code with a 59.8MB source The post Inside Claude Code’s leaked source: swarms, daemons, and 44 features Anthropic kept behind flags appeared first on The New Stack .",
-      "published": "2026-04-01T11:23:26+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Janakiram MSV",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Edge-forward: Akamai eyes sweet spot between centralized & decentralized AI inference",
-      "link": "https://thenewstack.io/akamai-edge-ai-inference",
-      "summary": "For this edition of The New Stack Makers, we sit down with two leaders at Akamai: Lena Hall, senior director, The post Edge-forward: Akamai eyes sweet spot between centralized & decentralized AI inference appeared first on The New Stack .",
-      "published": "2026-04-01T11:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI Infrastructure",
-        "Edge Computing",
-        "KubeCon Cloudnativecon EU 2026",
-        "Operations",
-        "WebAssembly",
-        "Podcast",
-        "sponsor-akamai",
-        "Video"
       ],
       "thumbnail": ""
     }
