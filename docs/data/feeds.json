@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-05-03T06:49:36.946554+00:00",
-    "total_items": 248,
+    "generated_at": "2026-05-04T06:59:23.505820+00:00",
+    "total_items": 242,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -13,12 +13,44 @@
       "Kubernetes Blog",
       "Kubesimplify",
       "LearnK8s",
-      "Piyush Sachdeva",
       "Rawkode Academy",
       "The New Stack"
     ]
   },
   "items": [
+    {
+      "title": "“To us, it’s just a tool”: How SAS is selling AI to the Fortune 500",
+      "link": "https://thenewstack.io/sas-innovate-agentic-ai-governance",
+      "summary": "For this 50-year-old company, AI is “just a tool.” At SAS Innovate 2026 in Grapevine, Texas, the 50-year-old, privately held The post “To us, it’s just a tool”: How SAS is selling AI to the Fortune 500 appeared first on The New Stack .",
+      "published": "2026-05-03T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Strategy"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Mainframe modernization is no longer optional for the AI-driven enterprise",
+      "link": "https://thenewstack.io/open-mainframe-enterprise-modernization",
+      "summary": "As old-guard mainframers give way to a younger generation of mainframe professionals, this new cadre brings modern ways of thinking The post Mainframe modernization is no longer optional for the AI-driven enterprise appeared first on The New Stack .",
+      "published": "2026-05-03T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jason Bloomberg",
+      "categories": [
+        "AI Strategy",
+        "Open Source",
+        "Platform Engineering",
+        "sponsor-broadcom",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Inside OpenSearch’s bid to become the default AI data layer",
       "link": "https://thenewstack.io/opensearch-ai-data-layer",
@@ -3403,125 +3435,6 @@
         "sponsored-event-coverage"
       ],
       "thumbnail": ""
-    },
-    {
-      "title": "Vultr says its Nvidia-powered AI infrastructure costs 50% to 90% less than hyperscalers",
-      "link": "https://thenewstack.io/vultr-nvidia-ai-infrastructure",
-      "summary": "Vultr is using Nvidia GPUs and AI agents like OpenClaw to automate infrastructure setup for developers — and says the The post Vultr says its Nvidia-powered AI infrastructure costs 50% to 90% less than hyperscalers appeared first on The New Stack .",
-      "published": "2026-04-03T19:08:12+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "B. Cameron Gain",
-      "categories": [
-        "AI Infrastructure",
-        "Cloud Services",
-        "KubeCon Cloudnativecon EU 2026",
-        "Platform Engineering",
-        "sponsor-vultr",
-        "Sponsored",
-        "sponsored-event-coverage",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic code leak explained",
-      "link": "https://www.youtube.com/watch?v=rJEsh9A_wFQ",
-      "summary": "Join Membership for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- DevOps Zero to Hero Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
-      "published": "2026-04-03T17:02:37+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/rJEsh9A_wFQ/mqdefault.jpg"
-    },
-    {
-      "title": "“I started to lose my ability to code”: Developers grapple with the real cost of AI programming tools",
-      "link": "https://thenewstack.io/ai-coding-tools-reckoning",
-      "summary": "Maybe it started in February, when programmer and entrepreneur Paul Ford, 51, wrote a guest essay for The New York The post “I started to lose my ability to code”: Developers grapple with the real cost of AI programming tools appeared first on The New Stack .",
-      "published": "2026-04-03T14:01:11+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "David Cassel",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Digital Experience Monitoring belongs in the modern developer workflow",
-      "link": "https://thenewstack.io/digital-experience-monitoring-workflow",
-      "summary": "The frontend is where the user experience happens. More logic runs in the browser. More state lives on the client. The post Digital Experience Monitoring belongs in the modern developer workflow appeared first on The New Stack .",
-      "published": "2026-04-03T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Kayla Bondy",
-      "categories": [
-        "Frontend Development",
-        "Observability",
-        "Software Development",
-        "sponsor-dynatrace",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The hidden reason your AI assistant feels so sluggish",
-      "link": "https://thenewstack.io/why-ai-feels-sluggish",
-      "summary": "AI workloads are exposing a mismatch in how most teams have built their data platforms. You see it whether you The post The hidden reason your AI assistant feels so sluggish appeared first on The New Stack .",
-      "published": "2026-04-03T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Alasdair Brown",
-      "categories": [
-        "AI Engineering",
-        "AI Infrastructure",
-        "Model Context Protocol (MCP)",
-        "sponsor-clickhouse",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Building A Realtime AWS Serverless + AI Project",
-      "link": "https://www.youtube.com/watch?v=5AujrREXW0c",
-      "summary": "Prerequisites\n- Node.js 20+ installed\n- Requestly desktop app: (https://requestly.com/desktop) \n- Google Gemini Key\n- X API key\n\n𝗖𝗢𝗠𝗣𝗟𝗘𝗧𝗘 COURSES  👌 It’s   🅵🆁🅴🅴 ⛳\n✅ Terraform Full Course For Beginners - #28daysofAZTerraform\nhttps://www.youtube.com/playlist?list=PLl4APkPHzsUUHlbhuq9V02n9AMLPySoEQ\n\n✅...",
-      "published": "2026-04-03T11:00:06+00:00",
-      "source": "Piyush Sachdeva",
-      "type": "video",
-      "author": "Tech Tutorials with Piyush",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/5AujrREXW0c/mqdefault.jpg"
-    },
-    {
-      "title": "The laptop return that broke a RAG pipeline",
-      "link": "https://thenewstack.io/rag-pipeline-hybrid-search",
-      "summary": "And how to fix it with hybrid search A few months ago, one of our users filed a bug report The post The laptop return that broke a RAG pipeline appeared first on The New Stack .",
-      "published": "2026-04-03T11:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Ed Huang",
-      "categories": [
-        "AI Engineering",
-        "AI Infrastructure",
-        "Databases",
-        "sponsor-pingcap",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Azure Update 3rd April 2026",
-      "link": "https://www.youtube.com/watch?v=x8ULC4uDQos",
-      "summary": "Pretty quick update this week but some amaze amaze amaze items!\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just...",
-      "published": "2026-04-03T10:18:23+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/x8ULC4uDQos/mqdefault.jpg"
     }
   ]
 }
