@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-05-04T06:59:23.505820+00:00",
-    "total_items": 242,
+    "generated_at": "2026-05-05T06:43:01.964760+00:00",
+    "total_items": 248,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -18,6 +18,110 @@
     ]
   },
   "items": [
+    {
+      "title": "Performance Tuning and Scaling Optimization for Large-Scale Azure Workloads",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/performance-tuning-and-scaling-optimization-for-large-scale/ba-p/4516788",
+      "summary": "Summary As cloud-native systems scale, performance challenges rarely stem from a single bottleneck. Instead, they emerge from the interaction between compute, orchestration, and data layers under load. This article captures a practical optimization journey of a high-volume Azure-based workload and...",
+      "published": "2026-05-05T04:52:06+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "ruchitapradhan",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI won’t speed up software delivery — nothing has",
+      "link": "https://thenewstack.io/feedback-driven-ai-adoption",
+      "summary": "In my formative years, I had a Labrador/Whippet cross called Barclay. We did almost everything together. If I were digging The post AI won’t speed up software delivery — nothing has appeared first on The New Stack .",
+      "published": "2026-05-04T21:38:28+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Matthew Burns",
+      "categories": [
+        "AI Engineering",
+        "Software Development",
+        "Software Testing",
+        "contributed-octopus-deploy"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How OpenAI scaled to 900 million weekly users with Ory",
+      "link": "https://thenewstack.io/openai-ory-identity-scale",
+      "summary": "In the history of software, few milestones are as staggering as 900 million weekly active users. To put that in The post How OpenAI scaled to 900 million weekly users with Ory appeared first on The New Stack .",
+      "published": "2026-05-04T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Monica White",
+      "categories": [
+        "AI Infrastructure",
+        "Open Source",
+        "Security",
+        "sponsor-ory",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Arize AI and Google Cloud lay down standardized telemetry mandate to keep enterprise agents in check",
+      "link": "https://thenewstack.io/ai-agent-telemetry-standardization",
+      "summary": "The essentially composable nature of modern enterprise software stacks enables architectural freedom. Software developers are able to take advantage of The post Arize AI and Google Cloud lay down standardized telemetry mandate to keep enterprise agents in check appeared first on The New Stack .",
+      "published": "2026-05-04T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Observability"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Palo Alto Networks makes a $700M-class AI bet on Portkey gateway",
+      "link": "https://thenewstack.io/palo-alto-portkey-ai-gateway",
+      "summary": "For the first three years of the LLM era, the AI gateway was a developer’s problem. You had 10 model The post Palo Alto Networks makes a $700M-class AI bet on Portkey gateway appeared first on The New Stack .",
+      "published": "2026-05-04T14:49:24+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Janakiram MSV",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The agent code explosion is here. We need to rethink our pipelines, fast.",
+      "link": "https://thenewstack.io/agent-code-validation-bottleneck",
+      "summary": "GitHub recently published an update on availability following a couple of rough incidents in April. The article opened with a The post The agent code explosion is here. We need to rethink our pipelines, fast. appeared first on The New Stack .",
+      "published": "2026-05-04T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Arjun Iyer",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "CI/CD",
+        "sponsor-signadot",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Securing GitHub Actions CI dependencies: Recipe card",
+      "link": "https://www.cncf.io/blog/2026/05/04/securing-github-actions-ci-dependencies-recipe-card",
+      "summary": "Recipe GitHub Actions CI dependencies Target audience (the chef) Project maintainers and developers who need practical, concrete steps to efficiently secure CI dependencies within their GitHub Actions workflows Scope (ingredients) Dependencies within the GitHub Actions, Github...",
+      "published": "2026-05-04T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Marina Moore, Evan Anderson, and Sherine Khoury, CNCF Technical Advisory Group",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "“To us, it’s just a tool”: How SAS is selling AI to the Fortune 500",
       "link": "https://thenewstack.io/sas-innovate-agentic-ai-governance",
@@ -3416,24 +3520,6 @@
       "type": "article",
       "author": "saziz_msft",
       "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "SUSE Rancher and Vultr want to break AI infrastructure free from the hyperscalers",
-      "link": "https://thenewstack.io/vultr-suse-rancher-ai",
-      "summary": "Organizations looking to scale their AI workloads and infrastructure on Kubernetes were largely limited to expensive hyperscaler options. As DevOps The post SUSE Rancher and Vultr want to break AI infrastructure free from the hyperscalers appeared first on The New Stack .",
-      "published": "2026-04-04T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "B. Cameron Gain",
-      "categories": [
-        "AI Infrastructure",
-        "Cloud Services",
-        "KubeCon Cloudnativecon EU 2026",
-        "sponsor-vultr",
-        "Sponsored",
-        "sponsored-event-coverage"
-      ],
       "thumbnail": ""
     }
   ]
