@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-05-05T06:43:01.964760+00:00",
-    "total_items": 248,
+    "generated_at": "2026-05-06T06:52:17.391284+00:00",
+    "total_items": 255,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -18,6 +18,137 @@
     ]
   },
   "items": [
+    {
+      "title": "AI and Claude: The internal rebellion that changed Amazon’s rules",
+      "link": "https://thenewstack.io/amazon-coding-agents-developers",
+      "summary": "Amazon has given its estimated tens of thousands of developers immediate access to Anthropic’s Claude Code, and they’ll soon have The post AI and Claude: The internal rebellion that changed Amazon’s rules appeared first on The New Stack .",
+      "published": "2026-05-05T19:27:25+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI Agents",
+        "Developer tools",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI rolls out GPT-5.5 Instant as default ChatGPT model, promises more accurate responses",
+      "link": "https://thenewstack.io/openai-gpt-5-5-instant-launch",
+      "summary": "OpenAI has announced that it’s replacing the default model in ChatGPT with GPT-5.5 Instant, which it said produces faster responses, The post OpenAI rolls out GPT-5.5 Instant as default ChatGPT model, promises more accurate responses appeared first on The New Stack .",
+      "published": "2026-05-05T19:13:55+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes v1.36: Declarative Validation Graduates to GA",
+      "link": "https://kubernetes.io/blog/2026/05/05/kubernetes-v1-36-declarative-validation-ga",
+      "summary": "In Kubernetes v1.36, Declarative Validation for Kubernetes native types has reached General Availability (GA). For users, this means more reliable, predictable, and better-documented APIs. By moving to a declarative model, the project also unlocks the future ability to publish validation rules via...",
+      "published": "2026-05-05T18:35:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "The context window has been shattered: Subquadratic debuts a 12-million-token window",
+      "link": "https://thenewstack.io/subquadratic-12-million-context-window",
+      "summary": "Every frontier model in 2026 advertises a context window of at least a million tokens, but almost none of them The post The context window has been shattered: Subquadratic debuts a 12-million-token window appeared first on The New Stack .",
+      "published": "2026-05-05T18:01:04+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI Engineering",
+        "AI Models",
+        "Emerging technologies"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI has a sprawling data problem. Airbyte has just  launched a tool to fix it.",
+      "link": "https://thenewstack.io/airbyte-agents-context-store",
+      "summary": "Airbyte on Tuesday launched Airbyte Agents, a new service that precomputes and indexes a company’s business data, allowing AI agents The post AI has a sprawling data problem. Airbyte has just  launched a tool to fix it. appeared first on The New Stack .",
+      "published": "2026-05-05T17:24:27+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Infrastructure"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“Real maturity problems”: Not every developer is thrilled with Bun after Anthropic acquisition",
+      "link": "https://thenewstack.io/bun-developers-complaints-anthropic",
+      "summary": "Growing and emerging software toolsets and standards are prone to love-it-or-hate-it reactions. Bun, an all-in-one JavaScript, TypeScript & JSX runtime The post “Real maturity problems”: Not every developer is thrilled with Bun after Anthropic acquisition appeared first on The New Stack .",
+      "published": "2026-05-05T17:03:03+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Infrastructure",
+        "Developer tools",
+        "JavaScript"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI agents need to spend money — Stripe and iWallet are building the rails",
+      "link": "https://thenewstack.io/ai-agent-payment-protocols",
+      "summary": "Two new protocols, one from Stripe and one from a fintech startup called iWallet, are attempting to solve the same The post AI agents need to spend money — Stripe and iWallet are building the rails appeared first on The New Stack .",
+      "published": "2026-05-05T11:43:29+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Matthew Burns",
+      "categories": [
+        "AI Infrastructure",
+        "Cloud Services",
+        "Developer tools",
+        "Contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Announcing Kyverno release 1.18!",
+      "link": "https://www.cncf.io/blog/2026/05/05/announcing-kyverno-release-1-18",
+      "summary": "We’re excited to announce the release of Kyverno 1.18, our first release since graduating within the Cloud Native Computing Foundation. This release builds on Kyverno’s growing role as a Kubernetes-native policy engine, with major investments in...",
+      "published": "2026-05-05T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Cortney Nickerson, Kyverno Contributor",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "ScyllaDB cut Sprig’s read latency 4X after Redis and ClickHouse hit a wall",
+      "link": "https://thenewstack.io/sprig-postgres-scylladb-migration",
+      "summary": "“Just use Postgres” is the logical path for a startup figuring out product-market fit. But Sprig – an AI-powered product The post ScyllaDB cut Sprig’s read latency 4X after Redis and ClickHouse hit a wall appeared first on The New Stack .",
+      "published": "2026-05-05T11:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Monica White",
+      "categories": [
+        "AI Infrastructure",
+        "Data",
+        "Databases",
+        "sponsor-scylladb",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Performance Tuning and Scaling Optimization for Large-Scale Azure Workloads",
       "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/performance-tuning-and-scaling-optimization-for-large-scale/ba-p/4516788",
@@ -43,6 +174,17 @@
         "Software Testing",
         "contributed-octopus-deploy"
       ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes v1.36: Admission Policies That Can't Be Deleted",
+      "link": "https://kubernetes.io/blog/2026/05/04/kubernetes-v1-36-manifest-based-admission-control",
+      "summary": "If you've ever tried to enforce a security policy across a fleet of\nKubernetes clusters, you've probably run into a frustrating chicken-and-egg\nproblem. Your admission policies are API objects, which means they don't\nexist until someone creates them, and they can be deleted by anyone with\nthe right...",
+      "published": "2026-05-04T18:35:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
       "thumbnail": ""
     },
     {
@@ -3483,43 +3625,6 @@
       "categories": [
         "Blog"
       ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Cursor’s $2 billion bet: The IDE is now a fallback, not the default",
-      "link": "https://thenewstack.io/cursor-3-demotes-ide",
-      "summary": "Last week, the AI code editor with the fastest revenue growth in the category shipped a product that is not The post Cursor’s $2 billion bet: The IDE is now a fallback, not the default appeared first on The New Stack .",
-      "published": "2026-04-05T17:29:19+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Janakiram MSV",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Google just shocked the AI world with Gemma 4 | You just need 1 GPU",
-      "link": "https://www.youtube.com/watch?v=PJsr9mc4lCM",
-      "summary": "Join Membership for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nGemma 4 is Google DeepMind’s latest open model focused on efficiency and local deployment. It brings strong performance to consumer GPUs without relying on the cloud.\n\nFree Course on the...",
-      "published": "2026-04-05T17:08:29+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/PJsr9mc4lCM/mqdefault.jpg"
-    },
-    {
-      "title": "How we build Azure SRE Agent with agentic workflows",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/how-we-build-azure-sre-agent-with-agentic-workflows/ba-p/4508753",
-      "summary": "The Challenge: Ops is critical but takes time from innovation Microsoft operates always-on, mission-critical production systems at extraordinary scale. Thousands of services, millions of deployments, and constant change are the reality of modern cloud engineering. These are titan systems that power...",
-      "published": "2026-04-05T07:40:28+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "saziz_msft",
-      "categories": [],
       "thumbnail": ""
     }
   ]
