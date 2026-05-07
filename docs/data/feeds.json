@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-05-06T06:52:17.391284+00:00",
-    "total_items": 255,
+    "generated_at": "2026-05-07T06:57:07.001135+00:00",
+    "total_items": 266,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -18,6 +18,234 @@
     ]
   },
   "items": [
+    {
+      "title": "5 Easy Ways to Create Files on Linux",
+      "link": "https://kodekloud.com/blog/5-easy-ways-to-create-files-on-linux",
+      "summary": "Did you know you can create a file on Linux with just one character? Read about the > trick, touch, echo, cat, nano, vim.",
+      "published": "2026-05-07T02:45:45+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Alexandru Andrei",
+      "categories": [
+        "linux commands",
+        "Command Line",
+        "Linux"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How a Cursor AI agent wiped PocketOS’s production database in under 10 seconds",
+      "link": "https://thenewstack.io/ai-agents-credential-crisis",
+      "summary": "Who gave agents root access? On April 25, 2026, a Cursor AI coding agent deleted the entire production database of The post How a Cursor AI agent wiped PocketOS’s production database in under 10 seconds appeared first on The New Stack .",
+      "published": "2026-05-06T20:50:31+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Janakiram MSV",
+      "categories": [
+        "AI Agents",
+        "Model Context Protocol (MCP)",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why long-running AI agents break on HTTP and how Ably is fixing it",
+      "link": "https://thenewstack.io/ably-durable-sessions-ai",
+      "summary": "For this episode of The New Stack Makers, we speak with Matthew O’Riordan, CEO and co-founder of Ably. Ably’s platform The post Why long-running AI agents break on HTTP and how Ably is fixing it appeared first on The New Stack .",
+      "published": "2026-05-06T19:48:35+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Infrastructure",
+        "Podcast",
+        "sponsor-ably",
+        "sponsored-podcast",
+        "sponsored-post",
+        "Video"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes v1.36: Server-Side Sharded List and Watch",
+      "link": "https://kubernetes.io/blog/2026/05/06/kubernetes-v1-36-server-side-sharded-list-and-watch",
+      "summary": "As Kubernetes clusters grow to tens of thousands of nodes, controllers that watch\nhigh-cardinality resources like Pods face a scaling wall. Every replica of a\nhorizontally scaled controller receives the full stream of events from the API\nserver, paying the CPU, memory, and network cost to...",
+      "published": "2026-05-06T18:35:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic will let its managed agents dream",
+      "link": "https://thenewstack.io/anthropic-managed-agents-dreaming-outcomes",
+      "summary": "In April, Anthropic launched the public beta of Managed Agents, its platform for running AI agents on its infrastructure. On Wednesday, The post Anthropic will let its managed agents dream appeared first on The New Stack .",
+      "published": "2026-05-06T16:15:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Developers will use whatever AI coding tool they want. ServiceNow is building for that reality.",
+      "link": "https://thenewstack.io/servicenow-ai-governance-agents",
+      "summary": "ServiceNow built its reputation on automating business workflows, but today, the company calls itself “the AI control tower for business The post Developers will use whatever AI coding tool they want. ServiceNow is building for that reality. appeared first on The New Stack .",
+      "published": "2026-05-06T16:01:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why Atlassian is letting Claude Code into its own data graph",
+      "link": "https://thenewstack.io/atlassian-teamwork-graph-agents",
+      "summary": "Atlassian wants the autonomous, long-running agents that developers use in tools like Claude Code to work for everyone else. At The post Why Atlassian is letting Claude Code into its own data graph appeared first on The New Stack .",
+      "published": "2026-05-06T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI Agents",
+        "AI Strategy",
+        "Model Context Protocol"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Introduction to AgentOps | Build your first project in 20 minutes using Flyte | Free & Opensource",
+      "link": "https://www.youtube.com/watch?v=5-RIGi-UgtE",
+      "summary": "- Get started with Flyte for FREE:\nhttps://flyte.org/\n\nGitHub Repo for files used in the video:\nhttps://gist.github.com/iam-veeramalla/c037ca8cb0b018013da433a7c2cec628\n\nAgentOps is a developer platform for monitoring, debugging, testing, and evaluating AI agents especially agents built with...",
+      "published": "2026-05-06T15:26:27+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/5-RIGi-UgtE/mqdefault.jpg"
+    },
+    {
+      "title": "Kubernetes finally lands user namespace support, but shared kernel problem remains",
+      "link": "https://thenewstack.io/kubernetes-user-namespace-security",
+      "summary": "Kubernetes shipped a long-awaited security feature last week: user namespace support for pods.  It may sound like an obscure feature The post Kubernetes finally lands user namespace support, but shared kernel problem remains appeared first on The New Stack .",
+      "published": "2026-05-06T14:50:05+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Monica White",
+      "categories": [
+        "Cloud Native Ecosystem",
+        "Kubernetes",
+        "Security",
+        "sponsor-edera",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The company that made RAG mainstream is now betting against it",
+      "link": "https://thenewstack.io/pinecone-nexus-rag-obsolete",
+      "summary": "Pinecone just declared the RAG era over. Pinecone built the vector database category. It defined RAG as the standard pattern The post The company that made RAG mainstream is now betting against it appeared first on The New Stack .",
+      "published": "2026-05-06T14:40:50+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Janakiram MSV",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why PHP performance keeps getting bumped from the roadmap",
+      "link": "https://thenewstack.io/php-performance-operational-planning",
+      "summary": "Performance issues are familiar territory for PHP teams. Slow endpoints, uneven response times, and rising infrastructure costs show up in The post Why PHP performance keeps getting bumped from the roadmap appeared first on The New Stack .",
+      "published": "2026-05-06T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Monica White",
+      "categories": [
+        "Backend development",
+        "Observability",
+        "Software Development",
+        "sponsor-perforce",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How NetEase Games cut LLM cold starts from 42 minutes to 30 seconds",
+      "link": "https://thenewstack.io/netease-fluid-llm-inference",
+      "summary": "At NetEase Games, we learned a hard lesson about large language model (LLM) inference in production: elastic compute is only The post How NetEase Games cut LLM cold starts from 42 minutes to 30 seconds appeared first on The New Stack .",
+      "published": "2026-05-06T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Monica White",
+      "categories": [
+        "AI Infrastructure",
+        "Kubernetes",
+        "Large Language Models",
+        "sponsor-cncf",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The tools are ready. So why are most cloud native teams still running three observability stacks?",
+      "link": "https://www.cncf.io/blog/2026/05/06/the-tools-are-ready-so-why-are-most-cloud-native-teams-still-running-three-observability-stacks",
+      "summary": "I’ve spent enough time in and around cloud native infrastructure to know that we’re reasonably good at standardizing the theory. OpenTelemetry for instrumentation, Prometheus for metrics, Jaeger and Tempo for distributed tracing, Fluentd or Loki for...",
+      "published": "2026-05-06T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Ila Bandhiya, Middleware",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why the Linux Foundation adopted MCP, with Jim Zemlin and Mazin Gilbert",
+      "link": "https://thenewstack.io/agentic-ai-foundation-launch",
+      "summary": "Agentic AI is in a hurry, and the open-source projects underpinning it are evolving at a breakneck pace. To ensure The post Why the Linux Foundation adopted MCP, with Jim Zemlin and Mazin Gilbert appeared first on The New Stack .",
+      "published": "2026-05-06T11:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Nick Lucchesi",
+      "categories": [
+        "AI Operations",
+        "Model Context Protocol",
+        "Open Source",
+        "Podcast",
+        "sponsor-cncf",
+        "sponsored-podcast",
+        "Video"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“AI systems do not understand”: New report flags systemic failures in AI coding",
+      "link": "https://thenewstack.io/acm-vibe-coding-ai-agent",
+      "summary": "The Association for Computing Machinery‘s (ACM) Technology Policy Council (TPC) has a message for organizations riding the vibe coding wave: The post “AI systems do not understand”: New report flags systemic failures in AI coding appeared first on The New Stack .",
+      "published": "2026-05-06T10:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Vibe Coding"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "AI and Claude: The internal rebellion that changed Amazon’s rules",
       "link": "https://thenewstack.io/amazon-coding-agents-developers",
@@ -203,6 +431,17 @@
         "sponsored-post-contributed"
       ],
       "thumbnail": ""
+    },
+    {
+      "title": "Bye Bye Vibe Coding | GitHub makes Vibe coding 2x expensive",
+      "link": "https://www.youtube.com/watch?v=VduWu4El67k",
+      "summary": "Join our discord server for career guidance or doubts:\nwww.youtube.com/abhishekveeramalla/join\n\nGitHub Pricing Model change:\nhttps://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/\n\nFree Course on the channel\n==============================\n- DevOps Zero to...",
+      "published": "2026-05-04T15:19:57+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/VduWu4El67k/mqdefault.jpg"
     },
     {
       "title": "Arize AI and Google Cloud lay down standardized telemetry mandate to keep enterprise agents in check",
@@ -554,6 +793,17 @@
       "thumbnail": ""
     },
     {
+      "title": "10 Steps Roadmap to become AI DevOps Engineer in 2026 | Beginner Friendly",
+      "link": "https://www.youtube.com/watch?v=Yb-asGyMM8A",
+      "summary": "Join our discord server for career guidance or doubts:\nwww.youtube.com/abhishekveeramalla/join\n\nThis is the best AI DevOps Engineer roadmap for Beginners. If you are a DevOps Engineer and planning to transition to AI DevOps Engineer role. This is a must watch video. \n\nFree Course on the...",
+      "published": "2026-04-30T15:25:09+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/Yb-asGyMM8A/mqdefault.jpg"
+    },
+    {
       "title": "Meta abandons open-source Llama for proprietary Muse Spark",
       "link": "https://thenewstack.io/meta-abandons-llama-spark",
       "summary": "Meta’s decided its new proprietary AI LLM, Muse Spark, would be much more profitable than the open-source Llama. What are The post Meta abandons open-source Llama for proprietary Muse Spark appeared first on The New Stack .",
@@ -885,6 +1135,17 @@
       "thumbnail": ""
     },
     {
+      "title": "How Internet works?  Explained in simple words.",
+      "link": "https://www.youtube.com/watch?v=_19JDSaxBiY",
+      "summary": "Join our discord server for career guidance or doubts:\nwww.youtube.com/abhishekveeramalla/join\n\nIn this video, Abhishek explains how Internet works (request from the client goes to the server). How different networking components like DNS, TCP, TLS, HTTP, Routers, VPC, LB, Firewall, Subnet, CIDR,...",
+      "published": "2026-04-28T15:53:21+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/_19JDSaxBiY/mqdefault.jpg"
+    },
+    {
       "title": "From system of record to system of control: How NetBox Labs is making network engineers “masters of intent.”",
       "link": "https://thenewstack.io/netbox-labs-network-intent",
       "summary": "Early internet networks were small enough that a single engineer could hold the entire system in their head. You didn’t The post From system of record to system of control: How NetBox Labs is making network engineers “masters of intent.” appeared first on The New Stack .",
@@ -1187,6 +1448,17 @@
         "AI Strategy"
       ],
       "thumbnail": ""
+    },
+    {
+      "title": "Can AI SRE Agents replace SRE engineers?",
+      "link": "https://www.youtube.com/watch?v=0D4y0Grs0kY",
+      "summary": "Join our discord server for career guidance or doubts:\nwww.youtube.com/abhishekveeramalla/join\n\nCan AI really replace SRE Engineers? Over the last year, many companies have launched AI SRE Agents claiming they can automate incidents, troubleshoot systems, and replace human SREs. But is that the...",
+      "published": "2026-04-26T16:00:26+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/0D4y0Grs0kY/mqdefault.jpg"
     },
     {
       "title": "Beyond prompting: How KubeStellar reached 81% PR acceptance with AI agents",
@@ -3514,118 +3786,6 @@
       "author": "Kubesimplify",
       "categories": [],
       "thumbnail": "https://i.ytimg.com/vi/0PyNl-iE5G0/mqdefault.jpg"
-    },
-    {
-      "title": "Agentic IIS Migration to Managed Instance on Azure App Service",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/agentic-iis-migration-to-managed-instance-on-azure-app-service/ba-p/4508969",
-      "summary": "Introduction Enterprises running ASP.NET Framework workloads on Windows Server with IIS face a familiar dilemma: modernize or stay put. The applications work, the infrastructure is stable, and nobody wants to be the person who breaks production during a cloud migration. But the cost of maintaining...",
-      "published": "2026-04-06T23:58:35+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "Gaurav-Seth",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic’s harness shakeup “just fragments workflows,” developers warn",
-      "link": "https://thenewstack.io/anthropic-claude-harness-restrictions",
-      "summary": "If AI usage can be said to be in a period of embryonic enlightenment, developer licensing and pricing structures for The post Anthropic’s harness shakeup “just fragments workflows,” developers warn appeared first on The New Stack .",
-      "published": "2026-04-06T21:39:44+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI Strategy",
-        "Large Language Models",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "MCP servers turn Claude into a reasoning engine for your data",
-      "link": "https://thenewstack.io/build-mcp-server-tutorial",
-      "summary": "Claude knows virtually everything that’s ever been publicly available on the internet by default. But it knows absolutely nothing about The post MCP servers turn Claude into a reasoning engine for your data appeared first on The New Stack .",
-      "published": "2026-04-06T21:01:55+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jessica Wachtel",
-      "categories": [
-        "AI Engineering",
-        "Developer tools",
-        "Model Context Protocol (MCP)"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "MCP maintainers from Anthropic, AWS, Microsoft, and OpenAI lay out enterprise security roadmap at Dev Summit",
-      "link": "https://thenewstack.io/mcp-maintainers-enterprise-roadmap",
-      "summary": "In a roundtable panel at the MCP Dev Summit last week in New York, Model Context Protocol (MCP) maintainers from The post MCP maintainers from Anthropic, AWS, Microsoft, and OpenAI lay out enterprise security roadmap at Dev Summit appeared first on The New Stack .",
-      "published": "2026-04-06T16:25:05+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Eric Newcomer",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Model Context Protocol (MCP)",
-        "sponsor-cncf"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Is observability still an operations problem at your organization?",
-      "link": "https://thenewstack.io/is-observability-still-an-operations-problem-at-your-organization",
-      "summary": "Find out how putting runtime telemetry directly in the hands of developers can help your team debug faster, reduce escalations, The post Is observability still an operations problem at your organization? appeared first on The New Stack .",
-      "published": "2026-04-06T16:05:31+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "TNS Staff",
-      "categories": [
-        "AI",
-        "Cloud Native Ecosystem",
-        "DevOps",
-        "Observability",
-        "Platform Engineering",
-        "Software Development",
-        "sponsor-dynatrace",
-        "sponsored-webinar"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Azure Red Hat OpenShift: Managed Identity and Workload Identity now generally available",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-red-hat-openshift-managed-identity-and-workload-identity/ba-p/4504940",
-      "summary": "Azure Red Hat OpenShift now supports managed identities and workload identities as a generally available capability, so you can run OpenShift clusters and applications on Azure without long-lived service principal credentials.​ ARO, identity, and Azure governance With GA support for managed...",
-      "published": "2026-04-06T14:44:45+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "MelanieKraintz007",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Cosmos DB Optimization",
-      "link": "https://www.youtube.com/watch?v=RbH5F_3w47E",
-      "summary": "A dive into how we can optimize our Cosmos DB deployments and data morels.\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:37 - Service options and structure\n01:48 - Request Units (RUs)\n04:07 - Free SKU\n05:26 - Provisioned\n06:06 - Manual\n11:13 - Autoscale\n16:58 - Configuration\n23:03 -...",
-      "published": "2026-04-06T11:02:11+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/RbH5F_3w47E/mqdefault.jpg"
-    },
-    {
-      "title": "Peer-to-Peer acceleration for AI model distribution with Dragonfly",
-      "link": "https://www.cncf.io/blog/2026/04/06/peer-to-peer-acceleration-for-ai-model-distribution-with-dragonfly",
-      "summary": "The problem: AI model distribution is broken at scale Large-scale AI model distribution presents challenges in performance, efficiency, and cost. Consider a typical scenario: an ML platform team manages a Kubernetes cluster with 200 GPU nodes....",
-      "published": "2026-04-06T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Pavan Madduri, CNCF Kubestronaut",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
     }
   ]
 }
