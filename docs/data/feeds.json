@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-05-07T06:57:07.001135+00:00",
-    "total_items": 266,
+    "generated_at": "2026-05-08T06:34:29.811745+00:00",
+    "total_items": 265,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -18,6 +18,167 @@
     ]
   },
   "items": [
+    {
+      "title": "How Microsoft is governing thousands of Kubernetes clusters without manual intervention",
+      "link": "https://thenewstack.io/kubernetes-fleet-management-scale",
+      "summary": "Kubernetes is complicated; everybody knows it. Logically enough, Kubernetes deployed as a cluster of collected and coalesced instances at “fleet The post How Microsoft is governing thousands of Kubernetes clusters without manual intervention appeared first on The New Stack .",
+      "published": "2026-05-07T22:07:21+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "Cloud Native Ecosystem",
+        "KubeCon Cloudnativecon EU 2026",
+        "Kubernetes",
+        "Platform Engineering",
+        "Podcast",
+        "sponsor-microsoft",
+        "sponsored-post",
+        "Video"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes v1.36: More Drivers, New Features, and the Next Era of DRA",
+      "link": "https://kubernetes.io/blog/2026/05/07/kubernetes-v1-36-dra-136-updates",
+      "summary": "Dynamic Resource Allocation (DRA) has fundamentally changed how platform administrators handle hardware\naccelerators and specialized resources in Kubernetes. In the v1.36 release, DRA\ncontinues to mature, bringing a wave of feature graduations, critical usability\nimprovements, and new capabilities...",
+      "published": "2026-05-07T18:35:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Temporal reveals a serverless option for its Durable Execution platform",
+      "link": "https://thenewstack.io/temporal-replay-2026-news",
+      "summary": "We’ve all dreamed at one point or another about having safety guards on everything we do — such as keeping The post Temporal reveals a serverless option for its Durable Execution platform appeared first on The New Stack .",
+      "published": "2026-05-07T17:25:25+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Nick Lucchesi",
+      "categories": [
+        "AI Operations",
+        "Developer tools",
+        "Serverless",
+        "sponsor-temporal",
+        "Sponsored",
+        "sponsored-event-coverage",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI brings GPT-5-level reasoning to its speech models",
+      "link": "https://thenewstack.io/openai-gpt-5-level-speech",
+      "summary": "OpenAI launched three new speech-focused models on Thursday: GPT-Realtime-2, its first voice model with what the company calls “GPT-5-class reasoning”; The post OpenAI brings GPT-5-level reasoning to its speech models appeared first on The New Stack .",
+      "published": "2026-05-07T17:13:46+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Elastic architects reveal how to query observability data in plain English",
+      "link": "https://thenewstack.io/ai-observability-opentelemetry-webinar",
+      "summary": "Keeping observability data locked behind the SRE job function is a mistake. Today’s leading companies are making operational data available The post Elastic architects reveal how to query observability data in plain English appeared first on The New Stack .",
+      "published": "2026-05-07T16:27:32+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Alexandra Ames",
+      "categories": [
+        "AI Agents",
+        "DevOps",
+        "Observability",
+        "sponsor-elastic",
+        "sponsored-webinar"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "I tested the new OpenAI Codex features on a real Python codebase, and it’s the strongest Claude Code rival yet",
+      "link": "https://thenewstack.io/openai-codex-claude-code",
+      "summary": "Late last month, OpenAI shipped a new product they dubbed “Codex for (almost) everything.” Its goal was to shift Codex from a The post I tested the new OpenAI Codex features on a real Python codebase, and it’s the strongest Claude Code rival yet appeared first on The New Stack .",
+      "published": "2026-05-07T15:27:18+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "GitHub builds an immune system for AI coding agents running on MCP",
+      "link": "https://thenewstack.io/github-mcp-security-scanning",
+      "summary": "Security has emerged as one of the core stumbling blocks in the AI coding space: Companies are racing to connect The post GitHub builds an immune system for AI coding agents running on MCP appeared first on The New Stack .",
+      "published": "2026-05-07T15:04:24+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Engineering",
+        "AI Infrastructure",
+        "Model Context Protocol",
+        "Operations"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "With the launch of Meko, Yugabyte targets the data layer that’s breaking multi-agent AI systems",
+      "link": "https://thenewstack.io/yugabyte-meko-ai-agent-state",
+      "summary": "Roughly 37% of multi-agent system failures aren’t reasoning failures — they’re state failures. Agents working from inconsistent views of what’s The post With the launch of Meko, Yugabyte targets the data layer that’s breaking multi-agent AI systems appeared first on The New Stack .",
+      "published": "2026-05-07T13:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Nick Lucchesi",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Open Source",
+        "sponsor-yugabyte",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The introverts’ edge: How AI is leveling the developer floor",
+      "link": "https://thenewstack.io/ai-coding-junior-developers",
+      "summary": "A nervous junior developer comes to work feeling neglected and spends time playing ping-pong rather than asking a senior developer The post The introverts’ edge: How AI is leveling the developer floor appeared first on The New Stack .",
+      "published": "2026-05-07T11:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "AI",
+        "AI Engineering",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Microcks becomes a CNCF incubating project",
+      "link": "https://www.cncf.io/blog/2026/05/07/microcks-becomes-a-cncf-incubating-project",
+      "summary": "The CNCF Technical Oversight Committee (TOC) has voted to accept Microcks as a CNCF incubating project. About Microcks Modern software teams build applications as collections of interconnected APIs and microservices, and with that architecture comes a...",
+      "published": "2026-05-07T08:26:12+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Katie Gamanji, CNCF TOC",
+      "categories": [
+        "Announcements",
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "5 Easy Ways to Create Files on Linux",
       "link": "https://kodekloud.com/blog/5-easy-ways-to-create-files-on-linux",
@@ -3632,160 +3793,6 @@
       "author": "Shamir_AbdulAziz",
       "categories": [],
       "thumbnail": ""
-    },
-    {
-      "title": "3 Ways to Get More from Azure SRE Agent",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/3-ways-to-get-more-from-azure-sre-agent/ba-p/4508993",
-      "summary": "When you first set up Azure SRE Agent, it’s tempting to give it everything. Connect all your alert sources, route every severity, set up scheduled tasks to poll your channels every 30 seconds. The agent can handle all of it. But a few simple configuration choices can help you get more value from...",
-      "published": "2026-04-07T23:33:10+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "dchelupati",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Azure Monitor in Azure SRE Agent: Autonomous Alert Investigation and Intelligent Merging",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-monitor-in-azure-sre-agent-autonomous-alert-investigation/ba-p/4509069",
-      "summary": "Azure Monitor is great at telling you something is wrong. But once the alert fires, the real work begins — someone has to open the portal, triage it, dig into logs, and figure out what happened. That takes time. And while they're investigating, the same alert keeps firing every few minutes,...",
-      "published": "2026-04-07T22:20:53+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "Vineela-Suri",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Open-source leaders question whether Meta’s Alexandr Wang will truly give away its AI models",
-      "link": "https://thenewstack.io/meta-open-source-models",
-      "summary": "Meta will release a selection of its AI models under an open-source license. The models in question come under the The post Open-source leaders question whether Meta’s Alexandr Wang will truly give away its AI models appeared first on The New Stack .",
-      "published": "2026-04-07T20:40:07+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI Strategy",
-        "Large Language Models",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Sam Altman promised billions for AI safety. Here’s what OpenAI actually spent.",
-      "link": "https://thenewstack.io/altman-openai-ai-safety",
-      "summary": "On Monday, The New Yorker published the results of an 18-month investigation into Sam Altman’s fluctuating stance on AI safety The post Sam Altman promised billions for AI safety. Here’s what OpenAI actually spent. appeared first on The New Stack .",
-      "published": "2026-04-07T20:04:36+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "AI",
-        "AI Models",
-        "AI Operations"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Amazon S3 Files gives the world’s biggest object store a file system",
-      "link": "https://thenewstack.io/aws-s3-files-filesystem",
-      "summary": "Amazon S3 can now be a file system. On Monday, AWS launched a new S3 feature called S3 Files that The post Amazon S3 Files gives the world’s biggest object store a file system appeared first on The New Stack .",
-      "published": "2026-04-07T19:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "Cloud Services",
-        "Data",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic’s Claude Mythos is now available, but not for you",
-      "link": "https://thenewstack.io/anthropic-claude-mythos-cybersecurity",
-      "summary": "In late March, a misconfiguration in Anthropic’s content management system revealed that the company was working on Claude Mythos, a new The post Anthropic’s Claude Mythos is now available, but not for you appeared first on The New Stack .",
-      "published": "2026-04-07T18:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Amazon EKS Auto Mode wants to end Kubernetes toil — one node at a time",
-      "link": "https://thenewstack.io/eks-auto-mode-kubernetes",
-      "summary": "For this edition of The New Stack Makers, we sit down with Alex Kestner, principal product manager at Amazon Elastic The post Amazon EKS Auto Mode wants to end Kubernetes toil — one node at a time appeared first on The New Stack .",
-      "published": "2026-04-07T17:55:49+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "KubeCon Cloudnativecon EU 2026",
-        "Kubernetes",
-        "Platform Engineering",
-        "Podcast",
-        "sponsor-aws-marketplace",
-        "sponsored-podcast"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "KEDA Zero to Hero with 2 Real-time Demos",
-      "link": "https://www.youtube.com/watch?v=LwC71u2DyD0",
-      "summary": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCnnQ3ybuyFdzvgv2Ky5jnAA/join",
-      "published": "2026-04-07T16:38:40+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/LwC71u2DyD0/mqdefault.jpg"
-    },
-    {
-      "title": "True enterprise sovereignty is more approachable than ever, thanks to K8s-powered cloud-neutral PostgreSQL",
-      "link": "https://thenewstack.io/sovereign-postgresql-kubernetes-portability",
-      "summary": "For years, the debate around digital sovereignty focused on infrastructure. Now the spotlight is shifting to a far more valuable The post True enterprise sovereignty is more approachable than ever, thanks to K8s-powered cloud-neutral PostgreSQL appeared first on The New Stack .",
-      "published": "2026-04-07T15:31:24+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "TNS Staff",
-      "categories": [
-        "Cloud Native Ecosystem",
-        "Databases",
-        "Kubernetes",
-        "sponsor-enterprisedb",
-        "Sponsored",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Model Flop Utilization is the metric Aria Networks says will define the AI infrastructure era",
-      "link": "https://thenewstack.io/aria-networks-ai-network",
-      "summary": "As the global race to provide AI infrastructure services accelerates, Aria Networks claims it has engineered a “fundamentally different approach” The post Model Flop Utilization is the metric Aria Networks says will define the AI infrastructure era appeared first on The New Stack .",
-      "published": "2026-04-07T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Networking"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kubernetes Operators: Handle multiple controllers, conflicts and retries like a pro",
-      "link": "https://www.youtube.com/watch?v=0PyNl-iE5G0",
-      "summary": "When multiple Kubernetes controllers update the same custom resource, you WILL hit conflict errors. Your operator caches an old resource version, another controller updates the object, and your update fails — \"the object has been modified, please apply your changes to the latest version.\"\n\nIn this...",
-      "published": "2026-04-07T12:30:01+00:00",
-      "source": "Kubesimplify",
-      "type": "video",
-      "author": "Kubesimplify",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/0PyNl-iE5G0/mqdefault.jpg"
     }
   ]
 }
