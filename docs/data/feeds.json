@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-05-09T06:40:48.609166+00:00",
-    "total_items": 265,
+    "generated_at": "2026-05-10T06:52:16.252295+00:00",
+    "total_items": 257,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -13,11 +13,70 @@
       "Kubernetes Blog",
       "Kubesimplify",
       "LearnK8s",
+      "Piyush Sachdeva",
       "Rawkode Academy",
       "The New Stack"
     ]
   },
   "items": [
+    {
+      "title": "The End of DevOps? (AWS DevOps Agent)",
+      "link": "https://www.youtube.com/watch?v=kw6W9aY-Rxk",
+      "summary": "AWS Just launched - AWS DevOps Agent , is this the end of DevOps?\n\n𝗖𝗢𝗠𝗣𝗟𝗘𝗧𝗘 COURSES  👌 It’s   🅵🆁🅴🅴 ⛳\n✅ Terraform Full Course For Beginners - #28daysofAZTerraform\nhttps://www.youtube.com/playlist?list=PLl4APkPHzsUUHlbhuq9V02n9AMLPySoEQ\n\n✅ Certified Kubernetes Administrator (CKA)...",
+      "published": "2026-05-10T05:18:04+00:00",
+      "source": "Piyush Sachdeva",
+      "type": "video",
+      "author": "Tech Tutorials with Piyush",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/kw6W9aY-Rxk/mqdefault.jpg"
+    },
+    {
+      "title": "Tanzu Platform’s 15-year head start meets the AI moment",
+      "link": "https://thenewstack.io/tanzu-platform-ai-ready",
+      "summary": "In 2011, Marc Andreessen famously observed that software was eating the world, anticipating that every industry would be reshaped or The post Tanzu Platform’s 15-year head start meets the AI moment appeared first on The New Stack .",
+      "published": "2026-05-09T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Monica White",
+      "categories": [
+        "AI Infrastructure",
+        "AI Strategy",
+        "Platform Engineering",
+        "sponsor-tanzu",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Datadog and T-Mobile leaders reveal the reality of deploying AI agents in production",
+      "link": "https://thenewstack.io/enterprise-ai-agent-adoption",
+      "summary": "With careful governance and validation, AI agents are increasingly gaining adoption for specific enterprise functions, according to speakers at the The post Datadog and T-Mobile leaders reveal the reality of deploying AI agents in production appeared first on The New Stack .",
+      "published": "2026-05-09T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Nick Lucchesi",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "AI Strategy"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How Anthropic and Elon Musk cornered Sam Altman this week",
+      "link": "https://thenewstack.io/anthropic-elon-musk-cornered-sam-altman",
+      "summary": "I’m Matt Burns, Chief Content Officer at Insight Media Group. Each week, I round up the most important AI developments, The post How Anthropic and Elon Musk cornered Sam Altman this week appeared first on The New Stack .",
+      "published": "2026-05-09T10:22:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Matthew Burns",
+      "categories": [
+        "AI",
+        "AI Engineering",
+        "AI Strategy"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Kubernetes v1.36: Moving Volume Group Snapshots to GA",
       "link": "https://kubernetes.io/blog/2026/05/08/kubernetes-v1-36-volume-group-snapshot-ga",
@@ -1096,6 +1155,17 @@
       "thumbnail": ""
     },
     {
+      "title": "What's REALLY Inside a Kubernetes Service? (All 5 Types Explained)",
+      "link": "https://www.youtube.com/watch?v=uP4Gc08qeXM",
+      "summary": "What's actually inside a Kubernetes Service? You think it has pod IPs. It doesn't. Here's what really routes your traffic.\n\nA Kubernetes Service is one virtual IP and a label selector. Behind one `kubectl expose` command, three controllers and a DNS server cooperate, and the kernel on every node...",
+      "published": "2026-04-30T14:08:25+00:00",
+      "source": "Kubesimplify",
+      "type": "video",
+      "author": "Kubesimplify",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/uP4Gc08qeXM/mqdefault.jpg"
+    },
+    {
       "title": "Azure SRE Agent for Azure Monitor Alerts: Reduce Alert Fatigue, Investigate What Matters",
       "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-sre-agent-for-azure-monitor-alerts-reduce-alert-fatigue/ba-p/4513458",
       "summary": "The Alert Problem Organizations running Azure Monitor tend to land in one of two situations: Alert fatigue has set in. Alert rules tend to grow over time — a CPU threshold from two years ago, a health probe check from a migration, a disk alert from an outage that never got cleaned up. These rules...",
@@ -1432,6 +1502,17 @@
       "author": "Pramodh Kumar M",
       "categories": [],
       "thumbnail": ""
+    },
+    {
+      "title": "How Does the Kubernetes Scheduler Pick a Node?",
+      "link": "https://www.youtube.com/watch?v=N-dDSCVWdqU",
+      "summary": "The kube-scheduler. The component that decides which node your pod runs on. Sounds simple. It is not. \nIn this deep dive we walk every extension point in the scheduling framework: PreEnqueue, QueueSort, PreFilter, Filter, PostFilter (preemption lives here), PreScore, Score, NormalizeScore, Reserve,...",
+      "published": "2026-04-28T14:00:38+00:00",
+      "source": "Kubesimplify",
+      "type": "video",
+      "author": "Kubesimplify",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/N-dDSCVWdqU/mqdefault.jpg"
     },
     {
       "title": "Securing Your AI Agents Before They Ship: Red Teaming with Microsoft PyRIT",
@@ -3602,202 +3683,6 @@
       "type": "article",
       "author": "TulikaC",
       "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "PyTorch Foundation Expands AI Stack with Safetensors, ExecuTorch, and Helion",
-      "link": "https://thenewstack.io/pytorch-ai-stack-expand",
-      "summary": "This week at PyTorch Conference EU in Paris, the PyTorch Foundation announced a trio of new projects joining its portfolio: The post PyTorch Foundation Expands AI Stack with Safetensors, ExecuTorch, and Helion appeared first on The New Stack .",
-      "published": "2026-04-09T19:18:44+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "AI Engineering",
-        "AI Infrastructure",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI’s new $100 tier targets developers hitting Codex (and Claude Code) limits",
-      "link": "https://thenewstack.io/openais-new-100-tier-targets-developers-hitting-codex-and-claude-code-limits",
-      "summary": "On Thursday, OpenAI announced a new $100/month ChatGPT Pro tier that, while open to anyone, is specifically meant for Codex The post OpenAI’s new $100 tier targets developers hitting Codex (and Claude Code) limits appeared first on The New Stack .",
-      "published": "2026-04-09T18:30:11+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "Operations"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Replit taps RevenueCat to help vibe-coders make money",
-      "link": "https://thenewstack.io/replit-revenuecat-help-vibe-coders-monetize",
-      "summary": "Creating software is easier than ever, but figuring out how to make money from it is an entirely different proposition. The post Replit taps RevenueCat to help vibe-coders make money appeared first on The New Stack .",
-      "published": "2026-04-09T18:30:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Vibe Coding"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic takes Claude Cowork out of preview and straight into the enterprise",
-      "link": "https://thenewstack.io/anthropic-takes-claude-cowork-out-of-preview-and-straight-into-the-enterprise",
-      "summary": "Anthropic on Thursday took Claude Cowork, its tool for letting non-developers delegate tasks and workflows to a Claude-based agent, out The post Anthropic takes Claude Cowork out of preview and straight into the enterprise appeared first on The New Stack .",
-      "published": "2026-04-09T17:59:15+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "Operations"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AWS wants to register your AI agents",
-      "link": "https://thenewstack.io/aws-wants-to-register-your-ai-agents",
-      "summary": "AWS on Thursday launched the AWS Agent Registry, a new service that aims to help enterprises discover, share, and reuse The post AWS wants to register your AI agents appeared first on The New Stack .",
-      "published": "2026-04-09T17:30:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "Operations"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The next stages of AI conformance in the cloud-native, open-source world",
-      "link": "https://thenewstack.io/the-next-stages-of-ai-conformance-in-the-cloud-native-open-source-world",
-      "summary": "Until recently, running an AI model on Kubernetes was a guessing game. What worked on one cloud provider could fail The post The next stages of AI conformance in the cloud-native, open-source world appeared first on The New Stack .",
-      "published": "2026-04-09T17:05:28+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jennifer Riggins",
-      "categories": [
-        "AI Engineering",
-        "Cloud Native Ecosystem",
-        "KubeCon Cloudnativecon EU 2026",
-        "Operations",
-        "Podcast",
-        "sponsor-cncf",
-        "Video"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Monitor AI Agents on App Service with OpenTelemetry and the New Application Insights Agents View",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/monitor-ai-agents-on-app-service-with-opentelemetry-and-the-new/ba-p/4510023",
-      "summary": "Part 2 of 2: In Blog 1 , we deployed a multi-agent travel planner on Azure App Service using the Microsoft Agent Framework (MAF) 1.0 GA. This post dives deep into how we instrumented those agents with OpenTelemetry and lit up the brand-new Agents (Preview) view in Application Insights. 📋...",
-      "published": "2026-04-09T16:43:43+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "jordanselig",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Build Multi-Agent AI Apps on Azure App Service with Microsoft Agent Framework 1.0",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/build-multi-agent-ai-apps-on-azure-app-service-with-microsoft/ba-p/4510017",
-      "summary": "A couple of months ago, we published a three-part series showing how to build multi-agent AI systems on Azure App Service using preview packages from the Microsoft Agent Framework (MAF) (formerly AutoGen / Semantic Kernel Agents). The series walked through async processing, the request-reply...",
-      "published": "2026-04-09T16:24:13+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "jordanselig",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "AWS just did the Impossible in Object Stores | S3Files can mount S3 on EC2",
-      "link": "https://www.youtube.com/watch?v=j30RsHnC99A",
-      "summary": "Join Membership for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nS3 Files is a shared file system that connects any AWS compute directly with your data in Amazon S3. It provides fast, direct access to all of your S3 data as files with full file system semantics and low-latency...",
-      "published": "2026-04-09T16:23:38+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/j30RsHnC99A/mqdefault.jpg"
-    },
-    {
-      "title": "Open source maintainers are drowning in AI-generated pull requests. Enterprise teams are next.",
-      "link": "https://thenewstack.io/ai-generated-code-crisis",
-      "summary": "Something is breaking in open source, and it should alarm every engineering leader pushing coding agents into their organization. Over The post Open source maintainers are drowning in AI-generated pull requests. Enterprise teams are next. appeared first on The New Stack .",
-      "published": "2026-04-09T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Arjun Iyer",
-      "categories": [
-        "AI Engineering",
-        "AI Strategy",
-        "Open Source",
-        "sponsor-signadot",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "CNCF and PyTorch communities come together at KubeCon + CloudNativeCon China 2026: CFP now open",
-      "link": "https://www.cncf.io/blog/2026/04/09/cncf-and-pytorch-communities-come-together-at-kubecon-china-2026-cfp-now-open",
-      "summary": "The cloud native, open infrastructure, and AI communities are coming together this year at one of Asia’s flagship open source events. KubeCon + CloudNativeCon + OpenInfra Summit Asia + PyTorch Conference China 2026 will take place from...",
-      "published": "2026-04-09T14:19:42+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "epower",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Zencoder goes beyond coding",
-      "link": "https://thenewstack.io/zencoder-goes-beyond-coding",
-      "summary": "Zencoder on Thursday launched Zenflow for Work, its first product for non-coders. The company started out as a code completion The post Zencoder goes beyond coding appeared first on The New Stack .",
-      "published": "2026-04-09T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI Agents",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Ramp targets AI’s fastest-growing cost: spend that’s hard to track",
-      "link": "https://thenewstack.io/ramp-ai-token-spend-management",
-      "summary": "Companies are spending more on AI than they can easily track. What started as a handful of API calls and The post Ramp targets AI’s fastest-growing cost: spend that’s hard to track appeared first on The New Stack .",
-      "published": "2026-04-09T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI Infrastructure",
-        "AI Operations",
-        "FinOps"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to See What's Using Your Resources on a Linux Server",
-      "link": "https://kodekloud.com/blog/how-to-see-whats-using-your-resources-on-a-linux-server",
-      "summary": "Is your Linux server slow? Learn how to pinpoint the exact processes draining your CPU, RAM, and Disk I/O using powerful ps and pidstat commands.",
-      "published": "2026-04-09T10:33:57+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Alexandru Andrei",
-      "categories": [
-        "linux commands",
-        "system administration",
-        "server administration",
-        "Command Line"
-      ],
       "thumbnail": ""
     }
   ]
