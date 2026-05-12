@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-05-11T07:07:12.749135+00:00",
-    "total_items": 269,
+    "generated_at": "2026-05-12T06:55:19.607866+00:00",
+    "total_items": 271,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -19,6 +19,104 @@
     ]
   },
   "items": [
+    {
+      "title": "What is MLOps? A Complete Beginner’s Guide",
+      "link": "https://kodekloud.com/blog/what-is-mlops",
+      "summary": "Learn what MLOps is, the 6-stage lifecycle, top 2026 tools, salaries, and a hands-on MLflow tutorial. Beginner to pro guide.",
+      "published": "2026-05-12T06:16:23+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "MLOps",
+        "Machine Learning",
+        "AI Engineering",
+        "DevOps",
+        "ML Lifecycle",
+        "MLflow",
+        "Beginners Guide",
+        "Tutorials",
+        "Career Guide"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic’s Claude Platform comes to AWS",
+      "link": "https://thenewstack.io/anthropics-claude-platform-comes-to-aws",
+      "summary": "As part of Anthropic’s and AWS’s expanded collaboration, which the two companies announced in April, Anthropic said it would bring The post Anthropic’s Claude Platform comes to AWS appeared first on The New Stack .",
+      "published": "2026-05-11T20:31:09+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Infrastructure"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic trains Claude to resist blackmail & self-preservation behavior via agentic misalignment",
+      "link": "https://thenewstack.io/anthropic-agentic-misalignment-claude",
+      "summary": "Anthropic doubled down on the fight against agentic misalignment on Friday, the mechanics of which could cause AI models to The post Anthropic trains Claude to resist blackmail & self-preservation behavior via agentic misalignment appeared first on The New Stack .",
+      "published": "2026-05-11T17:26:58+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Agents",
+        "AI Models",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How AI-native systems are built",
+      "link": "https://thenewstack.io/building-ai-native-systems",
+      "summary": "The core problem: the “brittle” enterprise Traditional enterprise software is deterministic; composed of a series of “If-Then” statements that break The post How AI-native systems are built appeared first on The New Stack .",
+      "published": "2026-05-11T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Monica White",
+      "categories": [
+        "AI Engineering",
+        "AI Operations",
+        "AI Strategy",
+        "sponsor-andela",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why your AI agent doesn’t actually remember anything",
+      "link": "https://thenewstack.io/agent-memory-decay-contamination",
+      "summary": "A few months ago, I was reviewing a customer support agent who had a strange failure pattern. A user would The post Why your AI agent doesn’t actually remember anything appeared first on The New Stack .",
+      "published": "2026-05-11T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Monica White",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Databases",
+        "sponsor-pingcap",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How to get engineering time back from Kubernetes upgrades",
+      "link": "https://www.cncf.io/blog/2026/05/11/how-to-get-engineering-time-back-from-kubernetes-upgrades",
+      "summary": "Kubernetes powers your products, but with that power and flexibility comes organizational challenges around managing complexity and maintenance. It can be tough for an organization to keep up with the speed of open source, especially at...",
+      "published": "2026-05-11T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Munib Ali, Director of Engineering, SRE Fairwinds",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "I built a platform for DevOps Learners - Esc Bash | Launch Date delayed",
       "link": "https://www.youtube.com/watch?v=l1ctyYlt6Bw",
@@ -3761,62 +3859,6 @@
         "AI Agents",
         "Developer tools",
         "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "HPA-managed workloads: Why the obvious waste stays",
-      "link": "https://thenewstack.io/hpa-managed-workloads-why-waste-stays",
-      "summary": "Teams running Kubernetes can usually see where they’re overprovisioned. Requests are higher than they need to be, there’s consistent headroom, and capacity The post HPA-managed workloads: Why the obvious waste stays appeared first on The New Stack .",
-      "published": "2026-04-12T01:51:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Yasmin Rajabi",
-      "categories": [
-        "Operations",
-        "Software Development",
-        "Contributed",
-        "contributed-cloudbolt"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "If AI can create DevOps Configuration, Why learn DevOps?",
-      "link": "https://www.youtube.com/watch?v=NohaG-bqRjs",
-      "summary": "Join Membership for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nIf AI can create DevOps Configuration, Why learn DevOps?\n\nFree Course on the channel\n==============================\n- DevOps Zero to Hero Playlist:...",
-      "published": "2026-04-11T16:28:56+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/NohaG-bqRjs/mqdefault.jpg"
-    },
-    {
-      "title": "What I Learned at My First KubeCon + CloudNativeCon as a High School Speaker",
-      "link": "https://www.cncf.io/blog/2026/04/11/what-i-learned-at-my-first-kubecon-cloudnativecon-as-a-high-school-speaker",
-      "summary": "KubeCon + CloudNativeCon Europe 2026 is one of the biggest open-source conferences in the world, organized by the Cloud Native Computing Foundation (part of the Linux Foundation, which manages major projects like Linux). It brings together...",
-      "published": "2026-04-11T12:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Avery Yang, Student at North Carolina School of Science and Mathematics",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Karpathy says developers have ‘AI Psychosis.’ Everyone else is next.",
-      "link": "https://thenewstack.io/karpathy-says-developers-have-ai-psychosis-everyone-else-is-next",
-      "summary": "I’m Matt Burns, Chief Content Officer at Insight Media Group. Each week, I round up the most important AI developments, The post Karpathy says developers have ‘AI Psychosis.’ Everyone else is next. appeared first on The New Stack .",
-      "published": "2026-04-11T10:10:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Matthew Burns",
-      "categories": [
-        "AI Models",
-        "AI Strategy",
-        "Vibe Coding",
-        "ai-signal"
       ],
       "thumbnail": ""
     }
