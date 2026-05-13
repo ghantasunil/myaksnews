@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-05-12T06:55:19.607866+00:00",
-    "total_items": 271,
+    "generated_at": "2026-05-13T06:59:28.349793+00:00",
+    "total_items": 282,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -19,6 +19,200 @@
     ]
   },
   "items": [
+    {
+      "title": "Give Your AI Agent Eyes: Browser-Harness Meets Playwright Workspaces Remote Browsers",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/give-your-ai-agent-eyes-browser-harness-meets-playwright/ba-p/4518419",
+      "summary": "What happens when you hand a coding agent a real browser — not a mock, not an API wrapper, but a full Chromium instance running in the cloud? It shops for you. It scrapes for you. It navigates JavaScript-heavy SPAs that would make any REST-based scraper weep. And it does it across 10+ parallel...",
+      "published": "2026-05-13T06:00:21+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "NandiniMuralidharan",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "The new FinOps problem isn’t cloud bills",
+      "link": "https://thenewstack.io/finops-ai-token-economics",
+      "summary": "At Google Cloud Next this month in Las Vegas, The New Stack sat down with Finout co-founder and CEO Roi The post The new FinOps problem isn’t cloud bills appeared first on The New Stack .",
+      "published": "2026-05-12T23:24:43+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "FinOps",
+        "Operations",
+        "Podcast",
+        "sponsor-finout",
+        "sponsored-podcast",
+        "sponsored-post",
+        "Video"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Jensen Huang and Bill McDermott bet on OpenShell to secure enterprise AI agents",
+      "link": "https://thenewstack.io/nvidia-openshell-agent-runtime",
+      "summary": "The software stack that powers enterprise applications was built for humans. It assumes human-speed interaction, human-managed credentials, and human oversight The post Jensen Huang and Bill McDermott bet on OpenShell to secure enterprise AI agents appeared first on The New Stack .",
+      "published": "2026-05-12T20:08:02+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "AI Agents",
+        "Open Source",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The API portal is the clearest signal of whether your company can handle AI agents",
+      "link": "https://thenewstack.io/mcp-api-governance-readiness",
+      "summary": "When I recently talked to Kin Lane, API evangelist and co-founder of Naftiko, I was repeatedly struck by the parallels The post The API portal is the clearest signal of whether your company can handle AI agents appeared first on The New Stack .",
+      "published": "2026-05-12T17:23:52+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Nick Lucchesi",
+      "categories": [
+        "AI Strategy",
+        "API Management",
+        "Model Context Protocol (MCP)",
+        "sponsor-naftiko",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI is creating a generation of developers who can’t debug their own code",
+      "link": "https://thenewstack.io/ai-generation-who-cant-debug",
+      "summary": "On the surface, everything looks fine. The tests passed, the review is clean, and the junior who worked on it The post AI is creating a generation of developers who can’t debug their own code appeared first on The New Stack .",
+      "published": "2026-05-12T16:16:29+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Matthew Burns",
+      "categories": [
+        "AI Engineering",
+        "AI Operations",
+        "Software Development",
+        "contributed-octopus-deploy"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Red Hat is betting on AgentOps to close the gap between AI experiments and production",
+      "link": "https://thenewstack.io/red-hat-ai-maas",
+      "summary": "On Tuesday, Red Hat announced significant advancements to Red Hat AI (RHAI) 3.4 at its Red Hat Summit in Atlanta. Red Hat The post Red Hat is betting on AgentOps to close the gap between AI experiments and production appeared first on The New Stack .",
+      "published": "2026-05-12T15:23:52+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Steven J. Vaughan-Nichols",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Operations"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI teams are spending months on web scrapers that SerpApi replaces with one API call",
+      "link": "https://thenewstack.io/serpapi-google-search-api",
+      "summary": "If you want fresh data inside an AI system, you usually end up doing something messy to get it. For The post AI teams are spending months on web scrapers that SerpApi replaces with one API call appeared first on The New Stack .",
+      "published": "2026-05-12T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Nick Lucchesi",
+      "categories": [
+        "AI Agents",
+        "API Management",
+        "Developer tools",
+        "sponsor-serpapi",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Living off the agent: The new tactic hijacking enterprise AI",
+      "link": "https://thenewstack.io/agentic-ai-spy-game",
+      "summary": "The moment employees started using AI tools with real company data, the game changed. Productivity jumped, but so did the The post Living off the agent: The new tactic hijacking enterprise AI appeared first on The New Stack .",
+      "published": "2026-05-12T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Monica White",
+      "categories": [
+        "AI Agents",
+        "Model Context Protocol (MCP)",
+        "Security",
+        "sponsor-straiker",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "SAP launches managed Joule Studio with Cursor and Claude Code support",
+      "link": "https://thenewstack.io/sap-joule-studio-managed-agents",
+      "summary": "SAP is all-in on making it easier for its users to build custom agents. At Sapphire 2026 in Orlando on The post SAP launches managed Joule Studio with Cursor and Claude Code support appeared first on The New Stack .",
+      "published": "2026-05-12T12:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "sponsor-sap",
+        "sponsored-event-coverage",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "SAP launches AI Agent Hub at Sapphire 2026 to tame vendor agent sprawl",
+      "link": "https://thenewstack.io/sap-ai-agent-hub",
+      "summary": "SAP wants to be the place where enterprises manage every AI agent in their environment, no matter which vendor built The post SAP launches AI Agent Hub at Sapphire 2026 to tame vendor agent sprawl appeared first on The New Stack .",
+      "published": "2026-05-12T12:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Operations",
+        "AI Strategy",
+        "sponsor-sap",
+        "sponsored-event-coverage",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "As agentic dev tools boom, workflow auditability becomes the constraint",
+      "link": "https://thenewstack.io/agentic-cicd-audit-compliance-gap",
+      "summary": "Recently, I was working with a senior engineering leader at a large financial institution to review their DevSecOps platform engineering The post As agentic dev tools boom, workflow auditability becomes the constraint appeared first on The New Stack .",
+      "published": "2026-05-12T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Monica White",
+      "categories": [
+        "AI Agents",
+        "CI/CD",
+        "Compliance",
+        "sponsor-gitlab",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "A decade of governance: Cloud Custodian at 10 and its role in the agentic AI era",
+      "link": "https://www.cncf.io/blog/2026/05/12/a-decade-of-governance-cloud-custodian-at-10-and-its-role-in-the-agentic-ai-era",
+      "summary": "What is Cloud Custodian? It is an open source, stateless policy engine used to manage public cloud environments, Kubernetes and infrastructure as code through a unified DSL. As an incubating project within CNCF, it allows organizations...",
+      "published": "2026-05-12T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Kapil Thangavelu, Creator of Cloud Custodian, Co-founder & CTO Stacklet",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "What is MLOps? A Complete Beginner’s Guide",
       "link": "https://kodekloud.com/blog/what-is-mlops",
@@ -38,6 +232,17 @@
         "Tutorials",
         "Career Guide"
       ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Running Foundry Agent Service on Azure Container Apps",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/running-foundry-agent-service-on-azure-container-apps/ba-p/4518598",
+      "summary": "Microsoft’s Customer Zero blog series gives an insider view of how Microsoft builds and operates Microsoft using our trusted, enterprise-grade agentic platform. Learn best practices from our engineering teams with real-world lessons, architectural patterns, and operational strategies for...",
+      "published": "2026-05-12T04:27:25+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "vyomnagrani",
+      "categories": [],
       "thumbnail": ""
     },
     {
@@ -3834,32 +4039,6 @@
       "type": "article",
       "author": "kevinguo",
       "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "How does the Kubernetes controller manager work?",
-      "link": "https://learnkube.com/kubernetes-controller-manager-explained",
-      "summary": "The controller manager runs the control loops that make Kubernetes self-healing. Learn how controllers watch resources, reconcile desired state, and drive the chain reaction from Deployment to running Pods.",
-      "published": "2026-04-13T00:00:00+00:00",
-      "source": "LearnK8s",
-      "type": "article",
-      "author": "Daniele Polencic",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Cursor, Claude Code, and Codex are merging into one AI coding stack nobody planned",
-      "link": "https://thenewstack.io/ai-coding-tool-stack",
-      "summary": "The AI coding tool market was supposed to consolidate. One winner would emerge, developers would standardize around it, and the The post Cursor, Claude Code, and Codex are merging into one AI coding stack nobody planned appeared first on The New Stack .",
-      "published": "2026-04-12T12:56:18+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Janakiram MSV",
-      "categories": [
-        "AI Agents",
-        "Developer tools",
-        "Software Development"
-      ],
       "thumbnail": ""
     }
   ]
