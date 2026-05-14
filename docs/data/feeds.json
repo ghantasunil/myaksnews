@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-05-13T06:59:28.349793+00:00",
-    "total_items": 282,
+    "generated_at": "2026-05-14T06:57:34.593712+00:00",
+    "total_items": 296,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -19,6 +19,261 @@
     ]
   },
   "items": [
+    {
+      "title": "Control runtime patch updates with Platform Release Channel on Azure App Service for Linux",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/control-runtime-patch-updates-with-platform-release-channel-on/ba-p/4519570",
+      "summary": "Azure App Service for Linux is introducing Platform Release Channel , a new setting that gives you more control over when runtime patch updates are applied to your app. With this feature, you can choose how quickly your app moves to newly rolled-out runtime patches. This helps teams balance two...",
+      "published": "2026-05-14T05:31:26+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "TulikaC",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Fivetran’s CPO: Closed data stacks won’t survive the agent era",
+      "link": "https://thenewstack.io/agentic-analytics-cost-squeeze",
+      "summary": "An AI agent let loose on a data warehouse can run ten or a hundred times more queries than a The post Fivetran’s CPO: Closed data stacks won’t survive the agent era appeared first on The New Stack .",
+      "published": "2026-05-13T22:15:28+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Matthew Burns",
+      "categories": [
+        "AI Agents",
+        "Data",
+        "Databases",
+        "Podcast",
+        "sponsor-fivetran",
+        "sponsored-post",
+        "Video"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "MinIO’s MemKV promises 95% better GPU utilization by ending AI recompute tax",
+      "link": "https://thenewstack.io/minio-memkv-recompute-tax",
+      "summary": "The shiny upper surface of agentic AI services showcased in chatbots and copilots belies where the real development is happening The post MinIO’s MemKV promises 95% better GPU utilization by ending AI recompute tax appeared first on The New Stack .",
+      "published": "2026-05-13T20:27:46+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Infrastructure",
+        "AI Models",
+        "Data"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes v1.36: Advancing Workload-Aware Scheduling",
+      "link": "https://kubernetes.io/blog/2026/05/13/kubernetes-v1-36-advancing-workload-aware-scheduling",
+      "summary": "AI/ML and batch workloads introduce unique scheduling challenges that go beyond simple Pod-by-Pod scheduling.\nIn Kubernetes v1.35, we introduced the first tranche of workload-aware scheduling improvements,\nfeaturing the foundational Workload API alongside basic gang scheduling support built on a...",
+      "published": "2026-05-13T18:35:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Introducing Azure Container Apps Express!",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/introducing-azure-container-apps-express/ba-p/4519150",
+      "summary": "Three years ago, a 15-second cold start was industry-leading. Today, developers and AI agents expect sub-second. The speed bar has moved, and the tooling needs to move with it. After running Azure Container Apps for years, we've learned something important: for most developers, the ACA environment...",
+      "published": "2026-05-13T17:42:31+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "simonjj",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "CNCF Debuts KubeCon + CloudNativeCon Japan 2026 Schedule",
+      "link": "https://www.cncf.io/announcements/2026/05/13/cncf-debuts-kubecon-cloudnativecon-japan-2026-schedule",
+      "summary": "Second annual Japanese event to spotlight AI, observability, platform engineering and more Key Highlights: YOKOHAMA, Japan, May 13, 2026 – The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for cloud native software, today announced...",
+      "published": "2026-05-13T16:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "kthornhill",
+      "categories": [
+        "Announcements"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Red Hat’s skill packs give AI agents something a bigger model never could: 20 years of institutional memory",
+      "link": "https://thenewstack.io/red-hat-agentic-skills-repository",
+      "summary": "Red Hat believes giving users access to agent skills will be AI’s next inflection point.  At the Red Hat Summit The post Red Hat’s skill packs give AI agents something a bigger model never could: 20 years of institutional memory appeared first on The New Stack .",
+      "published": "2026-05-13T15:27:37+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Steven J. Vaughan-Nichols",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Strategy"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic’s Claude Code agent view is a better dashboard. So why aren’t developers convinced?",
+      "link": "https://thenewstack.io/claude-code-agent-view",
+      "summary": "This week, Anthropic announced agent view in Claude Code, a CLI dashboard that lets developers manage multiple Claude Code sessions The post Anthropic’s Claude Code agent view is a better dashboard. So why aren’t developers convinced? appeared first on The New Stack .",
+      "published": "2026-05-13T15:13:43+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI’s Daybreak and Anthropic’s Glasswing have nearly identical benchmarks — and 3 of the same partners",
+      "link": "https://thenewstack.io/openai-daybreak-anthropic-glasswing",
+      "summary": "This week, OpenAI launched Daybreak, its cybersecurity initiative built around GPT-5.5, a tiered access framework, and Codex Security as the The post OpenAI’s Daybreak and Anthropic’s Glasswing have nearly identical benchmarks — and 3 of the same partners appeared first on The New Stack .",
+      "published": "2026-05-13T15:04:04+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Janakiram MSV",
+      "categories": [
+        "AI Models",
+        "AI Strategy",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "I tested OpenAI’s three claims about GPT-5.5 Instant, and only one fully held up",
+      "link": "https://thenewstack.io/gpt55-instant-vs-gpt52-tested",
+      "summary": "Last week, OpenAI replaced GPT-5.3 Instant as ChatGPT’s default model with GPT-5.5 Instant, rolling it out to all users for The post I tested OpenAI’s three claims about GPT-5.5 Instant, and only one fully held up appeared first on The New Stack .",
+      "published": "2026-05-13T14:50:41+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Nick Lucchesi",
+      "categories": [
+        "AI",
+        "AI Models",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Temporal hits 3,000 paying customers with its crash-proof workflow engine",
+      "link": "https://thenewstack.io/temporal-durable-execution-ai-workflows",
+      "summary": "If you work the high wire at a circus, you’d better have a net down below if you want to The post Temporal hits 3,000 paying customers with its crash-proof workflow engine appeared first on The New Stack .",
+      "published": "2026-05-13T13:48:49+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Nick Lucchesi",
+      "categories": [
+        "AI Infrastructure",
+        "Open Source",
+        "Software Development",
+        "sponsor-temporal",
+        "sponsored-event-coverage",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How to build a skills library for your engineering team",
+      "link": "https://thenewstack.io/engineering-team-skills-library",
+      "summary": "A few months ago, we realized that every engineer on our team was running a different version of their AI The post How to build a skills library for your engineering team appeared first on The New Stack .",
+      "published": "2026-05-13T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Monica White",
+      "categories": [
+        "AI Engineering",
+        "Developer tools",
+        "Platform Engineering",
+        "sponsor-port",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Cloud native application challenges: installing the walking skeleton",
+      "link": "https://thenewstack.io/kubernetes-yaml-management-scale",
+      "summary": "Editor’s note: This article is an excerpt from Chapter 1 of the Manning book, Platform Engineering on Kubernetes. This excerpt The post Cloud native application challenges: installing the walking skeleton appeared first on The New Stack .",
+      "published": "2026-05-13T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Monica White",
+      "categories": [
+        "Cloud Native Ecosystem",
+        "Kubernetes",
+        "Platform Engineering",
+        "sponsor-chronosphere",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Cimento emerges from stealth to secure the one thing no firewall can protect",
+      "link": "https://thenewstack.io/cimento-human-risk-ai",
+      "summary": "The security industry has spent decades and billions of dollars building tools to protect systems. The founders of Cimento, which The post Cimento emerges from stealth to secure the one thing no firewall can protect appeared first on The New Stack .",
+      "published": "2026-05-13T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "AI Agents",
+        "AI Strategy",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why agent harnesses fail inside cloud-native systems",
+      "link": "https://thenewstack.io/agent-harness-distributed-feedback-problem",
+      "summary": "Coding agents perform better with a harness that gives them the tools, guidance, and feedback signals to know what to The post Why agent harnesses fail inside cloud-native systems appeared first on The New Stack .",
+      "published": "2026-05-13T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Monica White",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Cloud Native Ecosystem",
+        "sponsor-signadot",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why enterprise AI needs customization",
+      "link": "https://thenewstack.io/enterprise-ai-model-customization",
+      "summary": "Most organizations are approaching AI adoption the same way they once bought enterprise software: pick a vendor, standardize on a The post Why enterprise AI needs customization appeared first on The New Stack .",
+      "published": "2026-05-13T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Monica White",
+      "categories": [
+        "AI Models",
+        "AI Strategy",
+        "FinOps",
+        "sponsor-gitlab",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Building a cloud native platform from the ground up with Kairos, k0rdent, and bindy",
+      "link": "https://www.cncf.io/blog/2026/05/13/building-a-cloud-native-platform-from-the-ground-up-with-kairos-k0rdent-and-bindy",
+      "summary": "As we shared in our earlier post on FluxCD, RBC Capital Markets has been on a deliberate journey to modernize our Kubernetes platform. GitOps with FluxCD gave us a solid deployment foundation. But as our platform grew,...",
+      "published": "2026-05-13T11:30:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Erick Bourgeois, Director & Head of Kubernetes Platform Engineering, RBC Capital Markets",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Give Your AI Agent Eyes: Browser-Harness Meets Playwright Workspaces Remote Browsers",
       "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/give-your-ai-agent-eyes-browser-harness-meets-playwright/ba-p/4518419",
@@ -62,6 +317,17 @@
         "Open Source",
         "Security"
       ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes v1.36: PSI Metrics for Kubernetes Graduates to GA",
+      "link": "https://kubernetes.io/blog/2026/05/12/kubernetes-v1-36-psi-metrics-ga",
+      "summary": "Since its original implementation in the Linux kernel in 2018, Pressure Stall Information (PSI) has provided users\nwith the high-fidelity signals needed to identify resource saturation before it becomes an outage.\nUnlike traditional utilization metrics, PSI tells the story of tasks stalled and time...",
+      "published": "2026-05-12T18:35:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
       "thumbnail": ""
     },
     {
@@ -3993,52 +4259,6 @@
         "sponsor-nitric",
         "sponsored-post-contributed"
       ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Govern AI Agents on App Service with the Microsoft Agent Governance Toolkit",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/govern-ai-agents-on-app-service-with-the-microsoft-agent/ba-p/4510962",
-      "summary": "Part 3 of 3 — Multi-Agent AI on Azure App Service In Blog 1 , we built a multi-agent travel planner with Microsoft Agent Framework 1.0 on App Service. In Blog 2 , we added observability with OpenTelemetry and the new Application Insights Agents view. Now in Part 3, we secure those agents for...",
-      "published": "2026-04-13T21:15:44+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "jordanselig",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "ingress-nginx to Envoy Gateway migration on CNCF internal services cluster",
-      "link": "https://www.cncf.io/blog/2026/04/13/ingress-nginx-to-envoy-gateway-migration-on-cncf-internal-services-cluster",
-      "summary": "CNCF hosts a Kubernetes cluster to run some services for internal purposes (namely; codimd, GUAC, kcp). The Kubernetes Project announced the ingress-nginx retirement (not to be confused with NGINX or NGINX Ingress Controller), which also affects the above mentioned Cluster. So...",
-      "published": "2026-04-13T14:01:35+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Koray Oksay, Kubermatic",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Entra ID Integrated SFTP",
-      "link": "https://www.youtube.com/watch?v=pzPqnTHxNPU",
-      "summary": "A dive into how we can optimize our Cosmos DB deployments and data morels.\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:32 - Using SFTP\n03:22 - Local user challenges\n05:04 - Entra ID integrated auth\n07:34 - Demo time\n12:44 - Token lifetime\n13:39 - Data plane RBAC and ABAC\n15:07 -...",
-      "published": "2026-04-13T07:31:05+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/pzPqnTHxNPU/mqdefault.jpg"
-    },
-    {
-      "title": "Introducing Wildcard Roles in Azure Web PubSub: simpler, smarter permissions for real-time apps",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/introducing-wildcard-roles-in-azure-web-pubsub-simpler-smarter/ba-p/4509524",
-      "summary": "Real-time interactivity is now a baseline expectation across industries, from collaborative dashboards to trading platforms, IoT monitoring, and live data visualizations. Developers need a way to broadcast data instantly to connected clients without worrying about connection management, scaling, or...",
-      "published": "2026-04-13T07:11:33+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "kevinguo",
-      "categories": [],
       "thumbnail": ""
     }
   ]
