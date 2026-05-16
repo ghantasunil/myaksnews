@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-05-15T07:03:24.369335+00:00",
-    "total_items": 305,
+    "generated_at": "2026-05-16T06:44:54.134775+00:00",
+    "total_items": 303,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -19,6 +19,192 @@
     ]
   },
   "items": [
+    {
+      "title": "Why Block handed Goose to the Linux Foundation",
+      "link": "https://thenewstack.io/block-goose-agentic-foundation",
+      "summary": "Internal tools can become powerful external services. Such was the case with Amazon’s cloud, which became AWS. And so too The post Why Block handed Goose to the Linux Foundation appeared first on The New Stack .",
+      "published": "2026-05-15T22:37:35+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Nick Lucchesi",
+      "categories": [
+        "AI Agents",
+        "Model Context Protocol (MCP)",
+        "Open Source",
+        "Podcast",
+        "sponsor-cncf",
+        "sponsored-podcast",
+        "sponsored-post",
+        "Video"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "MLOps vs DevOps vs DataOps: Key Differences Explained",
+      "link": "https://kodekloud.com/blog/mlops-vs-devops-vs-dataops",
+      "summary": "MLOps vs DevOps vs DataOps compared: artifacts, testing, tools, 2026 salaries, and which Ops you should actually learn first.",
+      "published": "2026-05-15T18:54:04+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "MLOps",
+        "DevOps",
+        "DataOps",
+        "Machine Learning",
+        "AI Engineering",
+        "Comparison Guide",
+        "Engineering Roles",
+        "Career Guide",
+        "Data Engineering"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes v1.36: New Metric for Route Sync in the Cloud Controller Manager",
+      "link": "https://kubernetes.io/blog/2026/05/15/ccm-new-metric-route-sync-total",
+      "summary": "This article was originally published with the wrong date. It was later republished, dated the 15th of\nMay 2026. Kubernetes v1.36 introduces a new alpha counter metric route_controller_route_sync_total to the Cloud Controller Manager (CCM) route controller implementation at k8s.io/cloud-provider ....",
+      "published": "2026-05-15T18:35:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes v1.36: Mixed Version Proxy Graduates to Beta",
+      "link": "https://kubernetes.io/blog/2026/05/15/kubernetes-1-36-feature-mixed-version-proxy-beta",
+      "summary": "Back in Kubernetes 1.28, we introduced the Mixed Version Proxy (MVP) as an Alpha feature (under the feature gate UnknownVersionInteroperabilityProxy ) in a previous blog post . The goal was simple but critical: make cluster upgrades safer by ensuring that requests for resources not yet known to an...",
+      "published": "2026-05-15T18:00:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "From Copilots to Coworkers: How AI Agents Are Transforming Azure Networking Operations",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/from-copilots-to-coworkers-how-ai-agents-are-transforming-azure/ba-p/4519850",
+      "summary": "Microsoft's Customer Zero blog series gives an insider view of how Microsoft builds and operates Microsoft using our trusted, enterprise-grade IQ platform. Learn best practices from our engineering teams with real-world lessons, architectural patterns, and operational strategies for pressure-tested...",
+      "published": "2026-05-15T17:45:28+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "dbillor",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "AWS found bugs in 60% of software requirements. Its fix isn’t more AI — it’s a 50-year-old logic engine.",
+      "link": "https://thenewstack.io/kiro-requirements-analysis-automated-reasoning",
+      "summary": "The most expensive bugs in software aren’t in the code. They’re in the requirements that guide the code’s construction. That’s The post AWS found bugs in 60% of software requirements. Its fix isn’t more AI — it’s a 50-year-old logic engine. appeared first on The New Stack .",
+      "published": "2026-05-15T16:26:02+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "AI Strategy"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The software fix that could shrink AI’s energy bill without new hardware",
+      "link": "https://thenewstack.io/streaming-ai-energy-efficiency",
+      "summary": "The load on the energy infrastructure that AI is placing should not be underestimated. Most approaches to addressing the AI The post The software fix that could shrink AI’s energy bill without new hardware appeared first on The New Stack .",
+      "published": "2026-05-15T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Monica White",
+      "categories": [
+        "AI Infrastructure",
+        "AI Operations",
+        "Data Streaming",
+        "sponsor-confluent",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why AI is failing in the security operations center",
+      "link": "https://thenewstack.io/elastic-ai-soc-data-unification",
+      "summary": "If you believe all the vendor ads out there, AI tools built to boost your company’s security operations center (SOC) The post Why AI is failing in the security operations center appeared first on The New Stack .",
+      "published": "2026-05-15T15:57:06+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Nick Lucchesi",
+      "categories": [
+        "AI Agents",
+        "AI Strategy",
+        "Security",
+        "sponsor-elastic",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure Update 15th May 2026",
+      "link": "https://www.youtube.com/watch?v=yoVH_44xb_E",
+      "summary": "Quick update this week!\n\nLinkedIn article - https://www.linkedin.com/posts/john-savill_leadershipmindset-emotionalintelligence-confidenceatwork-activity-7460281674388393984-Vh02?utm_source=share&utm_medium=member_desktop&rcm=ACoAACHZlJQBbQAlcm7Lwga0T3EFt92y3yJVlFI\n\n🔎 Looking for content on a...",
+      "published": "2026-05-15T15:20:01+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/yoVH_44xb_E/mqdefault.jpg"
+    },
+    {
+      "title": "The hidden cost of build vs. buy for agentic AI in regulated industries",
+      "link": "https://thenewstack.io/agentic-ai-build-buy",
+      "summary": "Regulated industries know this pattern well: A new capability emerges. Teams spin up point solutions, each one solving a discrete The post The hidden cost of build vs. buy for agentic AI in regulated industries appeared first on The New Stack .",
+      "published": "2026-05-15T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Monica White",
+      "categories": [
+        "AI Agents",
+        "AI Strategy",
+        "Compliance",
+        "sponsor-gitlab",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Extending AI gateways with Rust: Custom transformations in agentgateway and kgateway",
+      "link": "https://www.cncf.io/blog/2026/05/15/extending-ai-gateways-with-rust-custom-transformations-in-agentgateway-and-kgateway",
+      "summary": "Every gateway ships with a set of built-in policies. Authentication. Rate limiting. Request routing. Prompt guards. These cover most use cases. But what about the ones they don’t cover? What if you need to add a...",
+      "published": "2026-05-15T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Michael Uzukwu, kgateway and agentgateway Contributor",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "New SSH helper aliases for Python apps on Azure App Service for Linux",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/new-ssh-helper-aliases-for-python-apps-on-azure-app-service-for/ba-p/4520111",
+      "summary": "Troubleshooting a running application often starts with SSH. To make that experience simpler for Python apps on Azure App Service for Linux, we have added new SSH helper aliases for common app, log, networking, and Azure AI Foundry diagnostics. When you SSH into your application, you will now see...",
+      "published": "2026-05-15T10:37:16+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "TulikaC",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Simplifying FastAPI Deployments on Azure App Service for Linux",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/simplifying-fastapi-deployments-on-azure-app-service-for-linux/ba-p/4520103",
+      "summary": "Deploying FastAPI apps to Azure App Service for Linux is now simpler. Previously, when you deployed a FastAPI application, you needed to configure a custom startup command so the app could run correctly with an ASGI server. This added an extra step to the deployment flow and could create friction,...",
+      "published": "2026-05-15T10:25:16+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "TulikaC",
+      "categories": [],
+      "thumbnail": ""
+    },
     {
       "title": "OpenAI brings Codex to the ChatGPT mobile app",
       "link": "https://thenewstack.io/openai-codex-chatgpt-mobile",
@@ -4119,227 +4305,6 @@
         "sponsored-webinar"
       ],
       "thumbnail": ""
-    },
-    {
-      "title": "How To Measure the ROI of Developer Tools",
-      "link": "https://www.cncf.io/blog/2026/04/15/how-to-measure-the-roi-of-developer-tools",
-      "summary": "There’s been a growing emphasis in the cloud native community on investing in tools that improve developer experience. Platform engineering, accompanied with the rise of projects like Backstage, is all about making developers more productive by...",
-      "published": "2026-04-16T05:28:45+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Arsh Sharma | CNCF Ambassador, Senior Dev Rel at MetalBear",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Managing Multi‑Tenant Azure Resource with SRE Agent and Lighthouse",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/managing-multi-tenant-azure-resource-with-sre-agent-and/ba-p/4511789",
-      "summary": "Azure SRE Agent is an AI‑powered reliability assistant that helps teams diagnose and resolve production issues faster while reducing operational toil. It analyzes logs, metrics, alerts, and deployment data to perform root cause analysis and recommend or execute mitigations with human approval. It’s...",
-      "published": "2026-04-16T04:58:53+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "Pranab_Mandal",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Using an AI Agent to Troubleshoot and Fix Azure Function App Issues",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/using-an-ai-agent-to-troubleshoot-and-fix-azure-function-app/ba-p/4511781",
-      "summary": "TOC Preparation Troubleshooting Workflow Conclusion Preparation Topic: Required tools AI agent: for example, Copilot CLI / OpenCode / Hermes / OpenClaw, etc. In this example, we use Copilot CLI. Model access: for example, Anthropic Claude Opus. Relevant skills: this example does not use skills, but...",
-      "published": "2026-04-16T03:11:32+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "theringe",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "A year in, Google wants its Axion processors to feel like a scheduling decision",
-      "link": "https://thenewstack.io/google-axion-kubernetes-arm",
-      "summary": "At KubeCon Europe in Amsterdam, The New Stack sat down with Jago Macleod and Abdel Sghiouar from Google Cloud to The post A year in, Google wants its Axion processors to feel like a scheduling decision appeared first on The New Stack .",
-      "published": "2026-04-15T22:41:08+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI Infrastructure",
-        "KubeCon Cloudnativecon EU 2026",
-        "Operations",
-        "Podcast",
-        "sponsor-arm",
-        "sponsor-google",
-        "Video"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Google Gemini Mac app debuts to end the clunky hunt for browser tabs",
-      "link": "https://thenewstack.io/gemini-app-macos-launch",
-      "summary": "Chipping away at the Apple-native stronghold is never easy; dedicated Mac addicts often harbor a curious proclivity for Mail and Safari, sometimes The post Google Gemini Mac app debuts to end the clunky hunt for browser tabs appeared first on The New Stack .",
-      "published": "2026-04-15T20:13:11+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI’s Agents SDK separates the harness from the compute",
-      "link": "https://thenewstack.io/openai-agents-sdk-sandboxes",
-      "summary": "OpenAI announced a major update to its Agents SDK on Wednesday, one that takes the model-agnostic SDK from being a The post OpenAI’s Agents SDK separates the harness from the compute appeared first on The New Stack .",
-      "published": "2026-04-15T18:48:52+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Engineering",
-        "AI Infrastructure"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Claude Code and the rise of personal software",
-      "link": "https://thenewstack.io/claude-code-and-the-rise-of-personal-software",
-      "summary": "It’s not news to say Claude Code is actively changing how software is built. But what is news is who’s The post Claude Code and the rise of personal software appeared first on The New Stack .",
-      "published": "2026-04-15T17:30:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jessica Wachtel",
-      "categories": [
-        "AI",
-        "Developer tools",
-        "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Gemma 4 on Azure Container Apps Serverless GPU",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/gemma-4-on-azure-container-apps-serverless-gpu/ba-p/4511671",
-      "summary": "Every prompt you send to a hosted AI service leaves your tenant. Your code, your architecture decisions, your proprietary logic — all of it crosses a network boundary you don't control. For teams building in regulated industries or handling sensitive IP, that's not a philosophical concern. It's a...",
-      "published": "2026-04-15T16:20:22+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "simonjj",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "What engineering leaders get wrong about data stack consolidation",
-      "link": "https://thenewstack.io/data-stack-consolidation-risks",
-      "summary": "When IBM announced its $11 billion agreement to acquire Confluent (shortly after also absorbing DataStax), most of the commentary focused The post What engineering leaders get wrong about data stack consolidation appeared first on The New Stack .",
-      "published": "2026-04-15T16:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Anil Inamdar",
-      "categories": [
-        "Data",
-        "Open Source",
-        "Platform Engineering",
-        "sponsor-instaclustr",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Postgres to Iceberg in 13 minutes: How Supermetal compares to Flink, Kafka Connect, and Spark",
-      "link": "https://thenewstack.io/postgres-iceberg-cdc-benchmarks",
-      "summary": "Supermetal recently added Iceberg sink support, and I wanted to take it for a spin. A couple of months ago, The post Postgres to Iceberg in 13 minutes: How Supermetal compares to Flink, Kafka Connect, and Spark appeared first on The New Stack .",
-      "published": "2026-04-15T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Yaroslav Tkachenko",
-      "categories": [
-        "Cloud Services",
-        "Data Streaming",
-        "Databases",
-        "sponsor-supermetal",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Cal.com goes private: A security reckoning for open source",
-      "link": "https://thenewstack.io/cal-com-codebase-security-ai",
-      "summary": "Cal.com, an open-source startup that builds scheduling infrastructure for developers and enterprises, announced on Tuesday that it’s moving its core codebase behind The post Cal.com goes private: A security reckoning for open source appeared first on The New Stack .",
-      "published": "2026-04-15T14:25:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "Open Source",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why “good enough” cloud databases are becoming a business risk",
-      "link": "https://thenewstack.io/cloud-database-complacency-research",
-      "summary": "A database is like a water heater. When all is well, it just does its job in the background. You The post Why “good enough” cloud databases are becoming a business risk appeared first on The New Stack .",
-      "published": "2026-04-15T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Cynthia Dunlop",
-      "categories": [
-        "AI Infrastructure",
-        "Cloud Services",
-        "Databases",
-        "sponsor-scylladb",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Agents are rewriting the rules of security. Here’s what engineering needs to know.",
-      "link": "https://thenewstack.io/securing-ai-agent-systems",
-      "summary": "AI agents are reshaping software development. They can autonomously read codebases, write and edit files, run tests, and fix bugs, The post Agents are rewriting the rules of security. Here’s what engineering needs to know. appeared first on The New Stack .",
-      "published": "2026-04-15T12:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Michelle Gill",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Security",
-        "sponsor-gitlab",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "When AI writes 100K lines of code, QA becomes the whole job",
-      "link": "https://thenewstack.io/ai-code-qa-bottleneck",
-      "summary": "Artur Balabanskyy runs Tapforce, an AI-first development agency, and he has a problem that nobody in the industry talks about The post When AI writes 100K lines of code, QA becomes the whole job appeared first on The New Stack .",
-      "published": "2026-04-15T11:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "John Biggs",
-      "categories": [
-        "AI Engineering",
-        "AI Operations",
-        "Software Development",
-        "Contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Does Microsoft AI Train Models on my Data and Interactions?",
-      "link": "https://www.youtube.com/watch?v=LKA9U9T7_t0",
-      "summary": "Easy answer to a common question!\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:16 - Signed in with work or school account\n03:34 - Signed in with personal account\n04:56 - Training does not equal personalization\n06:06 - Close\n\n▬▬▬▬▬▬  K E Y   L I N K S 🔗 ▬▬▬▬▬▬\n► Whiteboard:\n🔗 ...",
-      "published": "2026-04-15T08:03:20+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/LKA9U9T7_t0/mqdefault.jpg"
     }
   ]
 }
