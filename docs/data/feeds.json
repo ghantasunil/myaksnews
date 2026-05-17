@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-05-16T06:44:54.134775+00:00",
-    "total_items": 303,
+    "generated_at": "2026-05-17T06:55:52.780681+00:00",
+    "total_items": 287,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -14,11 +14,54 @@
       "Kubesimplify",
       "LearnK8s",
       "Piyush Sachdeva",
-      "Rawkode Academy",
       "The New Stack"
     ]
   },
   "items": [
+    {
+      "title": "The clean-up cost of AI-generated code is what the velocity narrative leaves out",
+      "link": "https://thenewstack.io/cleanup-cost-ai-code",
+      "summary": "The world is actively using AI to make our lives more efficient and safe — from creative writing to safer The post The clean-up cost of AI-generated code is what the velocity narrative leaves out appeared first on The New Stack .",
+      "published": "2026-05-16T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Monica White",
+      "categories": [
+        "AI Engineering",
+        "Security",
+        "Software Development",
+        "sponsor-webflow",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "GitHub takes aim at Claude Code and Codex with its new Copilot app",
+      "link": "https://thenewstack.io/github-copilot-desktop-app",
+      "summary": "GitHub’s latest move to shake up its Copilot coding assistant is to give it its very own home in a The post GitHub takes aim at Claude Code and Codex with its new Copilot app appeared first on The New Stack .",
+      "published": "2026-05-16T11:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI Agents"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Forward deployed engineer is AI’s hottest job as OpenAI and Google race to hire. Here’s how to become one.",
+      "link": "https://thenewstack.io/forward-deployed-engineer-fde-openai-google",
+      "summary": "I’m Matt Burns, Chief Content Officer at Insight Media Group. Each week, I round up the most important AI developments, The post Forward deployed engineer is AI’s hottest job as OpenAI and Google race to hire. Here’s how to become one. appeared first on The New Stack .",
+      "published": "2026-05-16T10:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Matthew Burns",
+      "categories": [
+        "AI Agents",
+        "AI Strategy"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Why Block handed Goose to the Linux Foundation",
       "link": "https://thenewstack.io/block-goose-agentic-foundation",
@@ -4042,267 +4085,6 @@
       "author": "Shivani Rathod (Improwised Tech) & Prithvi Raj (CNCF Ambassador)",
       "categories": [
         "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Hands-on Introduction to sympozium | Rawkode Live",
-      "link": "https://www.youtube.com/watch?v=mYoq_6CekSQ",
-      "summary": "Diving into Sympozium AI: The Future of Collaborative Intelligence\n\nWelcome to the live stream! Today, we are exploring **Sympozium**, an ambitious open-source project designed to bridge the gap between human collaboration and AI-driven insights. \n\nWhether you're a developer, a data scientist, or...",
-      "published": "2026-04-17T05:38:22+00:00",
-      "source": "Rawkode Academy",
-      "type": "video",
-      "author": "Rawkode Academy",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/mYoq_6CekSQ/mqdefault.jpg"
-    },
-    {
-      "title": "New in Azure SRE Agent: Log Analytics and Application Insights Connectors",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/new-in-azure-sre-agent-log-analytics-and-application-insights/ba-p/4509649",
-      "summary": "Azure SRE Agent now supports Log Analytics and Application Insights as log providers, backed by the Azure MCP Server . Connect your workspaces and App Insights resources, and the agent can query them directly during investigations. Why This Matters Log Analytics and Application Insights are common...",
-      "published": "2026-04-17T02:14:28+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "Dalibor_Kovacevic",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Event-Driven IaC Operations with Azure SRE Agent: Terraform Drift Detection via HTTP Triggers",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/event-driven-iac-operations-with-azure-sre-agent-terraform-drift/ba-p/4512233",
-      "summary": "What Happens After terraform plan Finds Drift? If your team is like most, the answer looks something like this: A nightly terraform plan runs and finds 3 drifted resources A notification lands in Slack or Teams Someone files a ticket During the next sprint, an engineer opens 4 browser tabs —...",
-      "published": "2026-04-17T02:13:18+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "Vineela-Suri",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "How the Kubernetes control plane works",
-      "link": "https://learnkube.com/kubernetes-control-plane",
-      "summary": "A visual map of the Kubernetes control plane with linked deep dives into the API server, scheduler, controller manager, and etcd.",
-      "published": "2026-04-17T00:00:00+00:00",
-      "source": "LearnK8s",
-      "type": "article",
-      "author": "LearnKube",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "The AI-driven shift in vulnerability discovery: What maintainers and bug finders need to know",
-      "link": "https://www.cncf.io/blog/2026/04/16/the-ai-driven-shift-in-vulnerability-discovery-what-maintainers-and-bug-finders-need-to-know",
-      "summary": "AI models have recently drastically changed the sophistication, speed and scale of software vulnerability discovery. It is now trivial for non-experts to find real vulnerabilities in software with minimal effort and expertise. It is also now...",
-      "published": "2026-04-16T22:29:24+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Greg Castle (Kubernetes, Google)",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Explaining what GitHub Copilot Modernization can (and cannot do)",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/explaining-what-github-copilot-modernization-can-and-cannot-do/ba-p/4511739",
-      "summary": "In the last post , we looked at the workflow: assess, plan, execute. You get reports you can review and the agent makes changes you can inspect. If you don’t know, GitHub Copilot Modernization is the new agentic tool that supports you to in modernizing older applications. Could it support you with...",
-      "published": "2026-04-16T21:45:41+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "PabloLopes",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "As agentic AI explodes, Amazon doubles down on MCP",
-      "link": "https://thenewstack.io/amazon-aws-mcp-agentic",
-      "summary": "At the recent MCP Summit in New York City, The New Stack sat down with Clare Liguori, Senior Principal Software The post As agentic AI explodes, Amazon doubles down on MCP appeared first on The New Stack .",
-      "published": "2026-04-16T19:56:29+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Alex Wilhelm",
-      "categories": [
-        "AI Agents",
-        "Model Context Protocol (MCP)",
-        "Open Source",
-        "Podcast",
-        "sponsor-aws-marketplace",
-        "sponsored-podcast",
-        "Video"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Container Network Insights agent: Agentic AI network troubleshooting for Azure Kubernetes Service",
-      "link": "https://www.youtube.com/watch?v=cxwq8rEchFI",
-      "summary": "Discover how the Container Network Insights Agent (CNIA) transforms Kubernetes networking troubleshooting in Azure Kubernetes Service (AKS). This video demonstrates how CNIA uses AI to diagnose complex networking issues, like DNS failures, service misconfigurations, buffer overruns and packet loss,...",
-      "published": "2026-04-16T19:24:52+00:00",
-      "source": "AKS (Official)",
-      "type": "video",
-      "author": "Azure Kubernetes Service (AKS)",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/cxwq8rEchFI/mqdefault.jpg"
-    },
-    {
-      "title": "Hugging Face pushes into “computer use” with HoloTab agent that works through your browser",
-      "link": "https://thenewstack.io/hugging-face-holotab",
-      "summary": "Most AI systems interact with software through structured pathways — APIs, code repositories, or tightly defined tool integrations. That setup The post Hugging Face pushes into “computer use” with HoloTab agent that works through your browser appeared first on The New Stack .",
-      "published": "2026-04-16T19:03:25+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI Agents",
-        "AI Models",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Who will maintain the web when PHP’s veterans retire?",
-      "link": "https://thenewstack.io/php-web-skills-hiring-age",
-      "summary": "A new report on the state of the PHP programming language shows that there is an emerging skills gap as The post Who will maintain the web when PHP’s veterans retire? appeared first on The New Stack .",
-      "published": "2026-04-16T18:53:18+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Darryl K. Taft",
-      "categories": [
-        "Programming Languages",
-        "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Claude Opus 4.7 arrives with better vision, memory, and instruction-following",
-      "link": "https://thenewstack.io/claude-opus-47-launch",
-      "summary": "On Wednesday, Anthropic made available Claude Opus 4.7, a direct upgrade to Opus 4.6 that may outperform its predecessor on The post Claude Opus 4.7 arrives with better vision, memory, and instruction-following appeared first on The New Stack .",
-      "published": "2026-04-16T17:56:33+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "AI Engineering",
-        "AI Models",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI’s superapp is taking shape as Codex goes beyond coding",
-      "link": "https://thenewstack.io/openais-superapp-takes-shape",
-      "summary": "OpenAI has openly talked about its plans to build a unified AI superapp that combines ChatGPT with its Codex coding The post OpenAI’s superapp is taking shape as Codex goes beyond coding appeared first on The New Stack .",
-      "published": "2026-04-16T17:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Dogfooding and platforms: Spotify’s agentic-first development",
-      "link": "https://thenewstack.io/dogfooding-and-platforms-spotifys-agentic-first-development",
-      "summary": "If it’s good for engineers, it’s good for AI. But is the opposite true too? Spotify has famously gone all-in The post Dogfooding and platforms: Spotify’s agentic-first development appeared first on The New Stack .",
-      "published": "2026-04-16T16:55:03+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jennifer Riggins",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Developer tools",
-        "Operations",
-        "Platform Engineering",
-        "Software Development",
-        "sponsor-spotify",
-        "sponsored-webinar"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Expo bets big on React Native’s agentic future",
-      "link": "https://thenewstack.io/expo-bets-big-on-react-natives-agentic-future",
-      "summary": "As someone who spent more than six years leading React at Meta, few are as well-placed as Seth Webster to The post Expo bets big on React Native’s agentic future appeared first on The New Stack .",
-      "published": "2026-04-16T15:37:32+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI Agents",
-        "Backend development",
-        "Frontend Development",
-        "Open Source",
-        "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "After 1 year of quitting Job | Introducing my startup",
-      "link": "https://www.youtube.com/watch?v=Gl8fFodjrws",
-      "summary": "Join our discord server for career guidance or doubts:\nwww.youtube.com/abhishekveeramalla/join\n\nEsc Bash is a practical DevOps learning platform by Abhishek Veeramalla. The platform focuses on three things - Lessons, Tasks and Challenges. The platform covers every skill that DevOps engineers should...",
-      "published": "2026-04-16T15:31:50+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/Gl8fFodjrws/mqdefault.jpg"
-    },
-    {
-      "title": "Anthropic lays down identity verification on Claude",
-      "link": "https://thenewstack.io/anthropic-claude-identity-verification",
-      "summary": "A new identity verification layer is being rolled out on Claude. Not a broad-brush edict or ruling applied to every The post Anthropic lays down identity verification on Claude appeared first on The New Stack .",
-      "published": "2026-04-16T13:21:54+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI",
-        "Large Language Models",
-        "Operations",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Azure Update 16th April 2026",
-      "link": "https://www.youtube.com/watch?v=WjvN_XjMr6U",
-      "summary": "Quick update and sorry about location :-)\n\n00:00 - Introduction\n00:15 - New videos\n01:09 - StandardV2 NAT Gateway as outbound for AKS\n01:34 - Azure Monitor OpenTelemetry support for AKS workloads\n02:20 - Azure Bastion MI for graphical session recording\n02:53 - ASR NVMe disk controller support\n03:04...",
-      "published": "2026-04-16T12:48:40+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/WjvN_XjMr6U/mqdefault.jpg"
-    },
-    {
-      "title": "TRMNL E-Ink Dashboard -  Setup in 5 Minutes",
-      "link": "https://www.youtube.com/watch?v=HLc3vHy2dNg",
-      "summary": "Setting up the TRMNL e-ink display - a tiny screen that sits beside your laptop and shows Hacker News, Google Calendar, YouTube stats, and more without touching your phone or browser. No distractions, just a glance.                                                                                    ...",
-      "published": "2026-04-16T10:46:01+00:00",
-      "source": "Kubesimplify",
-      "type": "video",
-      "author": "Kubesimplify",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/HLc3vHy2dNg/mqdefault.jpg"
-    },
-    {
-      "title": "Is your internal platform ready to keep up with AI-accelerated development?",
-      "link": "https://thenewstack.io/is-your-internal-platform-ready-to-keep-up-with-ai-accelerated-development",
-      "summary": "Join our conversation to learn how an IDP-driven approach can turn your existing delivery infrastructure into a true self-service experience, The post Is your internal platform ready to keep up with AI-accelerated development? appeared first on The New Stack .",
-      "published": "2026-04-16T10:07:08+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "TNS Staff",
-      "categories": [
-        "CI/CD",
-        "Developer tools",
-        "DevOps",
-        "Platform Engineering",
-        "Software Development",
-        "sponsor-harness",
-        "sponsored-webinar"
       ],
       "thumbnail": ""
     }
