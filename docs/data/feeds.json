@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-05-17T06:55:52.780681+00:00",
-    "total_items": 287,
+    "generated_at": "2026-05-18T07:18:29.776743+00:00",
+    "total_items": 285,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -18,6 +18,53 @@
     ]
   },
   "items": [
+    {
+      "title": "AI-901 Microsoft Azure AI Fundamentals Study Cram",
+      "link": "https://www.youtube.com/watch?v=a-yuXz_uV30",
+      "summary": "Key information to help pass the AI-901 certification exam.\n\nSet an environment variable:\n$Env:AZURE_OPENAI_KEY = 'YOURKEYHERE'\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:37 - Study resources\n02:49 - What is AI\n05:30 - Assistants and agents\n07:15 - Responsible AI\n09:35 - Azure and...",
+      "published": "2026-05-18T06:41:14+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/a-yuXz_uV30/mqdefault.jpg"
+    },
+    {
+      "title": "The Mac mini just became infrastructure",
+      "link": "https://thenewstack.io/mac-mini-agent-infrastructure",
+      "summary": "On April 30, Apple’s Q2 2026 earnings call did something unusual. Tim Cook spent meaningful airtime on Mac mini and The post The Mac mini just became infrastructure appeared first on The New Stack .",
+      "published": "2026-05-17T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Janakiram MSV",
+      "categories": [
+        "AI Infrastructure",
+        "Hardware"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Logs, Metrics and Traces - 3 pillars of Observability",
+      "link": "https://www.youtube.com/watch?v=GsW0-uiCwqQ",
+      "summary": "Introduction to Logs, Metrics and Traces in Observability\n\n𝗖𝗢𝗠𝗣𝗟𝗘𝗧𝗘 COURSES  👌 It’s   🅵🆁🅴🅴 ⛳\n✅ Terraform Full Course For Beginners - #28daysofAZTerraform\nhttps://www.youtube.com/playlist?list=PLl4APkPHzsUUHlbhuq9V02n9AMLPySoEQ\n\n✅ Certified Kubernetes Administrator (CKA)...",
+      "published": "2026-05-17T11:00:06+00:00",
+      "source": "Piyush Sachdeva",
+      "type": "video",
+      "author": "Tech Tutorials with Piyush",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/GsW0-uiCwqQ/mqdefault.jpg"
+    },
+    {
+      "title": "Don't waste your time learning these DevOps tools in 2026",
+      "link": "https://www.youtube.com/watch?v=2z8gz1XRrpk",
+      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
+      "published": "2026-05-16T16:11:05+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/2z8gz1XRrpk/mqdefault.jpg"
+    },
     {
       "title": "The clean-up cost of AI-generated code is what the velocity narrative leaves out",
       "link": "https://thenewstack.io/cleanup-cost-ai-code",
@@ -3995,96 +4042,6 @@
         "AI Models",
         "AI Strategy",
         "ai-signal"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to prepare your company for the era of agentic ITops",
-      "link": "https://thenewstack.io/how-to-prepare-your-company-for-the-era-of-agentic-itops",
-      "summary": "Rules-based IT operations cost businesses hundreds of billions of dollars every year. If your company depends on human labor to The post How to prepare your company for the era of agentic ITops appeared first on The New Stack .",
-      "published": "2026-04-17T20:54:29+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Alex Wilhelm",
-      "categories": [
-        "AI Operations",
-        "Observability",
-        "Operations",
-        "sponsor-bigpanda",
-        "sponsored-webinar"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Autonomous AKS Incident Response with Azure SRE Agent: From Alert to Verified Recovery in Minutes",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/autonomous-aks-incident-response-with-azure-sre-agent-from-alert/ba-p/4511343",
-      "summary": "When a Sev1 alert fires on an AKS cluster, detection is rarely the hard part. The hard part is what comes next: proving what broke, why it broke, and fixing it without widening the blast radius, all under time pressure, often at 2 a.m. Azure SRE Agent is designed to close that gap. It connects...",
-      "published": "2026-04-17T20:31:11+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "hailukassa",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic launches Claude Design, a Figma and Canva rival built on Claude",
-      "link": "https://thenewstack.io/anthropic-claude-design-launch",
-      "summary": "Anthropic Labs, the Claude-maker’s AI safety and research division, on Friday launched Claude Design, a new service in research preview The post Anthropic launches Claude Design, a Figma and Canva rival built on Claude appeared first on The New Stack .",
-      "published": "2026-04-17T17:02:32+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "Developer tools",
-        "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "3 steps to escaping the “break-fix” trap",
-      "link": "https://thenewstack.io/escape-break-fix-trap",
-      "summary": "The demand for improved digital services and new capabilities, from both customers and senior executives, is straining digital operations to The post 3 steps to escaping the “break-fix” trap appeared first on The New Stack .",
-      "published": "2026-04-17T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Cristina Dias",
-      "categories": [
-        "AI Agents",
-        "AI Operations",
-        "DevOps",
-        "sponsor-pagerduty",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why Postgres wants NVMe on the hot path, and S3 everywhere else",
-      "link": "https://thenewstack.io/postgres-nvme-s3-storage",
-      "summary": "People keep trying to collapse two very different storage jobs into one. S3 is durable, cheap, and effectively bottomless, so The post Why Postgres wants NVMe on the hot path, and S3 everywhere else appeared first on The New Stack .",
-      "published": "2026-04-17T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Alasdair Brown",
-      "categories": [
-        "Backend development",
-        "Databases",
-        "Storage",
-        "sponsor-clickhouse",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "K3s on On-Prem Infrastructures the GitOps Way: Writing a Custom k0rdent Template from Scratch",
-      "link": "https://www.cncf.io/blog/2026/04/17/k3s-on-on-prem-infrastructures-the-gitops-way-writing-a-custom-k0rdent-template-from-scratch",
-      "summary": "Kubernetes turns 12 this year. In that time, it’s gone from a Google side project to the operating system of modern infrastructure  running everywhere from mainframes to GPUs, across multi-cloud, hybrid, on-prem, and edge environments. The...",
-      "published": "2026-04-17T11:59:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Shivani Rathod (Improwised Tech) & Prithvi Raj (CNCF Ambassador)",
-      "categories": [
-        "Blog"
       ],
       "thumbnail": ""
     }
