@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-05-19T07:08:33.941209+00:00",
-    "total_items": 296,
+    "generated_at": "2026-05-20T07:09:24.787657+00:00",
+    "total_items": 310,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -18,6 +18,246 @@
     ]
   },
   "items": [
+    {
+      "title": "AKS Community Call - US & Europe (Mar 2026) - Azure Kubernetes Service",
+      "link": "https://www.youtube.com/watch?v=HpIq86LFOvQ",
+      "summary": "Welcome to the AKS Community Calls! These sessions foster direct interaction between our product teams and the AKS community. Engage with our teams, hear the latest updates, and gain insights into the product’s development. Join our monthly public calls to discuss the product roadmap, provide...",
+      "published": "2026-05-19T21:00:01+00:00",
+      "source": "AKS (Official)",
+      "type": "video",
+      "author": "Azure Kubernetes Service (AKS)",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/HpIq86LFOvQ/mqdefault.jpg"
+    },
+    {
+      "title": "Anthropic hires OpenAI co-founder Andrej Karpathy to lead Claude pre-training research",
+      "link": "https://thenewstack.io/andrej-karpathy-anthropic-pretraining",
+      "summary": "Anthropic scored a major hire today. Former Tesla senior director and OpenAI founding member Andrej Karpathy is joining the organization The post Anthropic hires OpenAI co-founder Andrej Karpathy to lead Claude pre-training research appeared first on The New Stack .",
+      "published": "2026-05-19T20:51:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Strategy",
+        "Large Language Models",
+        "Tech Careers"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AKS Community Call - US & Europe (April 2026) - Azure Kubernetes Service",
+      "link": "https://www.youtube.com/watch?v=CRkf50TzYX4",
+      "summary": "Welcome to the AKS Community Calls! These sessions foster direct interaction between our product teams and the AKS community. Engage with our teams, hear the latest updates, and gain insights into the product’s development. Join our monthly public calls to discuss the product roadmap, provide...",
+      "published": "2026-05-19T20:26:31+00:00",
+      "source": "AKS (Official)",
+      "type": "video",
+      "author": "Azure Kubernetes Service (AKS)",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/CRkf50TzYX4/mqdefault.jpg"
+    },
+    {
+      "title": "Google now lets you vibe code native Android apps in AI Studio",
+      "link": "https://thenewstack.io/google-ai-studio-android-apps",
+      "summary": "Apple may not be a fan of vibe coding, but Google is leaning in. On Tuesday, Google announced that anyone The post Google now lets you vibe code native Android apps in AI Studio appeared first on The New Stack .",
+      "published": "2026-05-19T17:45:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "Software Development",
+        "Vibe Coding"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Google wants to make the web agent-ready",
+      "link": "https://thenewstack.io/google-agent-ready-web",
+      "summary": "At its I/O developer conference on Tuesday, Google announced a number of new features and specs for how it plans The post Google wants to make the web agent-ready appeared first on The New Stack .",
+      "published": "2026-05-19T17:45:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI Agents",
+        "Frontend Development",
+        "Model Context Protocol (MCP)"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Google now lets developers use GPT and Claude in Android Studio",
+      "link": "https://thenewstack.io/google-gpt-and-claude-android-studio",
+      "summary": "Google is using its annual I/O developers conference to announce quite a few new AI-centric tools for building Android apps. The post Google now lets developers use GPT and Claude in Android Studio appeared first on The New Stack .",
+      "published": "2026-05-19T17:45:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Google’s Gemini 3.5 Flash beats the frontier models",
+      "link": "https://thenewstack.io/googles-gemini-3-5-flash-beats-the-frontier-models",
+      "summary": "At its I/O developer conference, Google on Tuesday unveiled two new AI models: Gemini 3.5 Flash, the newest model in The post Google’s Gemini 3.5 Flash beats the frontier models appeared first on The New Stack .",
+      "published": "2026-05-19T17:45:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Google launches $100 AI Ultra plan and cuts top tier to $200",
+      "link": "https://thenewstack.io/google-ai-ultra-pricing",
+      "summary": "Google on Tuesday launched a new $ 100-per-month AI Ultra plan that sits neatly between its existing $200 and $20 The post Google launches $100 AI Ultra plan and cuts top tier to $200 appeared first on The New Stack .",
+      "published": "2026-05-19T17:45:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Strategy"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Simplify AKS Monitoring, Troubleshooting & Optimization with DataDog: CN Partner Showcase: AKS",
+      "link": "https://www.youtube.com/watch?v=ka-uR1IzA3E",
+      "summary": "Welcome to the Cloud Native Partners Showcase where we highlight innovative Partner solutions built on top of Azure Kubernetes Service (AKS). \n\nIn today's episode, David Giard talks to Haissam Kaj from DataDog to discuss how DataDog helps simplify the monitoring, troubleshooting and optimization...",
+      "published": "2026-05-19T17:30:59+00:00",
+      "source": "AKS (Official)",
+      "type": "video",
+      "author": "Azure Kubernetes Service (AKS)",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/ka-uR1IzA3E/mqdefault.jpg"
+    },
+    {
+      "title": "NVIDIA gifted me this AI Super Computer 🎉",
+      "link": "https://www.youtube.com/watch?v=-tNo0B6s6XI",
+      "summary": "DGX Spark useful links:\nhttps://marketplace.nvidia.com/en-in/enterprise/personal-ai-supercomputers/dgx-spark/\nhttps://docs.nvidia.com/dgx/dgx-spark/hardware.html\nhttps://build.nvidia.com/spark\n\nJoin our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nRecently, NVIDIA invited...",
+      "published": "2026-05-19T15:57:03+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/-tNo0B6s6XI/mqdefault.jpg"
+    },
+    {
+      "title": "Valkey 9.1 trims memory 10% and pulls search into the core",
+      "link": "https://thenewstack.io/valkey-91-cuts-memory",
+      "summary": "Valkey 9.1 is now generally available with a focus on improved efficiency, modularity, and ecosystem tooling for production workloads.  At The post Valkey 9.1 trims memory 10% and pulls search into the core appeared first on The New Stack .",
+      "published": "2026-05-19T15:14:16+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Steven J. Vaughan-Nichols",
+      "categories": [
+        "AI",
+        "Data Streaming",
+        "Databases",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic debuts MCP tunnels and self-hosted sandboxes to lock down AI agent infrastructure",
+      "link": "https://thenewstack.io/anthropic-mcp-tunnels-sandboxes",
+      "summary": "Anthropic used its first developer conference, held outside the US in London on Tuesday, to announce new capabilities for Claude Managed The post Anthropic debuts MCP tunnels and self-hosted sandboxes to lock down AI agent infrastructure appeared first on The New Stack .",
+      "published": "2026-05-19T14:31:23+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Model Context Protocol (MCP)"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why production RAG systems give confident, wrong answers at scale",
+      "link": "https://thenewstack.io/rag-retrieval-scaling-architecture",
+      "summary": "In production RAG systems, the biggest bottleneck usually isn’t the LLM. It’s retrieval. Most teams start with a simple pattern: The post Why production RAG systems give confident, wrong answers at scale appeared first on The New Stack .",
+      "published": "2026-05-19T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Monica White",
+      "categories": [
+        "AI Engineering",
+        "AI Infrastructure",
+        "Large Language Models",
+        "sponsor-vespa-ai",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Debugging Python apps on App Service with the new SSH helper aliases",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/debugging-python-apps-on-app-service-with-the-new-ssh-helper/ba-p/4520893",
+      "summary": "You shipped a Python app to App Service. It worked in the demo. It works locally. In production, /chat is returning 502s — but /health is green, the deployment succeeded, the logs are quiet, and your laptop can't reproduce it. What you actually need is a shell on the running container so you can...",
+      "published": "2026-05-19T13:40:19+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "jordanselig",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "End-to-End Kubernetes Observability Project: AI-Powered Troubleshooting with Honeycomb",
+      "link": "https://www.youtube.com/watch?v=TsIU47j12-A",
+      "summary": "In this video, I perform an end-to-end deep dive where I purposefully break a production-grade microservices app (URL shortener) and let Honeycomb’s AI-powered automated investigations do the heavy lifting.\n\nNo more grepping logs for hours. I will walk through setting up OpenTelemetry (OTel),...",
+      "published": "2026-05-19T13:38:56+00:00",
+      "source": "Piyush Sachdeva",
+      "type": "video",
+      "author": "Tech Tutorials with Piyush",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/TsIU47j12-A/mqdefault.jpg"
+    },
+    {
+      "title": "Steve Yegge’s AI agent orchestration project Gas Town comes to the cloud — and brings the Wasteland with it",
+      "link": "https://thenewstack.io/steve-yegges-ai-agent-orchestration-project-gas-town-comes-to-the-cloud-and-brings-the-wasteland-with-it",
+      "summary": "Steve Yegge, a longtime software engineer and blogger who spent the best part of two decades at Amazon and Google, The post Steve Yegge’s AI agent orchestration project Gas Town comes to the cloud — and brings the Wasteland with it appeared first on The New Stack .",
+      "published": "2026-05-19T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "Observability"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Pulumi bets infrastructure’s next decade belongs to AI agents",
+      "link": "https://thenewstack.io/pulumi-infrastructure-agent-era",
+      "summary": "A year ago, Pulumi CEO Joe Duffy says, VPs of infrastructure didn’t think “agentic AI” and “infrastructure” belonged in the The post Pulumi bets infrastructure’s next decade belongs to AI agents appeared first on The New Stack .",
+      "published": "2026-05-19T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "Operations"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Automating Confidential Containers (CoCo) infrastructure with Kyverno",
+      "link": "https://www.cncf.io/blog/2026/05/19/automating-confidential-containers-coco-infrastructure-with-kyverno",
+      "summary": "Confidential Containers (CoCo) adds a critical security layer for containerized workloads, especially in environments where parts of the platform are not inherently trusted. However, deploying CoCo-enabled workloads often requires application teams to manage infrastructure-heavy details that...",
+      "published": "2026-05-19T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Shuting Zhao, Project Maintainer (Nirmata)",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "What Is OpenTelemetry | Otel vs Legacy Observability",
       "link": "https://www.youtube.com/watch?v=qX1pwf6njX4",
@@ -4128,55 +4368,6 @@
         "Blog"
       ],
       "thumbnail": ""
-    },
-    {
-      "title": "AKS App Routing's Next Chapter: Gateway API with Istio",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/aks-app-routing-s-next-chapter-gateway-api-with-istio/ba-p/4512729",
-      "summary": "If you've been following my previous posts on the Ingress NGINX retirement, you'll know the story so far. The community Ingress NGINX project was retired in March 2026, and Microsoft's extended support for the NGINX-based App Routing add-on runs until November 2026. I've covered migrating from...",
-      "published": "2026-04-19T18:25:14+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "samcogan",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Am I Quitting Content Creation and YouTube forever?",
-      "link": "https://www.youtube.com/watch?v=R4ihDMkbUsA",
-      "summary": "Join our discord server for career guidance or doubts:\nwww.youtube.com/abhishekveeramalla/join\n\nEsc Bash is a practical DevOps learning platform by Abhishek Veeramalla. The platform focuses on three things - Lessons, Tasks and Challenges. The platform covers every skill that DevOps engineers should...",
-      "published": "2026-04-19T16:53:59+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/R4ihDMkbUsA/mqdefault.jpg"
-    },
-    {
-      "title": "SmartBear’s Swagger update targets the API drift problem AI coding tools created",
-      "link": "https://thenewstack.io/smartbear-swagger-ai-api-management",
-      "summary": "Last week, SmartBear announced new capabilities for its commercial Swagger toolset designed to help organizations govern, validate, and scale APIs The post SmartBear’s Swagger update targets the API drift problem AI coding tools created appeared first on The New Stack .",
-      "published": "2026-04-19T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Darryl K. Taft",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Infrastructure",
-        "API Management"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "3 hours of forest cleanup in 3 minutes",
-      "link": "https://www.youtube.com/watch?v=ETTmwOu1cy0",
-      "summary": "First time in 2026 I got to go out and clean up the forest. Had some heavy rain then strong winds that fell a lot of trees. Time to start clearing up!\n\nMusic:\nCarefree by Kevin MacLeod is licensed under a Creative Commons Attribution 4.0 license. https://creativecommons.org/licenses/by/4.0/",
-      "published": "2026-04-19T11:49:59+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/ETTmwOu1cy0/mqdefault.jpg"
     }
   ]
 }
