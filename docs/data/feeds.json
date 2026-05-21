@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-05-20T07:09:24.787657+00:00",
-    "total_items": 310,
+    "generated_at": "2026-05-21T07:13:49.593485+00:00",
+    "total_items": 316,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -18,6 +18,163 @@
     ]
   },
   "items": [
+    {
+      "title": "Gemma 4 Deep Dive: Local LLM with Ollama, vLLM & llama.cpp",
+      "link": "https://www.youtube.com/watch?v=XD68MiaxdgU",
+      "summary": "Gemma 4 just made local AI inference truly viable  and Google shipped it under Apache 2.0. In this deep dive I walk through the entire Gemma 4 family, how inference actually works under the hood, how the weights become a model you can run on your laptop, and then a full live demo on the NVIDIA DGX...",
+      "published": "2026-05-21T06:23:55+00:00",
+      "source": "Kubesimplify",
+      "type": "video",
+      "author": "Kubesimplify",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/XD68MiaxdgU/mqdefault.jpg"
+    },
+    {
+      "title": "Announcing Public Preview of Argo CD extension in AKS Azure Portal Experience",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-public-preview-of-argo-cd-extension-in-aks-azure/ba-p/4521618",
+      "summary": "We are excited to announce the public preview of Argo CD in the Azure Portal for Azure Kubernetes Service. As GitOps becomes the standard for deploying and operating applications at scale, customers need a way to adopt GitOps with simpler onboarding, secure defaults, and integrated workflows. With...",
+      "published": "2026-05-20T22:00:21+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Samantha_Fernandez",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "NanoCo bets the future of enterprise AI is one sandboxed agent per employee",
+      "link": "https://thenewstack.io/nanoco-nanoclaw-sandboxed-agent",
+      "summary": "NanoCo, the Tel Aviv startup behind the open source NanoClaw agent framework, on Wednesday launched a managed enterprise service that The post NanoCo bets the future of enterprise AI is one sandboxed agent per employee appeared first on The New Stack .",
+      "published": "2026-05-20T21:11:28+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "From Coding Agents to Cloud Automation: AI-Assisted Customer Related Incidents in Azure Functions",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/from-coding-agents-to-cloud-automation-ai-assisted-customer/ba-p/4516112",
+      "summary": "On the Azure Functions team, we have been exploring how AI can help with  investigating customer-reported incidents, root-cause analysis, and incident mitigation. This post shares our journey from early RCA agents to coding-agent-assisted investigations and cloud-hosted automation, and the lessons...",
+      "published": "2026-05-20T19:07:04+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Tsuyoshi_Ushio",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Antrophic and Open AI fooled companies that AI can replace software engineers?",
+      "link": "https://www.youtube.com/watch?v=LfWU5Kjitcg",
+      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
+      "published": "2026-05-20T17:37:03+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/LfWU5Kjitcg/mqdefault.jpg"
+    },
+    {
+      "title": "Backstage: The open-source developer portal transforming how engineering teams ship software",
+      "link": "https://kodekloud.com/blog/backstage-the-open-source-developer-portal-transforming-how-engineering-teams-ship-software",
+      "summary": "Learn how Backstage works, its software catalog, templates, TechDocs, and plugin ecosystem, and why 3400+ companies use it as their dev portal.",
+      "published": "2026-05-20T17:24:58+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why six AI labs built the same product for knowledge workers in four months",
+      "link": "https://thenewstack.io/ai-agents-knowledge-workers",
+      "summary": "Six vendors built the same agent in four months. Anthropic shipped Claude Cowork on January 12, gave it Claude Code’s The post Why six AI labs built the same product for knowledge workers in four months appeared first on The New Stack .",
+      "published": "2026-05-20T15:16:33+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Janakiram MSV",
+      "categories": [
+        "AI Agents",
+        "AI Strategy",
+        "Tech Culture"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Building for accessibility in an AI-first development world",
+      "link": "https://thenewstack.io/ai-code-wcag-accessibility",
+      "summary": "Picture making a lasagna with noodles, peanut butter, and pears. You’ve got the base right, but the ingredients don’t quite The post Building for accessibility in an AI-first development world appeared first on The New Stack .",
+      "published": "2026-05-20T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Nick Lucchesi",
+      "categories": [
+        "AI Engineering",
+        "Compliance",
+        "Software Development",
+        "sponsor-audioeye",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Introducing Prempti: Policy and visibility for AI coding agents",
+      "link": "https://www.cncf.io/blog/2026/05/20/introducing-prempti-policy-and-visibility-for-ai-coding-agents",
+      "summary": "AI coding agents have become a real part of the developer workflow. Tools like Claude Code sit in your terminal, read your files, run shell commands, make network requests, and write code, all on your behalf....",
+      "published": "2026-05-20T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Leonardo Grasso, Falco Maintainer",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Cursor bets on cheaper coding with Composer 2.5 and Kimi K2.5",
+      "link": "https://thenewstack.io/cursor-composer-benchmarks",
+      "summary": "Cursor announced this week that Composer 2.5 is available in Cursor, only two months after the release of Composer 2, The post Cursor bets on cheaper coding with Composer 2.5 and Kimi K2.5 appeared first on The New Stack .",
+      "published": "2026-05-20T11:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI Agents",
+        "AI Models",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "At Google I/O 2026, Antigravity gets a new job description",
+      "link": "https://thenewstack.io/google-io-antigravity-codemender-ai-agentic",
+      "summary": "Six months after its initial launch, Google is moving Antigravity beyond its origins as a coding environment. The company is The post At Google I/O 2026, Antigravity gets a new job description appeared first on The New Stack .",
+      "published": "2026-05-20T10:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "AI Strategy",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Announcing etcd 3.7.0-beta.0",
+      "link": "https://kubernetes.io/blog/2026/05/20/etcd-370-beta",
+      "summary": "SIG-Etcd announces the availability of the first beta release of etcd v3.7.0 . This new version of the popular distributed database and key Kubernetes component includes the long-requested RangeStream feature, as well as a refactoring and cleanup of multiple legacy components and interfaces. v3.7...",
+      "published": "2026-05-20T00:00:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
     {
       "title": "AKS Community Call - US & Europe (Mar 2026) - Azure Kubernetes Service",
       "link": "https://www.youtube.com/watch?v=HpIq86LFOvQ",
@@ -4283,89 +4440,6 @@
         "Developer tools",
         "Open Source",
         "Platform Engineering"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to Troubleshoot Azure Functions Host Startup Issue",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/how-to-troubleshoot-azure-functions-host-startup-issue/ba-p/4512966",
-      "summary": "Overview Azure Functions is a powerful serverless compute service that enables you to run event-driven code without managing infrastructure. When you deploy a Function App, the Azure Functions host is the runtime process responsible for discovering your functions, loading extensions and bindings,...",
-      "published": "2026-04-21T07:04:42+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "vikasgupta5",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "SUSE and Nvidia reveal a turnkey AI factory for sovereign enterprise workloads",
-      "link": "https://thenewstack.io/suse-nvidia-ai-factory",
-      "summary": "Want to run your own digitally sovereign AI on Nvidia hardware? SUSE has the software stack you need. At SUSECON The post SUSE and Nvidia reveal a turnkey AI factory for sovereign enterprise workloads appeared first on The New Stack .",
-      "published": "2026-04-21T06:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Steven J. Vaughan-Nichols",
-      "categories": [
-        "AI",
-        "AI Infrastructure"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The Complete AWS Certified AI Practitioner (AIF‑C01) Study Guide",
-      "link": "https://kodekloud.com/blog/the-complete-aws-certified-ai-practitioner-aif-c01-study-guide",
-      "summary": "Complete AIF‑C01 study guide covering all five domains, AWS AI service mappings, Bedrock, responsible AI, and a three week preparation plan.",
-      "published": "2026-04-20T16:34:33+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "AWS Certification",
-        "AWS",
-        "aws certified ai practitioner",
-        "Cloud"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Absolute Beginner Guide to Python",
-      "link": "https://www.youtube.com/watch?v=VE1HAjJB7cs",
-      "summary": "A walk through how to get setup then being productive with Python!\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:26 - Setup\n04:50 - My sample files\n06:05 - Hello world\n08:02 - Executing a python script\n10:48 - Breaking down the syntax\n13:25 - AI help\n16:08 - Variables\n20:21 -...",
-      "published": "2026-04-20T14:19:12+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/VE1HAjJB7cs/mqdefault.jpg"
-    },
-    {
-      "title": "Cloud-Native vs Cloud-Hosted: Why \"Being in the Cloud\" Isn't the Same as \"Built for the Cloud\"",
-      "link": "https://kodekloud.com/blog/cloud-native-vs-cloud-hosted",
-      "summary": "Cloud-native vs cloud-hosted: learn the real difference, when to use each, and how to migrate from lift-and-shift to true cloud-native apps.",
-      "published": "2026-04-20T14:02:51+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "Cloud Native",
-        "cloud hosted",
-        "microservices",
-        "Containers",
-        "CI/CD",
-        "DevOps"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "From public static void main to Golden Kubestronaut: The Art of unlearning",
-      "link": "https://www.cncf.io/blog/2026/04/20/from-public-static-void-main-to-golden-kubestronaut-the-art-of-unlearning",
-      "summary": "Ten years ago, my entire world fit inside a public static void main. I was a Java developer. Infrastructure? That was someone else’s problem a black box where my JAR files went to live, or quietly...",
-      "published": "2026-04-20T10:50:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Pavan Madduri, CNCF Kubestronaut",
-      "categories": [
-        "Blog"
       ],
       "thumbnail": ""
     }
