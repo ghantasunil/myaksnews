@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-05-21T07:13:49.593485+00:00",
-    "total_items": 316,
+    "generated_at": "2026-05-22T07:09:10.072065+00:00",
+    "total_items": 317,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -18,6 +18,192 @@
     ]
   },
   "items": [
+    {
+      "title": "Kore counts down to Artemis, its moonshot for governable AI agents",
+      "link": "https://thenewstack.io/kore-artemis-agent-platform",
+      "summary": "Kore wants to drag enterprise agent development out of the prompt-chain wilderness. The agentic software company on Thursday released Artemis, The post Kore counts down to Artemis, its moonshot for governable AI agents appeared first on The New Stack .",
+      "published": "2026-05-21T17:52:30+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "AI Infrastructure"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "You Can Build a Framework-Agnostic AI Gateway on Azure App Service — Here's How",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/you-can-build-a-framework-agnostic-ai-gateway-on-azure-app/ba-p/4522004",
+      "summary": "The agent infrastructure conversation moved this year. In October 2025, AWS shipped Amazon Bedrock AgentCore — a managed agent runtime with per-session microVM isolation, built-in long-term memory, native MCP support, and an opinionated policy engine. A few months earlier, Cloudflare shipped its...",
+      "published": "2026-05-21T17:29:34+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "jordanselig",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Troubleshooting AKS Scaling Issues with Jameson Hearn: AKS Troubleshooting Series: Azure Kubernetes",
+      "link": "https://www.youtube.com/watch?v=47Q4JbWxlm4",
+      "summary": "In today's episode, we talk to Jameson Hearn to understand how we can troubleshoot scaling issues with Azure Kubernetes Service (AKS) clusters. \n\nJameson helps you understand common symptoms, troubleshooting strategies, and practical tips for avoiding quota and capacity pitfalls. Watch a live demo...",
+      "published": "2026-05-21T15:30:22+00:00",
+      "source": "AKS (Official)",
+      "type": "video",
+      "author": "Azure Kubernetes Service (AKS)",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/47Q4JbWxlm4/mqdefault.jpg"
+    },
+    {
+      "title": "This platform can reduce your observability costs by 2X",
+      "link": "https://www.youtube.com/watch?v=Le0NImBGIHQ",
+      "summary": "Get started with Openobserve:\nhttps://openobserve.ai/?utm_source=abhishekv/\nhttps://github.com/openobserve/openobserve\n\nIn this video, I’ll cover why OpenObserve is a cost-efficient, high-performance open-source observability platform for logs, metrics, and traces. We’ll also do a detailed cost and...",
+      "published": "2026-05-21T15:18:09+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/Le0NImBGIHQ/mqdefault.jpg"
+    },
+    {
+      "title": "How to build your first end-to-end AI workflow in n8n",
+      "link": "https://thenewstack.io/build-n8n-ai-workflow",
+      "summary": "n8n is one of the most powerful workflow automation platforms available today, and the fastest way to learn it is The post How to build your first end-to-end AI workflow in n8n appeared first on The New Stack .",
+      "published": "2026-05-21T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Monica White",
+      "categories": [
+        "AI Agents",
+        "Developer tools",
+        "Software Development",
+        "sponsor-andela",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "CI wasn’t built for coding agents. Here’s what comes next.",
+      "link": "https://thenewstack.io/ci-for-coding-agents",
+      "summary": "For years, integration tests have lived inside CI pipelines, triggered on push and answered ten, twenty, or thirty minutes later. The post CI wasn’t built for coding agents. Here’s what comes next. appeared first on The New Stack .",
+      "published": "2026-05-21T14:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Monica White",
+      "categories": [
+        "AI Engineering",
+        "CI/CD",
+        "Software Testing",
+        "sponsor-signadot",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Aamchi Mumbai: A KubeCon + CloudNativeCon field guide",
+      "link": "https://www.cncf.io/blog/2026/05/21/aamchi-mumbai-a-kubecon-cloudnativecon-field-guide",
+      "summary": "Welcome to Mumbai KubeCon + CloudNativeCon India lands in Mumbai on 18-19 June 2026, at the Jio World Convention Centre in BKC. Thousands of cloud native engineers are flying in, many of you for the first...",
+      "published": "2026-05-21T14:14:11+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Yash Pimple & Rohit Ghumare, CNCF Ambassadors",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Cloud Native Computing Foundation Announces OpenTelemetry’s Graduation, Solidifying Status as the De Facto Observability Standard",
+      "link": "https://www.cncf.io/announcements/2026/05/21/cloud-native-computing-foundation-announces-opentelemetrys-graduation-solidifying-status-as-the-de-facto-observability-standard",
+      "summary": "The milestone for OpenTelemetry reflects widespread production adoption and a stable, vendor-neutral observability standard   Key Highlights: MINNEAPOLIS – OBSERVABILITY SUMMIT – May 21, 2026 – The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for...",
+      "published": "2026-05-21T14:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Haley White",
+      "categories": [
+        "Announcements"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "After becoming cloud computing’s telemetry standard, OpenTelemetry graduates into the AI infrastructure era",
+      "link": "https://thenewstack.io/opentelemetry-hits-general-availability",
+      "summary": "The Cloud Native Computing Foundation (CNCF) on Thursday announced the graduation of OpenTelemetry, the open source observability framework that has The post After becoming cloud computing’s telemetry standard, OpenTelemetry graduates into the AI infrastructure era appeared first on The New Stack .",
+      "published": "2026-05-21T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI Infrastructure",
+        "Cloud Native Ecosystem",
+        "Observability",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“Morally repugnant shortsightedness”: Why open source security leaders say companies must stop freeloading on maintainers",
+      "link": "https://thenewstack.io/openssf-open-source-security-members",
+      "summary": "The Open Source Security Foundation (OpenSSF), a cross-industry initiative of the Linux Foundation focused on sustainably securing open source software, The post “Morally repugnant shortsightedness”: Why open source security leaders say companies must stop freeloading on maintainers appeared first...",
+      "published": "2026-05-21T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "DevOps",
+        "Open Source",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Building the agentic agreement enterprise: How developers are unlocking agentic experiences with Docusign’s MCP server and platform",
+      "link": "https://thenewstack.io/docusign-mcp-agentic-agreements",
+      "summary": "Managing agreements across the enterprise has traditionally been a slow, manual process. Docusign for Developers has accelerated the process through The post Building the agentic agreement enterprise: How developers are unlocking agentic experiences with Docusign’s MCP server and platform appeared...",
+      "published": "2026-05-21T13:53:29+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Nick Lucchesi",
+      "categories": [
+        "AI Agents",
+        "Developer tools",
+        "Model Context Protocol (MCP)",
+        "sponsor-docusign",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Cut your AI search costs without sacrificing quality",
+      "link": "https://thenewstack.io/cut-ai-search-costs",
+      "summary": "The cost that’s driving your AI search bill Every organization running AI-powered search faces the same hidden cost driver: query The post Cut your AI search costs without sacrificing quality appeared first on The New Stack .",
+      "published": "2026-05-21T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Monica White",
+      "categories": [
+        "AI Engineering",
+        "AI Infrastructure",
+        "AI Strategy",
+        "sponsor-vespa-ai",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How NetEase Games achieved 30-second LLM cold starts on Kubernetes",
+      "link": "https://www.cncf.io/blog/2026/05/21/how-netease-games-achieved-30-second-llm-cold-starts-on-kubernetes",
+      "summary": "At NetEase Games, we learned a hard lesson about large language model (LLM) inference in production: elastic compute is only useful if data can move just as fast. “Elastic compute is only useful if data can...",
+      "published": "2026-05-21T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Haifeng Liao, Senior Infrastructure Engineer at NetEase Games and Xiang Zhang, Head of AI Infrastructure at NetEase Games",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Gemma 4 Deep Dive: Local LLM with Ollama, vLLM & llama.cpp",
       "link": "https://www.youtube.com/watch?v=XD68MiaxdgU",
@@ -4272,175 +4458,6 @@
       "type": "article",
       "author": "michelleyau",
       "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Groundcover eyes visibility gap in agentic AI monitoring by targeting multi-step workflows",
-      "link": "https://thenewstack.io/groundcover-ai-observability-agents",
-      "summary": "Cloud monitoring specialist Groundcover announced an expansion of its AI Observability service this Wednesday. The move sees the company add native support for agentic The post Groundcover eyes visibility gap in agentic AI monitoring by targeting multi-step workflows appeared first on The New Stack...",
-      "published": "2026-04-22T07:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "Operations"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic is thinking about removing Claude Code from its cheapest plan",
-      "link": "https://thenewstack.io/anthropic-claude-code-limits",
-      "summary": "It seems like the resource constraints at Anthropic are for real. The company appears to have removed access to Claude The post Anthropic is thinking about removing Claude Code from its cheapest plan appeared first on The New Stack .",
-      "published": "2026-04-22T00:28:09+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI Models",
-        "AI Strategy",
-        "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kubernetes v1.36: ハル (Haru)",
-      "link": "https://kubernetes.io/blog/2026/04/22/kubernetes-v1-36-release",
-      "summary": "Editors: Chad M. Crowell, Kirti Goyal, Sophia Ugochukwu, Swathi Rao, Utkarsh Umre Similar to previous releases, the release of Kubernetes v1.36 introduces new stable, beta, and alpha features. The consistent delivery of high-quality releases underscores the strength of our development cycle and the...",
-      "published": "2026-04-22T00:00:00+00:00",
-      "source": "Kubernetes Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "GitHub pauses Copilot sign-ups as AI coding drives up compute demand",
-      "link": "https://thenewstack.io/github-copilot-signups-paused",
-      "summary": "GitHub has announced that it’s pausing new sign-ups for its Copilot individual plans and tightening usage limits for existing users, The post GitHub pauses Copilot sign-ups as AI coding drives up compute demand appeared first on The New Stack .",
-      "published": "2026-04-21T23:03:22+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Operations",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "With the launch of ChatGPT Images 2.0, OpenAI now “thinks” before it draws",
-      "link": "https://thenewstack.io/chatgpt-images-20-openai",
-      "summary": "OpenAI has launched ChatGPT Images 2.0, positioning its new image model as a shift from a rendering tool to what The post With the launch of ChatGPT Images 2.0, OpenAI now “thinks” before it draws appeared first on The New Stack .",
-      "published": "2026-04-21T22:54:41+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Darryl K. Taft",
-      "categories": [
-        "AI",
-        "AI Engineering",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why Microsoft is betting on temporary identities to stop autonomous agents from going rogue",
-      "link": "https://thenewstack.io/aks-edge-ai-agents",
-      "summary": "For this episode of The New Stack Makers, we sat down with Jorge Palma, the PM lead for Azure Kubernetes The post Why Microsoft is betting on temporary identities to stop autonomous agents from going rogue appeared first on The New Stack .",
-      "published": "2026-04-21T18:45:51+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI Engineering",
-        "Operations",
-        "Podcast",
-        "sponsor-microsoft",
-        "Video"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Amazon and Anthropic deepen AI ties with a $100B AWS commitment",
-      "link": "https://thenewstack.io/anthropic-amazon-aws-investment",
-      "summary": "On Monday, Amazon and Anthropic announced a new agreement under which Anthropic commits to investing more than $100 billion in The post Amazon and Anthropic deepen AI ties with a $100B AWS commitment appeared first on The New Stack .",
-      "published": "2026-04-21T17:15:53+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "AI Infrastructure",
-        "AI Models",
-        "Cloud Services"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Gateway API v1.5: Moving features to Stable",
-      "link": "https://kubernetes.io/blog/2026/04/21/gateway-api-v1-5",
-      "summary": "The Kubernetes SIG Network community presents the release of Gateway API (v1.5)!\nReleased on March 14, 2026, version 1.5 is our biggest release yet, and concentrates on moving existing Experimental features to Standard (Stable). The Gateway API v1.5.1 patch release is already available The Gateway...",
-      "published": "2026-04-21T16:30:00+00:00",
-      "source": "Kubernetes Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "You will never forget Apache Kafka after watching this.",
-      "link": "https://www.youtube.com/watch?v=NIQshbx88hs",
-      "summary": "Join our discord server for career guidance or doubts:\nwww.youtube.com/abhishekveeramalla/join\n\nThis is a practical and most real-time tutorial of Apache Kafka by Abhishek Veeramalla. In this tutorial, Abhishek explains:\n- What is Kafka?\n- Why Kafka?\n- Building block of Kafka\n- Kafka real-time use...",
-      "published": "2026-04-21T15:10:05+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/NIQshbx88hs/mqdefault.jpg"
-    },
-    {
-      "title": "Auto-diagnosing Kubernetes alerts with HolmesGPT and CNCF tools",
-      "link": "https://www.cncf.io/blog/2026/04/21/auto-diagnosing-kubernetes-alerts-with-holmesgpt-and-cncf-tools",
-      "summary": "What a two-person SRE team learned building an AI investigation pipeline. Spoiler: the runbooks mattered more than the model. Why we built this At STCLab, our SRE team supports multiple Amazon EKS clusters running high-traffic production...",
-      "published": "2026-04-21T15:06:09+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Grace Park and Ihyeok Song, DevOps Engineer, STCLab SRE Team",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why only 37% of developers trust AI for incident response",
-      "link": "https://thenewstack.io/fix-developer-burnout-outages",
-      "summary": "IT uptime is now firmly established as a board-level priority. It’s not hard to see why organizations are paying a The post Why only 37% of developers trust AI for incident response appeared first on The New Stack .",
-      "published": "2026-04-21T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Mandi Walls",
-      "categories": [
-        "AI Engineering",
-        "AI Operations",
-        "Tech Culture",
-        "sponsor-pagerduty",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Eclipse Foundation offers enterprise-grade open source alternative to Microsoft’s VS Code Marketplace",
-      "link": "https://thenewstack.io/open-vsx-managed-registry",
-      "summary": "Platform engineering requires something of a leap of faith. Developers need to “believe” that foundation-level tools, libraries, and repositories will always offer The post Eclipse Foundation offers enterprise-grade open source alternative to Microsoft’s VS Code Marketplace appeared first on The...",
-      "published": "2026-04-21T11:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "Developer tools",
-        "Open Source",
-        "Platform Engineering"
-      ],
       "thumbnail": ""
     }
   ]
