@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-05-22T07:09:10.072065+00:00",
-    "total_items": 317,
+    "generated_at": "2026-05-23T06:52:07.921971+00:00",
+    "total_items": 315,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -18,6 +18,166 @@
     ]
   },
   "items": [
+    {
+      "title": "The Complete LFCS Study Guide for System Administrator Certification",
+      "link": "https://kodekloud.com/blog/the-complete-lfcs-study-guide-for-system-administrator-certification",
+      "summary": "Master all five LFCS exam domains with practical commands, configuration examples, and strategies to pass the Linux admin certification in 2026.",
+      "published": "2026-05-22T19:02:44+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "Linux",
+        "lfcs",
+        "cncf",
+        "ubuntu",
+        "certifications",
+        "golden kubestronaut"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "What Anthropic and OpenAI launched in 72 hours has Wall Street paying attention",
+      "link": "https://thenewstack.io/anthropic-openai-wall-street-ai-agents-developers",
+      "summary": "Within 72 hours this month, Anthropic and OpenAI each launched enterprise deployment arms, announced major financial services partnerships, and shipped The post What Anthropic and OpenAI launched in 72 hours has Wall Street paying attention appeared first on The New Stack .",
+      "published": "2026-05-22T17:37:04+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "AI Engineering",
+        "AI Strategy",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "JetBrains is selling independence as the rest of AI coding picks sides",
+      "link": "https://thenewstack.io/jetbrains-independent-ai-coding",
+      "summary": "JetBrains is making a new argument for why developers should care who owns their coding tools. Cursor is tying future The post JetBrains is selling independence as the rest of AI coding picks sides appeared first on The New Stack .",
+      "published": "2026-05-22T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Matthew Burns",
+      "categories": [
+        "AI Models",
+        "AI Strategy",
+        "Software Development",
+        "Podcast",
+        "sponsor-jetbrains",
+        "sponsored-podcast",
+        "Video"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Three ways operational debt will break your AI strategy, and how to recover",
+      "link": "https://thenewstack.io/operational-debt-ai-strategy",
+      "summary": "The pressure to move fast has never been greater. However, speed without resilience is a liability. As AI moves from The post Three ways operational debt will break your AI strategy, and how to recover appeared first on The New Stack .",
+      "published": "2026-05-22T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Monica White",
+      "categories": [
+        "AI Operations",
+        "AI Strategy",
+        "Model Context Protocol (MCP)",
+        "sponsor-pagerduty",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "I buried 20 problems in a fake P&L to see if Claude for Small Business could find them",
+      "link": "https://thenewstack.io/claude-small-business-test",
+      "summary": "Anthropic launched Claude for Small Business this month, adding native connectors to business tools like QuickBooks, HubSpot, Canva, Google Workspace, The post I buried 20 problems in a fake P&L to see if Claude for Small Business could find them appeared first on The New Stack .",
+      "published": "2026-05-22T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Nick Lucchesi",
+      "categories": [
+        "AI Agents",
+        "AI Strategy",
+        "Operations"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why enterprise AI keeps stalling — and how data streaming could unlock it",
+      "link": "https://thenewstack.io/confluent-intelligence-ai-agents",
+      "summary": "Enterprise AI is running into a problem. But it has more to do with data infrastructure than model quality. The The post Why enterprise AI keeps stalling — and how data streaming could unlock it appeared first on The New Stack .",
+      "published": "2026-05-22T12:53:03+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Nick Lucchesi",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Data Streaming",
+        "sponsor-confluent",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Custom KEDA Scale Rules for Azure Functions on Azure Container Apps",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/custom-keda-scale-rules-for-azure-functions-on-azure-container/ba-p/4521781",
+      "summary": "Announcing Custom KEDA Scale Rules for Azure Functions on Container Apps We're excited to announce a new capability for Azure Functions on Container Apps: custom KEDA scale rule overrides. You can now bypass the platform's auto-generated scaling rules and define your own KEDA configuration - giving...",
+      "published": "2026-05-22T12:41:28+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "DeepGanguly",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "JFrog report recaps a tumultuous year in supply chain security",
+      "link": "https://thenewstack.io/jfrog-ai-supply-chain-security",
+      "summary": "Calendar year 2025 not only broke records for code package proliferation; it also redefined the foundational architecture of the software The post JFrog report recaps a tumultuous year in supply chain security appeared first on The New Stack .",
+      "published": "2026-05-22T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Nick Lucchesi",
+      "categories": [
+        "AI Engineering",
+        "Security",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Designing end-to-end ingress request tracing for multi-tenant SaaS platforms",
+      "link": "https://www.cncf.io/blog/2026/05/22/designing-end-to-end-ingress-request-tracing-for-multi-tenant-saas-platforms",
+      "summary": "Modern SaaS platforms built on cloud‑native architectures frequently consist of dozens of independently deployed microservices. A single customer request entering the platform at the ingress layer may traverse authentication services, orchestration engines, data services, and downstream...",
+      "published": "2026-05-22T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Mridula Chilakamarri, CNCF Technical Advisory Group",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Top MLOps Tools in 2026",
+      "link": "https://kodekloud.com/blog/top-mlops-tools",
+      "summary": "The top 11 MLOps tools for 2026, MLflow, Kubeflow, SageMaker, Vertex AI, and more, compared by features, pricing, and best-fit use cases.",
+      "published": "2026-05-22T07:37:00+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "ML Ops",
+        "DevOps",
+        "Kubeflow",
+        "MLflow",
+        "airflow",
+        "DVC",
+        "AI",
+        "100 days of MLOps"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Kore counts down to Artemis, its moonshot for governable AI agents",
       "link": "https://thenewstack.io/kore-artemis-agent-platform",
@@ -4289,175 +4449,6 @@
         "Large Language Models",
         "Operations"
       ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The Hidden Risks in Public Container Registries and How to Mitigate Them",
-      "link": "https://kodekloud.com/blog/the-hidden-risks-in-public-container-registries-and-how-to-mitigate-them",
-      "summary": "Public container registries expose your infrastructure to malware, typosquatting, and supply chain attacks. Learn the risks and ways to fix them.",
-      "published": "2026-04-23T06:28:16+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "Container security",
-        "Docker",
-        "Containers",
-        "CKS Kubernetes",
-        "Kubernetes security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The SpaceX-Cursor deal is a gutsy Hail Mary that could work",
-      "link": "https://thenewstack.io/spacex-cursor-ai-deal",
-      "summary": "Rockets, satellite internet, AI, and social media conglomerate SpaceX on Tuesday announced a deal with Cursor that’s worth anywhere between $10 billion The post The SpaceX-Cursor deal is a gutsy Hail Mary that could work appeared first on The New Stack .",
-      "published": "2026-04-22T18:43:06+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Alex Wilhelm",
-      "categories": [
-        "AI Engineering",
-        "AI Strategy",
-        "Developer tools",
-        "Operations",
-        "Cautious Optimism"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "SELinux Volume Label Changes goes GA (and likely implications in v1.37)",
-      "link": "https://kubernetes.io/blog/2026/04/22/breaking-changes-in-selinux-volume-labeling",
-      "summary": "If you run Kubernetes on Linux with SELinux in enforcing mode, plan ahead: a future release (anticipated to be v1.37) is\nexpected to turn the SELinuxMount feature gate on by default. This makes volume setup faster\nfor most workloads, but it can break applications that still depend on the older...",
-      "published": "2026-04-22T18:35:00+00:00",
-      "source": "Kubernetes Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "How AWS Bedrock is shaping Model Context Protocol",
-      "link": "https://thenewstack.io/mcp-summit-aws-bedrock",
-      "summary": "At the recent MCP Summit in New York City, The New Stack sat down with AWS’s Luca Chang, who works The post How AWS Bedrock is shaping Model Context Protocol appeared first on The New Stack .",
-      "published": "2026-04-22T18:07:44+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Alex Wilhelm",
-      "categories": [
-        "AI Strategy",
-        "Model Context Protocol (MCP)",
-        "Open Source",
-        "Podcast",
-        "sponsor-amazon-web-services-aws",
-        "Video"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why Accenture and WaveMaker are betting on agentic AI to close a $3 billion software gap",
-      "link": "https://thenewstack.io/accenture-wavemaker-ai-modernization",
-      "summary": "Accenture and WaveMaker have announced a strategic partnership to help mid-market organizations modernize applications using WaveMaker’s agentic AI platform, targeting companies with The post Why Accenture and WaveMaker are betting on agentic AI to close a $3 billion software gap appeared first on...",
-      "published": "2026-04-22T17:55:52+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Darryl K. Taft",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Engineering"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Roo Code pivots to cloud-based agent, says IDEs aren’t the future of coding",
-      "link": "https://thenewstack.io/roo-code-cloud-ides-ai-coding",
-      "summary": "Roo Code, an open source AI coding tool built for VS Code, has announced that it’s shutting down its VS The post Roo Code pivots to cloud-based agent, says IDEs aren’t the future of coding appeared first on The New Stack .",
-      "published": "2026-04-22T17:49:07+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI Agents",
-        "Open Source",
-        "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Make Your Kubernetes Operator Handle 10× More Users",
-      "link": "https://www.youtube.com/watch?v=hCsEHR5aJJQ",
-      "summary": "Your Kubernetes operator reconciles one object at a time — by default. With a single worker, 100 custom resources and a 5-second reconcile means customer #100 waits over 8 minutes just to get started. In this video,  Shubham shows why this happens, how the controller-runtime work queue actually...",
-      "published": "2026-04-22T12:31:03+00:00",
-      "source": "Kubesimplify",
-      "type": "video",
-      "author": "Kubesimplify",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/hCsEHR5aJJQ/mqdefault.jpg"
-    },
-    {
-      "title": "Google finally builds the AI and agent platform it’s been describing for years",
-      "link": "https://thenewstack.io/google-gemini-agent-platform",
-      "summary": "At Cloud Next ’26 on Wednesday, Google filled in the missing parts of its enterprise agent platform — and shuffled The post Google finally builds the AI and agent platform it’s been describing for years appeared first on The New Stack .",
-      "published": "2026-04-22T12:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI Infrastructure",
-        "AI Operations",
-        "Model Context Protocol (MCP)"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Google wants AI defense to be as fast as AI offense",
-      "link": "https://thenewstack.io/google-cloud-cat-mouse",
-      "summary": "The core problem in AI security right now is that attackers are using AI models to find and exploit zero-day The post Google wants AI defense to be as fast as AI offense appeared first on The New Stack .",
-      "published": "2026-04-22T12:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI Agents",
-        "Cloud Services",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Google splits its TPU line in two for the agentic era",
-      "link": "https://thenewstack.io/google-splits-tpu-line",
-      "summary": "For most of Google’s Tensor Processing Unit’s (TPU) decade-long history, Google has shipped a single chip per generation — sometimes The post Google splits its TPU line in two for the agentic era appeared first on The New Stack .",
-      "published": "2026-04-22T12:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "Operations"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "kubectl run nginx — Every Step Inside Kubernetes (6 min)",
-      "link": "https://www.youtube.com/watch?v=LLuUhU3SwJo",
-      "summary": "You type kubectl run nginx. Three seconds later, the pod is Running.\nBut in those three seconds — seven Kubernetes components, 23 distinct steps.\nThis video opens the black box.\nWe trace every single step: kubectl parsing argv, TCP + TLS 1.3 to the API server, authentication, RBAC, mutating and...",
-      "published": "2026-04-22T09:52:43+00:00",
-      "source": "Kubesimplify",
-      "type": "video",
-      "author": "Kubesimplify",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/LLuUhU3SwJo/mqdefault.jpg"
-    },
-    {
-      "title": "NFS Permission Denied in Azure App Service on Linux: What It Means and What to Do",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/nfs-permission-denied-in-azure-app-service-on-linux-what-it/ba-p/4513627",
-      "summary": "If your Azure App Service on Linux uses an Azure Files NFS share, you may sometimes see errors like Permission denied or Errno 13 when your app tries to write to the mounted path. Azure Files supports NFS for Linux and Unix workloads, and NFS uses Unix-style numeric ownership and permissions...",
-      "published": "2026-04-22T07:31:52+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "michelleyau",
-      "categories": [],
       "thumbnail": ""
     }
   ]
