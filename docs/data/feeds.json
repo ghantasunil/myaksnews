@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-05-23T06:52:07.921971+00:00",
-    "total_items": 315,
+    "generated_at": "2026-05-24T07:03:31.636945+00:00",
+    "total_items": 311,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -18,6 +18,53 @@
     ]
   },
   "items": [
+    {
+      "title": "OpenClaw passed 300,000 GitHub stars. Then Google launched Spark.",
+      "link": "https://thenewstack.io/gemini-spark-vs-openclaw",
+      "summary": "OpenClaw made the always-on agent feel personal by making it live somewhere you could point at — a Mac mini The post OpenClaw passed 300,000 GitHub stars. Then Google launched Spark. appeared first on The New Stack .",
+      "published": "2026-05-23T15:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Janakiram MSV",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Model Context Protocol (MCP)"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic’s $300M Stainless deal lands hardest on OpenAI and Google",
+      "link": "https://thenewstack.io/anthropic-stainless-sdk-acquisition",
+      "summary": "Earlier this week, Anthropic acquired Stainless, the New York startup whose software generated SDKs for major AI companies, including Anthropic, The post Anthropic’s $300M Stainless deal lands hardest on OpenAI and Google appeared first on The New Stack .",
+      "published": "2026-05-23T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Janakiram MSV",
+      "categories": [
+        "AI Strategy",
+        "API Management",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How MCP and synthetic data are reshaping compliance in the agentic era",
+      "link": "https://thenewstack.io/agentic-ai-data-governance",
+      "summary": "Software development has always had a way of quietly distributing sensitive data in unexpected places, and many organizations have lost The post How MCP and synthetic data are reshaping compliance in the agentic era appeared first on The New Stack .",
+      "published": "2026-05-23T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Monica White",
+      "categories": [
+        "AI Agents",
+        "Compliance",
+        "DevOps",
+        "sponsor-perforce",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "The Complete LFCS Study Guide for System Administrator Certification",
       "link": "https://kodekloud.com/blog/the-complete-lfcs-study-guide-for-system-administrator-certification",
@@ -50,6 +97,28 @@
         "Software Development"
       ],
       "thumbnail": ""
+    },
+    {
+      "title": "Azure Update 22nd May 2026",
+      "link": "https://www.youtube.com/watch?v=pMfG-vYvnv8",
+      "summary": "Big update this week!\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation queue never to be seen...",
+      "published": "2026-05-22T15:19:27+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/pMfG-vYvnv8/mqdefault.jpg"
+    },
+    {
+      "title": "AI DevOps Projects course | Zero to Hero Series with 5 FREE Projects",
+      "link": "https://www.youtube.com/watch?v=tQpgg-Z7kgE",
+      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nBecome Zero to Hero in AI DevOps by learning how to use AI to solve DevOps problems using these 5 projects shared by Abhishek Veeramalla.\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist:...",
+      "published": "2026-05-22T15:00:15+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/tQpgg-Z7kgE/mqdefault.jpg"
     },
     {
       "title": "JetBrains is selling independence as the rest of AI coding picks sides",
@@ -350,6 +419,17 @@
         "sponsored-post-contributed"
       ],
       "thumbnail": ""
+    },
+    {
+      "title": "Cross-Cluster Networking for Azure Kubernetes Fleet Manager | Connect Clusters Seamlessly",
+      "link": "https://www.youtube.com/watch?v=kRmLLMblBGk",
+      "summary": "Learn how cross-cluster networking in Azure Kubernetes Fleet Manager enables you to connect multiple Kubernetes clusters and achieve seamless communication across them.\n \nIn this video, we cover:\nCustomer challenges driving the need for cross-cluster networking\nHow cross-cluster networking works in...",
+      "published": "2026-05-21T12:17:21+00:00",
+      "source": "AKS (Official)",
+      "type": "video",
+      "author": "Azure Kubernetes Service (AKS)",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/kRmLLMblBGk/mqdefault.jpg"
     },
     {
       "title": "How NetEase Games achieved 30-second LLM cold starts on Kubernetes",
@@ -4309,145 +4389,6 @@
         "AI Agents",
         "AI Engineering",
         "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI’s new Privacy Filter runs on your laptop so PII never hits the cloud",
-      "link": "https://thenewstack.io/openai-privacy-filter-pii",
-      "summary": "OpenAI has debuted Privacy Filter, a bidirectional token-classification model for detecting and redacting personally identifiable information (PII) that can scan The post OpenAI’s new Privacy Filter runs on your laptop so PII never hits the cloud appeared first on The New Stack .",
-      "published": "2026-04-23T20:54:34+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "AI",
-        "AI Infrastructure",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI debuts always-on agents to end the friction of manual team handoffs",
-      "link": "https://thenewstack.io/openai-shared-workspace-agents",
-      "summary": "OpenAI is pushing ChatGPT further into the day-to-day operations of companies, introducing this week shared “workspace agents” that can carry The post OpenAI debuts always-on agents to end the friction of manual team handoffs appeared first on The New Stack .",
-      "published": "2026-04-23T18:39:57+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kubernetes v1.36: User Namespaces in Kubernetes are finally GA",
-      "link": "https://kubernetes.io/blog/2026/04/23/kubernetes-v1-36-userns-ga",
-      "summary": "After several years of development, User Namespaces support in\nKubernetes reached General Availability (GA) with the v1.36 release.\nThis is a Linux-only feature. For those of us working on low level container runtimes and rootless\ntechnologies, this has been a long awaited milestone. We...",
-      "published": "2026-04-23T18:35:00+00:00",
-      "source": "Kubernetes Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI launches GPT-5.5, calling it “a new class of intelligence”",
-      "link": "https://thenewstack.io/openai-launches-gpt-5-5-calling-it-a-new-class-of-intelligence",
-      "summary": "The AI model release cycle continues. On Thursday, OpenAI released GPT-5.5 and GPT-5.5 Pro. The new model is, unsurprisingly, its The post OpenAI launches GPT-5.5, calling it “a new class of intelligence” appeared first on The New Stack .",
-      "published": "2026-04-23T18:04:44+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "Operations"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Jim Bugwadia on why finding a Kubernetes problem is only half the battle for Kyverno users",
-      "link": "https://thenewstack.io/kyverno-cncf-graduation-interview",
-      "summary": "What does it actually mean when your open source project becomes one of the few to graduate from the Cloud The post Jim Bugwadia on why finding a Kubernetes problem is only half the battle for Kyverno users appeared first on The New Stack .",
-      "published": "2026-04-23T17:48:08+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jennifer Riggins",
-      "categories": [
-        "AI Operations",
-        "KubeCon Cloudnativecon EU 2026",
-        "Operations",
-        "Podcast",
-        "sponsor-cncf",
-        "Video"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Only 5% of firms are seeing AI ROI.  Our May 7 live event will explain how to change those metrics.",
-      "link": "https://thenewstack.io/solving-ai-productivity-gap",
-      "summary": "Not hitting the headline-grabbing, promised productivity gains of 10, 20, 30, 50%? You’re not alone. There’s a lot more data The post Only 5% of firms are seeing AI ROI.  Our May 7 live event will explain how to change those metrics. appeared first on The New Stack .",
-      "published": "2026-04-23T17:04:54+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jennifer Riggins",
-      "categories": [
-        "AI Strategy",
-        "Developer tools",
-        "Platform Engineering",
-        "sponsor-octopus-deploy",
-        "sponsored-webinar"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "This is the reason why your DevOps Resume is getting rejected.",
-      "link": "https://www.youtube.com/watch?v=rm3T4X2HBa0",
-      "summary": "Join our discord server for career guidance or doubts:\nwww.youtube.com/abhishekveeramalla/join\n\nIn today's video, I will talk about the \"DevOps Real-time projects\".\n1. Are projects still relevant for DevOps Engineers to get a job? \n2. Fresher DevOps projects vs Experienced Engineer DevOps...",
-      "published": "2026-04-23T16:57:19+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/rm3T4X2HBa0/mqdefault.jpg"
-    },
-    {
-      "title": "Microsoft 365 multi-agent workflow with Microsoft Agent Framework",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/microsoft-365-multi-agent-workflow-with-microsoft-agent/ba-p/4514164",
-      "summary": "Most production AI tasks are too complex for a single agent. You need specialists that collaborate, a destination expert that researches the best places to visit, a budget analyst that breaks down costs, an activities curator that finds the best experiences, all coordinated by an orchestration...",
-      "published": "2026-04-23T16:16:15+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "vgiraud",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "From Ingress NGINX to Higress: migrating 60+ resources in 30 minutes with AI",
-      "link": "https://www.cncf.io/blog/2026/04/23/from-ingress-nginx-to-higress-migrating-60-resources-in-30-minutes-with-ai",
-      "summary": "With the official retirement of Ingress NGINX that took place in March 2026, enterprise platform teams are facing an urgent security and compliance mandate. Remaining on a retired controller leaves critical infrastructure vulnerable to unpatched security...",
-      "published": "2026-04-23T13:37:18+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Tianyi Zhang, Alibaba",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AI shrinkflation: Why Anthropic’s Claude Opus 4.7 may be less capable than the model it replaced",
-      "link": "https://thenewstack.io/claude-opus-47-flaky-performance",
-      "summary": "A week is a long time in politics, but it’s even longer in AI developer power user circles. That’s the The post AI shrinkflation: Why Anthropic’s Claude Opus 4.7 may be less capable than the model it replaced appeared first on The New Stack .",
-      "published": "2026-04-23T12:52:54+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI Engineering",
-        "AI Models",
-        "Large Language Models",
-        "Operations"
       ],
       "thumbnail": ""
     }
