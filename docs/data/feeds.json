@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-05-24T07:03:31.636945+00:00",
-    "total_items": 311,
+    "generated_at": "2026-05-25T07:29:33.071307+00:00",
+    "total_items": 305,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -18,6 +18,67 @@
     ]
   },
   "items": [
+    {
+      "title": "The GitHub Hack is every DevOps Engineers Nightmare",
+      "link": "https://www.youtube.com/watch?v=2a6ZEq1R5X8",
+      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
+      "published": "2026-05-24T16:27:38+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/2a6ZEq1R5X8/mqdefault.jpg"
+    },
+    {
+      "title": "Who’s monitoring the agents?",
+      "link": "https://thenewstack.io/who-monitors-ai-agents",
+      "summary": "Over the past few months, something quietly shifted. Frameworks like CrewAI, AutoGen, and LangGraph are no longer just showing up The post Who’s monitoring the agents? appeared first on The New Stack .",
+      "published": "2026-05-24T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Monica White",
+      "categories": [
+        "AI Agents",
+        "AI Operations",
+        "Observability",
+        "Contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How Jaeger hit 8.6× compression on 10 million spans with ClickHouse",
+      "link": "https://thenewstack.io/jaeger-clickhouse-storage-backend",
+      "summary": "As someone who’s been maintaining Jaeger, I’ve watched users request ClickHouse support consistently over the past few years. With Jaeger The post How Jaeger hit 8.6× compression on 10 million spans with ClickHouse appeared first on The New Stack .",
+      "published": "2026-05-24T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Monica White",
+      "categories": [
+        "Cloud Native Ecosystem",
+        "Databases",
+        "Observability",
+        "sponsor-cncf",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "What ClickHouse learned from a year of coding with AI agents",
+      "link": "https://thenewstack.io/clickhouse-ai-coding-agents",
+      "summary": "Some people will tell you agents will take all our jobs. Others insist they are useless. Leadership at many companies The post What ClickHouse learned from a year of coding with AI agents appeared first on The New Stack .",
+      "published": "2026-05-24T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Monica White",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Software Development",
+        "sponsor-clickhouse",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "OpenClaw passed 300,000 GitHub stars. Then Google launched Spark.",
       "link": "https://thenewstack.io/gemini-spark-vs-openclaw",
@@ -4247,148 +4308,6 @@
       "author": "Matthew Burns",
       "categories": [
         "Operations"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to Secure Pod to Pod and Pod to Cloud Communication in Kubernetes",
-      "link": "https://kodekloud.com/blog/how-to-secure-pod-to-pod-and-pod-to-cloud-communication-in-kubernetes",
-      "summary": "By default, Kubernetes pods communicate openly. Apply network policies, mTLS, and workload identity to secure pod to pod and cloud communication.",
-      "published": "2026-04-25T05:36:17+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "Kubernetes",
-        "Kubernetes security",
-        "Network policies",
-        "Istio",
-        "cilium",
-        "Service Meshes",
-        "pod security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "MVP Summit 2026: Daniel Paulus on AKS Local, Data sovereignty in EU & GPUs-Azure Kubernetes Service",
-      "link": "https://www.youtube.com/watch?v=j08978WEn8k",
-      "summary": "Daniel Paulus talks to Jorge Arteiro at the MVP Summit 2026 in Redmond, WA. They talk about various different topics including AKS Local, Data sovereignty in EU & GPUs-Azure Kubernetes Service.\n\nThe MVP Summit is an exclusive multi-day event for all active Microsoft MVPs (Most Valuable...",
-      "published": "2026-04-24T20:05:03+00:00",
-      "source": "AKS (Official)",
-      "type": "video",
-      "author": "Azure Kubernetes Service (AKS)",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/j08978WEn8k/mqdefault.jpg"
-    },
-    {
-      "title": "DevOps Live Q&A | As me anything",
-      "link": "https://www.youtube.com/watch?v=yv0uoKR7928",
-      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
-      "published": "2026-04-24T19:00:30+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/yv0uoKR7928/mqdefault.jpg"
-    },
-    {
-      "title": "Kubernetes v1.36: Fine-Grained Kubelet API Authorization Graduates to GA",
-      "link": "https://kubernetes.io/blog/2026/04/24/kubernetes-v1-36-fine-grained-kubelet-authorization-ga",
-      "summary": "On behalf of Kubernetes SIG Auth and SIG Node, we are pleased to announce the\ngraduation of fine-grained kubelet API authorization to General Availability\n(GA) in Kubernetes v1.36! The KubeletFineGrainedAuthz feature gate was introduced as an opt-in alpha\nfeature in Kubernetes v1.32, then graduated...",
-      "published": "2026-04-24T18:35:00+00:00",
-      "source": "Kubernetes Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Mistral’s Leanstral wants to kill off human-in-the-loop code checks, but is it blowing in the wind?",
-      "link": "https://thenewstack.io/leanstral-formal-verification-code",
-      "summary": "As fast as the technology industry is formalizing the term Human-In-The-Loop, the global automation lobby is seeking to push the The post Mistral’s Leanstral wants to kill off human-in-the-loop code checks, but is it blowing in the wind? appeared first on The New Stack .",
-      "published": "2026-04-24T16:04:18+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI Agents",
-        "AI Models",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Azure Update 24th April 2026",
-      "link": "https://www.youtube.com/watch?v=AxxFqiUImV4",
-      "summary": "Lots of updates this week!\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation queue never to be...",
-      "published": "2026-04-24T15:42:33+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/AxxFqiUImV4/mqdefault.jpg"
-    },
-    {
-      "title": "Vectors gave us AI search, tensors are going to make it smarter",
-      "link": "https://thenewstack.io/vectors-tensors-ai-search-explained",
-      "summary": "If you’ve paid AI any mind in the last few years, you’ve heard of vectors. They are easy to understand: The post Vectors gave us AI search, tensors are going to make it smarter appeared first on The New Stack .",
-      "published": "2026-04-24T13:42:03+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Alex Wilhelm",
-      "categories": [
-        "AI",
-        "Data",
-        "Databases",
-        "sponsor-vespa-ai",
-        "sponsored-webinar"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“Mythos-like hacking, open to all”: Industry reacts to OpenAI’s GPT 5.5",
-      "link": "https://thenewstack.io/openai-chatgpt-gpt-5-5-security",
-      "summary": "OpenAI may dominate the consumer chatbot market with ChatGPT, but among developers, Anthropic’s Claude models, via its Claude Code agent, The post “Mythos-like hacking, open to all”: Industry reacts to OpenAI’s GPT 5.5 appeared first on The New Stack .",
-      "published": "2026-04-24T12:49:34+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Models",
-        "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why Claude needs a real environment to validate cloud-native code",
-      "link": "https://thenewstack.io/claude-cloud-native-validation",
-      "summary": "Boris Cherny, who built Claude Code, recently shared on X how to get the most out of it following the The post Why Claude needs a real environment to validate cloud-native code appeared first on The New Stack .",
-      "published": "2026-04-24T12:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Arjun Iyer",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Cloud Native Ecosystem",
-        "sponsor-signadot",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Cursor and Chainguard partner to lock down the AI agent supply chain",
-      "link": "https://thenewstack.io/cursor-chainguard-agentic-ai-secure",
-      "summary": "Cursor and Chainguard are setting their sights on securing the open source dependency chain in AI-generated code — a problem The post Cursor and Chainguard partner to lock down the AI agent supply chain appeared first on The New Stack .",
-      "published": "2026-04-24T12:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Darryl K. Taft",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Security"
       ],
       "thumbnail": ""
     }
