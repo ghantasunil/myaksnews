@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-05-25T07:29:33.071307+00:00",
-    "total_items": 305,
+    "generated_at": "2026-05-26T07:08:31.190321+00:00",
+    "total_items": 307,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -18,6 +18,69 @@
     ]
   },
   "items": [
+    {
+      "title": "GitLab 19.0 trades its string section for a full DevSecOps orchestra",
+      "link": "https://thenewstack.io/gitlab-19-secrets-manager",
+      "summary": "There are orchestras… and then there are mere string, horn, or woodwind sections. As the self-styled intelligent orchestration platform for The post GitLab 19.0 trades its string section for a full DevSecOps orchestra appeared first on The New Stack .",
+      "published": "2026-05-25T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "CI/CD",
+        "DevOps",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Understanding and Using AI Skills",
+      "link": "https://www.youtube.com/watch?v=X9n5EYoWdNk",
+      "summary": "A look at using AI skills by first looking at how to cut down a tree.\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:07 - How to cut down a tree\n03:57 - AI skills\n07:15 - Progressive disclosure and using skills\n09:44 - Looking at a skill\n12:19 - Demo of using a skill\n17:39 -...",
+      "published": "2026-05-25T12:28:27+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/X9n5EYoWdNk/mqdefault.jpg"
+    },
+    {
+      "title": "Why Kubernetes policy enforcement happens too late—and what to do about it",
+      "link": "https://www.cncf.io/blog/2026/05/25/why-kubernetes-policy-enforcement-happens-too-late-and-what-to-do-about-it",
+      "summary": "Kubernetes has become the backbone of modern cloud-native infrastructure. Its flexibility lets teams move fast, compose complex systems from modular components, and deploy across environments with relative ease. But that flexibility comes with a well-known cost:...",
+      "published": "2026-05-25T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Sajal Nigam, CNCF Community Member",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Zero-Downtime migration from ingress NGINX to Envoy Gateway",
+      "link": "https://www.cncf.io/blog/2026/05/25/zero-downtime-migration-from-ingress-nginx-to-envoy-gateway",
+      "summary": "Teams running Ingress NGINX in production are increasingly evaluating migration paths as Kubernetes networking evolves toward Gateway API. For many organizations, the challenge is not just selecting a Gateway API implementation, but designing a migration strategy...",
+      "published": "2026-05-25T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Andrew Katsikas, Pelotech",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "kube-proxy inside out:  iptables vs IPVS vs nftables (every Kubernetes Service depends on this)",
+      "link": "https://www.youtube.com/watch?v=m5iq9whaRhc",
+      "summary": "You create a Service in Kubernetes. It gets a virtual IP. But that IP is not real. No machine owns it. So how do packets headed there actually find the right pod?\nThe thing that makes it work is kube-proxy. And it does that job in three different ways.\nThis is the deep dive: what kube-proxy...",
+      "published": "2026-05-25T07:51:41+00:00",
+      "source": "Kubesimplify",
+      "type": "video",
+      "author": "Kubesimplify",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/m5iq9whaRhc/mqdefault.jpg"
+    },
     {
       "title": "The GitHub Hack is every DevOps Engineers Nightmare",
       "link": "https://www.youtube.com/watch?v=2a6ZEq1R5X8",
@@ -4268,47 +4331,6 @@
       "type": "article",
       "author": "kumar_rahul",
       "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "How ACR Artifact Cache Handles Multi-Arch Images: What Gets Cached and When Webhooks Fire",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/how-acr-artifact-cache-handles-multi-arch-images-what-gets/ba-p/4514744",
-      "summary": "By Johnson Shi (Senior Product Manager) , Toddy Mladenov (Principal PM Manager) , Luis Dieguez (Principal SWE Manager), Akash Singhal (Senior Software Engineer ), Kiran Challa (Senior Software Engineer), Ren Shao (Senior Software Engineer) Introduction Three of the most common questions we hear...",
-      "published": "2026-04-25T19:37:56+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "johnsonshi_msft",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Jaeger adopts OpenTelemetry at its core to solve the AI agent observability gap",
-      "link": "https://thenewstack.io/jaeger-v2-ai-observability",
-      "summary": "As software architectures evolve, observability tools must adapt. When the industry moved to microservices, distributed tracing became a necessity. Jaeger The post Jaeger adopts OpenTelemetry at its core to solve the AI agent observability gap appeared first on The New Stack .",
-      "published": "2026-04-25T16:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jonah Kowall",
-      "categories": [
-        "AI Operations",
-        "Observability",
-        "Open Source",
-        "sponsor-cncf",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The real story from OpenAI’s big week is Workspace Agents, not GPT-5.5",
-      "link": "https://thenewstack.io/openai-workspace-agents-gpt-5-5",
-      "summary": "I’m Matt Burns, Chief Content Officer at Insight Media Group. Each week, I round up the most important AI developments, The post The real story from OpenAI’s big week is Workspace Agents, not GPT-5.5 appeared first on The New Stack .",
-      "published": "2026-04-25T10:14:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Matthew Burns",
-      "categories": [
-        "Operations"
-      ],
       "thumbnail": ""
     }
   ]
