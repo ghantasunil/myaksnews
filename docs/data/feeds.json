@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-05-30T06:57:48.397247+00:00",
-    "total_items": 300,
+    "generated_at": "2026-05-31T07:15:45.597324+00:00",
+    "total_items": 293,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -19,6 +19,51 @@
     ]
   },
   "items": [
+    {
+      "title": "Why GPT-5.4, Claude, and Gemini can’t agree on basic, real-world facts",
+      "link": "https://thenewstack.io/frontier-llm-factcheck-disagreement",
+      "summary": "As the frontier model race accelerates, AI devotees are splitting their loyalty across the major providers at both the user The post Why GPT-5.4, Claude, and Gemini can’t agree on basic, real-world facts appeared first on The New Stack .",
+      "published": "2026-05-30T13:11:27+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Engineering",
+        "AI Models",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Replit’s vibe coding platform just got a Visa-backed identity layer for AI agents — and it changes how agents spend money",
+      "link": "https://thenewstack.io/replit-visa-ai-payments",
+      "summary": "Replit is deepening its enterprise push: The vibe coding platform is partnering with Visa Inc. to embed payment infrastructure alongside The post Replit’s vibe coding platform just got a Visa-backed identity layer for AI agents — and it changes how agents spend money appeared first on The New Stack...",
+      "published": "2026-05-30T12:47:35+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Infrastructure"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Opus 4.8 Made Claude Smarter. Token Discipline Got Urgent.",
+      "link": "https://thenewstack.io/opus-4-8-claude-smarter-token-discipline-urgent",
+      "summary": "I’m Matt Burns, Chief Content Officer at Insight Media Group. Each week, I round up the most important AI developments, The post Opus 4.8 Made Claude Smarter. Token Discipline Got Urgent. appeared first on The New Stack .",
+      "published": "2026-05-30T10:27:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Matthew Burns",
+      "categories": [
+        "AI Models",
+        "AI Strategy",
+        "Tech Careers"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Azure Functions MCP extension now supports MCP Prompts",
       "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-functions-mcp-extension-now-supports-mcp-prompts/ba-p/4516359",
@@ -600,6 +645,24 @@
       "author": "Mauricio Salatino (Ecosystem Engineer at Dash0), Mario Fahlandt (Customer Delivery Architect at Kubermatic), and Brandt Keller OSS Maintainer at Defense Unicorns",
       "categories": [
         "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The reason enterprise outages almost never start where ops teams think",
+      "link": "https://thenewstack.io/hpe-agentic-ops-copilot",
+      "summary": "Nothing is Greenfield in an enterprise. Hybrid cloud complexity sits atop siloed teams and systems, making it nearly impossible to The post The reason enterprise outages almost never start where ops teams think appeared first on The New Stack .",
+      "published": "2026-05-26T13:43:02+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jennifer Riggins",
+      "categories": [
+        "AI Agents",
+        "AI Operations",
+        "Operations",
+        "sponsor-hpe",
+        "Sponsored",
+        "sponsored-post"
       ],
       "thumbnail": ""
     },
@@ -4097,160 +4160,6 @@
         "AI Strategy"
       ],
       "thumbnail": ""
-    },
-    {
-      "title": "AKS Network Observability Reimagined 🚀 | Metrics Filtering & Log Aggregation (ACNS GA + Hubble OSS)",
-      "link": "https://www.youtube.com/watch?v=3QmJ4HwNK54",
-      "summary": "Kubernetes observability shouldn’t force a tradeoff between visibility and cost.\nIn this demo, discover how Advanced Container Networking Services (ACNS) in Microsoft Azure brings metrics filtering and flow log aggregation to Azure Kubernetes Service—helping you capture only what matters while...",
-      "published": "2026-04-30T19:46:16+00:00",
-      "source": "AKS (Official)",
-      "type": "video",
-      "author": "Azure Kubernetes Service (AKS)",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/3QmJ4HwNK54/mqdefault.jpg"
-    },
-    {
-      "title": "AI sandboxing is having its Kubernetes moment",
-      "link": "https://www.cncf.io/blog/2026/04/30/ai-sandboxing-is-having-its-kubernetes-moment",
-      "summary": "Recently, Anthropic announced that its new model, Mythos, had autonomously found and exploited zero-day vulnerabilities in every major operating system and web browser – including a 27-year-old bug that had survived decades of human review and...",
-      "published": "2026-04-30T19:37:27+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Jed Salazar, Field CTO, Edera",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kubernetes v1.36: In-Place Vertical Scaling for Pod-Level Resources Graduates to Beta",
-      "link": "https://kubernetes.io/blog/2026/04/30/kubernetes-v1-36-inplace-pod-level-resources-beta",
-      "summary": "Following the graduation of Pod-Level Resources to Beta in v1.34 and the General Availability (GA) of In-Place Pod Vertical Scaling in v1.35, the Kubernetes community is thrilled to announce that In-Place Pod-Level Resources Vertical Scaling has graduated to Beta in v1.36! This feature is now...",
-      "published": "2026-04-30T18:35:00+00:00",
-      "source": "Kubernetes Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "A nine-point checklist for shipping production-ready AI",
-      "link": "https://thenewstack.io/production-ready-ai-platforms",
-      "summary": "Starting from square one Most teams can build an AI prototype. A notebook answers a few prompts, a demo agent The post A nine-point checklist for shipping production-ready AI appeared first on The New Stack .",
-      "published": "2026-04-30T18:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Oladimeji Sowole",
-      "categories": [
-        "AI Engineering",
-        "AI Infrastructure",
-        "Platform Engineering",
-        "sponsor-andela",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Serverless vs Containers in Modern Architectures and When to Choose Each",
-      "link": "https://kodekloud.com/blog/serverless-vs-containers-in-modern-architectures-and-when-to-choose-each",
-      "summary": "Serverless and containers each solve different problems. Compare cost, scaling, cold starts, and operational overhead to make the right decision.",
-      "published": "2026-04-30T17:24:14+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "serverless",
-        "Containers",
-        "AWS Lambda",
-        "cloud architecture",
-        "Kubernetes",
-        "Cloud DevOps",
-        "DevOps"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The OpenAI-Microsoft reset, decoded: Why AWS may come out ahead",
-      "link": "https://thenewstack.io/openai-aws-bedrock-integration",
-      "summary": "OpenAI wasted little time since announcing changes to its partnership with Microsoft on Monday. T \\he ChatGPT hitmaker is now The post The OpenAI-Microsoft reset, decoded: Why AWS may come out ahead appeared first on The New Stack .",
-      "published": "2026-04-30T17:17:41+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Infrastructure",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic’s Claude Security emerges from closed preview to scan your codebases for vulnerabilities",
-      "link": "https://thenewstack.io/anthropics-claude-security-beta",
-      "summary": "On Thursday, Anthropic took Claude Security, a defensive security tool in Claude Code on the web that scans codebases for The post Anthropic’s Claude Security emerges from closed preview to scan your codebases for vulnerabilities appeared first on The New Stack .",
-      "published": "2026-04-30T17:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "10 Steps Roadmap to become AI DevOps Engineer in 2026 | Beginner Friendly",
-      "link": "https://www.youtube.com/watch?v=Yb-asGyMM8A",
-      "summary": "Join our discord server for career guidance or doubts:\nwww.youtube.com/abhishekveeramalla/join\n\nThis is the best AI DevOps Engineer roadmap for Beginners. If you are a DevOps Engineer and planning to transition to AI DevOps Engineer role. This is a must watch video. \n\nFree Course on the...",
-      "published": "2026-04-30T15:25:09+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/Yb-asGyMM8A/mqdefault.jpg"
-    },
-    {
-      "title": "Meta abandons open-source Llama for proprietary Muse Spark",
-      "link": "https://thenewstack.io/meta-abandons-llama-spark",
-      "summary": "Meta’s decided its new proprietary AI LLM, Muse Spark, would be much more profitable than the open-source Llama. What are The post Meta abandons open-source Llama for proprietary Muse Spark appeared first on The New Stack .",
-      "published": "2026-04-30T15:05:45+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Steven J. Vaughan-Nichols",
-      "categories": [
-        "AI",
-        "AI Models",
-        "AI Strategy",
-        "Open Source",
-        "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Quickbase’s Pave targets vibe coding’s notorious 80% problem",
-      "link": "https://thenewstack.io/quickbase-pave-vibe-coding",
-      "summary": "Vibe coding was funky, then it was clunky. The ability to describe a software application’s intended form and function in The post Quickbase’s Pave targets vibe coding’s notorious 80% problem appeared first on The New Stack .",
-      "published": "2026-04-30T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI Engineering",
-        "Security",
-        "Vibe Coding"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "What's REALLY Inside a Kubernetes Service? (All 5 Types Explained)",
-      "link": "https://www.youtube.com/watch?v=uP4Gc08qeXM",
-      "summary": "What's actually inside a Kubernetes Service? You think it has pod IPs. It doesn't. Here's what really routes your traffic.\n\nA Kubernetes Service is one virtual IP and a label selector. Behind one `kubectl expose` command, three controllers and a DNS server cooperate, and the kernel on every node...",
-      "published": "2026-04-30T14:08:25+00:00",
-      "source": "Kubesimplify",
-      "type": "video",
-      "author": "Kubesimplify",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/uP4Gc08qeXM/mqdefault.jpg"
     }
   ]
 }
