@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T07:15:45.597324+00:00",
-    "total_items": 293,
+    "generated_at": "2026-06-01T07:41:07.892284+00:00",
+    "total_items": 287,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -19,6 +19,70 @@
     ]
   },
   "items": [
+    {
+      "title": "Gavriel Cohen found his own code inside OpenClaw, so he walked away",
+      "link": "https://thenewstack.io/nanoclaw-openclaw-agent-security",
+      "summary": "When Gavriel Cohen first saw OpenClaw, he knew he wanted it. At the time, Cohen (soon to be the founder The post Gavriel Cohen found his own code inside OpenClaw, so he walked away appeared first on The New Stack .",
+      "published": "2026-05-31T17:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "David Eastman",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI retrieval at scale is becoming a systems problem, not a tooling problem",
+      "link": "https://thenewstack.io/ai-retrieval-at-scale",
+      "summary": "AI retrieval has moved well beyond embeddings and vector search. Early retrieval architectures focused primarily on semantic similarity. Still, production The post AI retrieval at scale is becoming a systems problem, not a tooling problem appeared first on The New Stack .",
+      "published": "2026-05-31T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Tim Young",
+      "categories": [
+        "AI Engineering",
+        "AI Infrastructure",
+        "AI Strategy",
+        "sponsor-vespa-ai",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The DIY platform trap that’s burning out engineering teams",
+      "link": "https://thenewstack.io/diy-platform-burnout-trap",
+      "summary": "Platform engineers are some of the most resourceful people in IT. Give them a problem, and they’ll automate their way The post The DIY platform trap that’s burning out engineering teams appeared first on The New Stack .",
+      "published": "2026-05-31T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darin Zook",
+      "categories": [
+        "AI Infrastructure",
+        "DevOps",
+        "Platform Engineering",
+        "sponsor-vmware",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "I tested Cursor’s new Jira integration and it’s 5 stars, no notes. Here’s why.",
+      "link": "https://thenewstack.io/cursor-jira-integration-test",
+      "summary": "Cursor launched its Jira integration last week. The integration was marketed as simple: assign a ticket in Jira and Cursor The post I tested Cursor’s new Jira integration and it’s 5 stars, no notes. Here’s why. appeared first on The New Stack .",
+      "published": "2026-05-31T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jessica Wachtel",
+      "categories": [
+        "AI Agents",
+        "Developer tools",
+        "Vibe Coding"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Why GPT-5.4, Claude, and Gemini can’t agree on basic, real-world facts",
       "link": "https://thenewstack.io/frontier-llm-factcheck-disagreement",
@@ -4012,152 +4076,6 @@
         "AI Agents",
         "AI Infrastructure",
         "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to Switch to Another User on the Linux Command Line",
-      "link": "https://kodekloud.com/blog/how-to-switch-to-another-user-on-the-linux-command-line",
-      "summary": "Learn when to use su vs sudo to switch users on Linux — including what to do when you don't know the target user's password.",
-      "published": "2026-05-02T01:35:59+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Alexandru Andrei",
-      "categories": [
-        "Linux",
-        "linux commands",
-        "Command Line"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AI agents are running wild on developer machines. Incredibuild has a fix.",
-      "link": "https://thenewstack.io/incredibuild-ai-agents-sandbox-coding",
-      "summary": "Somewhere out there, a developer is walking around with their laptop half-open, so their AI coding agent doesn’t die. That’s The post AI agents are running wild on developer machines. Incredibuild has a fix. appeared first on The New Stack .",
-      "published": "2026-05-01T20:21:31+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Darryl K. Taft",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Fresh data has us asking, does AI demand Kubernetes?",
-      "link": "https://thenewstack.io/does-ai-demand-kubernetes",
-      "summary": "Kubernetes is becoming the de facto operating system for AI. Two-thirds of organizations running generative AI models use Kubernetes for The post Fresh data has us asking, does AI demand Kubernetes? appeared first on The New Stack .",
-      "published": "2026-05-01T20:18:11+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jennifer Riggins",
-      "categories": [
-        "KubeCon Cloudnativecon EU 2026",
-        "Operations",
-        "Podcast",
-        "sponsor-cncf",
-        "Video"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How SUSE positions itself as the infrastructure layer for the AI era",
-      "link": "https://thenewstack.io/suse-ai-infrastructure-kubernetes",
-      "summary": "For this edition of The New Stack Makers, we sat down with Pete Smails, SVP and general manager for cloud-native The post How SUSE positions itself as the infrastructure layer for the AI era appeared first on The New Stack .",
-      "published": "2026-05-01T20:16:22+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI Infrastructure",
-        "KubeCon Cloudnativecon EU 2026",
-        "Kubernetes",
-        "Podcast",
-        "sponsor-susesuse",
-        "sponsored-post",
-        "Video"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "IBM Bob hits 80,000 developers with 45% productivity gains",
-      "link": "https://thenewstack.io/ibm-bob-agentic-development",
-      "summary": "IBM is betting that the next competitive frontier in AI-assisted development isn’t raw code-generation speed — it’s governance, auditability, and the The post IBM Bob hits 80,000 developers with 45% productivity gains appeared first on The New Stack .",
-      "published": "2026-05-01T19:06:02+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Darryl K. Taft",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kubernetes v1.36: Pod-Level Resource Managers (Alpha)",
-      "link": "https://kubernetes.io/blog/2026/05/01/kubernetes-v1-36-feature-pod-level-resource-managers-alpha",
-      "summary": "Kubernetes v1.36 introduces Pod-Level Resource Managers as an alpha feature, bringing a more flexible and powerful resource management\nmodel to performance-sensitive workloads. This enhancement extends the kubelet's\nTopology, CPU, and Memory Managers to support pod-level resource specifications\n(...",
-      "published": "2026-05-01T18:35:00+00:00",
-      "source": "Kubernetes Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Mistral, Europe’s answer to OpenAI and Anthropic, pushes its coding agents to the cloud",
-      "link": "https://thenewstack.io/mistral-vibe-cloud-agents",
-      "summary": "Countless companies are capitalizing on the AI boom, building everything from coding assistants to customer support bots. But only a The post Mistral, Europe’s answer to OpenAI and Anthropic, pushes its coding agents to the cloud appeared first on The New Stack .",
-      "published": "2026-05-01T14:46:14+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Infrastructure",
-        "Open Source",
-        "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "MVP Summit 2026: Renicius Pagotto on Fleet Manager & Argo CD",
-      "link": "https://www.youtube.com/watch?v=eBS5NUeGmpU",
-      "summary": "Join Jorge Arterio and Renicius Pagotto at the Microsoft MVP Summit in Redmond as they discuss advanced use cases for Azure Kubernetes Service (AKS) in large-scale retail environments. \nThey talk about managing AKS clusters with Fleet Manager, strategies for scaling GitHub Actions with self-hosted...",
-      "published": "2026-05-01T14:00:03+00:00",
-      "source": "AKS (Official)",
-      "type": "video",
-      "author": "Azure Kubernetes Service (AKS)",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/eBS5NUeGmpU/mqdefault.jpg"
-    },
-    {
-      "title": "Azure Update 1st May 2026",
-      "link": "https://www.youtube.com/watch?v=FqYQSLI6vuk",
-      "summary": "Lots of updates this week!\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation queue never to be...",
-      "published": "2026-05-01T12:24:56+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/FqYQSLI6vuk/mqdefault.jpg"
-    },
-    {
-      "title": "Cursor’s $60 billion bet is on the harness, not the model",
-      "link": "https://thenewstack.io/cursor-sdk-harness",
-      "summary": "I’m Matt Burns, Chief Content Officer at Insight Media Group. Each week, I round up the most important AI developments, The post Cursor’s $60 billion bet is on the harness, not the model appeared first on The New Stack .",
-      "published": "2026-05-01T12:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Matthew Burns",
-      "categories": [
-        "AI Agents",
-        "AI Models",
-        "AI Strategy"
       ],
       "thumbnail": ""
     }
