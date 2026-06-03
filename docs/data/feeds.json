@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-06-02T07:34:33.529186+00:00",
-    "total_items": 297,
+    "generated_at": "2026-06-03T07:37:30.542387+00:00",
+    "total_items": 327,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -15,10 +15,403 @@
       "Kubesimplify",
       "LearnK8s",
       "Piyush Sachdeva",
+      "Rawkode Academy",
       "The New Stack"
     ]
   },
   "items": [
+    {
+      "title": "Hands-on Introduction to yoke | Rawkode Live",
+      "link": "https://www.youtube.com/watch?v=tKc8Rna3vDQ",
+      "summary": "In this Rawkode Academy Lyve stream, David explores Yoke, a Kubernetes package manager that treats packages as code instead of piles of templated YAML.\n\nWe’ll look at how Yoke uses WebAssembly Flights to generate and apply Kubernetes resources, how it compares to Helm, where YokeCD fits with...",
+      "published": "2026-06-03T06:21:27+00:00",
+      "source": "Rawkode Academy",
+      "type": "video",
+      "author": "Rawkode Academy",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/tKc8Rna3vDQ/mqdefault.jpg"
+    },
+    {
+      "title": "Azure SRE Agent at Microsoft Build 2026: Bringing agentic operations to the enterprise",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-sre-agent-at-microsoft-build-2026-bringing-agentic/ba-p/4524669",
+      "summary": "Build 2026 Update When we launched Azure SRE Agent, the promise was simple: reduce operational toil, improve up time, and evolve teams from manual incident response towards AI-powered operations. Since GA in March 2026, that promise has held up in production. Teams are using the agent to diagnose...",
+      "published": "2026-06-03T04:49:38+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "dchelupati",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "VNet integration for Azure SRE Agent (preview)",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/vnet-integration-for-azure-sre-agent-preview/ba-p/4524287",
+      "summary": "For many production systems, the logs, databases, private endpoints, repositories, and runbooks an SRE Agent needs to do its job are behind network boundaries your security team already governs. VNet integration for Azure SRE Agent, now in preview, puts the agent's outbound traffic under those same...",
+      "published": "2026-06-02T22:54:04+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "sanchitmehta",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Inside ACR Artifact Cache: Pull-Through Caching at Scale",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/inside-acr-artifact-cache-pull-through-caching-at-scale/ba-p/4524949",
+      "summary": "By: Akash Singhal , Luis Dieguez , Kiran Challa, Nathan Anderson , Tony Vargas , Caroline Barker , Ren Shao , Mabel Egba , Toddy Mladenov , Johnson Shi Introduction For many customers, Azure Container Registry (ACR) is the only registry their workloads can trust, even when images and artifacts...",
+      "published": "2026-06-02T22:43:58+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "akashsinghal",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Introducing the Azure Functions serverless agents runtime (preview)",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/introducing-the-azure-functions-serverless-agents-runtime/ba-p/4523804",
+      "summary": "We're thrilled to announce the Azure Functions serverless agents runtime , now in public preview. It brings a new, markdown-first programming model for building AI agents as a first-class workload on Azure Functions, with the event-driven triggers, scale-to-zero economics, and operational...",
+      "published": "2026-06-02T22:23:58+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "AnthonyChu",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Managed Connectors for SRE Agent (preview)- Govern what your agent can do",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/managed-connectors-for-sre-agent-preview-govern-what-your-agent/ba-p/4524840",
+      "summary": "Giving an agent access to a tool is the easy part. The harder question is what it's allowed to do with that access. \"Can the agent copy a file in OneDrive?\" mostly answers itself. \"Can it copy any file, to any destination, over one that's already there?\" is the one that decides whether the...",
+      "published": "2026-06-02T21:12:53+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Dalibor_Kovacevic",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Shaping what Azure SRE Agent does: Tool Permissions and Hooks",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/shaping-what-azure-sre-agent-does-tool-permissions-and-hooks/ba-p/4524791",
+      "summary": "When an AI agent runs against production, the first question every security team asks is \" What can it do, who decided it could, and what stops it from doing something it should not.\" Azure SRE Agent reached general availability in March. Since then, teams inside Microsoft and customers running it...",
+      "published": "2026-06-02T21:11:11+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Dalibor_Kovacevic",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Private Plugins with Azure SRE Agent",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/private-plugins-with-azure-sre-agent/ba-p/4523763",
+      "summary": "SRE's and platform teams are building operational skills specific to their infrastructure: investigation runbooks, compliance checks, cost analysis playbooks, deployment verification procedures. The next step is making that work reusable across every agent in the organization without exposing it...",
+      "published": "2026-06-02T21:09:48+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "ebencarek",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Bring Your Own GitHub App: Connecting Azure SRE Agent to Enterprise Repositories",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/bring-your-own-github-app-connecting-azure-sre-agent-to/ba-p/4524673",
+      "summary": "What if your SRE agent could access your enterprise GitHub repositories the same way your CI/CD pipelines do  with a governed service identity, not a personal token? Azure SRE Agent connects to your GitHub repositories to build rich context about your systems source code, infrastructure...",
+      "published": "2026-06-02T21:09:03+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "dchelupati",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure Functions MCP Extension: What's New at Build 2026",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-functions-mcp-extension-what-s-new-at-build-2026/ba-p/4524099",
+      "summary": "The Azure Functions MCP extension has had a breakout year! Since its initial preview, the extension has grown from a single trigger type into a full-featured platform for building remote MCP servers: with tool, resource, and prompt triggers across multiple languages, MCP Apps for interactive UIs,...",
+      "published": "2026-06-02T21:02:12+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "lily-ma",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anyscale on Azure: Powering Enterprise AI at Massive Scale on Azure Kubernetes Service",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/anyscale-on-azure-powering-enterprise-ai-at-massive-scale-on/ba-p/4523806",
+      "summary": "Somewhere on your AI platform team, an engineer is on call this weekend — not for the model, not for the training run, but for the integration code holding five separate AI processing systems together . Data preparation on one. Training on a second. Evaluation on a third. Serving on a fourth....",
+      "published": "2026-06-02T20:56:02+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "bobmital",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Announcing Go support in Azure Functions (Preview)",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-go-support-in-azure-functions-preview/ba-p/4523801",
+      "summary": "We're excited to announce that Azure Functions now supports Go as a first-class language , available today in public preview on the Flex Consumption plan. Go developers can now build event-driven, serverless applications using idiomatic Go, the standard toolchain they already love, and the full...",
+      "published": "2026-06-02T20:46:42+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "AnthonyChu",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Closing the AI-readiness gap with agentic modernization",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/closing-the-ai-readiness-gap-with-agentic-modernization/ba-p/4524011",
+      "summary": "Legacy debt is widening the AI-readiness gap Legacy systems and mounting tech debt aren't just slowing your AI agenda — they're quietly stealing its potential. Aging architectures, and complex, decades-old applications, databases, and infrastructure weren't designed for high performance, complex,...",
+      "published": "2026-06-02T19:49:29+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Mike_Hulme",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure Functions at Build 2026 Update",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-functions-at-build-2026-update/ba-p/4524075",
+      "summary": "Azure Functions took another big leap at Build 2026 . It is now the best programming model for event-driven apps and agents, on the best infrastructure to write secure code that scales. The headline features: serverless agents, connectors to M365, Teams, and more, Go, MCP, and Durable Tasks....",
+      "published": "2026-06-02T19:47:19+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "nzthiago",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Rayfin: Microsoft’s answer to the gap between vibe coding and enterprise production",
+      "link": "https://thenewstack.io/microsoft-build-2026-rayfin-replit-vibe-coding",
+      "summary": "Vibe coding has made it easier than ever to build applications. Getting those applications into enterprise production is still the The post Rayfin: Microsoft’s answer to the gap between vibe coding and enterprise production appeared first on The New Stack .",
+      "published": "2026-06-02T19:46:32+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "AI Agents",
+        "Data",
+        "Vibe Coding"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Microsoft bets the enterprise AI race will be won on data context, not model power",
+      "link": "https://thenewstack.io/microsoft-build-2026-data-fabric-horizondb-ai-agents",
+      "summary": "Microsoft used its Build 2026 developer conference on Tuesday to note that the hard part of enterprise AI is no The post Microsoft bets the enterprise AI race will be won on data context, not model power appeared first on The New Stack .",
+      "published": "2026-06-02T19:40:55+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Data"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Introducing On-demand Sandboxes for Azure Durable Task Scheduler (Private Preview)",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/introducing-on-demand-sandboxes-for-azure-durable-task-scheduler/ba-p/4522333",
+      "summary": "Maybe it needs a native toolchain. Maybe it runs untrusted customer or LLM-generated code. Maybe it needs Python from a .NET orchestrator, or bursty compute that should scale to zero when the work is done. Today, we're thrilled to announce On-demand Sandboxes for Azure Durable Task Scheduler , now...",
+      "published": "2026-06-02T19:30:00+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "greenie-msft",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Announcing Anyscale on Azure public preview: Powered by Ray on AKS",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-anyscale-on-azure-public-preview-powered-by-ray-on/ba-p/4523704",
+      "summary": "What's new The defining workload of the cloud era is no longer a web service or a database. It is a distributed AI training or inference job that needs thousands of GPUs, a coherent data plane, and a way for a handful of engineers to operate all of it without losing their weekends. Getting there is...",
+      "published": "2026-06-02T19:30:00+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Brendan Burns",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Announcing managed connectors for Azure Functions (Preview)",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-managed-connectors-for-azure-functions-preview/ba-p/4523798",
+      "summary": "Azure Functions now includes managed connectors in public preview - the same 1,400+ connector ecosystem behind Logic Apps and Power Platform - as first-class triggers in your Functions code , plus typed SDKs for invoking connector actions from your function body. Build event-driven integrations...",
+      "published": "2026-06-02T19:30:00+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "nzthiago",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Introducing Azure Container Apps Sandboxes: Secure Infrastructure for Agentic Workloads",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/introducing-azure-container-apps-sandboxes-secure-infrastructure/ba-p/4524131",
+      "summary": "Today we are announcing the public preview of Azure Container Apps Sandboxes - a new first-class resource type that gives you fast, secure, ephemeral compute environments with built-in suspend and resume. This is the underlying infrastructure on which products like Cloud sandboxes in GitHub Copilot...",
+      "published": "2026-06-02T19:30:00+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "vyomnagrani",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "What's new in Azure Kubernetes Service at Microsoft Build 2026",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/what-s-new-in-azure-kubernetes-service-at-microsoft-build-2026/ba-p/4524862",
+      "summary": "A year ago, teams were still asking whether Kubernetes belonged anywhere near their AI workloads. That question has mostly been answered as the community comes together to . The real challenge now is operational: how to run training and inference at scale when cost, latency, and reliability are...",
+      "published": "2026-06-02T19:30:00+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "coryskimming",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Hosted MCP Servers in Connector Namespace (Preview)",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/hosted-mcp-servers-in-connector-namespace-preview/ba-p/4524588",
+      "summary": "Imagine you've built an agent and you want to give it access to tools via MCP servers. Local servers won't work because your agent can't connect to them in production. Wouldn't it be great if you could quickly stand up secure, enterprise-ready remote MCP servers that your agent can use? This is...",
+      "published": "2026-06-02T19:30:00+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "lily-ma",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "What's new in Azure Container Apps at Build'26",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/what-s-new-in-azure-container-apps-at-build-26/ba-p/4524184",
+      "summary": "Azure Container Apps (ACA) is a fully managed serverless container platform that enables developers to build and deploy microservices and modern applications without requiring container expertise or needing infrastructure management. ACA provides built-in autoscaling (including scale to zero),...",
+      "published": "2026-06-02T19:30:00+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "vyomnagrani",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "“A successful attack could be catastrophic”: Anthropic gives more groups access to Claude Mythos",
+      "link": "https://thenewstack.io/anthropic-glasswing-mythos-cybersecurity",
+      "summary": "Anthropic laid down some sobering words on Tuesday. “A successful attack on their codebase could be catastrophic. For most partners, The post “A successful attack could be catastrophic”: Anthropic gives more groups access to Claude Mythos appeared first on The New Stack .",
+      "published": "2026-06-02T18:51:14+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI",
+        "AI Models",
+        "Open Source",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How GitHub plans to win developers back",
+      "link": "https://thenewstack.io/github-wants-developers-back",
+      "summary": "For much of the past year, GitHub has not been the stable utility developers had long gotten used to. Outages, The post How GitHub plans to win developers back appeared first on The New Stack .",
+      "published": "2026-06-02T17:56:51+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Infrastructure"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Microsoft really, really, really wants developers to love Windows again",
+      "link": "https://thenewstack.io/windows-11-developer-mode",
+      "summary": "At its Build developer conference on Tuesday, Microsoft is launching so many new features for developers, it’s hard to keep The post Microsoft really, really, really wants developers to love Windows again appeared first on The New Stack .",
+      "published": "2026-06-02T17:56:49+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "With Intelligent Terminal, Microsoft is reinventing the Windows terminal",
+      "link": "https://thenewstack.io/microsoft-intelligent-terminal-ai-agents",
+      "summary": "The good old terminal has been through a bit of a comeback in recent months, largely thanks to the popularity The post With Intelligent Terminal, Microsoft is reinventing the Windows terminal appeared first on The New Stack .",
+      "published": "2026-06-02T17:56:47+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Microsoft debuts “Scout” at Build, a new personal agent for work",
+      "link": "https://thenewstack.io/microsoft-build-scout",
+      "summary": "At Microsoft Build on Tuesday in San Francisco, the company debuted Microsoft Scout, a new personal agent for work that The post Microsoft debuts “Scout” at Build, a new personal agent for work appeared first on The New Stack .",
+      "published": "2026-06-02T17:56:45+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Infrastructure"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI’s Codex adds new tools — Sites, Annotations, more plugins — for knowledge workers",
+      "link": "https://thenewstack.io/openai-codex-knowledge-workers",
+      "summary": "As OpenAI announced on Tuesday, 20% of Codex’s 5 million weekly active users are now knowledge workers and not coders. The post OpenAI’s Codex adds new tools — Sites, Annotations, more plugins — for knowledge workers appeared first on The New Stack .",
+      "published": "2026-06-02T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "GitHub Copilot’s usage-based billing is live: Here’s what you need to know",
+      "link": "https://thenewstack.io/github-copilot-token-billing",
+      "summary": "We knew it was coming, and as of Monday, it’s here. GitHub has officially retired Copilot’s premium request model and The post GitHub Copilot’s usage-based billing is live: Here’s what you need to know appeared first on The New Stack .",
+      "published": "2026-06-02T15:07:51+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Models",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Cloud native is now AI-native: Engineering production-ready AI",
+      "link": "https://www.cncf.io/blog/2026/06/02/cloud-native-is-now-ai-native-engineering-production-ready-ai",
+      "summary": "At KubeCon + CloudNativeCon Europe in Amsterdam from March 23-26, CNCF brought together a roundtable with experts in the cloud native ecosystem, including Ellis Tarn of AWS, Allan Naim of Google Cloud, Jorge Palma of Microsoft,...",
+      "published": "2026-06-02T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "CNCF",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Mumbai Maha Mahotsav – KubeCon + CloudNativeCon India edition",
+      "link": "https://www.cncf.io/blog/2026/06/02/mumbai-maha-mahotsav-kubecon-cloudnativecon-india-edition",
+      "summary": "Welcome to Mumbai – the City of Dreams, where ambition is the only dress code – and the host city for KubeCon + CloudNativeCon India 2026. As a co-chair of this year’s program, I’ve spent months...",
+      "published": "2026-06-02T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Sonali Srivastava, CNCF Co-chair for KubeCon + CloudNativeCon India 2026",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Better Deployment Errors in az webapp deploy",
       "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/better-deployment-errors-in-az-webapp-deploy/ba-p/4524680",
@@ -4170,39 +4563,6 @@
       "author": "Marina Moore, Evan Anderson, and Sherine Khoury, CNCF Technical Advisory Group",
       "categories": [
         "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“To us, it’s just a tool”: How SAS is selling AI to the Fortune 500",
-      "link": "https://thenewstack.io/sas-innovate-agentic-ai-governance",
-      "summary": "For this 50-year-old company, AI is “just a tool.” At SAS Innovate 2026 in Grapevine, Texas, the 50-year-old, privately held The post “To us, it’s just a tool”: How SAS is selling AI to the Fortune 500 appeared first on The New Stack .",
-      "published": "2026-05-03T16:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Infrastructure",
-        "AI Strategy"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Mainframe modernization is no longer optional for the AI-driven enterprise",
-      "link": "https://thenewstack.io/open-mainframe-enterprise-modernization",
-      "summary": "As old-guard mainframers give way to a younger generation of mainframe professionals, this new cadre brings modern ways of thinking The post Mainframe modernization is no longer optional for the AI-driven enterprise appeared first on The New Stack .",
-      "published": "2026-05-03T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jason Bloomberg",
-      "categories": [
-        "AI Strategy",
-        "Open Source",
-        "Platform Engineering",
-        "sponsor-broadcom",
-        "sponsored-post-contributed"
       ],
       "thumbnail": ""
     }
