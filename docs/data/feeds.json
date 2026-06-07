@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-06-06T07:02:00.008778+00:00",
-    "total_items": 323,
+    "generated_at": "2026-06-07T07:20:40.702396+00:00",
+    "total_items": 315,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,83 @@
     ]
   },
   "items": [
+    {
+      "title": "“Whoever builds the most joyous product wins”: The agent war begins",
+      "link": "https://thenewstack.io/snowflake-coco-agentic-enterprise",
+      "summary": "At Snowflake Summit 26 this week in San Francisco, the conversation moved into a new direction. If last year’s focus The post “Whoever builds the most joyous product wins”: The agent war begins appeared first on The New Stack .",
+      "published": "2026-06-06T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Chris J. Preimesberger",
+      "categories": [
+        "AI Agents",
+        "Data Streaming",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Netlify CTO Dana Lawson: Writing code is no longer the job",
+      "link": "https://thenewstack.io/netlify-agent-experience-engineers",
+      "summary": "“I’ve been doing this since the ’90s — decades of building guardrails to prevent humans from breaking production. We’re now The post Netlify CTO Dana Lawson: Writing code is no longer the job appeared first on The New Stack .",
+      "published": "2026-06-06T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jennifer Riggins",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Platform Engineering"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "CI/CD for Machine Learning: Best Practices and Tools (2026 Guide)",
+      "link": "https://kodekloud.com/blog/ci-cd-for-machine-learning",
+      "summary": "Build a CI/CD pipeline for machine learning in 2026: test data and models, gate deploys on a metric, and compare the best MLOps CI/CD tools",
+      "published": "2026-06-06T13:23:42+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "100 days of MLOps",
+        "CI/CD Pipeline",
+        "github actions",
+        "Machine Learning",
+        "MLOps"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "From Jupyter Notebook to production: How to ship AI systems that actually work",
+      "link": "https://thenewstack.io/notebook-to-production-ai",
+      "summary": "Moving from experimentation to production in AI requires a transformation of mindset, architecture, and engineering discipline. There’s no API wrappers The post From Jupyter Notebook to production: How to ship AI systems that actually work appeared first on The New Stack .",
+      "published": "2026-06-06T11:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Zziwa Raymond Ian",
+      "categories": [
+        "AI Engineering",
+        "AI Operations",
+        "DevOps",
+        "sponsor-andela",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenClaw used Gavriel Cohen’s code and exposed the AI Agent accountability problem",
+      "link": "https://thenewstack.io/openclaw-cohens-ai-agent-accountability-problem",
+      "summary": "I’m Matt Burns, Chief Content Officer at Insight Media Group. Each week, I round up the most important AI developments, The post OpenClaw used Gavriel Cohen’s code and exposed the AI Agent accountability problem appeared first on The New Stack .",
+      "published": "2026-06-06T10:31:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Matthew Burns",
+      "categories": [
+        "AI"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Replit shows how vibe coding is getting its own financial stack — and a path to profit",
       "link": "https://thenewstack.io/replit-shopify-storefront-integration",
@@ -4296,200 +4373,6 @@
         "AI Engineering",
         "AI Infrastructure",
         "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How Microsoft is governing thousands of Kubernetes clusters without manual intervention",
-      "link": "https://thenewstack.io/kubernetes-fleet-management-scale",
-      "summary": "Kubernetes is complicated; everybody knows it. Logically enough, Kubernetes deployed as a cluster of collected and coalesced instances at “fleet The post How Microsoft is governing thousands of Kubernetes clusters without manual intervention appeared first on The New Stack .",
-      "published": "2026-05-07T22:07:21+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "Cloud Native Ecosystem",
-        "KubeCon Cloudnativecon EU 2026",
-        "Kubernetes",
-        "Platform Engineering",
-        "Podcast",
-        "sponsor-microsoft",
-        "sponsored-post",
-        "Video"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kubernetes v1.36: More Drivers, New Features, and the Next Era of DRA",
-      "link": "https://kubernetes.io/blog/2026/05/07/kubernetes-v1-36-dra-136-updates",
-      "summary": "Dynamic Resource Allocation (DRA) has fundamentally changed how platform administrators handle hardware\naccelerators and specialized resources in Kubernetes. In the v1.36 release, DRA\ncontinues to mature, bringing a wave of feature graduations, critical usability\nimprovements, and new capabilities...",
-      "published": "2026-05-07T18:35:00+00:00",
-      "source": "Kubernetes Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Temporal reveals a serverless option for its Durable Execution platform",
-      "link": "https://thenewstack.io/temporal-replay-2026-news",
-      "summary": "We’ve all dreamed at one point or another about having safety guards on everything we do — such as keeping The post Temporal reveals a serverless option for its Durable Execution platform appeared first on The New Stack .",
-      "published": "2026-05-07T17:25:25+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Nick Lucchesi",
-      "categories": [
-        "AI Operations",
-        "Developer tools",
-        "Serverless",
-        "sponsor-temporal",
-        "Sponsored",
-        "sponsored-event-coverage",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI brings GPT-5-level reasoning to its speech models",
-      "link": "https://thenewstack.io/openai-gpt-5-level-speech",
-      "summary": "OpenAI launched three new speech-focused models on Thursday: GPT-Realtime-2, its first voice model with what the company calls “GPT-5-class reasoning”; The post OpenAI brings GPT-5-level reasoning to its speech models appeared first on The New Stack .",
-      "published": "2026-05-07T17:13:46+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Upgrade Issues 101 with Mosbah Majed: AKS Troubleshooting Series: Azure Kubernetes Service",
-      "link": "https://www.youtube.com/watch?v=PRDy-2h_r2E",
-      "summary": "In today's episode, we talk to Mosbah Majed to understand AKS Upgrade Issues. \nUpgrades are critical for reliability, security, and feature delivery in AKS environments.  \nMosbah highlights recurring problems such as Pod Disruption Budgets (PDBs), networking issues, Azure policy conflicts, and...",
-      "published": "2026-05-07T16:55:35+00:00",
-      "source": "AKS (Official)",
-      "type": "video",
-      "author": "Azure Kubernetes Service (AKS)",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/PRDy-2h_r2E/mqdefault.jpg"
-    },
-    {
-      "title": "Elastic architects reveal how to query observability data in plain English",
-      "link": "https://thenewstack.io/ai-observability-opentelemetry-webinar",
-      "summary": "Keeping observability data locked behind the SRE job function is a mistake. Today’s leading companies are making operational data available The post Elastic architects reveal how to query observability data in plain English appeared first on The New Stack .",
-      "published": "2026-05-07T16:27:32+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Alexandra Ames",
-      "categories": [
-        "AI Agents",
-        "DevOps",
-        "Observability",
-        "sponsor-elastic",
-        "sponsored-webinar"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Complete FREE Real-time AI Projects + Workshops for Beginners",
-      "link": "https://www.youtube.com/watch?v=B9eamJe9GHM",
-      "summary": "- STAR the GitHub Repo:\nhttps://fandf.co/3P2jSoS\n\nGitHub repo used in the video:\nhttps://fandf.co/3P2jSoS\n\nLearn AI concepts for Free, Practically using Real world projects, notes and workshops. In fact this repository is goldmine for anyone who is interested in getting started with AI.\n\nFree...",
-      "published": "2026-05-07T15:53:59+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/B9eamJe9GHM/mqdefault.jpg"
-    },
-    {
-      "title": "MVP Summit 2026: Dinant Paadenkooper on AKS Security and secure platform management",
-      "link": "https://www.youtube.com/watch?v=MaJBk_5O-nE",
-      "summary": "Join Jorge Arteiro at the Microsoft MVP Summit in a chat with Dinant Paardenkooper about Azure Kubernetes Service (AKS) security. \nThey talk about private clusters, and strategies for using multiple dev teams to use Azure in a self-service but secure manner, highlighting the challenges of balancing...",
-      "published": "2026-05-07T15:30:13+00:00",
-      "source": "AKS (Official)",
-      "type": "video",
-      "author": "Azure Kubernetes Service (AKS)",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/MaJBk_5O-nE/mqdefault.jpg"
-    },
-    {
-      "title": "I tested the new OpenAI Codex features on a real Python codebase, and it’s the strongest Claude Code rival yet",
-      "link": "https://thenewstack.io/openai-codex-claude-code",
-      "summary": "Late last month, OpenAI shipped a new product they dubbed “Codex for (almost) everything.” Its goal was to shift Codex from a The post I tested the new OpenAI Codex features on a real Python codebase, and it’s the strongest Claude Code rival yet appeared first on The New Stack .",
-      "published": "2026-05-07T15:27:18+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Darryl K. Taft",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "GitHub builds an immune system for AI coding agents running on MCP",
-      "link": "https://thenewstack.io/github-mcp-security-scanning",
-      "summary": "Security has emerged as one of the core stumbling blocks in the AI coding space: Companies are racing to connect The post GitHub builds an immune system for AI coding agents running on MCP appeared first on The New Stack .",
-      "published": "2026-05-07T15:04:24+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Engineering",
-        "AI Infrastructure",
-        "Model Context Protocol",
-        "Operations"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "With the launch of Meko, Yugabyte targets the data layer that’s breaking multi-agent AI systems",
-      "link": "https://thenewstack.io/yugabyte-meko-ai-agent-state",
-      "summary": "Roughly 37% of multi-agent system failures aren’t reasoning failures — they’re state failures. Agents working from inconsistent views of what’s The post With the launch of Meko, Yugabyte targets the data layer that’s breaking multi-agent AI systems appeared first on The New Stack .",
-      "published": "2026-05-07T13:30:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Nick Lucchesi",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Open Source",
-        "sponsor-yugabyte",
-        "Sponsored",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The introverts’ edge: How AI is leveling the developer floor",
-      "link": "https://thenewstack.io/ai-coding-junior-developers",
-      "summary": "A nervous junior developer comes to work feeling neglected and spends time playing ping-pong rather than asking a senior developer The post The introverts’ edge: How AI is leveling the developer floor appeared first on The New Stack .",
-      "published": "2026-05-07T11:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Darryl K. Taft",
-      "categories": [
-        "AI",
-        "AI Engineering",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Microcks becomes a CNCF incubating project",
-      "link": "https://www.cncf.io/blog/2026/05/07/microcks-becomes-a-cncf-incubating-project",
-      "summary": "The CNCF Technical Oversight Committee (TOC) has voted to accept Microcks as a CNCF incubating project. About Microcks Modern software teams build applications as collections of interconnected APIs and microservices, and with that architecture comes a...",
-      "published": "2026-05-07T08:26:12+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Katie Gamanji, CNCF TOC",
-      "categories": [
-        "Announcements",
-        "Blog"
       ],
       "thumbnail": ""
     }
