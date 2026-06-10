@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-06-09T07:10:54.313861+00:00",
-    "total_items": 317,
+    "generated_at": "2026-06-10T07:25:09.431721+00:00",
+    "total_items": 322,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,160 @@
     ]
   },
   "items": [
+    {
+      "title": "How I’d Start MLOps in 2026 - 100DaysOfMLOps",
+      "link": "https://www.youtube.com/watch?v=QrE_F5-XuQ0",
+      "summary": "What is MLOps, actually? You've seen the job posts, but most explanations make it sound like a completely new universe where you need a heavy math background or a PhD. You don't. MLOps is basically DevOps aimed at machine learning models instead of microservices.\n\nIn this video, I break down what...",
+      "published": "2026-06-10T02:32:28+00:00",
+      "source": "Piyush Sachdeva",
+      "type": "video",
+      "author": "Tech Tutorials with Piyush",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/QrE_F5-XuQ0/mqdefault.jpg"
+    },
+    {
+      "title": "How ARM Tracks Work That Takes Hours",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/how-arm-tracks-work-that-takes-hours/ba-p/4526930",
+      "summary": "By Arav Goyal , Joy Shah , Michael Cheng , Manik Sikka , Jenny Hunter , Johnson Shi Introduction When a user creates, updates, or deletes a resource in Azure, the request flows through Azure Resource Manager (ARM) before reaching the service that actually owns the resource. For operations that...",
+      "published": "2026-06-10T02:22:06+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "aravgoyal",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Git real: AI agents aren’t just for solo developers anymore",
+      "link": "https://thenewstack.io/coding-agents-team-infrastructure",
+      "summary": "In the first week of June, three vendors pushed coding agents past the single-developer loop. The three launches sit at The post Git real: AI agents aren’t just for solo developers anymore appeared first on The New Stack .",
+      "published": "2026-06-09T19:58:07+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Janakiram MSV",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Platform Engineering"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic launches Claude Mythos/Fable 5, but you better try it soon",
+      "link": "https://thenewstack.io/anthropic-claude-mythos-fable-5",
+      "summary": "On Tuesday, Anthropic launched Fable 5, its first generally available Mythos-class model. Fable 5 is essentially the highly capable Mythos The post Anthropic launches Claude Mythos/Fable 5, but you better try it soon appeared first on The New Stack .",
+      "published": "2026-06-09T19:30:45+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Spring is 23 years old. AI just made it a security emergency.",
+      "link": "https://thenewstack.io/broadcom-spring-java-cve-security-ai",
+      "summary": "AI is rewriting the rules of software security, and the Java ecosystem — the backbone of enterprise computing for more The post Spring is 23 years old. AI just made it a security emergency. appeared first on The New Stack .",
+      "published": "2026-06-09T18:48:06+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "AI",
+        "Java",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "This AI agent startup ditched Anthropic for DeepSeek — and says it’s saving millions",
+      "link": "https://thenewstack.io/lindy-deepseek-anthropic-switch",
+      "summary": "The biggest blocker to sustainable AI deployment has emerged as inference cost. GitHub recently abandoned its flat-rate Copilot subscription in The post This AI agent startup ditched Anthropic for DeepSeek — and says it’s saving millions appeared first on The New Stack .",
+      "published": "2026-06-09T16:17:48+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI Agents",
+        "AI Models",
+        "FinOps"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Setup AWS locally without creating an AWS account | Zero billing.",
+      "link": "https://www.youtube.com/watch?v=E016v2p2DlY",
+      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nIn this video, I will show you how you can learn the AWS, Azure and GCP cloud services practically without actually creating an account with these cloud providers and without actually paying them. \n\nI will show you how...",
+      "published": "2026-06-09T16:01:35+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/E016v2p2DlY/mqdefault.jpg"
+    },
+    {
+      "title": "When your data model is the bottleneck: lessons from Medium’s feature store",
+      "link": "https://thenewstack.io/medium-scylladb-feature-store",
+      "summary": "“Keep readers reading” is the not-so-simple goal of Medium’s recommendations system. To predict what’s most likely to appeal to a The post When your data model is the bottleneck: lessons from Medium’s feature store appeared first on The New Stack .",
+      "published": "2026-06-09T14:40:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Cynthia Dunlop",
+      "categories": [
+        "AI Infrastructure",
+        "Data",
+        "Databases",
+        "sponsor-scylladb",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How long before we stop reading the code?",
+      "link": "https://thenewstack.io/future-of-code-reviews",
+      "summary": "Don’t kill the code reviews; just move the human checkpoint upstream to reviewing intent, specs, plans, constraints, and acceptance criteria. The post How long before we stop reading the code? appeared first on The New Stack .",
+      "published": "2026-06-09T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Ankit Jain",
+      "categories": [
+        "AI Engineering",
+        "Developer tools",
+        "Software Development",
+        "sponsor-aviator",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Solving secret sprawl in multi-account Kubernetes with External Secrets Operator",
+      "link": "https://www.cncf.io/blog/2026/06/09/solving-secret-sprawl-in-multi-account-kubernetes-with-external-secrets-operator",
+      "summary": "Infrastructure provisioning in Kubernetes has become increasingly automated, but secret management often remains a challenge as environments grow. Organizations commonly separate development, staging, and production workloads across clusters, namespaces, or cloud accounts to improve security and...",
+      "published": "2026-06-09T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Viktoria Bisova, DevOps Engineer, Itigix",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The tokenmaxxing party is over, and Revenium is mopping up",
+      "link": "https://thenewstack.io/revenium-ai-cost-observability",
+      "summary": "For the past 18 months, the corporate approach to artificial intelligence has been a gold rush. The mandate was simple: The post The tokenmaxxing party is over, and Revenium is mopping up appeared first on The New Stack .",
+      "published": "2026-06-09T10:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Chris J. Preimesberger",
+      "categories": [
+        "AI Operations",
+        "FinOps",
+        "Observability"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "What's new in Azure App Service at #MSBuild 2026",
       "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/what-s-new-in-azure-app-service-at-msbuild-2026/ba-p/4526569",
@@ -4303,6 +4457,17 @@
       "thumbnail": "https://i.ytimg.com/vi/_MJ1ou-Oj-s/mqdefault.jpg"
     },
     {
+      "title": "The End of DevOps? (AWS DevOps Agent)",
+      "link": "https://www.youtube.com/watch?v=kw6W9aY-Rxk",
+      "summary": "AWS Just launched - AWS DevOps Agent , is this the end of DevOps?\n\n𝗖𝗢𝗠𝗣𝗟𝗘𝗧𝗘 COURSES  👌 It’s   🅵🆁🅴🅴 ⛳\n✅ Terraform Full Course For Beginners - #28daysofAZTerraform\nhttps://www.youtube.com/playlist?list=PLl4APkPHzsUUHlbhuq9V02n9AMLPySoEQ\n\n✅ Certified Kubernetes Administrator (CKA)...",
+      "published": "2026-05-11T11:00:06+00:00",
+      "source": "Piyush Sachdeva",
+      "type": "video",
+      "author": "Tech Tutorials with Piyush",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/kw6W9aY-Rxk/mqdefault.jpg"
+    },
+    {
       "title": "How to get engineering time back from Kubernetes upgrades",
       "link": "https://www.cncf.io/blog/2026/05/11/how-to-get-engineering-time-back-from-kubernetes-upgrades",
       "summary": "Kubernetes powers your products, but with that power and flexibility comes organizational challenges around managing complexity and maintenance. It can be tough for an organization to keep up with the speed of open source, especially at...",
@@ -4325,105 +4490,6 @@
       "author": "John Savill's Technical Training",
       "categories": [],
       "thumbnail": "https://i.ytimg.com/vi/J08rfw4UBfY/mqdefault.jpg"
-    },
-    {
-      "title": "I built a platform for DevOps Learners - Esc Bash | Launch Date delayed",
-      "link": "https://www.youtube.com/watch?v=l1ctyYlt6Bw",
-      "summary": "Join our discord server for career guidance or doubts:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- DevOps Zero to Hero Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
-      "published": "2026-05-10T17:04:46+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/l1ctyYlt6Bw/mqdefault.jpg"
-    },
-    {
-      "title": "Why 157,000 developers are hedging against Anthropic with OpenCode",
-      "link": "https://thenewstack.io/anthropic-claudecode-opencode-split",
-      "summary": "Anthropic spent its biggest developer day of the year showing what a managed coding harness looks like at full scale. The post Why 157,000 developers are hedging against Anthropic with OpenCode appeared first on The New Stack .",
-      "published": "2026-05-10T16:36:15+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Janakiram MSV",
-      "categories": [
-        "AI Agents",
-        "Developer tools",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Claude can now follow users across Outlook, Word, Excel, and PowerPoint",
-      "link": "https://thenewstack.io/claude-word-excel-powerpoint-outlook-microsoft-office",
-      "summary": "Anthropic is expanding Claude’s reach across Microsoft 365, adding Outlook support while bringing Word, Excel, and PowerPoint integrations into general The post Claude can now follow users across Outlook, Word, Excel, and PowerPoint appeared first on The New Stack .",
-      "published": "2026-05-10T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why Prometheus couldn’t see Cilium metrics at 2 a.m.",
-      "link": "https://thenewstack.io/cncf-projects-integration-production",
-      "summary": "I still remember the first time we lost sleep over something that wasn’t a bug. It was a Tuesday. Grafana The post Why Prometheus couldn’t see Cilium metrics at 2 a.m. appeared first on The New Stack .",
-      "published": "2026-05-10T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Monica White",
-      "categories": [
-        "Cloud Native Ecosystem",
-        "Kubernetes",
-        "Platform Engineering",
-        "sponsor-cncf",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Forest Tidy 9th May 2026",
-      "link": "https://www.youtube.com/watch?v=6vGmDdOx_24",
-      "summary": "7 hours of forest cleanup at my Idahome in 5 minutes!",
-      "published": "2026-05-10T13:28:25+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/6vGmDdOx_24/mqdefault.jpg"
-    },
-    {
-      "title": "Anthropic puts the “myth” in Mythos with its HackerOne bug bounty program",
-      "link": "https://thenewstack.io/anthropic-public-bug-bounty",
-      "summary": "Bug bounty programs have been a cornerstone of cybersecurity for years, serving as conduits for hackers and security researchers to The post Anthropic puts the “myth” in Mythos with its HackerOne bug bounty program appeared first on The New Stack .",
-      "published": "2026-05-10T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI Models",
-        "Developer tools",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The attack surface moved inside the agent. So did Arcjet.",
-      "link": "https://thenewstack.io/arcjet-wafs-guards-ai-agents-security",
-      "summary": "As AI agents take over more application logic, such as reading files, fetching web pages, and processing queue messages, the The post The attack surface moved inside the agent. So did Arcjet. appeared first on The New Stack .",
-      "published": "2026-05-10T12:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Darryl K. Taft",
-      "categories": [
-        "AI Agents",
-        "AI Strategy",
-        "Security"
-      ],
-      "thumbnail": ""
     }
   ]
 }
