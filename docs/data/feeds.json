@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-10T07:25:09.431721+00:00",
+    "generated_at": "2026-06-11T07:36:15.604599+00:00",
     "total_items": 322,
     "sources": [
       "AKS (Official)",
@@ -20,6 +20,160 @@
     ]
   },
   "items": [
+    {
+      "title": "Observability overload is drowning engineers",
+      "link": "https://thenewstack.io/observability-overload-is-drowning-engineers",
+      "summary": "If you can see everything, you may see nothing at all. That’s what SREs and DevOps engineers are learning as The post Observability overload is drowning engineers appeared first on The New Stack .",
+      "published": "2026-06-10T17:27:46+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Alex Wilhelm",
+      "categories": [
+        "AI Agents",
+        "AI Operations",
+        "Observability",
+        "sponsor-datadog",
+        "sponsored-webinar"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Google’s DiffusionGemma is 4x faster than its other Gemma models",
+      "link": "https://thenewstack.io/google-diffusiongemma-text-diffusion",
+      "summary": "About a year ago, Google demoed a diffusion model at its I/O developer conference, but went quiet about the technology The post Google’s DiffusionGemma is 4x faster than its other Gemma models appeared first on The New Stack .",
+      "published": "2026-06-10T17:18:54+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI Infrastructure",
+        "AI Models",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Fable 5: Guardrails and burn rate are annoying users, who say it’s still better than Opus 4.8",
+      "link": "https://thenewstack.io/fable-5-developer-reactions",
+      "summary": "On Tuesday, Anthropic debuted Fable 5, the first — and much-anticipated — generally available Mythos-class model.  Anthropic says it can work The post Fable 5: Guardrails and burn rate are annoying users, who say it’s still better than Opus 4.8 appeared first on The New Stack .",
+      "published": "2026-06-10T17:11:37+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI Agents",
+        "AI Models",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The Anthropic leader who built Claude Code says he ditched prompting — now he just writes loops.",
+      "link": "https://thenewstack.io/loop-engineering",
+      "summary": "The fastest-moving conversation in AI developer tooling this week began with a job description. Boris Cherny, head of Claude Code The post The Anthropic leader who built Claude Code says he ditched prompting — now he just writes loops. appeared first on The New Stack .",
+      "published": "2026-06-10T17:01:52+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Janakiram MSV",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "eBPF Host Routing in AKS: Faster, Low-Latency Networking with Azure CNI & ACNS",
+      "link": "https://www.youtube.com/watch?v=GU17M2DfD7c",
+      "summary": "eBPF Host Routing in Advanced Container Networking Services (ACNS) introduces a high-performance data path for networking in Azure Kubernetes Service (AKS). By moving routing logic into eBPF programs, ACNS enables packet processing directly in the kernel and bypasses traditional IPTables-based...",
+      "published": "2026-06-10T17:00:05+00:00",
+      "source": "AKS (Official)",
+      "type": "video",
+      "author": "Azure Kubernetes Service (AKS)",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/GU17M2DfD7c/mqdefault.jpg"
+    },
+    {
+      "title": "AWS can now mathematically prove your VMs are isolated",
+      "link": "https://thenewstack.io/graviton5-nitro-isolation-engine",
+      "summary": "On Wednesday, AWS announced that its Graviton5 processor is now generally available and powers two new Amazon EC2 instances: M9g The post AWS can now mathematically prove your VMs are isolated appeared first on The New Stack .",
+      "published": "2026-06-10T16:46:34+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "Containers",
+        "Science"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Microsoft pulled 73 GitHub repos after malware attack — but still won’t say who’s compromised",
+      "link": "https://thenewstack.io/microsoft-github-repos-malware",
+      "summary": "Last week, Microsoft shut down 73 of its own GitHub repositories following a malware attack that would steal developers’ credentials The post Microsoft pulled 73 GitHub repos after malware attack — but still won’t say who’s compromised appeared first on The New Stack .",
+      "published": "2026-06-10T16:40:33+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI Agents",
+        "Open Source",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Watch this before using Claude Fable 5 | Major Security Advice",
+      "link": "https://www.youtube.com/watch?v=JU5z8c26EN4",
+      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nWatch this video before you jump on to using Claude Fable 5. There is a major security advice for you in the video.\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist:...",
+      "published": "2026-06-10T16:13:17+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/JU5z8c26EN4/mqdefault.jpg"
+    },
+    {
+      "title": "AKS Community Call - US & Europe (May 2026) - Azure Kubernetes Service",
+      "link": "https://www.youtube.com/watch?v=PtsZhcijFQY",
+      "summary": "Welcome to the AKS Community Calls! These sessions foster direct interaction between our product teams and the AKS community. Engage with our teams, hear the latest updates, and gain insights into the product’s development. Join our monthly public calls to discuss the product roadmap, provide...",
+      "published": "2026-06-10T14:05:15+00:00",
+      "source": "AKS (Official)",
+      "type": "video",
+      "author": "Azure Kubernetes Service (AKS)",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/PtsZhcijFQY/mqdefault.jpg"
+    },
+    {
+      "title": "Databricks wants to kill the “email me a file” problem for AI agent skills",
+      "link": "https://thenewstack.io/databricks-opensharing-ai-agents",
+      "summary": "Databricks on Wednesday launched OpenSharing, the successor to its open-source Delta Sharing protocol. This updated protocol adds support for Apache The post Databricks wants to kill the “email me a file” problem for AI agent skills appeared first on The New Stack .",
+      "published": "2026-06-10T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI Agents",
+        "Data",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Ramp bets forward deployed engineers can do what off-the-shelf finance AI can’t",
+      "link": "https://thenewstack.io/ramp-forward-deployed-engineers-applied-ai",
+      "summary": "The forward deployed engineer (FDE), the role OpenAI and Anthropic turned into one of the most sought-after jobs in AI, The post Ramp bets forward deployed engineers can do what off-the-shelf finance AI can’t appeared first on The New Stack .",
+      "published": "2026-06-10T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Matthew Burns",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Strategy"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "How I’d Start MLOps in 2026 - 100DaysOfMLOps",
       "link": "https://www.youtube.com/watch?v=QrE_F5-XuQ0",
@@ -4337,159 +4491,6 @@
         "Blog"
       ],
       "thumbnail": ""
-    },
-    {
-      "title": "What is MLOps? A Complete Beginner’s Guide",
-      "link": "https://kodekloud.com/blog/what-is-mlops",
-      "summary": "Learn what MLOps is, the 6-stage lifecycle, top 2026 tools, salaries, and a hands-on MLflow tutorial. Beginner to pro guide.",
-      "published": "2026-05-12T06:16:23+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "MLOps",
-        "Machine Learning",
-        "AI Engineering",
-        "DevOps",
-        "ML Lifecycle",
-        "MLflow",
-        "Beginners Guide",
-        "Tutorials",
-        "Career Guide"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Running Foundry Agent Service on Azure Container Apps",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/running-foundry-agent-service-on-azure-container-apps/ba-p/4518598",
-      "summary": "Microsoft’s Customer Zero blog series gives an insider view of how Microsoft builds and operates Microsoft using our trusted, enterprise-grade agentic platform. Learn best practices from our engineering teams with real-world lessons, architectural patterns, and operational strategies for...",
-      "published": "2026-05-12T04:27:25+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "vyomnagrani",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic’s Claude Platform comes to AWS",
-      "link": "https://thenewstack.io/anthropics-claude-platform-comes-to-aws",
-      "summary": "As part of Anthropic’s and AWS’s expanded collaboration, which the two companies announced in April, Anthropic said it would bring The post Anthropic’s Claude Platform comes to AWS appeared first on The New Stack .",
-      "published": "2026-05-11T20:31:09+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Infrastructure"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AKS Day EU 2026: Azure Pre-Day - Anson Qian - AI Infrastructure",
-      "link": "https://www.youtube.com/watch?v=Wlbr4anznUQ",
-      "summary": "",
-      "published": "2026-05-11T19:07:37+00:00",
-      "source": "AKS (Official)",
-      "type": "video",
-      "author": "Azure Kubernetes Service (AKS)",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/Wlbr4anznUQ/mqdefault.jpg"
-    },
-    {
-      "title": "Anthropic trains Claude to resist blackmail & self-preservation behavior via agentic misalignment",
-      "link": "https://thenewstack.io/anthropic-agentic-misalignment-claude",
-      "summary": "Anthropic doubled down on the fight against agentic misalignment on Friday, the mechanics of which could cause AI models to The post Anthropic trains Claude to resist blackmail & self-preservation behavior via agentic misalignment appeared first on The New Stack .",
-      "published": "2026-05-11T17:26:58+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI Agents",
-        "AI Models",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How AI-native systems are built",
-      "link": "https://thenewstack.io/building-ai-native-systems",
-      "summary": "The core problem: the “brittle” enterprise Traditional enterprise software is deterministic; composed of a series of “If-Then” statements that break The post How AI-native systems are built appeared first on The New Stack .",
-      "published": "2026-05-11T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Monica White",
-      "categories": [
-        "AI Engineering",
-        "AI Operations",
-        "AI Strategy",
-        "sponsor-andela",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why your AI agent doesn’t actually remember anything",
-      "link": "https://thenewstack.io/agent-memory-decay-contamination",
-      "summary": "A few months ago, I was reviewing a customer support agent who had a strange failure pattern. A user would The post Why your AI agent doesn’t actually remember anything appeared first on The New Stack .",
-      "published": "2026-05-11T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Monica White",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Databases",
-        "sponsor-pingcap",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "EndpointSlices — how Kubernetes Services scale to thousands of pods without falling over",
-      "link": "https://www.youtube.com/watch?v=_MJ1ou-Oj-s",
-      "summary": "A Service has no pod IPs in it. So somewhere, something is keeping a list of every pod IP that matches its label selector. That somewhere is an EndpointSlice.\n\nThis is the deep dive: why the legacy Endpoints API had to die, what is actually inside a slice, the three conditions that decide who gets...",
-      "published": "2026-05-11T11:37:03+00:00",
-      "source": "Kubesimplify",
-      "type": "video",
-      "author": "Kubesimplify",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/_MJ1ou-Oj-s/mqdefault.jpg"
-    },
-    {
-      "title": "The End of DevOps? (AWS DevOps Agent)",
-      "link": "https://www.youtube.com/watch?v=kw6W9aY-Rxk",
-      "summary": "AWS Just launched - AWS DevOps Agent , is this the end of DevOps?\n\n𝗖𝗢𝗠𝗣𝗟𝗘𝗧𝗘 COURSES  👌 It’s   🅵🆁🅴🅴 ⛳\n✅ Terraform Full Course For Beginners - #28daysofAZTerraform\nhttps://www.youtube.com/playlist?list=PLl4APkPHzsUUHlbhuq9V02n9AMLPySoEQ\n\n✅ Certified Kubernetes Administrator (CKA)...",
-      "published": "2026-05-11T11:00:06+00:00",
-      "source": "Piyush Sachdeva",
-      "type": "video",
-      "author": "Tech Tutorials with Piyush",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/kw6W9aY-Rxk/mqdefault.jpg"
-    },
-    {
-      "title": "How to get engineering time back from Kubernetes upgrades",
-      "link": "https://www.cncf.io/blog/2026/05/11/how-to-get-engineering-time-back-from-kubernetes-upgrades",
-      "summary": "Kubernetes powers your products, but with that power and flexibility comes organizational challenges around managing complexity and maintenance. It can be tough for an organization to keep up with the speed of open source, especially at...",
-      "published": "2026-05-11T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Munib Ali, Director of Engineering, SRE Fairwinds",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Creating an Enterprise Data Virtualization Layer",
-      "link": "https://www.youtube.com/watch?v=J08rfw4UBfY",
-      "summary": "Why a data virtualization layer for your entire organization is critical and how to do it!\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:31 - AI and the new pressure on data\n04:50 - Silos of data\n07:55 - Data virtualization layer\n09:10 - Fabric OneLake\n13:39 - Single namespace and...",
-      "published": "2026-05-11T09:18:13+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/J08rfw4UBfY/mqdefault.jpg"
     }
   ]
 }
