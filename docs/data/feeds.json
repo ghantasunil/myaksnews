@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-06-12T07:33:52.000414+00:00",
-    "total_items": 322,
+    "generated_at": "2026-06-13T07:15:55.700570+00:00",
+    "total_items": 310,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,105 @@
     ]
   },
   "items": [
+    {
+      "title": "Federal government orders Anthropic to pull Fable 5 and Mythos 5, three days after launch",
+      "link": "https://thenewstack.io/us-gov-orders-anthropic-to-pull-fable-5-and-mythos-5-three-days-after-launch",
+      "summary": "Anthropic abruptly disabled Fable 5 and Mythos 5 for all customers Friday evening, after the US government issued an export The post Federal government orders Anthropic to pull Fable 5 and Mythos 5, three days after launch appeared first on The New Stack .",
+      "published": "2026-06-13T02:12:53+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Matthew Burns",
+      "categories": [
+        "AI",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Who gets to be Switzerland in the enterprise agent wars?",
+      "link": "https://thenewstack.io/outsystems-agent-orchestration-neutrality",
+      "summary": "Every enterprise software vendor is currently selling some version of the same thing: AI agents grounded in enterprise context and The post Who gets to be Switzerland in the enterprise agent wars? appeared first on The New Stack .",
+      "published": "2026-06-12T19:50:19+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Infrastructure"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Coding agents have questions, too — so Stack Overflow built them a home",
+      "link": "https://thenewstack.io/stack-overflow-for-agents",
+      "summary": "Stack Overflow has been the internet’s go-to troubleshooting ground for software developers for more than 15 years — the place The post Coding agents have questions, too — so Stack Overflow built them a home appeared first on The New Stack .",
+      "published": "2026-06-12T16:30:27+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure Update 12th June 2026",
+      "link": "https://www.youtube.com/watch?v=0dOmMLqrlw0",
+      "summary": "Nice selection of updates this week!\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation queue...",
+      "published": "2026-06-12T15:21:26+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/0dOmMLqrlw0/mqdefault.jpg"
+    },
+    {
+      "title": "AI DevOps Project - Terraform Drift Detector.",
+      "link": "https://www.youtube.com/watch?v=6mvBMLWRPGs",
+      "summary": "Getting started with Cursor Agents:\n- CTA Link -\n\nIn this video, I build Driftctl, a terraform drift detection platform that continuously compares your terraform state against live cloud infrastructure to catch configuration drift before it becomes an outage or compliance issue.\n\nNo terraform plan....",
+      "published": "2026-06-12T14:37:21+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/6mvBMLWRPGs/mqdefault.jpg"
+    },
+    {
+      "title": "How we solved AKS cluster sprawl - Kube & Tell - June 2026 - Azure Kubernetes Service",
+      "link": "https://www.youtube.com/watch?v=3yhudHJp3Vo",
+      "summary": "What do you do when hundreds of Kubernetes clusters are spreading across your org, each team running its own version of \"what good looks like,\" with no consistent way to stay on top of security, versions, or cost?\n\nIn this episode of Kube & Tell, Microsoft Cloud Solution Architect Vigh Madas shares...",
+      "published": "2026-06-12T12:00:27+00:00",
+      "source": "AKS (Official)",
+      "type": "video",
+      "author": "Azure Kubernetes Service (AKS)",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/3yhudHJp3Vo/mqdefault.jpg"
+    },
+    {
+      "title": "Securing CI/CD for an open source project: Locking down dependencies",
+      "link": "https://www.cncf.io/blog/2026/06/12/securing-ci-cd-for-an-open-source-project-locking-down-dependencies",
+      "summary": "Part two This is the second post in a three-part series on how Cilium hardens its CI/CD pipeline. Part 1 covered access control: who can trigger builds and what code CI is allowed to execute. This...",
+      "published": "2026-06-12T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "André Martins (Cilium maintainer and Software Engineer, Isovalent at Cisco) and Feroz Salam (Cilium Security Team and Security Engineer, Isovalent at Cisco)",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "ArchAngel: Skilling the next developer generation for the Agentic transformation.",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/archangel-skilling-the-next-developer-generation-for-the-agentic/ba-p/4525836",
+      "summary": "AI is transforming the SDLC at speed but there's a quieter question following close behind. If the code is being written for your junior developers, when do they learn the skills to become senior ones and how can they use these tools without losing understanding of what they've made? Most tools try...",
+      "published": "2026-06-12T10:13:43+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "RohitMadhavKrishnan",
+      "categories": [],
+      "thumbnail": ""
+    },
     {
       "title": "Build 2026 in 15 Minutes",
       "link": "https://www.youtube.com/watch?v=bzAH7Rrq9rM",
@@ -4201,294 +4300,6 @@
       "type": "article",
       "author": "SurenderSinghMalik",
       "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Control runtime patch updates with Platform Release Channel on Azure App Service for Linux",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/control-runtime-patch-updates-with-platform-release-channel-on/ba-p/4519570",
-      "summary": "Azure App Service for Linux is introducing Platform Release Channel , a new setting that gives you more control over when runtime patch updates are applied to your app. With this feature, you can choose how quickly your app moves to newly rolled-out runtime patches. This helps teams balance two...",
-      "published": "2026-05-14T05:31:26+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "TulikaC",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Fivetran’s CPO: Closed data stacks won’t survive the agent era",
-      "link": "https://thenewstack.io/agentic-analytics-cost-squeeze",
-      "summary": "An AI agent let loose on a data warehouse can run ten or a hundred times more queries than a The post Fivetran’s CPO: Closed data stacks won’t survive the agent era appeared first on The New Stack .",
-      "published": "2026-05-13T22:15:28+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Matthew Burns",
-      "categories": [
-        "AI Agents",
-        "Data",
-        "Databases",
-        "Podcast",
-        "sponsor-fivetran",
-        "sponsored-post",
-        "Video"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Pod CIDR Expansion on Azure CNI Overlay: Azure Kubernetes Service (AKS)",
-      "link": "https://www.youtube.com/watch?v=XC5MMt4MZqo",
-      "summary": "Learn how pod CIDR expansion enables you to scale your clusters as workload demands grow on Azure Kubernetes Services (AKS). This video demonstrations how to scale additional nodes on an Azure CNI Overlay cluster constrained by the allocated CIDR range, without needing to recreate the cluster.\n...",
-      "published": "2026-05-13T21:44:03+00:00",
-      "source": "AKS (Official)",
-      "type": "video",
-      "author": "Azure Kubernetes Service (AKS)",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/XC5MMt4MZqo/mqdefault.jpg"
-    },
-    {
-      "title": "MinIO’s MemKV promises 95% better GPU utilization by ending AI recompute tax",
-      "link": "https://thenewstack.io/minio-memkv-recompute-tax",
-      "summary": "The shiny upper surface of agentic AI services showcased in chatbots and copilots belies where the real development is happening The post MinIO’s MemKV promises 95% better GPU utilization by ending AI recompute tax appeared first on The New Stack .",
-      "published": "2026-05-13T20:27:46+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI Infrastructure",
-        "AI Models",
-        "Data"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "DevOps Live - May 13th | As me anything session",
-      "link": "https://www.youtube.com/watch?v=9LGlNCJe1vE",
-      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
-      "published": "2026-05-13T18:45:53+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/9LGlNCJe1vE/mqdefault.jpg"
-    },
-    {
-      "title": "Kubernetes v1.36: Advancing Workload-Aware Scheduling",
-      "link": "https://kubernetes.io/blog/2026/05/13/kubernetes-v1-36-advancing-workload-aware-scheduling",
-      "summary": "AI/ML and batch workloads introduce unique scheduling challenges that go beyond simple Pod-by-Pod scheduling.\nIn Kubernetes v1.35, we introduced the first tranche of workload-aware scheduling improvements,\nfeaturing the foundational Workload API alongside basic gang scheduling support built on a...",
-      "published": "2026-05-13T18:35:00+00:00",
-      "source": "Kubernetes Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Introducing Azure Container Apps Express!",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/introducing-azure-container-apps-express/ba-p/4519150",
-      "summary": "Three years ago, a 15-second cold start was industry-leading. Today, developers and AI agents expect sub-second. The speed bar has moved, and the tooling needs to move with it. After running Azure Container Apps for years, we've learned something important: for most developers, the ACA environment...",
-      "published": "2026-05-13T17:42:31+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "simonjj",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "RAG Tutorials don't teach you this | Must Watch",
-      "link": "https://www.youtube.com/watch?v=AZviMnxP5GI",
-      "summary": "- Get started with Auth0 FGA for FREE:\nhttp://a0.to/5j7\n\nEveryone talks about embeddings, vector databases, chunking, and prompts in RAG systems.\n\nAlmost nobody talks about security and that is a serious problem.\n\nIn this video, we break down one of the biggest hidden risks in AI applications:...",
-      "published": "2026-05-13T17:01:07+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/AZviMnxP5GI/mqdefault.jpg"
-    },
-    {
-      "title": "CNCF Debuts KubeCon + CloudNativeCon Japan 2026 Schedule",
-      "link": "https://www.cncf.io/announcements/2026/05/13/cncf-debuts-kubecon-cloudnativecon-japan-2026-schedule",
-      "summary": "Second annual Japanese event to spotlight AI, observability, platform engineering and more Key Highlights: YOKOHAMA, Japan, May 13, 2026 – The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for cloud native software, today announced...",
-      "published": "2026-05-13T16:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "kthornhill",
-      "categories": [
-        "Announcements"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Red Hat’s skill packs give AI agents something a bigger model never could: 20 years of institutional memory",
-      "link": "https://thenewstack.io/red-hat-agentic-skills-repository",
-      "summary": "Red Hat believes giving users access to agent skills will be AI’s next inflection point.  At the Red Hat Summit The post Red Hat’s skill packs give AI agents something a bigger model never could: 20 years of institutional memory appeared first on The New Stack .",
-      "published": "2026-05-13T15:27:37+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Steven J. Vaughan-Nichols",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Infrastructure",
-        "AI Strategy"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic’s Claude Code agent view is a better dashboard. So why aren’t developers convinced?",
-      "link": "https://thenewstack.io/claude-code-agent-view",
-      "summary": "This week, Anthropic announced agent view in Claude Code, a CLI dashboard that lets developers manage multiple Claude Code sessions The post Anthropic’s Claude Code agent view is a better dashboard. So why aren’t developers convinced? appeared first on The New Stack .",
-      "published": "2026-05-13T15:13:43+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI’s Daybreak and Anthropic’s Glasswing have nearly identical benchmarks — and 3 of the same partners",
-      "link": "https://thenewstack.io/openai-daybreak-anthropic-glasswing",
-      "summary": "This week, OpenAI launched Daybreak, its cybersecurity initiative built around GPT-5.5, a tiered access framework, and Codex Security as the The post OpenAI’s Daybreak and Anthropic’s Glasswing have nearly identical benchmarks — and 3 of the same partners appeared first on The New Stack .",
-      "published": "2026-05-13T15:04:04+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Janakiram MSV",
-      "categories": [
-        "AI Models",
-        "AI Strategy",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "I tested OpenAI’s three claims about GPT-5.5 Instant, and only one fully held up",
-      "link": "https://thenewstack.io/gpt55-instant-vs-gpt52-tested",
-      "summary": "Last week, OpenAI replaced GPT-5.3 Instant as ChatGPT’s default model with GPT-5.5 Instant, rolling it out to all users for The post I tested OpenAI’s three claims about GPT-5.5 Instant, and only one fully held up appeared first on The New Stack .",
-      "published": "2026-05-13T14:50:41+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Nick Lucchesi",
-      "categories": [
-        "AI",
-        "AI Models",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Temporal hits 3,000 paying customers with its crash-proof workflow engine",
-      "link": "https://thenewstack.io/temporal-durable-execution-ai-workflows",
-      "summary": "If you work the high wire at a circus, you’d better have a net down below if you want to The post Temporal hits 3,000 paying customers with its crash-proof workflow engine appeared first on The New Stack .",
-      "published": "2026-05-13T13:48:49+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Nick Lucchesi",
-      "categories": [
-        "AI Infrastructure",
-        "Open Source",
-        "Software Development",
-        "sponsor-temporal",
-        "sponsored-event-coverage",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to build a skills library for your engineering team",
-      "link": "https://thenewstack.io/engineering-team-skills-library",
-      "summary": "A few months ago, we realized that every engineer on our team was running a different version of their AI The post How to build a skills library for your engineering team appeared first on The New Stack .",
-      "published": "2026-05-13T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Monica White",
-      "categories": [
-        "AI Engineering",
-        "Developer tools",
-        "Platform Engineering",
-        "sponsor-port",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Cloud native application challenges: installing the walking skeleton",
-      "link": "https://thenewstack.io/kubernetes-yaml-management-scale",
-      "summary": "Editor’s note: This article is an excerpt from Chapter 1 of the Manning book, Platform Engineering on Kubernetes. This excerpt The post Cloud native application challenges: installing the walking skeleton appeared first on The New Stack .",
-      "published": "2026-05-13T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Monica White",
-      "categories": [
-        "Cloud Native Ecosystem",
-        "Kubernetes",
-        "Platform Engineering",
-        "sponsor-chronosphere",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Cimento emerges from stealth to secure the one thing no firewall can protect",
-      "link": "https://thenewstack.io/cimento-human-risk-ai",
-      "summary": "The security industry has spent decades and billions of dollars building tools to protect systems. The founders of Cimento, which The post Cimento emerges from stealth to secure the one thing no firewall can protect appeared first on The New Stack .",
-      "published": "2026-05-13T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Darryl K. Taft",
-      "categories": [
-        "AI Agents",
-        "AI Strategy",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why agent harnesses fail inside cloud-native systems",
-      "link": "https://thenewstack.io/agent-harness-distributed-feedback-problem",
-      "summary": "Coding agents perform better with a harness that gives them the tools, guidance, and feedback signals to know what to The post Why agent harnesses fail inside cloud-native systems appeared first on The New Stack .",
-      "published": "2026-05-13T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Monica White",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Cloud Native Ecosystem",
-        "sponsor-signadot",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why enterprise AI needs customization",
-      "link": "https://thenewstack.io/enterprise-ai-model-customization",
-      "summary": "Most organizations are approaching AI adoption the same way they once bought enterprise software: pick a vendor, standardize on a The post Why enterprise AI needs customization appeared first on The New Stack .",
-      "published": "2026-05-13T12:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Monica White",
-      "categories": [
-        "AI Models",
-        "AI Strategy",
-        "FinOps",
-        "sponsor-gitlab",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Building a cloud native platform from the ground up with Kairos, k0rdent, and bindy",
-      "link": "https://www.cncf.io/blog/2026/05/13/building-a-cloud-native-platform-from-the-ground-up-with-kairos-k0rdent-and-bindy",
-      "summary": "As we shared in our earlier post on FluxCD, RBC Capital Markets has been on a deliberate journey to modernize our Kubernetes platform. GitOps with FluxCD gave us a solid deployment foundation. But as our platform grew,...",
-      "published": "2026-05-13T11:30:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Erick Bourgeois, Director & Head of Kubernetes Platform Engineering, RBC Capital Markets",
-      "categories": [
-        "Blog"
-      ],
       "thumbnail": ""
     }
   ]
