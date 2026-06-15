@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-06-14T07:32:51.859181+00:00",
-    "total_items": 304,
+    "generated_at": "2026-06-15T07:52:48.056277+00:00",
+    "total_items": 296,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,77 @@
     ]
   },
   "items": [
+    {
+      "title": "Spotlight on SIG Storage",
+      "link": "https://kubernetes.io/blog/2026/06/15/sig-storage-spotlight-2026",
+      "summary": "In our ongoing SIG Spotlight series, we shine a light on the groups that keep the Kubernetes project\nmoving forward. This time, we catch up with SIG\nStorage , the group responsible\nfor persistent data, volume management, and the interfaces that connect Kubernetes workloads to the\nstorage systems...",
+      "published": "2026-06-15T00:00:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "The future of AI is at risk | Hence proved",
+      "link": "https://www.youtube.com/watch?v=cC_ROMZ4S0s",
+      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nAnthropic's decision to block Fable5 has sparked a major debate in the AI industry. What happened, why it matters, and what it means for startups building on third-party AI models.\n\nIn this video, I will show you how you...",
+      "published": "2026-06-14T17:03:53+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/cC_ROMZ4S0s/mqdefault.jpg"
+    },
+    {
+      "title": "Xiaomi’s MiMo Code claims it beats Claude Code past 200 steps",
+      "link": "https://thenewstack.io/coding-agent-endurance-gap",
+      "summary": "A coding agent that scaffolds a working app over lunch will routinely stall around 30 steps into a production refactor. The post Xiaomi’s MiMo Code claims it beats Claude Code past 200 steps appeared first on The New Stack .",
+      "published": "2026-06-14T17:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Janakiram MSV",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "What your logs can’t tell you when an AI agent acts alone",
+      "link": "https://thenewstack.io/audit-trails-revenue-asset",
+      "summary": "For a long time, logs lived in a strange purgatory: technically required, rarely read, and mostly forgotten until something broke. The post What your logs can’t tell you when an AI agent acts alone appeared first on The New Stack .",
+      "published": "2026-06-14T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Mohit Bansal",
+      "categories": [
+        "AI Agents",
+        "Compliance",
+        "Security",
+        "sponsor-webflow",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "PagerDuty’s CAIO says most AI incident tools are missing a critical layer",
+      "link": "https://thenewstack.io/ai-incident-management-harness",
+      "summary": "AI is empowering software teams to ship code faster than ever. Given that an average of 70% of incidents stem The post PagerDuty’s CAIO says most AI incident tools are missing a critical layer appeared first on The New Stack .",
+      "published": "2026-06-14T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "João Freitas",
+      "categories": [
+        "AI Agents",
+        "AI Operations",
+        "Model Context Protocol (MCP)",
+        "sponsor-pagerduty",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Fable 5 and Mythos 5 remain suspended: “The ball is in Anthropic’s court”",
       "link": "https://thenewstack.io/fable-5-and-mythos-5-remain-suspended-the-ball-is-in-anthropics-court",
@@ -4049,192 +4120,6 @@
         "AI Agents",
         "AI Strategy"
       ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why Block handed Goose to the Linux Foundation",
-      "link": "https://thenewstack.io/block-goose-agentic-foundation",
-      "summary": "Internal tools can become powerful external services. Such was the case with Amazon’s cloud, which became AWS. And so too The post Why Block handed Goose to the Linux Foundation appeared first on The New Stack .",
-      "published": "2026-05-15T22:37:35+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Nick Lucchesi",
-      "categories": [
-        "AI Agents",
-        "Model Context Protocol (MCP)",
-        "Open Source",
-        "Podcast",
-        "sponsor-cncf",
-        "sponsored-podcast",
-        "sponsored-post",
-        "Video"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "MLOps vs DevOps vs DataOps: Key Differences Explained",
-      "link": "https://kodekloud.com/blog/mlops-vs-devops-vs-dataops",
-      "summary": "MLOps vs DevOps vs DataOps compared: artifacts, testing, tools, 2026 salaries, and which Ops you should actually learn first.",
-      "published": "2026-05-15T18:54:04+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "MLOps",
-        "DevOps",
-        "DataOps",
-        "Machine Learning",
-        "AI Engineering",
-        "Comparison Guide",
-        "Engineering Roles",
-        "Career Guide",
-        "Data Engineering"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kubernetes v1.36: New Metric for Route Sync in the Cloud Controller Manager",
-      "link": "https://kubernetes.io/blog/2026/05/15/ccm-new-metric-route-sync-total",
-      "summary": "This article was originally published with the wrong date. It was later republished, dated the 15th of\nMay 2026. Kubernetes v1.36 introduces a new alpha counter metric route_controller_route_sync_total to the Cloud Controller Manager (CCM) route controller implementation at k8s.io/cloud-provider ....",
-      "published": "2026-05-15T18:35:00+00:00",
-      "source": "Kubernetes Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kubernetes v1.36: Mixed Version Proxy Graduates to Beta",
-      "link": "https://kubernetes.io/blog/2026/05/15/kubernetes-1-36-feature-mixed-version-proxy-beta",
-      "summary": "Back in Kubernetes 1.28, we introduced the Mixed Version Proxy (MVP) as an Alpha feature (under the feature gate UnknownVersionInteroperabilityProxy ) in a previous blog post . The goal was simple but critical: make cluster upgrades safer by ensuring that requests for resources not yet known to an...",
-      "published": "2026-05-15T18:00:00+00:00",
-      "source": "Kubernetes Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "From Copilots to Coworkers: How AI Agents Are Transforming Azure Networking Operations",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/from-copilots-to-coworkers-how-ai-agents-are-transforming-azure/ba-p/4519850",
-      "summary": "Microsoft's Customer Zero blog series gives an insider view of how Microsoft builds and operates Microsoft using our trusted, enterprise-grade IQ platform. Learn best practices from our engineering teams with real-world lessons, architectural patterns, and operational strategies for pressure-tested...",
-      "published": "2026-05-15T17:45:28+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "dbillor",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "AWS found bugs in 60% of software requirements. Its fix isn’t more AI — it’s a 50-year-old logic engine.",
-      "link": "https://thenewstack.io/kiro-requirements-analysis-automated-reasoning",
-      "summary": "The most expensive bugs in software aren’t in the code. They’re in the requirements that guide the code’s construction. That’s The post AWS found bugs in 60% of software requirements. Its fix isn’t more AI — it’s a 50-year-old logic engine. appeared first on The New Stack .",
-      "published": "2026-05-15T16:26:02+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Darryl K. Taft",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "AI Strategy"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The software fix that could shrink AI’s energy bill without new hardware",
-      "link": "https://thenewstack.io/streaming-ai-energy-efficiency",
-      "summary": "The load on the energy infrastructure that AI is placing should not be underestimated. Most approaches to addressing the AI The post The software fix that could shrink AI’s energy bill without new hardware appeared first on The New Stack .",
-      "published": "2026-05-15T16:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Monica White",
-      "categories": [
-        "AI Infrastructure",
-        "AI Operations",
-        "Data Streaming",
-        "sponsor-confluent",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why AI is failing in the security operations center",
-      "link": "https://thenewstack.io/elastic-ai-soc-data-unification",
-      "summary": "If you believe all the vendor ads out there, AI tools built to boost your company’s security operations center (SOC) The post Why AI is failing in the security operations center appeared first on The New Stack .",
-      "published": "2026-05-15T15:57:06+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Nick Lucchesi",
-      "categories": [
-        "AI Agents",
-        "AI Strategy",
-        "Security",
-        "sponsor-elastic",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Azure Update 15th May 2026",
-      "link": "https://www.youtube.com/watch?v=yoVH_44xb_E",
-      "summary": "Quick update this week!\n\nLinkedIn article - https://www.linkedin.com/posts/john-savill_leadershipmindset-emotionalintelligence-confidenceatwork-activity-7460281674388393984-Vh02?utm_source=share&utm_medium=member_desktop&rcm=ACoAACHZlJQBbQAlcm7Lwga0T3EFt92y3yJVlFI\n\n🔎 Looking for content on a...",
-      "published": "2026-05-15T15:20:01+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/yoVH_44xb_E/mqdefault.jpg"
-    },
-    {
-      "title": "The hidden cost of build vs. buy for agentic AI in regulated industries",
-      "link": "https://thenewstack.io/agentic-ai-build-buy",
-      "summary": "Regulated industries know this pattern well: A new capability emerges. Teams spin up point solutions, each one solving a discrete The post The hidden cost of build vs. buy for agentic AI in regulated industries appeared first on The New Stack .",
-      "published": "2026-05-15T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Monica White",
-      "categories": [
-        "AI Agents",
-        "AI Strategy",
-        "Compliance",
-        "sponsor-gitlab",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Extending AI gateways with Rust: Custom transformations in agentgateway and kgateway",
-      "link": "https://www.cncf.io/blog/2026/05/15/extending-ai-gateways-with-rust-custom-transformations-in-agentgateway-and-kgateway",
-      "summary": "Every gateway ships with a set of built-in policies. Authentication. Rate limiting. Request routing. Prompt guards. These cover most use cases. But what about the ones they don’t cover? What if you need to add a...",
-      "published": "2026-05-15T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Michael Uzukwu, kgateway and agentgateway Contributor",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "New SSH helper aliases for Python apps on Azure App Service for Linux",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/new-ssh-helper-aliases-for-python-apps-on-azure-app-service-for/ba-p/4520111",
-      "summary": "Troubleshooting a running application often starts with SSH. To make that experience simpler for Python apps on Azure App Service for Linux, we have added new SSH helper aliases for common app, log, networking, and Azure AI Foundry diagnostics. When you SSH into your application, you will now see...",
-      "published": "2026-05-15T10:37:16+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "TulikaC",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Simplifying FastAPI Deployments on Azure App Service for Linux",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/simplifying-fastapi-deployments-on-azure-app-service-for-linux/ba-p/4520103",
-      "summary": "Deploying FastAPI apps to Azure App Service for Linux is now simpler. Previously, when you deployed a FastAPI application, you needed to configure a custom startup command so the app could run correctly with an ASGI server. This added an extra step to the deployment flow and could create friction,...",
-      "published": "2026-05-15T10:25:16+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "TulikaC",
-      "categories": [],
       "thumbnail": ""
     }
   ]
