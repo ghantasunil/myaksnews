@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-06-16T07:52:57.651605+00:00",
-    "total_items": 300,
+    "generated_at": "2026-06-17T07:45:24.417273+00:00",
+    "total_items": 302,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -13,13 +13,102 @@
       "KodeKloud",
       "Kubernetes Blog",
       "Kubesimplify",
-      "LearnK8s",
       "Piyush Sachdeva",
       "Rawkode Academy",
       "The New Stack"
     ]
   },
   "items": [
+    {
+      "title": "Databricks wants to merge the two databases every company runs",
+      "link": "https://thenewstack.io/databricks-is-rebuilding-the-data-stack-for-ai-agents",
+      "summary": "Databricks wants to erase the divide between the databases that run a business and the systems that analyze it. At The post Databricks wants to merge the two databases every company runs appeared first on The New Stack .",
+      "published": "2026-06-16T21:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Infrastructure"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "SpaceX acquires Cursor for $60 billion. Can it fix Musk’s coding division?",
+      "link": "https://thenewstack.io/spacex-cursor-ai-coding",
+      "summary": "Today it was announced SpaceX will buy Anysphere, Inc., maker of AI coding agent Cursor, for $60 billion.  The news The post SpaceX acquires Cursor for $60 billion. Can it fix Musk’s coding division? appeared first on The New Stack .",
+      "published": "2026-06-16T18:30:45+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why did my AWS bill spike? There’s now an agent for that",
+      "link": "https://thenewstack.io/aws-finops-agent-ai",
+      "summary": "Amazon Web Services has added a third specialized “frontier agent” to its growing portfolio of AI tools aimed at IT The post Why did my AWS bill spike? There’s now an agent for that appeared first on The New Stack .",
+      "published": "2026-06-16T15:15:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Infrastructure"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The siloed-data era is over. Here’s what comes next for AI agents.",
+      "link": "https://thenewstack.io/agentic-ai-data-foundation",
+      "summary": "Some 700 million people now use ChatGPT every week. Now, the next phase of AI is well underway, as agentic The post The siloed-data era is over. Here’s what comes next for AI agents. appeared first on The New Stack .",
+      "published": "2026-06-16T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "TNS Staff",
+      "categories": [
+        "AI Agents",
+        "Data",
+        "eBook Series Article",
+        "sponsor-heroku",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect",
+      "link": "https://thenewstack.io/anthropic-pauses-claude-agent-sdk-subscription-change",
+      "summary": "Anthropic has hit pause on a billing change affecting developers who use its Claude Agent SDK through a paid subscription The post Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect appeared first on The New Stack .",
+      "published": "2026-06-16T12:07:51+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "From data residency to digital sovereignty: Architectural patterns for  cloud native platforms",
+      "link": "https://www.cncf.io/blog/2026/06/16/from-data-residency-to-digital-sovereignty-architectural-patterns-for-cloud-native-platforms",
+      "summary": "Over the past two years, digital sovereignty has evolved from a policy discussion into a practical platform engineering concern. The EU Data Act has been fully applicable since January 11, 2025. NIS-2 and DORA already shape...",
+      "published": "2026-06-16T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Hrittik Roy, CNCF Ambassador",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "The Anthropic Fable mess, explained",
       "link": "https://thenewstack.io/anthropic-fable-mess-explained",
@@ -4133,53 +4222,6 @@
       "author": "prafullawani",
       "categories": [],
       "thumbnail": ""
-    },
-    {
-      "title": "AI-901 Microsoft Azure AI Fundamentals Study Cram",
-      "link": "https://www.youtube.com/watch?v=a-yuXz_uV30",
-      "summary": "Key information to help pass the AI-901 certification exam.\n\nSet an environment variable:\n$Env:AZURE_OPENAI_KEY = 'YOURKEYHERE'\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:37 - Study resources\n02:49 - What is AI\n05:30 - Assistants and agents\n07:15 - Responsible AI\n09:35 - Azure and...",
-      "published": "2026-05-18T06:41:14+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/a-yuXz_uV30/mqdefault.jpg"
-    },
-    {
-      "title": "Kubelet Metrics: How cAdvisor and CRI Collect Kubernetes Stats",
-      "link": "https://learnkube.com/kubernetes-metrics-cadvisor-kubelet-cri",
-      "summary": "Learn how kubelet collects Kubernetes metrics from cgroups, cAdvisor, containerd and CRI, and when pod and container stats move to the runtime.",
-      "published": "2026-05-18T00:00:00+00:00",
-      "source": "LearnK8s",
-      "type": "article",
-      "author": "Gulcan Topcu",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "The Mac mini just became infrastructure",
-      "link": "https://thenewstack.io/mac-mini-agent-infrastructure",
-      "summary": "On April 30, Apple’s Q2 2026 earnings call did something unusual. Tim Cook spent meaningful airtime on Mac mini and The post The Mac mini just became infrastructure appeared first on The New Stack .",
-      "published": "2026-05-17T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Janakiram MSV",
-      "categories": [
-        "AI Infrastructure",
-        "Hardware"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Logs, Metrics and Traces - 3 pillars of Observability",
-      "link": "https://www.youtube.com/watch?v=GsW0-uiCwqQ",
-      "summary": "Introduction to Logs, Metrics and Traces in Observability\n\n𝗖𝗢𝗠𝗣𝗟𝗘𝗧𝗘 COURSES  👌 It’s   🅵🆁🅴🅴 ⛳\n✅ Terraform Full Course For Beginners - #28daysofAZTerraform\nhttps://www.youtube.com/playlist?list=PLl4APkPHzsUUHlbhuq9V02n9AMLPySoEQ\n\n✅ Certified Kubernetes Administrator (CKA)...",
-      "published": "2026-05-17T11:00:06+00:00",
-      "source": "Piyush Sachdeva",
-      "type": "video",
-      "author": "Tech Tutorials with Piyush",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/GsW0-uiCwqQ/mqdefault.jpg"
     }
   ]
 }
