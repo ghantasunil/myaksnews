@@ -1,11 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-06-17T07:45:24.417273+00:00",
-    "total_items": 302,
+    "generated_at": "2026-06-18T07:37:19.943659+00:00",
+    "total_items": 306,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
       "Abhishek Veeramalla",
+      "Alex Ellis",
       "Apps on Azure",
       "CNCF Blog",
       "Helm Blog",
@@ -19,6 +20,240 @@
     ]
   },
   "items": [
+    {
+      "title": "Flipkart Wins CNCF End User Case Study Contest for Kubernetes and Chaos Engineering Scale",
+      "link": "https://www.cncf.io/announcements/2026/06/17/flipkart-wins-cncf-end-user-case-study-contest-for-kubernetes-and-chaos-engineering-scale",
+      "summary": "Integration of LitmusChaos with Kubernetes-native architecture drives production-grade reliability for India’s largest e-commerce platform Key Highlights KUBECON + CLOUDNATIVECON INDIA, MUMBAI, India — June 18, 2026 — The Cloud Native Computing Foundation® (CNCF®), which builds sustainable...",
+      "published": "2026-06-18T06:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "kthornhill",
+      "categories": [
+        "Announcements"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Expanding CARE: Passing CKS can now extend your CKA certification",
+      "link": "https://www.cncf.io/blog/2026/06/17/expanding-care-passing-cks-can-now-extend-your-cka-certification",
+      "summary": "A few months ago, CNCF introduced the CARE Program — Certification Advancement & Recertification Experience — to make it easier for certified professionals to keep their credentials current as they continue growing their cloud native skills....",
+      "published": "2026-06-18T04:50:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Christophe Sauthier, Cloud Native Training and Certification Lead",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "CNCF and SlashData Report Confirms India as One of the Largest Cloud Native Communities with 2.25 Million Developers",
+      "link": "https://www.cncf.io/announcements/2026/06/17/cncf-and-slashdata-report-confirms-india-as-one-of-the-largest-cloud-native-communities-with-2-25-million-developers",
+      "summary": "New research released at KubeCon + CloudNativeCon India highlights rising hybrid cloud adoption, platform engineering maturity and growing cloud native AI development Key Highlights: MUMBAI – KubeCon + CloudNativeCon India —June 18, 2026— The Cloud Native...",
+      "published": "2026-06-18T03:30:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Haley White",
+      "categories": [
+        "Announcements"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "CNCF Welcomes New Silver Members as Global Demand for Cloud Native Infrastructure Grows",
+      "link": "https://www.cncf.io/announcements/2026/06/17/cncf-welcomes-new-silver-members-as-global-demand-for-cloud-native-infrastructure-grows",
+      "summary": "New organizations join CNCF as enterprises expand Kubernetes adoption for platform engineering and AI workloads MUMBAI – KubeCon + CloudNativeCon India —June 18, 2026— The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for cloud...",
+      "published": "2026-06-18T03:30:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Haley White",
+      "categories": [
+        "Announcements"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“A data lake of nuance for AI agents to swim in”: AWS Context gets shipshape on reasoning",
+      "link": "https://thenewstack.io/aws-context-knowledge-graph-agents",
+      "summary": "AI consumes a lot of data, but all-you-can-eat data in the world of agentic intelligence eventually loses its flavor. Simply The post “A data lake of nuance for AI agents to swim in”: AWS Context gets shipshape on reasoning appeared first on The New Stack .",
+      "published": "2026-06-17T18:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Data"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kiro goes mobile: AWS brings agentic coding supervision to the iPhone",
+      "link": "https://thenewstack.io/aws-kiro-mobile-ios-agentic-coding",
+      "summary": "AWS has launched a native iOS app for Kiro, its AI-powered development environment, giving developers a way to monitor, steer, The post Kiro goes mobile: AWS brings agentic coding supervision to the iPhone appeared first on The New Stack .",
+      "published": "2026-06-17T17:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "AI Agents",
+        "Developer tools",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Vercel launches eve, an open-source framework that treats agents as directories",
+      "link": "https://thenewstack.io/vercel-launches-eve-an-open-source-framework-that-treats-agents-as-directories",
+      "summary": "Vercel on Wednesday launched eve, a new open-source framework for building AI agents that treats each agent as a directory of The post Vercel launches eve, an open-source framework that treats agents as directories appeared first on The New Stack .",
+      "published": "2026-06-17T16:59:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "This is how you get ahead of 99 percent DevOps Engineers.",
+      "link": "https://www.youtube.com/watch?v=BexqAT_nL6k",
+      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
+      "published": "2026-06-17T16:57:09+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/BexqAT_nL6k/mqdefault.jpg"
+    },
+    {
+      "title": "How Block manages its fleet of AI coding agents from Slack",
+      "link": "https://thenewstack.io/how-block-manages-its-fleet-of-ai-coding-agents-from-slack",
+      "summary": "Most AI coding tools work well inside a single repository. But few of them can operate across hundreds of services The post How Block manages its fleet of AI coding agents from Slack appeared first on The New Stack .",
+      "published": "2026-06-17T16:01:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Chainguard Agent Skills matures",
+      "link": "https://thenewstack.io/chainguard-agent-skills-matures",
+      "summary": "Chainguard is expanding its push to secure the fast‑growing world of AI coding agents with a new public registry of The post Chainguard Agent Skills matures appeared first on The New Stack .",
+      "published": "2026-06-17T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Steven J. Vaughan-Nichols",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AWS puts an AI bouncer at the merge queue",
+      "link": "https://thenewstack.io/aws-devops-agent-ai-delivery-pipeline",
+      "summary": "The bottleneck in software development has moved.  Writing code is no longer the constraint. Getting it safely to production is. The post AWS puts an AI bouncer at the merge queue appeared first on The New Stack .",
+      "published": "2026-06-17T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "DevOps"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“Agents need boring infrastructure around them”: Why we need to take an interest in ‘invisible’ AI",
+      "link": "https://thenewstack.io/tailscale-aperture-ai-agent-infrastructure",
+      "summary": "AI is already inside most enterprises’ IT stacks, but it’s had a somewhat shambolic and unsystematic early adolescence. Employees use The post “Agents need boring infrastructure around them”: Why we need to take an interest in ‘invisible’ AI appeared first on The New Stack .",
+      "published": "2026-06-17T13:44:22+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Google, Microsoft, and OpenAI join forces to help create AI’s missing trust layer",
+      "link": "https://thenewstack.io/google-microsoft-and-openai-join-forces-to-help-create-ais-missing-trust-layer",
+      "summary": "The Linux Foundation has long transcended its roots as a steward of the Linux kernel, emerging as a “foundation of The post Google, Microsoft, and OpenAI join forces to help create AI’s missing trust layer appeared first on The New Stack .",
+      "published": "2026-06-17T13:27:38+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Infrastructure",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Your AI isn’t broken. Your data is.",
+      "link": "https://thenewstack.io/clario-data-enterprise-ai-rot",
+      "summary": "Enterprises are pouring billions into AI and getting garbage back. A new startup says it knows why and has built The post Your AI isn’t broken. Your data is. appeared first on The New Stack .",
+      "published": "2026-06-17T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "AI",
+        "Data"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure Files Identity Update",
+      "link": "https://www.youtube.com/watch?v=sXNyXRgQTPs",
+      "summary": "Look at the big changes for Entra integrated authentication.\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:38 - Managed identity access\n03:35 - Cloud-only identity access\n06:08 - macOS PSSO access\n07:22 - Close\n\n▬▬▬▬▬▬  Want to learn more? 🚀  ▬▬▬▬▬▬ \n📖 Recommended Learning Path for...",
+      "published": "2026-06-17T12:43:23+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/sXNyXRgQTPs/mqdefault.jpg"
+    },
+    {
+      "title": "Why cloud native belongs at the heart of agentic AI: Lessons from building a multi-agent security platform on Kubernetes",
+      "link": "https://www.cncf.io/blog/2026/06/17/why-cloud-native-belongs-at-the-heart-of-agentic-ai-lessons-from-building-a-multi-agent-security-platform-on-kubernetes",
+      "summary": "In March, I gave a talk at KubeCon + CloudNativeCon Europe 2026 in Amsterdam. After the session, the same questions kept coming up on the CNCF Slack and in person: why build agentic AI on cloud...",
+      "published": "2026-06-17T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Willem Berroubache, Lead Security Architect (Orange Innovation) and CNCF Golden Kubestronaut.",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Local Qwen isn't a worse Opus, it's a different tool",
+      "link": "https://blog.alexellis.io/local-ai-is-not-opus",
+      "summary": "We've all heard people say that Qwen is near-Opus level, but I have receipts and am here to be transparent with you.",
+      "published": "2026-06-17T00:00:00+00:00",
+      "source": "Alex Ellis",
+      "type": "article",
+      "author": "Alex Ellis",
+      "categories": [
+        "llm",
+        "localai",
+        "agents"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Databricks wants to merge the two databases every company runs",
       "link": "https://thenewstack.io/databricks-is-rebuilding-the-data-stack-for-ai-agents",
@@ -4057,170 +4292,6 @@
       "categories": [
         "Blog"
       ],
-      "thumbnail": ""
-    },
-    {
-      "title": "What Is OpenTelemetry | Otel vs Legacy Observability",
-      "link": "https://www.youtube.com/watch?v=qX1pwf6njX4",
-      "summary": "Opentelemetry explained\n\n𝗖𝗢𝗠𝗣𝗟𝗘𝗧𝗘 COURSES  👌 It’s   🅵🆁🅴🅴 ⛳\n✅ Terraform Full Course For Beginners - #28daysofAZTerraform\nhttps://www.youtube.com/playlist?list=PLl4APkPHzsUUHlbhuq9V02n9AMLPySoEQ\n\n✅ Certified Kubernetes Administrator (CKA)...",
-      "published": "2026-05-19T02:00:06+00:00",
-      "source": "Piyush Sachdeva",
-      "type": "video",
-      "author": "Tech Tutorials with Piyush",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/qX1pwf6njX4/mqdefault.jpg"
-    },
-    {
-      "title": "Safe Rollouts Start with Signals: Introducing Scorecards in Azure App Configuration",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/safe-rollouts-start-with-signals-introducing-scorecards-in-azure/ba-p/4520881",
-      "summary": "Applications are rarely changed all at once anymore. Teams use feature flags, targeting rules, and progressive rollout patterns to introduce changes gradually and reduce risk. This rollout model gives teams more than a safer way to control exposure. It also creates the context to understand what...",
-      "published": "2026-05-18T19:59:18+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "mukta",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why Google’s Remy leaks have enterprise architects rethinking the AI stack",
-      "link": "https://thenewstack.io/google-remy-agent-infrastructure",
-      "summary": "Google’s reported development of Remy, a new OpenClaw-style agent that can perform actions on a user’s behalf, has lit up The post Why Google’s Remy leaks have enterprise architects rethinking the AI stack appeared first on The New Stack .",
-      "published": "2026-05-18T19:22:18+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "AI Operations"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "GitHub will start paying some bug bounty hunters in swag instead of cash",
-      "link": "https://thenewstack.io/github-bug-bounty-ai-slop",
-      "summary": "Bug bounties have served as one of cybersecurity’s core pressure valves for decades, giving independent researchers a structured way to The post GitHub will start paying some bug bounty hunters in swag instead of cash appeared first on The New Stack .",
-      "published": "2026-05-18T19:01:47+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AI security readiness is now the No. 1 obstacle to adoption, Linux Foundation finds",
-      "link": "https://thenewstack.io/ai-security-readiness-crisis",
-      "summary": "Security readiness has emerged as the single biggest obstacle to AI adoption and innovation, according to a new Linux Foundation The post AI security readiness is now the No. 1 obstacle to adoption, Linux Foundation finds appeared first on The New Stack .",
-      "published": "2026-05-18T18:55:53+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Steven J. Vaughan-Nichols",
-      "categories": [
-        "AI",
-        "AI Strategy",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The Rise of AI-Driven Container Security: How Gen AI Is Changing DevSecOps",
-      "link": "https://kodekloud.com/blog/the-rise-of-ai-driven-container-security-how-gen-ai-is-changing-devsecops",
-      "summary": "Explore how generative AI and ML are transforming container security with faster alert triage, automated remediation and smarter threat detection",
-      "published": "2026-05-18T18:54:43+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "Security",
-        "AI Security",
-        "Container security",
-        "Gen AI"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Turn Your App Service Web App Into a Self-Healing Agent: LLMOps Best Practices for Production",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/turn-your-app-service-web-app-into-a-self-healing-agent-llmops/ba-p/4520867",
-      "summary": "A user submits a prompt. The agent burns through 50,000 tokens looping on a malformed tool response. Another user trips a model rate limit and the agent silently fails. A bad prompt update goes out at 4 PM Friday and degrades success rate to 60%. Your APM dashboard shows green the entire time...",
-      "published": "2026-05-18T18:06:59+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "jordanselig",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Ultimate Kubernetes AI Project in 15 Minutes",
-      "link": "https://www.youtube.com/watch?v=5rX8pS53Kcc",
-      "summary": "Get started with LUMA API:\nhttps://lumalabs.ai/api\n\nJoin our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nBuild a powerful Kubernetes kubectl plugin that auto-generates a Pod Traffic Flow Diagram from Ingress - Service - Pod with real-time pod status visualization.\nThis...",
-      "published": "2026-05-18T17:09:47+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/5rX8pS53Kcc/mqdefault.jpg"
-    },
-    {
-      "title": "Don’t Start Your Application Upgrade by Changing Code",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/don-t-start-your-application-upgrade-by-changing-code/ba-p/4520838",
-      "summary": "The first step of a .NET upgrade isn't code, it's assessment! That sounds obvious, but it isn't. When somebody tells you to upgrade an app, the instinct is to open the repo, bump the TargetFramework , update a few NuGet packages, and start chasing build errors, that feels like progress, but you're...",
-      "published": "2026-05-18T16:34:57+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "PabloLopes",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "CNCF Welcomes CVS Health as a Platinum Member To Expand Cloud Native Collaboration",
-      "link": "https://www.cncf.io/announcements/2026/05/18/cncf-welcomes-cvs-health-as-a-platinum-member-to-expand-cloud-native-collaboration",
-      "summary": "CVS Health strengthens commitment to secure healthcare and modernization efforts further reducing engineering complexity  SAN FRANCISCO, California – May 18, 2026  – The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for cloud native software,...",
-      "published": "2026-05-18T16:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "kthornhill",
-      "categories": [
-        "Announcements"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "You Can Scale MCP Servers Behind a Load Balancer on App Service — Here's How",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/you-can-scale-mcp-servers-behind-a-load-balancer-on-app-service/ba-p/4520824",
-      "summary": "Most MCP servers in the wild are single-instance processes. That's fine when they're driving a local Claude or VS Code session — but it's the wrong shape for a production agent fleet that has to absorb traffic spikes, ride through deploys, and survive instance failures. The good news: the MCP spec...",
-      "published": "2026-05-18T15:49:16+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "jordanselig",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "What kubectl debug doesn’t tell you: The silent evidence gap",
-      "link": "https://www.cncf.io/blog/2026/05/18/what-kubectl-debug-doesnt-tell-you-the-silent-evidence-gap",
-      "summary": "The session that left no record A kubectl debug session can contain the only direct observation of a failing system state. However, once the session ends, Kubernetes does not retain the termination context of that session...",
-      "published": "2026-05-18T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Shamsher Khan, CNCF Community Member",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Getting Started with OpenSearch on AKS with AKS AVM and Helm",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/getting-started-with-opensearch-on-aks-with-aks-avm-and-helm/ba-p/4520392",
-      "summary": "Co-authored by Chetan Vaja (Senior Cloud Solution Architect @ Microsoft), Ninad Kapse (Senior Cloud Solution Architect @ Microsoft), Vikas Gautam (Senior Cloud Solution Architect @ Microsoft), and Prafulla Wani (Principal Cloud Solution Architect @ Microsoft). Summary OpenSearch is a...",
-      "published": "2026-05-18T08:28:56+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "prafullawani",
-      "categories": [],
       "thumbnail": ""
     }
   ]
