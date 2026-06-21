@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-06-20T07:17:17.792644+00:00",
-    "total_items": 293,
+    "generated_at": "2026-06-21T07:35:00.390007+00:00",
+    "total_items": 284,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -9,6 +9,7 @@
       "Alex Ellis",
       "Apps on Azure",
       "CNCF Blog",
+      "Collabnix",
       "Helm Blog",
       "John Savill",
       "KodeKloud",
@@ -20,6 +21,52 @@
     ]
   },
   "items": [
+    {
+      "title": "Gemini CLI vs. Antigravity: What works, not the spec sheet",
+      "link": "https://thenewstack.io/gemini-cli-antigravity-replacement",
+      "summary": "Google has decommissioned its Gemini CLI, the open-source terminal tool that just shipped last year. It had over 100,000 GitHub The post Gemini CLI vs. Antigravity: What works, not the spec sheet appeared first on The New Stack .",
+      "published": "2026-06-20T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jessica Wachtel",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Backporting bug fixes is dead, Project Valkey now  sends in the bots",
+      "link": "https://thenewstack.io/valkey-ai-backporting-agents",
+      "summary": "When Project Valkey released version 9.1 last month, users, contributors and maintainers alike were understandably excited: There were new functionalities The post Backporting bug fixes is dead, Project Valkey now  sends in the bots appeared first on The New Stack .",
+      "published": "2026-06-20T14:21:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "DevOps",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Losing Fable made the best case yet for AI models you can run yourself",
+      "link": "https://thenewstack.io/losing-fable-open-weight-glm",
+      "summary": "The most-said line in one of my group chats this week was three words, on repeat: “I miss Fable.” I The post Losing Fable made the best case yet for AI models you can run yourself appeared first on The New Stack .",
+      "published": "2026-06-20T10:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Matthew Burns",
+      "categories": [
+        "AI Models",
+        "AI Strategy",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "“Time to clean up human slop”: Why AI now reviews code better than your teammate.",
       "link": "https://thenewstack.io/ai-code-review-self-review",
@@ -479,6 +526,20 @@
       "author": "John Savill's Technical Training",
       "categories": [],
       "thumbnail": "https://i.ytimg.com/vi/sXNyXRgQTPs/mqdefault.jpg"
+    },
+    {
+      "title": "NVIDIA DGX Spark + Kubernetes: Run GPU Workloads on the GB10 Grace Blackwell Superchip",
+      "link": "https://collabnix.com/nvidia-dgx-spark-kubernetes-run-gpu-workloads-on-the-gb10-grace-blackwell-superchip",
+      "summary": "The NVIDIA DGX Spark puts a 1 PFLOP (FP4) Grace Blackwell GB10 superchip and 128 GB of unified memory on your desk, enough to run models up to 200B parameters locally. But the moment you try to schedule that GPU through Kubernetes, you hit a wall that doesn’t exist on a normal discrete GPU: the […]",
+      "published": "2026-06-17T11:58:29+00:00",
+      "source": "Collabnix",
+      "type": "article",
+      "author": "Collabnix Team",
+      "categories": [
+        "DGX Spark",
+        "Kubernetes"
+      ],
+      "thumbnail": ""
     },
     {
       "title": "Why cloud native belongs at the heart of agentic AI: Lessons from building a multi-agent security platform on Kubernetes",
@@ -2271,6 +2332,29 @@
       "thumbnail": "https://i.ytimg.com/vi/GLVbQ1k5RmE/mqdefault.jpg"
     },
     {
+      "title": "Building AI Agents on DGX Spark with Kubernetes: A Complete Tutorial",
+      "link": "https://collabnix.com/building-ai-agents-on-dgx-spark-with-kubernetes-a-complete-tutorial",
+      "summary": "The NVIDIA DGX Spark is a compact, personal AI supercomputer powered by the GB10 Grace Blackwell Superchip. With 128GB of unified memory, it can run multiple large language models (LLMs) and vision language models (VLMs) in parallel, making it an ideal platform for building fully local, private,...",
+      "published": "2026-06-03T06:51:56+00:00",
+      "source": "Collabnix",
+      "type": "article",
+      "author": "Collabnix Team",
+      "categories": [
+        "Agentic AI",
+        "AI/ML",
+        "Kubernetes",
+        "AI Agents",
+        "Blackwell",
+        "DGX Spark",
+        "k3s",
+        "kubernetes",
+        "LLM",
+        "NVIDIA",
+        "vLLM"
+      ],
+      "thumbnail": ""
+    },
+    {
       "title": "Hands-on Introduction to yoke | Rawkode Live",
       "link": "https://www.youtube.com/watch?v=tKc8Rna3vDQ",
       "summary": "In this Rawkode Academy Lyve stream, David explores Yoke, a Kubernetes package manager that treats packages as code instead of piles of templated YAML.\n\nWe’ll look at how Yoke uses WebAssembly Flights to generate and apply Kubernetes resources, how it compares to Helm, where YokeCD fits with...",
@@ -3951,203 +4035,6 @@
         "DVC",
         "AI",
         "100 days of MLOps"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kore counts down to Artemis, its moonshot for governable AI agents",
-      "link": "https://thenewstack.io/kore-artemis-agent-platform",
-      "summary": "Kore wants to drag enterprise agent development out of the prompt-chain wilderness. The agentic software company on Thursday released Artemis, The post Kore counts down to Artemis, its moonshot for governable AI agents appeared first on The New Stack .",
-      "published": "2026-05-21T17:52:30+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "AI Infrastructure"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "You Can Build a Framework-Agnostic AI Gateway on Azure App Service — Here's How",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/you-can-build-a-framework-agnostic-ai-gateway-on-azure-app/ba-p/4522004",
-      "summary": "The agent infrastructure conversation moved this year. In October 2025, AWS shipped Amazon Bedrock AgentCore — a managed agent runtime with per-session microVM isolation, built-in long-term memory, native MCP support, and an opinionated policy engine. A few months earlier, Cloudflare shipped its...",
-      "published": "2026-05-21T17:29:34+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "jordanselig",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Troubleshooting AKS Scaling Issues with Jameson Hearn: AKS Troubleshooting Series: Azure Kubernetes",
-      "link": "https://www.youtube.com/watch?v=47Q4JbWxlm4",
-      "summary": "In today's episode, we talk to Jameson Hearn to understand how we can troubleshoot scaling issues with Azure Kubernetes Service (AKS) clusters. \n\nJameson helps you understand common symptoms, troubleshooting strategies, and practical tips for avoiding quota and capacity pitfalls. Watch a live demo...",
-      "published": "2026-05-21T15:30:22+00:00",
-      "source": "AKS (Official)",
-      "type": "video",
-      "author": "Azure Kubernetes Service (AKS)",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/47Q4JbWxlm4/mqdefault.jpg"
-    },
-    {
-      "title": "This platform can reduce your observability costs by 2X",
-      "link": "https://www.youtube.com/watch?v=Le0NImBGIHQ",
-      "summary": "Get started with Openobserve:\nhttps://openobserve.ai/?utm_source=abhishekv/\nhttps://github.com/openobserve/openobserve\n\nIn this video, I’ll cover why OpenObserve is a cost-efficient, high-performance open-source observability platform for logs, metrics, and traces. We’ll also do a detailed cost and...",
-      "published": "2026-05-21T15:18:09+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/Le0NImBGIHQ/mqdefault.jpg"
-    },
-    {
-      "title": "How to build your first end-to-end AI workflow in n8n",
-      "link": "https://thenewstack.io/build-n8n-ai-workflow",
-      "summary": "n8n is one of the most powerful workflow automation platforms available today, and the fastest way to learn it is The post How to build your first end-to-end AI workflow in n8n appeared first on The New Stack .",
-      "published": "2026-05-21T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Monica White",
-      "categories": [
-        "AI Agents",
-        "Developer tools",
-        "Software Development",
-        "sponsor-andela",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "CI wasn’t built for coding agents. Here’s what comes next.",
-      "link": "https://thenewstack.io/ci-for-coding-agents",
-      "summary": "For years, integration tests have lived inside CI pipelines, triggered on push and answered ten, twenty, or thirty minutes later. The post CI wasn’t built for coding agents. Here’s what comes next. appeared first on The New Stack .",
-      "published": "2026-05-21T14:30:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Monica White",
-      "categories": [
-        "AI Engineering",
-        "CI/CD",
-        "Software Testing",
-        "sponsor-signadot",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Aamchi Mumbai: A KubeCon + CloudNativeCon field guide",
-      "link": "https://www.cncf.io/blog/2026/05/21/aamchi-mumbai-a-kubecon-cloudnativecon-field-guide",
-      "summary": "Welcome to Mumbai KubeCon + CloudNativeCon India lands in Mumbai on 18-19 June 2026, at the Jio World Convention Centre in BKC. Thousands of cloud native engineers are flying in, many of you for the first...",
-      "published": "2026-05-21T14:14:11+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Yash Pimple & Rohit Ghumare, CNCF Ambassadors",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Cloud Native Computing Foundation Announces OpenTelemetry’s Graduation, Solidifying Status as the De Facto Observability Standard",
-      "link": "https://www.cncf.io/announcements/2026/05/21/cloud-native-computing-foundation-announces-opentelemetrys-graduation-solidifying-status-as-the-de-facto-observability-standard",
-      "summary": "The milestone for OpenTelemetry reflects widespread production adoption and a stable, vendor-neutral observability standard   Key Highlights: MINNEAPOLIS – OBSERVABILITY SUMMIT – May 21, 2026 – The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for...",
-      "published": "2026-05-21T14:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Haley White",
-      "categories": [
-        "Announcements"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "After becoming cloud computing’s telemetry standard, OpenTelemetry graduates into the AI infrastructure era",
-      "link": "https://thenewstack.io/opentelemetry-hits-general-availability",
-      "summary": "The Cloud Native Computing Foundation (CNCF) on Thursday announced the graduation of OpenTelemetry, the open source observability framework that has The post After becoming cloud computing’s telemetry standard, OpenTelemetry graduates into the AI infrastructure era appeared first on The New Stack .",
-      "published": "2026-05-21T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI Infrastructure",
-        "Cloud Native Ecosystem",
-        "Observability",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“Morally repugnant shortsightedness”: Why open source security leaders say companies must stop freeloading on maintainers",
-      "link": "https://thenewstack.io/openssf-open-source-security-members",
-      "summary": "The Open Source Security Foundation (OpenSSF), a cross-industry initiative of the Linux Foundation focused on sustainably securing open source software, The post “Morally repugnant shortsightedness”: Why open source security leaders say companies must stop freeloading on maintainers appeared first...",
-      "published": "2026-05-21T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "DevOps",
-        "Open Source",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Building the agentic agreement enterprise: How developers are unlocking agentic experiences with Docusign’s MCP server and platform",
-      "link": "https://thenewstack.io/docusign-mcp-agentic-agreements",
-      "summary": "Managing agreements across the enterprise has traditionally been a slow, manual process. Docusign for Developers has accelerated the process through The post Building the agentic agreement enterprise: How developers are unlocking agentic experiences with Docusign’s MCP server and platform appeared...",
-      "published": "2026-05-21T13:53:29+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Nick Lucchesi",
-      "categories": [
-        "AI Agents",
-        "Developer tools",
-        "Model Context Protocol (MCP)",
-        "sponsor-docusign",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Cut your AI search costs without sacrificing quality",
-      "link": "https://thenewstack.io/cut-ai-search-costs",
-      "summary": "The cost that’s driving your AI search bill Every organization running AI-powered search faces the same hidden cost driver: query The post Cut your AI search costs without sacrificing quality appeared first on The New Stack .",
-      "published": "2026-05-21T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Monica White",
-      "categories": [
-        "AI Engineering",
-        "AI Infrastructure",
-        "AI Strategy",
-        "sponsor-vespa-ai",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Cross-Cluster Networking for Azure Kubernetes Fleet Manager | Connect Clusters Seamlessly",
-      "link": "https://www.youtube.com/watch?v=kRmLLMblBGk",
-      "summary": "Learn how cross-cluster networking in Azure Kubernetes Fleet Manager enables you to connect multiple Kubernetes clusters and achieve seamless communication across them.\n \nIn this video, we cover:\nCustomer challenges driving the need for cross-cluster networking\nHow cross-cluster networking works in...",
-      "published": "2026-05-21T12:17:21+00:00",
-      "source": "AKS (Official)",
-      "type": "video",
-      "author": "Azure Kubernetes Service (AKS)",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/kRmLLMblBGk/mqdefault.jpg"
-    },
-    {
-      "title": "How NetEase Games achieved 30-second LLM cold starts on Kubernetes",
-      "link": "https://www.cncf.io/blog/2026/05/21/how-netease-games-achieved-30-second-llm-cold-starts-on-kubernetes",
-      "summary": "At NetEase Games, we learned a hard lesson about large language model (LLM) inference in production: elastic compute is only useful if data can move just as fast. “Elastic compute is only useful if data can...",
-      "published": "2026-05-21T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Haifeng Liao, Senior Infrastructure Engineer at NetEase Games and Xiang Zhang, Head of AI Infrastructure at NetEase Games",
-      "categories": [
-        "Blog"
       ],
       "thumbnail": ""
     }
