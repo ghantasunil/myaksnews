@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-06-22T07:54:41.868710+00:00",
-    "total_items": 275,
+    "generated_at": "2026-06-23T07:11:12.537831+00:00",
+    "total_items": 279,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -21,6 +21,106 @@
     ]
   },
   "items": [
+    {
+      "title": "Cursor quietly acquires Continue, an open-source alternative to GitHub Copilot",
+      "link": "https://thenewstack.io/cursor-acquires-continue-coding",
+      "summary": "The AI developer tools consolidation continues apace, with news that Cursor has snapped up open-source coding assistant Continue — its The post Cursor quietly acquires Continue, an open-source alternative to GitHub Copilot appeared first on The New Stack .",
+      "published": "2026-06-22T19:48:42+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Developer tools",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Qodo just shipped cross-repo review. Here’s why it matters for AI-flooded teams.",
+      "link": "https://thenewstack.io/qodo-cross-repo-code-review",
+      "summary": "Late-night debugging sessions aren’t a rare edge case anymore. They are what happens when reviews can’t keep up with volume. The post Qodo just shipped cross-repo review. Here’s why it matters for AI-flooded teams. appeared first on The New Stack .",
+      "published": "2026-06-22T19:42:18+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI",
+        "AI Engineering",
+        "DevOps",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Running AI Agents Safely Inside Kubernetes",
+      "link": "https://kodekloud.com/blog/running-ai-agents-safely-inside-kubernetes",
+      "summary": "Learn how to run AI agents safely inside Kubernetes through sandboxing, RBAC, network policies, egress control, and observability for production.",
+      "published": "2026-06-22T17:42:20+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "Kubernetes",
+        "AI Agents",
+        "Kubernetes security",
+        "DevSecOps",
+        "Cloud Native",
+        "Agentic AI",
+        "container",
+        "AI Security",
+        "mcp",
+        "network policy"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How Many Copies of Each Layer Does Your Container Registry Actually Need?",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/how-many-copies-of-each-layer-does-your-container-registry/ba-p/4529836",
+      "summary": "Authors: Payal Mahesh and Vicky Lin Azure Container Registry team: Jeanine Burke and Johnson Shi Introduction It's Monday morning. You spin up a fresh 1,000-node AKS cluster for a big training run or a fleet-wide rollout. Every node reaches for the same large container image at the same instant....",
+      "published": "2026-06-22T15:20:26+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "payalmahesh",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Is Terraform Dead? Should you stop learning Terraform?",
+      "link": "https://www.youtube.com/watch?v=xQ_b6dziuUs",
+      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
+      "published": "2026-06-22T14:29:04+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/xQ_b6dziuUs/mqdefault.jpg"
+    },
+    {
+      "title": "Overview of Web IQ",
+      "link": "https://www.youtube.com/watch?v=YpUSm0_7Lgs",
+      "summary": "Overview of what Web IQ is and its capabilities.\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:06 - Model training\n01:25 - Problems with the training data\n04:32 - Adding knowledge with our prompt\n05:30 - Organizational data gap\n06:23 - Info on the Internet\n07:52 - What matters for...",
+      "published": "2026-06-22T14:19:21+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/YpUSm0_7Lgs/mqdefault.jpg"
+    },
+    {
+      "title": "Telemetry that matters: Designing sustainable, high-impact observability pipelines",
+      "link": "https://www.cncf.io/blog/2026/06/22/telemetry-that-matters-designing-sustainable-high-impact-observability-pipelines",
+      "summary": "As system architectures grow increasingly complex, the cloud-native community faces a subtle but pressing challenge: we are drowning in our own telemetry data. It is easier than ever to instrument an application and collect signals, but...",
+      "published": "2026-06-22T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Diana Todea - DevRel Engineer at VictoriaMetrics and Cloud Native Days Romania community organizer, Laura Luttmer - Principal Product Manager at Bindplane (Dynatrace), Antonio Jimenez Martinez - Tech Lead Software Engineer at Cisco ThousandEyes",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "A public Sentry key is all it takes to hijack Claude Code, Cursor, and Codex",
       "link": "https://thenewstack.io/agentjacking-sentry-mcp-attack",
@@ -3852,53 +3952,6 @@
         "AI Engineering",
         "Software Development",
         "sponsor-clickhouse",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenClaw passed 300,000 GitHub stars. Then Google launched Spark.",
-      "link": "https://thenewstack.io/gemini-spark-vs-openclaw",
-      "summary": "OpenClaw made the always-on agent feel personal by making it live somewhere you could point at — a Mac mini The post OpenClaw passed 300,000 GitHub stars. Then Google launched Spark. appeared first on The New Stack .",
-      "published": "2026-05-23T15:30:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Janakiram MSV",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Model Context Protocol (MCP)"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic’s $300M Stainless deal lands hardest on OpenAI and Google",
-      "link": "https://thenewstack.io/anthropic-stainless-sdk-acquisition",
-      "summary": "Earlier this week, Anthropic acquired Stainless, the New York startup whose software generated SDKs for major AI companies, including Anthropic, The post Anthropic’s $300M Stainless deal lands hardest on OpenAI and Google appeared first on The New Stack .",
-      "published": "2026-05-23T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Janakiram MSV",
-      "categories": [
-        "AI Strategy",
-        "API Management",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How MCP and synthetic data are reshaping compliance in the agentic era",
-      "link": "https://thenewstack.io/agentic-ai-data-governance",
-      "summary": "Software development has always had a way of quietly distributing sensitive data in unexpected places, and many organizations have lost The post How MCP and synthetic data are reshaping compliance in the agentic era appeared first on The New Stack .",
-      "published": "2026-05-23T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Monica White",
-      "categories": [
-        "AI Agents",
-        "Compliance",
-        "DevOps",
-        "sponsor-perforce",
         "sponsored-post-contributed"
       ],
       "thumbnail": ""
