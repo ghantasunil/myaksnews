@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-06-23T07:11:12.537831+00:00",
-    "total_items": 279,
+    "generated_at": "2026-06-24T07:07:57.027269+00:00",
+    "total_items": 288,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -21,6 +21,188 @@
     ]
   },
   "items": [
+    {
+      "title": "Kubernetes teams trust automation to ship code but not to touch CPU, and AI is raising the stakes",
+      "link": "https://thenewstack.io/kubernetes-teams-trust-automation",
+      "summary": "Kubernetes teams automate deployments without thinking about it. CI/CD pipelines fire dozens of times a day, autoscaling adjusts replicas in The post Kubernetes teams trust automation to ship code but not to touch CPU, and AI is raising the stakes appeared first on The New Stack .",
+      "published": "2026-06-23T20:56:47+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Yasmin Rajabi",
+      "categories": [
+        "AI Infrastructure",
+        "FinOps",
+        "Kubernetes",
+        "contributed-cloudbolt"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Only 8.5% of MCP Servers Use OAuth — Here's How to Host One Securely on App Service",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/only-8-5-of-mcp-servers-use-oauth-here-s-how-to-host-one/ba-p/4530349",
+      "summary": "The Model Context Protocol exploded onto the scene because it's easy . Stand up a server, expose a few tools, point Claude or VS Code at it, and your agent can suddenly read files, hit APIs, and run code. That same ease is the problem: most MCP servers ship with no authentication at all , and...",
+      "published": "2026-06-23T19:20:54+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "jordanselig",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic gives @Claude a permanent seat in your Slack channels",
+      "link": "https://thenewstack.io/anthropic-claude-tag-slack",
+      "summary": "Anthropic has announced Claude Tag, a new product that embeds Claude directly into Slack as a persistent, shared team member The post Anthropic gives @Claude a permanent seat in your Slack channels appeared first on The New Stack .",
+      "published": "2026-06-23T18:50:18+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenClaw and Hermes agree on what an agent is. They disagree on what controls it.",
+      "link": "https://thenewstack.io/openclaw-hermes-agent-harness",
+      "summary": "At Microsoft’s Build keynote this month, CEO Satya Nadella described a platform shift away from operating systems and apps, and The post OpenClaw and Hermes agree on what an agent is. They disagree on what controls it. appeared first on The New Stack .",
+      "published": "2026-06-23T17:56:26+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Janakiram MSV",
+      "categories": [
+        "AI"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Developers are now validating code they didn’t write — and may not understand",
+      "link": "https://thenewstack.io/gitlab-ai-code-governance",
+      "summary": "With an eye on the huge downstream pressure that AI code tools are putting on software engineering teams, GitLab released The post Developers are now validating code they didn’t write — and may not understand appeared first on The New Stack .",
+      "published": "2026-06-23T17:05:46+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI",
+        "AI Operations",
+        "AI Strategy",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "90 Percent DevOps Resumes are same | Watch this to improve your resume and opportunities.",
+      "link": "https://www.youtube.com/watch?v=F8uJk7c1rOM",
+      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\n90 percent DevOps Resume are common. Copy pasted resumes are the major reason for rejection. Try to keep your resume unique.\nTelegram Channel : https://t.me/abhishekveeramalla\n\nFree Course on the...",
+      "published": "2026-06-23T16:37:54+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/F8uJk7c1rOM/mqdefault.jpg"
+    },
+    {
+      "title": "Nx debuts Polygraph, taking aim at what’s stalling AI coding agents",
+      "link": "https://thenewstack.io/nx-polygraph-synthetic-monorepo-agents",
+      "summary": "Nx, the company behind the open-source monorepo build system of the same name, on Tuesday launched Polygraph, a service that The post Nx debuts Polygraph, taking aim at what’s stalling AI coding agents appeared first on The New Stack .",
+      "published": "2026-06-23T16:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "MCP Just Went Stateless — What the 2026 Spec Changes About Scaling on App Service",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/mcp-just-went-stateless-what-the-2026-spec-changes-about-scaling/ba-p/4530222",
+      "summary": "A couple of months ago I wrote about scaling MCP servers behind App Service's built-in load balancer . The trick back then was to lean on stateless HTTP transport so any instance could serve any request — and to make sure you turned off ARR affinity so the load balancer was actually free to spread...",
+      "published": "2026-06-23T16:14:36+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "jordanselig",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI can write the code. Your team still owns the debt.",
+      "link": "https://thenewstack.io/ai-technical-debt-verification",
+      "summary": "The software industry is still talking about AI mostly in terms of speed. Models and agents can now generate code The post AI can write the code. Your team still owns the debt. appeared first on The New Stack .",
+      "published": "2026-06-23T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Robert Curlee",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Software Development",
+        "sponsor-sonarsource",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "GitLab just surveyed 1,500 developers. Here’s why it matters for your codebase.",
+      "link": "https://thenewstack.io/agentic-infrastructure-ai-governance",
+      "summary": "For the past two years, the conversation about AI-assisted software development has been dominated by speed. A new GitLab survey The post GitLab just surveyed 1,500 developers. Here’s why it matters for your codebase. appeared first on The New Stack .",
+      "published": "2026-06-23T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Manav Khurana",
+      "categories": [
+        "AI Engineering",
+        "AI Infrastructure",
+        "DevOps",
+        "sponsor-gitlab",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Can DNS become the basis for AI agent identity?",
+      "link": "https://thenewstack.io/can-dns-become-the-basis-for-ai-agent-identity",
+      "summary": "The Linux Foundation on Tuesday declared its intent to launch the Agent Name Service (ANS), an open standard that gives The post Can DNS become the basis for AI agent identity? appeared first on The New Stack .",
+      "published": "2026-06-23T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Infrastructure"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Agent Auth: A lawyer’s day in court",
+      "link": "https://www.cncf.io/blog/2026/06/23/agent-auth-a-lawyers-day-in-court",
+      "summary": "I’ve always thought about AI agents as microservices+. They need everything a traditional microservice needs, and: When thinking about agent auth, I found myself reflecting on a traffic lawyer I hired years ago after receiving a...",
+      "published": "2026-06-23T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Lin Sun, CNCF Ambassador",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Building Jaeger’s ClickHouse backend: 8.6× compression on 10 million spans",
+      "link": "https://www.cncf.io/blog/2026/06/23/building-jaegers-clickhouse-backend-8-6x-compression-on-10-million-spans",
+      "summary": "As someone who’s been maintaining Jaeger, I’ve watched users request ClickHouse support consistently over the past few years. With Jaeger v2.18.0, we’ve finally delivered it. What excites me most isn’t just that ClickHouse is available—it’s that its architecture is...",
+      "published": "2026-06-23T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Mahad Zaryab, CNCF Jaeger Project Maintainer and Software Engineer at Meta",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Cursor quietly acquires Continue, an open-source alternative to GitHub Copilot",
       "link": "https://thenewstack.io/cursor-acquires-continue-coding",
@@ -3894,67 +4076,6 @@
       "author": "Kubesimplify",
       "categories": [],
       "thumbnail": "https://i.ytimg.com/vi/m5iq9whaRhc/mqdefault.jpg"
-    },
-    {
-      "title": "The GitHub Hack is every DevOps Engineers Nightmare",
-      "link": "https://www.youtube.com/watch?v=2a6ZEq1R5X8",
-      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
-      "published": "2026-05-24T16:27:38+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/2a6ZEq1R5X8/mqdefault.jpg"
-    },
-    {
-      "title": "Who’s monitoring the agents?",
-      "link": "https://thenewstack.io/who-monitors-ai-agents",
-      "summary": "Over the past few months, something quietly shifted. Frameworks like CrewAI, AutoGen, and LangGraph are no longer just showing up The post Who’s monitoring the agents? appeared first on The New Stack .",
-      "published": "2026-05-24T16:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Monica White",
-      "categories": [
-        "AI Agents",
-        "AI Operations",
-        "Observability",
-        "Contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How Jaeger hit 8.6× compression on 10 million spans with ClickHouse",
-      "link": "https://thenewstack.io/jaeger-clickhouse-storage-backend",
-      "summary": "As someone who’s been maintaining Jaeger, I’ve watched users request ClickHouse support consistently over the past few years. With Jaeger The post How Jaeger hit 8.6× compression on 10 million spans with ClickHouse appeared first on The New Stack .",
-      "published": "2026-05-24T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Monica White",
-      "categories": [
-        "Cloud Native Ecosystem",
-        "Databases",
-        "Observability",
-        "sponsor-cncf",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "What ClickHouse learned from a year of coding with AI agents",
-      "link": "https://thenewstack.io/clickhouse-ai-coding-agents",
-      "summary": "Some people will tell you agents will take all our jobs. Others insist they are useless. Leadership at many companies The post What ClickHouse learned from a year of coding with AI agents appeared first on The New Stack .",
-      "published": "2026-05-24T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Monica White",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Software Development",
-        "sponsor-clickhouse",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
     }
   ]
 }
