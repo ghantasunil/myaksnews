@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-06-24T07:07:57.027269+00:00",
-    "total_items": 288,
+    "generated_at": "2026-06-25T07:08:11.706507+00:00",
+    "total_items": 296,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -21,6 +21,182 @@
     ]
   },
   "items": [
+    {
+      "title": "IPv6 Dual-Stack Endpoints for Azure Container Registry (Public Preview)",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/ipv6-dual-stack-endpoints-for-azure-container-registry-public/ba-p/4528422",
+      "summary": "By Johnson Shi , Aviral Takkar , Bin Du Introduction Two of the most common networking questions we hear from teams running Azure Container Registry (ACR) are: \"Can my registry serve clients on IPv6 networks?\" — Teams operating IPv6-only or dual-stack networks need their container registry...",
+      "published": "2026-06-24T22:28:46+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "johnsonshi_msft",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI wants to claim more of the AI stack with Jalapeño, its first custom chip",
+      "link": "https://thenewstack.io/openai-jalapeno-custom-chip",
+      "summary": "OpenAI on Wednesday announced Jalapeño, its first custom inference accelerator, co-developed with Broadcom and supported by Canadian electronics manufacturer Celestica, The post OpenAI wants to claim more of the AI stack with Jalapeño, its first custom chip appeared first on The New Stack .",
+      "published": "2026-06-24T20:55:13+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI Infrastructure",
+        "AI Strategy",
+        "Hardware"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azul wants to find your unpatched JVMs before AI does",
+      "link": "https://thenewstack.io/azul-java-security-jvm-mythos",
+      "summary": "Azul Systems is offering a free Java Virtual Machine (JVM) vulnerability risk assessment designed to reveal Java runtime exposure before The post Azul wants to find your unpatched JVMs before AI does appeared first on The New Stack .",
+      "published": "2026-06-24T20:53:07+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "AI",
+        "Java",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Will it Mythos? One coder’s verdict on Anthropic’s blend of debugging",
+      "link": "https://thenewstack.io/will-it-mythos-benchmark",
+      "summary": "Anthropic’s rollercoaster ride with Claude Fable 5 and Mythos 5 has left various deposits of fallout this year, but the The post Will it Mythos? One coder’s verdict on Anthropic’s blend of debugging appeared first on The New Stack .",
+      "published": "2026-06-24T20:51:49+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Models",
+        "AI Operations",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Chainguard targets Java’s unpatched vulnerability backlog with drop-in remediated libraries",
+      "link": "https://thenewstack.io/chainguard-java-libraries-spring-boot-cves",
+      "summary": "Legacy Java shops are sitting on a growing pile of unpatched vulnerabilities. Chainguard says it has a fix for that. The post Chainguard targets Java’s unpatched vulnerability backlog with drop-in remediated libraries appeared first on The New Stack .",
+      "published": "2026-06-24T20:48:37+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "Developer tools",
+        "Java",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Spotlight on WG Device Management",
+      "link": "https://kubernetes.io/blog/2026/06/24/wg-device-management-spotlight-2026",
+      "summary": "The rising popularity of AI, Edge, and Telecommunications workloads on Kubernetes has led to new requirements for hardware management. We now need hardware specification beyond CPU time and memory allocations. This includes allocating GPUs, TPUs, network interfaces, and other hardware, sometimes...",
+      "published": "2026-06-24T18:00:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Securing Amazon Bedrock and SageMaker Endpoints: A Practitioner's Guide",
+      "link": "https://kodekloud.com/blog/securing-amazon-bedrock-and-sagemaker-endpoints-a-practitioners-guide",
+      "summary": "In November 2025, a Sysdig research team watched an attacker compromise an AWS environment, enumerate Amazon Bedrock, disable model invocation logging, and achieve full administrator privileges in under ten minutes. The initial access vector was credentials left in a publicly accessible S3 bucket....",
+      "published": "2026-06-24T17:06:55+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Agentic infrastructure operations begin with accurate, reliable infrastructure data",
+      "link": "https://thenewstack.io/netbox-infrastructure-ai-agents",
+      "summary": "Organizations are racing to apply AI across the enterprise, and infrastructure is one of the most compelling targets: automated provisioning, The post Agentic infrastructure operations begin with accurate, reliable infrastructure data appeared first on The New Stack .",
+      "published": "2026-06-24T16:37:38+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Doug Sillars",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Model Context Protocol (MCP)",
+        "sponsor-netbox-labs",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "New Security Adoption Model Resource",
+      "link": "https://www.youtube.com/watch?v=80E-9rPsJIs",
+      "summary": "Quick look at a brand-new resource to help with security adoption.\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:58 - Overview\n05:20 - Journey\n08:50 - Disciplines\n11:50 - Summary\n\n▬▬▬▬▬▬  K E Y   L I N K S 🔗 ▬▬▬▬▬▬\n► MS Docs\n🔗...",
+      "published": "2026-06-24T14:05:36+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/80E-9rPsJIs/mqdefault.jpg"
+    },
+    {
+      "title": "Sakana Fugu is more than a router. But it’s not the blueprint for AI sovereignty, either.",
+      "link": "https://thenewstack.io/sakana-fugu-ai-sovereignty",
+      "summary": "This week, Sakana AI released Fugu, a multi-agent orchestration system designed to deliver frontier-model performance all while reducing the risks The post Sakana Fugu is more than a router. But it’s not the blueprint for AI sovereignty, either. appeared first on The New Stack .",
+      "published": "2026-06-24T12:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why a 2 GB Docker Image Is a Bigger Problem Than You Think?",
+      "link": "https://kodekloud.com/blog/docker-image-why-a-2-gb-docker-image-is-a-bigger-problem-than-you-think",
+      "summary": "Here’s a thing about DevOps interview questions: sometimes the answer that sounds obvious is actually the wrong one. Take this scenario. A developer on your team builds a Docker image for a simple Node.js API, and the image ends up being 2 GB. Their response? \"Storage",
+      "published": "2026-06-24T12:29:41+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "KodeKloud",
+      "categories": [
+        "Docker"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "From Awareness to Engineered Accessibility in Open Source",
+      "link": "https://www.cncf.io/blog/2026/06/24/from-awareness-to-engineered-accessibility-in-open-source",
+      "summary": "The open-source ecosystem thrives on a deceptively simple premise: anyone, anywhere, can show up and contribute. But that promise quietly breaks down at the edges. A contributor who needs written context before a synchronous call, or...",
+      "published": "2026-06-24T11:32:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Diana Todea (DevRel Engineer at VictoriaMetrics and Merge-Forward Neurodiversity chapter lead), and Ryan Etten (Senior Architect & Team Lead at Red Hat and Wisconsin CNCF chapter community organizer)",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Docker Interview Questions 2026: Crack the Interview Like a Pro",
+      "link": "https://kodekloud.com/blog/docker-interview-questions",
+      "summary": "30 real Docker interview questions with senior-level answers, real command output (multi-stage, OOM, DNS), and what each one is testing.",
+      "published": "2026-06-24T10:45:35+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "interview questions",
+        "Docker"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Kubernetes teams trust automation to ship code but not to touch CPU, and AI is raising the stakes",
       "link": "https://thenewstack.io/kubernetes-teams-trust-automation",
@@ -4013,69 +4189,6 @@
         "sponsored-post-contributed"
       ],
       "thumbnail": ""
-    },
-    {
-      "title": "GitLab 19.0 trades its string section for a full DevSecOps orchestra",
-      "link": "https://thenewstack.io/gitlab-19-secrets-manager",
-      "summary": "There are orchestras… and then there are mere string, horn, or woodwind sections. As the self-styled intelligent orchestration platform for The post GitLab 19.0 trades its string section for a full DevSecOps orchestra appeared first on The New Stack .",
-      "published": "2026-05-25T16:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "CI/CD",
-        "DevOps",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Understanding and Using AI Skills",
-      "link": "https://www.youtube.com/watch?v=X9n5EYoWdNk",
-      "summary": "A look at using AI skills by first looking at how to cut down a tree.\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:07 - How to cut down a tree\n03:57 - AI skills\n07:15 - Progressive disclosure and using skills\n09:44 - Looking at a skill\n12:19 - Demo of using a skill\n17:39 -...",
-      "published": "2026-05-25T12:28:27+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/X9n5EYoWdNk/mqdefault.jpg"
-    },
-    {
-      "title": "Why Kubernetes policy enforcement happens too late—and what to do about it",
-      "link": "https://www.cncf.io/blog/2026/05/25/why-kubernetes-policy-enforcement-happens-too-late-and-what-to-do-about-it",
-      "summary": "Kubernetes has become the backbone of modern cloud-native infrastructure. Its flexibility lets teams move fast, compose complex systems from modular components, and deploy across environments with relative ease. But that flexibility comes with a well-known cost:...",
-      "published": "2026-05-25T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Sajal Nigam, CNCF Community Member",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Zero-Downtime migration from ingress NGINX to Envoy Gateway",
-      "link": "https://www.cncf.io/blog/2026/05/25/zero-downtime-migration-from-ingress-nginx-to-envoy-gateway",
-      "summary": "Teams running Ingress NGINX in production are increasingly evaluating migration paths as Kubernetes networking evolves toward Gateway API. For many organizations, the challenge is not just selecting a Gateway API implementation, but designing a migration strategy...",
-      "published": "2026-05-25T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Andrew Katsikas, Pelotech",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "kube-proxy inside out:  iptables vs IPVS vs nftables (every Kubernetes Service depends on this)",
-      "link": "https://www.youtube.com/watch?v=m5iq9whaRhc",
-      "summary": "You create a Service in Kubernetes. It gets a virtual IP. But that IP is not real. No machine owns it. So how do packets headed there actually find the right pod?\nThe thing that makes it work is kube-proxy. And it does that job in three different ways.\nThis is the deep dive: what kube-proxy...",
-      "published": "2026-05-25T07:51:41+00:00",
-      "source": "Kubesimplify",
-      "type": "video",
-      "author": "Kubesimplify",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/m5iq9whaRhc/mqdefault.jpg"
     }
   ]
 }
