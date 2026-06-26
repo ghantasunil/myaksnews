@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-06-25T07:08:11.706507+00:00",
-    "total_items": 296,
+    "generated_at": "2026-06-26T07:14:32.636123+00:00",
+    "total_items": 297,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -21,6 +21,171 @@
     ]
   },
   "items": [
+    {
+      "title": "Public cloud vs. on-prem: Summit on where each workload belongs",
+      "link": "https://thenewstack.io/cloud-costs-private-repatriation",
+      "summary": "We’re more than 20 years past the launch of AWS, the starter gun for the shift of compute and storage The post Public cloud vs. on-prem: Summit on where each workload belongs appeared first on The New Stack .",
+      "published": "2026-06-26T00:09:24+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Alex Wilhelm",
+      "categories": [
+        "AI",
+        "AI Infrastructure",
+        "Cloud Services",
+        "FinOps",
+        "Podcast",
+        "sponsor-summit",
+        "sponsored-podcast",
+        "Video"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI Interview Questions 2026: ML Foundations to LLMs",
+      "link": "https://kodekloud.com/blog/ai-interview-questions",
+      "summary": "30 real AI interview questions with senior-level answers across ML fundamentals, LLMs, RAG, embeddings, and prompt engineering.",
+      "published": "2026-06-25T18:25:44+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "interview questions",
+        "AI"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "DevOps Live Stream with Abhishek | June 25th",
+      "link": "https://www.youtube.com/watch?v=AdUcOXF5Ltg",
+      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
+      "published": "2026-06-25T18:22:19+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/AdUcOXF5Ltg/mqdefault.jpg"
+    },
+    {
+      "title": "“Code should be regenerated, not maintained”: Codeplain makes the case for spec-driven development",
+      "link": "https://thenewstack.io/codeplain-spec-driven-regenerative-code",
+      "summary": "AI is generating code faster than teams can review it. The answer, a small but growing number of developers argue, The post “Code should be regenerated, not maintained”: Codeplain makes the case for spec-driven development appeared first on The New Stack .",
+      "published": "2026-06-25T17:47:19+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Engineering",
+        "Developer tools",
+        "Vibe Coding"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Trust in Rust: Foundation debuts official training to tackle steep learning curve",
+      "link": "https://thenewstack.io/rust-foundation-training-certification",
+      "summary": "The Rust Foundation on Thursday announced the launch of the Rust Foundation Trusted Training (RFTT) program, a new formal accreditation The post Trust in Rust: Foundation debuts official training to tackle steep learning curve appeared first on The New Stack .",
+      "published": "2026-06-25T16:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "Programming Languages",
+        "Rust",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Template-based data extraction is dead. Here’s what comes next.",
+      "link": "https://thenewstack.io/amazon-bedrock-data-automation",
+      "summary": "Modern businesses are in a constant, uphill battle against what to do with unstructured data: PDFs, contracts, scanned images, customer The post Template-based data extraction is dead. Here’s what comes next. appeared first on The New Stack .",
+      "published": "2026-06-25T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Hafiz Hassan",
+      "categories": [
+        "AI Infrastructure",
+        "Cloud Services",
+        "Data",
+        "sponsor-andela",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How we cut AI costs by 80%",
+      "link": "https://thenewstack.io/how-cut-ai-costs",
+      "summary": "AI costs are rising, and not for the reason most people assume. It’s true that the models are getting more The post How we cut AI costs by 80% appeared first on The New Stack .",
+      "published": "2026-06-25T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Zohar Einy",
+      "categories": [
+        "AI Agents",
+        "Model Context Protocol (MCP)",
+        "Platform Engineering",
+        "sponsor-port",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Agent Toolkit for AWS includes 20+ agent skills, but your agent might not load them without this one file",
+      "link": "https://thenewstack.io/aws-agent-toolkit-rules-file",
+      "summary": "If you’re like me, sometimes you get so excited to try something new that you don’t read the docs all The post Agent Toolkit for AWS includes 20+ agent skills, but your agent might not load them without this one file appeared first on The New Stack .",
+      "published": "2026-06-25T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Esin Saribudak",
+      "categories": [
+        "AI Agents",
+        "Cloud Services",
+        "Developer tools",
+        "sponsor-aws-marketplace",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Building a Cluster-Aware AI Agent with Kubernetes, Argo CD, and GitOps",
+      "link": "https://www.cncf.io/blog/2026/06/25/building-a-cluster-aware-ai-agent-with-kubernetes-argo-cd-and-gitops",
+      "summary": "A practical walkthrough of running a self-hosted, read-only AI agent inside a Kubernetes cluster, with the full CI/CD chain handled by GitHub Actions and Argo CD Image Updater. No data leaves the cluster, no cloud AI...",
+      "published": "2026-06-25T11:25:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Maryam Tavakkoli (CNCF Ambassador | Lead Cloud Engineer @ RELEX Solutions)",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "A Better Way to View Logs in Kudu for Azure App Service on Linux",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/a-better-way-to-view-logs-in-kudu-for-azure-app-service-on-linux/ba-p/4530934",
+      "summary": "Logs are often the fastest way to understand what is happening inside your application. Whether you are investigating startup behavior, runtime errors, failed requests, dependency issues, or unexpected application behavior, having the right log view can make troubleshooting much easier. To make...",
+      "published": "2026-06-25T09:46:14+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "TulikaC",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Git Interview Questions 2026: Real Answers and Commands",
+      "link": "https://kodekloud.com/blog/git-interview-questions",
+      "summary": "30 real Git interview questions with senior-level answers, real command output (status, conflicts, reflog), and what each one is testing.",
+      "published": "2026-06-25T09:18:26+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "interview questions",
+        "Git"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "IPv6 Dual-Stack Endpoints for Azure Container Registry (Public Preview)",
       "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/ipv6-dual-stack-endpoints-for-azure-container-registry-public/ba-p/4528422",
@@ -335,6 +500,20 @@
         "DevOps",
         "sponsor-gitlab",
         "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Linux Interview Questions 2026: Real Answers, Not Memorized Definitions",
+      "link": "https://kodekloud.com/blog/linux-interview-questions",
+      "summary": "30 Linux interview questions with senior-level answers, real command output, and what each one is testing. Built to practice, not memorize.",
+      "published": "2026-06-23T13:26:32+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "interview questions",
+        "Linux"
       ],
       "thumbnail": ""
     },
@@ -4035,158 +4214,6 @@
       "author": "epower",
       "categories": [
         "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "SLO vs SLI vs SLA vs Error Budget | Google SRE in Plain English",
-      "link": "https://www.youtube.com/watch?v=Akri1BlGp10",
-      "summary": "What is SLO vs SLI vs SLA vs Error Budget\n\n𝗖𝗢𝗠𝗣𝗟𝗘𝗧𝗘 COURSES  👌 It’s   🅵🆁🅴🅴 ⛳\n✅ Terraform Full Course For Beginners - #28daysofAZTerraform\nhttps://www.youtube.com/playlist?list=PLl4APkPHzsUUHlbhuq9V02n9AMLPySoEQ\n\n✅ Certified Kubernetes Administrator (CKA)...",
-      "published": "2026-05-27T02:00:06+00:00",
-      "source": "Piyush Sachdeva",
-      "type": "video",
-      "author": "Tech Tutorials with Piyush",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/Akri1BlGp10/mqdefault.jpg"
-    },
-    {
-      "title": "How ACR Runs Multi-Tenancy at Scale: Stamp Rebalancing and Why You Never See It Happen",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/how-acr-runs-multi-tenancy-at-scale-stamp-rebalancing-and-why/ba-p/4523014",
-      "summary": "By Johnson Shi , Richard Yuan , Yi Zha , Susan Shi , Jeanine Burke , Bin Du , Clark Porter , Bernie Harris , Eric Du Introduction Two of the most common questions we hear from teams running container workloads at scale on Azure Container Registry (ACR) are: \"How does ACR keep my registry's...",
-      "published": "2026-05-26T18:11:47+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "johnsonshi_msft",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Google ranks the best AI for building Android apps, and the winner isn’t Gemini",
-      "link": "https://thenewstack.io/gpt-5-5-android-bench",
-      "summary": "Google wants software developers to use the best possible AI models when building Android applications; consequently, the company debuted its The post Google ranks the best AI for building Android apps, and the winner isn’t Gemini appeared first on The New Stack .",
-      "published": "2026-05-26T17:32:13+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI Models",
-        "Large Language Models",
-        "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Reconciling the Past: Correcting Records for Unfixed Kubernetes CVEs",
-      "link": "https://kubernetes.io/blog/2026/05/26/reconciling-unfixed-kubernetes-cves",
-      "summary": "The Kubernetes project relies on transparency to empower cluster administrators and security\nresearchers. One important way we do that is by publishing CVE records into the Common\nVulnerabilities and Exposures database. As part of our ongoing effort to mature the official Kubernetes CVE Feed , we...",
-      "published": "2026-05-26T17:30:00+00:00",
-      "source": "Kubernetes Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "7 DevOps Mistakes that you should never do",
-      "link": "https://www.youtube.com/watch?v=ltsojkBlUF0",
-      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
-      "published": "2026-05-26T17:11:04+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/ltsojkBlUF0/mqdefault.jpg"
-    },
-    {
-      "title": "Google pushes Pro, Ultra, and free users from open-source Gemini CLI to closed-source Antigravity CLI",
-      "link": "https://thenewstack.io/google-antigravity-cli",
-      "summary": "Last week at Google I/O, the company announced the beginning of the end for Gemini CLI — that is, for everyone The post Google pushes Pro, Ultra, and free users from open-source Gemini CLI to closed-source Antigravity CLI appeared first on The New Stack .",
-      "published": "2026-05-26T17:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "AI Agents",
-        "Developer tools",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Three TAG leads walk into the TOC",
-      "link": "https://www.cncf.io/blog/2026/05/26/three-tag-leads-walk-into-the-toc",
-      "summary": "The 2026 CNCF TOC cohort has an unusual pattern: three of the incoming members; Brandt, former TAG Security, lead; Mario, former TAG Operational Resilience lead, and Mauricio Salatino, former TAG Developer Experience co-chair, came straight out of...",
-      "published": "2026-05-26T15:38:18+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Mauricio Salatino (Ecosystem Engineer at Dash0), Mario Fahlandt (Customer Delivery Architect at Kubermatic), and Brandt Keller OSS Maintainer at Defense Unicorns",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The reason enterprise outages almost never start where ops teams think",
-      "link": "https://thenewstack.io/hpe-agentic-ops-copilot",
-      "summary": "Nothing is Greenfield in an enterprise. Hybrid cloud complexity sits atop siloed teams and systems, making it nearly impossible to The post The reason enterprise outages almost never start where ops teams think appeared first on The New Stack .",
-      "published": "2026-05-26T13:43:02+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jennifer Riggins",
-      "categories": [
-        "AI Agents",
-        "AI Operations",
-        "Operations",
-        "sponsor-hpe",
-        "Sponsored",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Taming the agentic influx: a blueprint for AI business observability",
-      "link": "https://thenewstack.io/ai-spend-business-observability",
-      "summary": "Kin Lane, API industry analyst and co-founder of Naftiko, believes that the bill for AI is coming soon. It’s arriving The post Taming the agentic influx: a blueprint for AI business observability appeared first on The New Stack .",
-      "published": "2026-05-26T12:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Nick Lucchesi",
-      "categories": [
-        "AI Strategy",
-        "FinOps",
-        "Observability",
-        "sponsor-naftiko",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How Jaeger is evolving to trace AI agents with OpenTelemetry",
-      "link": "https://www.cncf.io/blog/2026/05/26/how-jaeger-is-evolving-to-trace-ai-agents-with-opentelemetry",
-      "summary": "As software architectures evolve, observability tools must adapt. When the industry moved to microservices, distributed tracing became a necessity. Jaeger emerged as a core tool for engineers to understand those fragmented systems. Now, as organizations integrate...",
-      "published": "2026-05-26T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Jonah Kowall, Project Maintainer for Jaeger",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How the AC/DC framework helps teams govern AI coding agents",
-      "link": "https://thenewstack.io/agentic-development-cycle-framework",
-      "summary": "Much of the conversation around AI coding is still centered on how fast machines can produce code. But code volume The post How the AC/DC framework helps teams govern AI coding agents appeared first on The New Stack .",
-      "published": "2026-05-26T11:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Monica White",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Software Development",
-        "sponsor-sonarsource",
-        "sponsored-post-contributed"
       ],
       "thumbnail": ""
     }
