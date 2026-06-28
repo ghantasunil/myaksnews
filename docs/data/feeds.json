@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-06-27T07:01:43.363832+00:00",
-    "total_items": 303,
+    "generated_at": "2026-06-28T07:18:23.357992+00:00",
+    "total_items": 293,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -30,6 +30,66 @@
       "type": "article",
       "author": "",
       "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure Interview Questions 2026: Services and Scenarios",
+      "link": "https://kodekloud.com/blog/azure-interview-questions",
+      "summary": "30 real Azure interview questions with senior-level answers on compute, storage, networking, identity, governance, and design scenarios.",
+      "published": "2026-06-27T17:39:34+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "interview questions",
+        "Azure"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Cloud Interview Questions 2026: Concepts That Transfer",
+      "link": "https://kodekloud.com/blog/cloud-interview-questions",
+      "summary": "30 real cloud interview questions with senior-level answers on cloud models, shared responsibility, scaling, storage, HA, and security.",
+      "published": "2026-06-27T17:33:48+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "interview questions",
+        "Cloud"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Greptile, Cursor, and Devin agree that agents should run their code. What they run it against matters.",
+      "link": "https://thenewstack.io/runtime-verification-coding-agents",
+      "summary": "The industry has recognized that shipping agent code at scale requires runtime verification, and it is moving that way fast. The post Greptile, Cursor, and Devin agree that agents should run their code. What they run it against matters. appeared first on The New Stack .",
+      "published": "2026-06-27T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Arjun Iyer",
+      "categories": [
+        "AI Agents",
+        "Cloud Native Ecosystem",
+        "Software Testing",
+        "sponsor-signadot",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Vibe slop is the symptom. Context debt is the disease.",
+      "link": "https://thenewstack.io/vibe-coding-context-debt",
+      "summary": "Some of the engineers who made vibe coding possible have decided it’s a problem. Last month, The Wall Street Journal’s The post Vibe slop is the symptom. Context debt is the disease. appeared first on The New Stack .",
+      "published": "2026-06-27T10:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Matt Burns",
+      "categories": [
+        "AI Engineering",
+        "API Management",
+        "Vibe Coding"
+      ],
       "thumbnail": ""
     },
     {
@@ -4072,220 +4132,6 @@
       "author": "John Savill's Technical Training",
       "categories": [],
       "thumbnail": "https://i.ytimg.com/vi/dcBVZEVCLKk/mqdefault.jpg"
-    },
-    {
-      "title": "Using Kubernetes for MLOps",
-      "link": "https://kodekloud.com/blog/using-kubernetes-for-mlops",
-      "summary": "Run MLOps on Kubernetes: train with Kubeflow Trainer, serve with KServe, schedule GPUs with Kueue, autoscale with KEDA, and ship via GitOps.",
-      "published": "2026-05-29T06:35:06+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "Kubernetes",
-        "MLOps",
-        "100 days of MLOps",
-        "Kubeflow",
-        "KServe",
-        "Machine Learning",
-        "GitOps",
-        "Keda",
-        "Model Serving"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Security Notice: Former Helm APT Mirror Domain `baltocdn.com` Statement",
-      "link": "https://helm.sh/blog/security-notice-baltocdn",
-      "summary": "The Helm Security Team has received third-party reports that the ownership on the former community-maintained Debian/Ubuntu APT mirror domain, baltocdn.com, has changed after baltocdn.com's original registration lapsed.",
-      "published": "2026-05-29T00:00:00+00:00",
-      "source": "Helm Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Who's Calling Your Service? Designing for Humans and Agents at the Same Time",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/who-s-calling-your-service-designing-for-humans-and-agents-at/ba-p/4523716",
-      "summary": "We're building three interfaces for Azure SRE Agent: an interactive CLI for humans at a terminal, an agent mode for coding agents that spawn it as a subprocess, and an MCP server for humans inside coding agents and for remote agents in other ecosystems. The CLI and agent mode are coming. The MCP...",
-      "published": "2026-05-28T18:46:18+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "dbandaru",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why AWS scrapped OpenSearch’s architecture to chase agent workloads",
-      "link": "https://thenewstack.io/aws-opensearch-serverless-agentic-rebuild",
-      "summary": "AWS on Thursday launched what it calls a near-total rebuild of its managed search and vector engine, in an effort The post Why AWS scrapped OpenSearch’s architecture to chase agent workloads appeared first on The New Stack .",
-      "published": "2026-05-28T18:30:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Infrastructure",
-        "Cloud Services"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Claude Opus 4.8 is here: effort controls, dynamic workflows, cheaper fast mode, better honesty, less deception",
-      "link": "https://thenewstack.io/claude-opus-48-release",
-      "summary": "On Thursday, Anthropic released the newest version of its flagship model, Opus 4.8, which allows users to control Claude’s effort, The post Claude Opus 4.8 is here: effort controls, dynamic workflows, cheaper fast mode, better honesty, less deception appeared first on The New Stack .",
-      "published": "2026-05-28T18:08:36+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Percona celebrates 20th birthday with new foundation — and a goat cake",
-      "link": "https://thenewstack.io/percona-20-oursql-foundation-rebrand",
-      "summary": "Percona, which makes a popular open-source database-as-a-service (DBaaS), celebrated its 20th birthday this week with a rebrand, a new supporting The post Percona celebrates 20th birthday with new foundation — and a goat cake appeared first on The New Stack .",
-      "published": "2026-05-28T17:14:33+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Chris J. Preimesberger",
-      "categories": [
-        "Databases",
-        "Open Source",
-        "Tech Culture",
-        "sponsor-percona",
-        "sponsored-event-coverage"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why OpenAI and Anthropic are hiring forward deployed engineer teams",
-      "link": "https://thenewstack.io/forward-deployed-engineers-ai",
-      "summary": "Companies adding AI to their products often think that a powerful model is the key to successful integration. This assumption The post Why OpenAI and Anthropic are hiring forward deployed engineer teams appeared first on The New Stack .",
-      "published": "2026-05-28T16:35:14+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Oluwadamilola Oshungboye",
-      "categories": [
-        "AI Operations",
-        "AI Strategy",
-        "Tech Careers",
-        "Contributed",
-        "contributed-bit"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AI DevOps Project #1 - Kubernetes AI Troubleshooting Agent",
-      "link": "https://www.youtube.com/watch?v=makkzw8s__s",
-      "summary": "Useful links for the video:\n- Getting started with InsForge - https://go.insforge.dev/abhishekveeramalla\n- GitHub Repo - https://github.com/iam-veeramalla/AI-DevOps-Kubernetes-Agent\n\nIn this video, I build an AI Kubernetes Agent from scratch that can automatically troubleshoot Kubernetes problems...",
-      "published": "2026-05-28T15:25:37+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/makkzw8s__s/mqdefault.jpg"
-    },
-    {
-      "title": "Claw-style AI agents are coming to the enterprise. The governance infrastructure is still catching up.",
-      "link": "https://thenewstack.io/automation-anywhere-enterpriseclaw-ai-agents",
-      "summary": "The press release version of Automation Anywhere‘s EnterpriseClaw announcement is straightforward enough: a new capability for deploying what the company The post Claw-style AI agents are coming to the enterprise. The governance infrastructure is still catching up. appeared first on The New Stack .",
-      "published": "2026-05-28T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Darryl K. Taft",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "AI Infrastructure"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The agentic identity crisis: Why your security isn’t ready for the AI revolution",
-      "link": "https://thenewstack.io/ai-agent-identity-crisis",
-      "summary": "The transition from traditional web applications to agentic ecosystems is more than a change in the UI; it is a The post The agentic identity crisis: Why your security isn’t ready for the AI revolution appeared first on The New Stack .",
-      "published": "2026-05-28T12:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Justin Dolly",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Security",
-        "sponsor-ory",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Centralized Logging for GKE and Agentic AI applications with ElasticSearch",
-      "link": "https://www.youtube.com/watch?v=kublq2Y9dNs",
-      "summary": "Let's implement centralized logging for GKE and agentic AI applications with Elasticsearch to identify the root cause of production crashes in seconds.\n\nIn this video, we dive into the \"Blame the Deploy\" project, a revolutionary way to handle Kubernetes observability. Instead of spending 20+...",
-      "published": "2026-05-28T11:15:06+00:00",
-      "source": "Piyush Sachdeva",
-      "type": "video",
-      "author": "Tech Tutorials with Piyush",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/kublq2Y9dNs/mqdefault.jpg"
-    },
-    {
-      "title": "The Kubernetes integration tax: Prometheus, Cilium and production reality",
-      "link": "https://www.cncf.io/blog/2026/05/28/the-kubernetes-integration-tax-prometheus-cilium-and-production-reality",
-      "summary": "I still remember the first time we lost sleep over something that wasn’t a bug. It was a Tuesday. Grafana dashboards showed blank panels for Cilium network metrics. Hubble was working fine — DNS visibility, TCP...",
-      "published": "2026-05-28T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Rishi Mondal, SRE at Obmondo and CNCF KubeStellar Maintainer",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Debugging the undebuggable: building observability into probabilistic AI systems",
-      "link": "https://thenewstack.io/debugging-observable-ai-systems",
-      "summary": "Debugging used to be straightforward: A service failed, you checked the logs, followed the stack trace, and fixed the bug. The post Debugging the undebuggable: building observability into probabilistic AI systems appeared first on The New Stack .",
-      "published": "2026-05-28T11:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Oladimeji Sowole",
-      "categories": [
-        "AI Engineering",
-        "AI Operations",
-        "Observability",
-        "sponsor-andela",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to Build Your First MLOps Pipeline",
-      "link": "https://kodekloud.com/blog/how-to-build-your-first-mlops-pipeline",
-      "summary": "Build a complete MLOps pipeline in 90 minutes with MLflow 3, DVC, FastAPI, and Docker. Hands-on tutorial with working code and monitoring.",
-      "published": "2026-05-28T10:05:53+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "MLOps",
-        "MLOps Pipeline",
-        "MLflow",
-        "DVC",
-        "FastAPI",
-        "Docker",
-        "Machine Learning",
-        "ML Model Deployment",
-        "Model Registry",
-        "Hands-on Tutorial",
-        "Python"
-      ],
-      "thumbnail": ""
     }
   ]
 }
