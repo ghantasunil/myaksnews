@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-06-28T07:18:23.357992+00:00",
-    "total_items": 293,
+    "generated_at": "2026-06-29T07:36:48.520115+00:00",
+    "total_items": 289,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -21,6 +21,76 @@
     ]
   },
   "items": [
+    {
+      "title": "Best Docker Certifications for DevOps Engineers in 2026",
+      "link": "https://kodekloud.com/blog/docker-certification",
+      "summary": "Is the Docker Certified Associate still worth it in 2026? The DCA exam format, cost, and how it compares to Kubernetes certs for DevOps engineers",
+      "published": "2026-06-29T04:27:47+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "Certification",
+        "Docker"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes Certifications 2026: A Complete Guide",
+      "link": "https://kodekloud.com/blog/kubernetes-certification",
+      "summary": "Compare KCNA, KCSA, CKAD, CKA, and CKS: exam format, cost, passing score, validity, and which Kubernetes certification to take first in 2026.",
+      "published": "2026-06-28T17:17:41+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "Certification",
+        "Kubernetes"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "This AI platform feels Illegal | Prompt to Production with Zero coding.",
+      "link": "https://www.youtube.com/watch?v=AD8yzjBXVww",
+      "summary": "Get upto FREE $10,000 AI credits(New Enterprise customers who sign by September 30)\n- https://fandf.co/44bvr0L\n\nRetool AI-native builder helps you extend, customize, and connect 100+ components to ship production-ready apps. It provides a governed environment where applications can inherit access...",
+      "published": "2026-06-28T16:00:54+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/AD8yzjBXVww/mqdefault.jpg"
+    },
+    {
+      "title": "“Bring it to our shop”: Workday’s pitch for keeping AI agents close to your most valuable data",
+      "link": "https://thenewstack.io/workday-ai-inference-guardrails",
+      "summary": "Workday, the payroll and HR data platform, has been pursuing AI and agents for a while, but while other businesses The post “Bring it to our shop”: Workday’s pitch for keeping AI agents close to your most valuable data appeared first on The New Stack .",
+      "published": "2026-06-28T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Model Context Protocol (MCP)"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Okta is the first to bring AI agent governance inside FedRAMP boundaries",
+      "link": "https://thenewstack.io/okta-ai-agents-fedramp",
+      "summary": "Okta has made its AI agent governance platform generally available for FedRAMP- and HIPAA-regulated environments, becoming what it claims is the first independent The post Okta is the first to bring AI agent governance inside FedRAMP boundaries appeared first on The New Stack .",
+      "published": "2026-06-28T13:49:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Compliance",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "AKS Newsletter – June 2026",
       "link": "https://aksnewsletter.com/2026/2026-06.html",
@@ -4005,133 +4075,6 @@
         "Tech Careers"
       ],
       "thumbnail": ""
-    },
-    {
-      "title": "Azure Functions MCP extension now supports MCP Prompts",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-functions-mcp-extension-now-supports-mcp-prompts/ba-p/4516359",
-      "summary": "We are thrilled to announce that the MCP prompt trigger is now available in public preview in the Azure Functions MCP extension ! With this release, the extension now supports all three core MCP server primitives - tools, resources, and prompts, giving you a complete platform for building rich MCP...",
-      "published": "2026-05-29T21:06:21+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "lily-ma",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "AI DevOps Project #2 - AI Cloud Cost Detective (Reduces cloud billing)",
-      "link": "https://www.youtube.com/watch?v=hUyXN3MJwa8",
-      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nIn this video, you’ll learn how to build an AI DevOps project - AI Cloud Cost Detective - a tool that acts like a financial investigator for your cloud spending. Instead of guessing where money goes, you get a clear...",
-      "published": "2026-05-29T16:59:46+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/hUyXN3MJwa8/mqdefault.jpg"
-    },
-    {
-      "title": "Why Linux creator Linus Torvalds gets angry hearing “99% of code is AI”",
-      "link": "https://thenewstack.io/torvalds-ai-programming-productivity",
-      "summary": "During his keynote at the recent Open Source Summit North America, Linux and Git creator Linus Torvalds did not mince The post Why Linux creator Linus Torvalds gets angry hearing “99% of code is AI” appeared first on The New Stack .",
-      "published": "2026-05-29T14:34:48+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "B. Cameron Gain",
-      "categories": [
-        "AI Engineering",
-        "Linux",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Vendor neutrality isn’t magic: A hard look at the OpenTelemetry ecosystem",
-      "link": "https://thenewstack.io/opentelemetry-vendor-neutrality-guide",
-      "summary": "The OpenTelemetry (OTel) ecosystem provides us not only with a standard data format and transport mechanism for generating, processing, and The post Vendor neutrality isn’t magic: A hard look at the OpenTelemetry ecosystem appeared first on The New Stack .",
-      "published": "2026-05-29T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adriana Villela",
-      "categories": [
-        "Cloud Native Ecosystem",
-        "Observability",
-        "Open Source",
-        "sponsor-dynatrace",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“The AI did it” won’t save you when EU regulators come knocking",
-      "link": "https://thenewstack.io/eu-cyber-resilience-act",
-      "summary": "The European Union’s Cyber Resilience Act (CRA) is just months away from ushering in a new era of accountability that’s The post “The AI did it” won’t save you when EU regulators come knocking appeared first on The New Stack .",
-      "published": "2026-05-29T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Luis Villa",
-      "categories": [
-        "AI",
-        "Compliance",
-        "Software Development",
-        "sponsor-sonarsource",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The fix for soaring AI cloud bills exists — so why won’t we trust it?",
-      "link": "https://thenewstack.io/kubernetes-rightsizing-trust-gap",
-      "summary": "To hear Yasmin Rajabi, chief operating officer at CloudBolt, tell it, there’s an imbalance in how we view automation. We’re The post The fix for soaring AI cloud bills exists — so why won’t we trust it? appeared first on The New Stack .",
-      "published": "2026-05-29T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jennifer Riggins",
-      "categories": [
-        "AI Infrastructure",
-        "FinOps",
-        "Platform Engineering",
-        "sponsor-cloudbolt",
-        "sponsored-webinar"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AI is shipping code faster than security was built to handle",
-      "link": "https://thenewstack.io/snyk-pentesting-ai-agents-security",
-      "summary": "Snyk has entered the AI-powered penetration testing market with a new product it says addresses the gap in how enterprises The post AI is shipping code faster than security was built to handle appeared first on The New Stack .",
-      "published": "2026-05-29T12:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Darryl K. Taft",
-      "categories": [
-        "AI",
-        "AI Infrastructure",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Building a cloud native internal developer platform with Kubernetes, GitOps, and supply chain security",
-      "link": "https://www.cncf.io/blog/2026/05/29/building-a-cloud-native-internal-developer-platform-with-kubernetes-gitops-and-supply-chain-security",
-      "summary": "Modern software delivery is no longer constrained by application code — it is constrained by the platform that runs it. This article presents the design of a cloud-native Internal Developer Platform (IDP) built on Kubernetes and...",
-      "published": "2026-05-29T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Abu Hena Mostafa Kamal, CNCF Kubestronaut and Senior Software Engineer",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Azure Update 29th May 2026",
-      "link": "https://www.youtube.com/watch?v=dcBVZEVCLKk",
-      "summary": "REALLY QUICK UPDATE. \n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation queue never to be seen...",
-      "published": "2026-05-29T10:34:44+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/dcBVZEVCLKk/mqdefault.jpg"
     }
   ]
 }
