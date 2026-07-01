@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-06-30T07:14:55.847293+00:00",
-    "total_items": 295,
+    "generated_at": "2026-07-01T07:26:12.775669+00:00",
+    "total_items": 311,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -15,12 +15,304 @@
       "KodeKloud",
       "Kubernetes Blog",
       "Kubesimplify",
+      "LearnK8s",
       "Piyush Sachdeva",
       "Rawkode Academy",
       "The New Stack"
     ]
   },
   "items": [
+    {
+      "title": "How Anthropic is bringing Fable 5 back — and when it’ll cost you",
+      "link": "https://thenewstack.io/how-anthropic-is-bringing-fable-5-back",
+      "summary": "After the U.S. government lifted its export controls for Fable 5 on Tuesday, Anthropic announced that it would bring the The post How Anthropic is bringing Fable 5 back — and when it’ll cost you appeared first on The New Stack .",
+      "published": "2026-07-01T04:12:09+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Models",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Fable is coming back: Federal government lifts export controls on Anthropic AI model",
+      "link": "https://thenewstack.io/anthropic-fable-ban-lifted",
+      "summary": "Anthropic can now bring back Fable. The U.S. Commerce Department is lifting the export controls it placed on both AI models, The post Fable is coming back: Federal government lifts export controls on Anthropic AI model appeared first on The New Stack .",
+      "published": "2026-07-01T00:08:34+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic’s Claude Sonnet 5 system card says more about the future of AI than its benchmarks do",
+      "link": "https://thenewstack.io/ai-agent-infrastructure-reliability",
+      "summary": "With the debut of Anthropic’s Claude Sonnet 5 on Tuesday came its benchmark charts, showing improvements across coding, reasoning, and The post Anthropic’s Claude Sonnet 5 system card says more about the future of AI than its benchmarks do appeared first on The New Stack .",
+      "published": "2026-06-30T20:37:01+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI",
+        "AI Models",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure Container Apps Express for Shipping Container Apps Fast",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-container-apps-express-for-shipping-container-apps-fast/ba-p/4531371",
+      "summary": "ACA Express Apps are a strong fit for teams that need to ship quickly and can't afford long platform setup cycles. This includes startups, internal platform teams, and product groups deploying APIs, web apps, or agent endpoints that scale with uneven demand. If the priority is fast...",
+      "published": "2026-06-30T20:10:51+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "hetvip",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "The infrastructure lock-in costing AI companies hundreds of millions",
+      "link": "https://thenewstack.io/future-proof-ai-infrastructure",
+      "summary": "Egor Komarov for Unsplash The post The infrastructure lock-in costing AI companies hundreds of millions appeared first on The New Stack .",
+      "published": "2026-06-30T19:04:40+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Infrastructure",
+        "AI Strategy",
+        "Hardware"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic Sonnet 5: It closes the gap with Opus 4.8, and is cheap until August",
+      "link": "https://thenewstack.io/claude-sonnet-5-launch",
+      "summary": "Anthropic on Tuesday launched Sonnet 5, the latest model in its mainstream Sonnet series. The company calls Sonnet 5 its The post Anthropic Sonnet 5: It closes the gap with Opus 4.8, and is cheap until August appeared first on The New Stack .",
+      "published": "2026-06-30T18:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Building an AI Agent That Automates Terraform Infrastructure Provisioning",
+      "link": "https://kodekloud.com/blog/building-an-ai-agent-that-automates-terraform-infrastructure-provisioning",
+      "summary": "Describe infrastructure in plain language and watch an agent write the Terraform, run the plan, and wait for your approval before anything reaches the cloud. This tutorial builds that agent step by step in Go.",
+      "published": "2026-06-30T17:56:24+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "Terraform",
+        "AI Agents",
+        "IaC",
+        "Go",
+        "Platform Engineering",
+        "AWS",
+        "Infrastructure as Code (IaC)",
+        "AI"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic launches Claude Science, an AI workbench for scientific research",
+      "link": "https://thenewstack.io/anthropic-claude-science-workbench",
+      "summary": "On Tuesday, Anthropic launched Claude Science, a new application for scientists that can run locally on macOS and Linux or The post Anthropic launches Claude Science, an AI workbench for scientific research appeared first on The New Stack .",
+      "published": "2026-06-30T17:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Model Context Protocol",
+        "Science"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AWS launches a desktop for agents",
+      "link": "https://thenewstack.io/aws-workspaces-desktops-for-agents",
+      "summary": "After a short public preview, AWS on Tuesday made its Amazon WorkSpaces for Agents — which you should definitely not The post AWS launches a desktop for agents appeared first on The New Stack .",
+      "published": "2026-06-30T16:01:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Cloud Services",
+        "Model Context Protocol"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Microsoft Foundry Zero to Hero in 8 Minutes (Including Claude project)",
+      "link": "https://www.youtube.com/watch?v=pdd0KJOnbcc",
+      "summary": "Get Started with Foundry for FREE:\nhttps://fandf.co/4dUSXVE\n\nIn this video, I will show you how to build a product ready AI-Assistant right inside visual studio code using Microsoft Foundry and Claude. \nBy the end of the video, you will learn how to build, deploy and observe any enterprise AI...",
+      "published": "2026-06-30T15:59:11+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/pdd0KJOnbcc/mqdefault.jpg"
+    },
+    {
+      "title": "GitHub Actions Certification in 2026: The Ultimate Guide (GH-200)",
+      "link": "https://kodekloud.com/blog/github-actions-certification",
+      "summary": "The GitHub Actions certification (exam GH-200) on Microsoft Learn: format, cost, duration, skill areas, and how to prepare and pass it in 2026.",
+      "published": "2026-06-30T15:26:37+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "Certification",
+        "GitHub Actions"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AWS just put $1 billion into forward deployed engineers. Here’s why it matters for enterprise teams.",
+      "link": "https://thenewstack.io/aws-forward-deployed-engineering",
+      "summary": "Amazon Web Services is investing $1 billion in a new engineering organization that will work directly with enterprise customers building The post AWS just put $1 billion into forward deployed engineers. Here’s why it matters for enterprise teams. appeared first on The New Stack .",
+      "published": "2026-06-30T15:02:22+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Engineering",
+        "AI Strategy",
+        "Cloud Services"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“The harness is where the hard work is”: Harness bets on agents that enterprises can trust in production",
+      "link": "https://thenewstack.io/harness-autonomous-worker-agents",
+      "summary": "The agentic platform Harness launched Autonomous Worker Agents on Tuesday, enabling enterprises to replace fixed scripts in their delivery pipelines with AI The post “The harness is where the hard work is”: Harness bets on agents that enterprises can trust in production appeared first on The New...",
+      "published": "2026-06-30T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI Agents",
+        "CI/CD",
+        "DevOps"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Aikido acquires Root to backport open source fixes without forcing upgrades",
+      "link": "https://thenewstack.io/aikido-acquires-root-security",
+      "summary": "Developer-focused cybersecurity platform Aikido Security has announced that it has acquired Root, a company that patches known vulnerabilities directly into The post Aikido acquires Root to backport open source fixes without forcing upgrades appeared first on The New Stack .",
+      "published": "2026-06-30T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "Open Source",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Operating Kubernetes at scale: a few stories from running Amazon EKS",
+      "link": "https://thenewstack.io/eks-kubernetes-etcd-scale",
+      "summary": "Amazon EKS runs hundreds of thousands of Kubernetes clusters across more than thirty AWS regions. Operating at that scale has The post Operating Kubernetes at scale: a few stories from running Amazon EKS appeared first on The New Stack .",
+      "published": "2026-06-30T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Neelendra Bhandari",
+      "categories": [
+        "AI Infrastructure",
+        "Cloud Services",
+        "Kubernetes",
+        "sponsor-aws-marketplace",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kepler, re-architected: Improved power accuracy and a community call to action!",
+      "link": "https://www.cncf.io/blog/2026/06/30/kepler-re-architected-improved-power-accuracy-and-a-community-call-to-action",
+      "summary": "Thank you to Laura Llinares, Mary Baldwin Hughes, Vimal Kumar, and Sunil Thaha for their significant contributions to this blog post and the Kepler project. Data centers accounted for 1.5% of global electricity demand in 2024,...",
+      "published": "2026-06-30T11:38:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Niki Manoledaki (Grafana Labs), Sunyanan Choochotkaew (IBM) | CNCF Ambassadors",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Dragonfly v2.5.0 is released",
+      "link": "https://www.cncf.io/blog/2026/06/30/dragonfly-v2-5-0-is-released",
+      "summary": "Dragonfly v2.5.0 is released! Thanks to all of the contributors who made this Dragonfly release happen.  New features and enhancements Direct repository downloads from Hugging Face and ModelScope Dragonfly Client now supports directly downloading model repositories...",
+      "published": "2026-06-30T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Gaius Qi, Dragonfly Maintainer",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "IdentityServer4 is dead. Here’s what comes next.",
+      "link": "https://thenewstack.io/rsk-forks-open-identityserver",
+      "summary": "Developers weren’t happy when identity and access control software company Duende commercialized its open source IdentityServer product in December 2022, The post IdentityServer4 is dead. Here’s what comes next. appeared first on The New Stack .",
+      "published": "2026-06-30T08:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI",
+        "Open Source",
+        "Security",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Jenkins Certification in 2026: A Quick Guide to Getting Certified",
+      "link": "https://kodekloud.com/blog/jenkins-certification",
+      "summary": "Is the Jenkins certification still offered? The current CloudBees CJE exam format, cost, validity, and how to prepare and get certified in 2026.",
+      "published": "2026-06-30T07:27:12+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "Certification",
+        "Jenkins"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Server-side apply: what happens when you run kubectl apply",
+      "link": "https://learnkube.com/server-side-apply-kubernetes",
+      "summary": "Client-side apply can silently overwrite changes made by other tools. Server-side apply moves field ownership to the API server. Here is how it works and why it matters.",
+      "published": "2026-06-30T00:00:00+00:00",
+      "source": "LearnK8s",
+      "type": "article",
+      "author": "Chiara Salvatore",
+      "categories": [],
+      "thumbnail": ""
+    },
     {
       "title": "How AI Reshapes the CKS Exam and Kubernetes Security in 2026",
       "link": "https://kodekloud.com/blog/how-ai-reshapes-the-cks-exam-and-kubernetes-security-in-2026",
@@ -4090,70 +4382,6 @@
       "author": "Joe Heck, Swift Documentation Workgroup Member, Apple",
       "categories": [
         "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Gavriel Cohen found his own code inside OpenClaw, so he walked away",
-      "link": "https://thenewstack.io/nanoclaw-openclaw-agent-security",
-      "summary": "When Gavriel Cohen first saw OpenClaw, he knew he wanted it. At the time, Cohen (soon to be the founder The post Gavriel Cohen found his own code inside OpenClaw, so he walked away appeared first on The New Stack .",
-      "published": "2026-05-31T17:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "David Eastman",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AI retrieval at scale is becoming a systems problem, not a tooling problem",
-      "link": "https://thenewstack.io/ai-retrieval-at-scale",
-      "summary": "AI retrieval has moved well beyond embeddings and vector search. Early retrieval architectures focused primarily on semantic similarity. Still, production The post AI retrieval at scale is becoming a systems problem, not a tooling problem appeared first on The New Stack .",
-      "published": "2026-05-31T16:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Tim Young",
-      "categories": [
-        "AI Engineering",
-        "AI Infrastructure",
-        "AI Strategy",
-        "sponsor-vespa-ai",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The DIY platform trap that’s burning out engineering teams",
-      "link": "https://thenewstack.io/diy-platform-burnout-trap",
-      "summary": "Platform engineers are some of the most resourceful people in IT. Give them a problem, and they’ll automate their way The post The DIY platform trap that’s burning out engineering teams appeared first on The New Stack .",
-      "published": "2026-05-31T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Darin Zook",
-      "categories": [
-        "AI Infrastructure",
-        "DevOps",
-        "Platform Engineering",
-        "sponsor-vmware",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "I tested Cursor’s new Jira integration and it’s 5 stars, no notes. Here’s why.",
-      "link": "https://thenewstack.io/cursor-jira-integration-test",
-      "summary": "Cursor launched its Jira integration last week. The integration was marketed as simple: assign a ticket in Jira and Cursor The post I tested Cursor’s new Jira integration and it’s 5 stars, no notes. Here’s why. appeared first on The New Stack .",
-      "published": "2026-05-31T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jessica Wachtel",
-      "categories": [
-        "AI Agents",
-        "Developer tools",
-        "Vibe Coding"
       ],
       "thumbnail": ""
     }
