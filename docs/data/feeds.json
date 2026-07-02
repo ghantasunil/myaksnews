@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-07-01T07:26:12.775669+00:00",
-    "total_items": 311,
+    "generated_at": "2026-07-02T07:04:42.859442+00:00",
+    "total_items": 305,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -10,7 +10,6 @@
       "Apps on Azure",
       "CNCF Blog",
       "Collabnix",
-      "Helm Blog",
       "John Savill",
       "KodeKloud",
       "Kubernetes Blog",
@@ -22,6 +21,124 @@
     ]
   },
   "items": [
+    {
+      "title": "OpenClaw’s new app doesn’t run AI on your phone. That’s the whole point.",
+      "link": "https://thenewstack.io/openclaw-persistent-agent-architecture",
+      "summary": "OpenClaw finally dropped its iOS and Android apps this week, meaning you can now ditch the Telegram and WhatsApp methods The post OpenClaw’s new app doesn’t run AI on your phone. That’s the whole point. appeared first on The New Stack .",
+      "published": "2026-07-01T21:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Strategy"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Cordyceps flaw pattern is more proof CI/CD is part of the attack surface",
+      "link": "https://thenewstack.io/cordyceps-cicd",
+      "summary": "On June 24, research from Novee Security was released, reporting a CI/CD weakness that could enable anyone with an unauthenticated The post Cordyceps flaw pattern is more proof CI/CD is part of the attack surface appeared first on The New Stack .",
+      "published": "2026-07-01T20:29:58+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "CI/CD",
+        "Developer tools",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Cloudflare wants to build the economic layer of the AI web",
+      "link": "https://thenewstack.io/cloudflare-ai-web-economics",
+      "summary": "AI has changed the web right before our eyes. With Google’s AI Overviews doing the heavy lifting, publications that once The post Cloudflare wants to build the economic layer of the AI web appeared first on The New Stack .",
+      "published": "2026-07-01T20:10:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "Cloud Services",
+        "Networking"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“You Only Compute Once”: How Clockwork wants to put an end to AI training restarts",
+      "link": "https://thenewstack.io/clockwork-torchpass-gpu-migration",
+      "summary": "On a large enough GPU cluster, something is always breaking. That’s just a fact of life. The standard fix is The post “You Only Compute Once”: How Clockwork wants to put an end to AI training restarts appeared first on The New Stack .",
+      "published": "2026-07-01T17:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Operations",
+        "Hardware"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How to build long-running MCP tools on Azure Functions",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/how-to-build-long-running-mcp-tools-on-azure-functions/ba-p/4532653",
+      "summary": "Recently, a customer building servers with the Azure Functions MCP extension reached out and asked: How do I handle tools that take longer than the client is willing to wait? This becomes especially relevant when tool calls move beyond simple request/response into multi-step workflows and...",
+      "published": "2026-07-01T16:10:42+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "lily-ma",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "The call is coming from inside your pipeline: the anatomy of a Codecov attack",
+      "link": "https://thenewstack.io/codecov-supply-chain-attack",
+      "summary": "In January 2021, an attacker added a single line of code to a popular bash script. Tens of thousands of The post The call is coming from inside your pipeline: the anatomy of a Codecov attack appeared first on The New Stack .",
+      "published": "2026-07-01T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Zeen Rachidi",
+      "categories": [
+        "CI/CD",
+        "DevOps",
+        "Security",
+        "sponsor-env-zero",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Understanding dynamic resource allocation in Kubernetes",
+      "link": "https://www.cncf.io/blog/2026/07/01/understanding-dynamic-resource-allocation-in-kubernetes",
+      "summary": "Dynamic Resource Allocation (DRA) recently reached GA in Kubernetes v1.35, and I believe many of us are eager to give it a try. Adding to the momentum, NVIDIA has moved dra-driver-nvidia-gpu into Kubernetes SIGs, with the...",
+      "published": "2026-07-01T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "ChengHao Yang, CNCF Ambassador",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Argo CD Certification in 2026: A Beginner's Guide to the CAPA",
+      "link": "https://kodekloud.com/blog/argocd-certification",
+      "summary": "A beginner's guide to the Certified Argo Project Associate (CAPA): what it covers, exam format, cost, validity, and how to prepare in 2026.",
+      "published": "2026-07-01T07:40:59+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "Certification",
+        "Argo CD"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "How Anthropic is bringing Fable 5 back — and when it’ll cost you",
       "link": "https://thenewstack.io/how-anthropic-is-bringing-fable-5-back",
@@ -4199,187 +4316,6 @@
       "source": "CNCF Blog",
       "type": "article",
       "author": "Sonali Srivastava, CNCF Co-chair for KubeCon + CloudNativeCon India 2026",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Better Deployment Errors in az webapp deploy",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/better-deployment-errors-in-az-webapp-deploy/ba-p/4524680",
-      "summary": "Deployment failures can be difficult to interpret, especially when the error returned by the deployment API does not clearly explain what went wrong or what to do next. To make this easier, we have added a new switch to az webapp deploy for App Service for Linux: --enriched-errors true When...",
-      "published": "2026-06-02T05:52:13+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "TulikaC",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Understand What’s Happening with Your App Service for Linux Website Using Site Status",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/understand-what-s-happening-with-your-app-service-for-linux/ba-p/4524676",
-      "summary": "When your website is not starting or behaving unexpectedly, it can be difficult to quickly understand what state the application is in and what might be causing the issue. To make this easier, Azure App Service for Linux now includes Site Status . Site Status provides runtime information for your...",
-      "published": "2026-06-02T05:21:07+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "TulikaC",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Helm 3 End of Life",
-      "link": "https://helm.sh/blog/helm-v3-end-of-life",
-      "summary": "Helm 3 is approaching end-of-life. A final, limited Helm 3 feature release will be September 9th, 2026, with security patches continuing to be provided through February 2027.",
-      "published": "2026-06-02T00:00:00+00:00",
-      "source": "Helm Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Determinism over magic: the engineering design behind Azure Container Registry Regional Endpoints",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/determinism-over-magic-the-engineering-design-behind-azure/ba-p/4524101",
-      "summary": "By Zoey Li , Huangli Wu , Johnson Shi , Wei Meng Introduction Azure Container Registry (ACR) supports geo-replication : one registry resource with active-active replicas across multiple Azure regions. You push or pull through any replica, and ACR asynchronously replicates content to all others. For...",
-      "published": "2026-06-01T21:23:11+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "zoeyli",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI, Anthropic, Google, Amazon, and xAI all fail on type of attack, study finds",
-      "link": "https://thenewstack.io/cisco-frontier-ai-models-fail",
-      "summary": "The safety benchmarks enterprise buyers rely on to evaluate AI models are measuring the wrong thing. That’s the finding from The post OpenAI, Anthropic, Google, Amazon, and xAI all fail on type of attack, study finds appeared first on The New Stack .",
-      "published": "2026-06-01T21:01:11+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Darryl K. Taft",
-      "categories": [
-        "AI",
-        "AI Models",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "JetBrains open-sources Mellum2 to go where Claude Code can’t",
-      "link": "https://thenewstack.io/jetbrains-mellum2-open-source-coding-model",
-      "summary": "JetBrains announced on Monday it has open-sourced Mellum2, a 12B-parameter coding model aimed at the infrastructure layer of agentic AI The post JetBrains open-sources Mellum2 to go where Claude Code can’t appeared first on The New Stack .",
-      "published": "2026-06-01T20:47:26+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI Agents",
-        "AI Models",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "From Kubernetes Dashboard to Headlamp: Understanding the Transition",
-      "link": "https://kubernetes.io/blog/2026/06/01/dashboard-to-headlamp",
-      "summary": "For many people, Kubernetes Dashboard was their first window into Kubernetes. It offered a simple visual way to see what was running in a cluster, inspect resources, and build confidence without relying on the command line. For years, it helped developers, students, and operators make sense of...",
-      "published": "2026-06-01T18:00:00+00:00",
-      "source": "Kubernetes Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "AI DevOps Project #3 - AI DevOps Teammate in 15 Minutes (Free & open source",
-      "link": "https://www.youtube.com/watch?v=pJf2AOJQleM",
-      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nIn this video, you’ll learn how to build an AI DevOps project - AI DevOps teammate with MCP + RAG + Skills. Very reliable and secure AI DevOps teammate and assistant for your organization\n\nGtiHub Repo for the...",
-      "published": "2026-06-01T17:22:45+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/pJf2AOJQleM/mqdefault.jpg"
-    },
-    {
-      "title": "Claude Code vs. Cursor vs. Codex vs. Antigravity — six months in",
-      "link": "https://thenewstack.io/claude-code-vs-cursor-vs-codex-vs-antigravity-2026",
-      "summary": "Six months ago, the agentic coding tool was still an argument about form. By the start of June 2026, the The post Claude Code vs. Cursor vs. Codex vs. Antigravity — six months in appeared first on The New Stack .",
-      "published": "2026-06-01T17:20:57+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Janakiram MSV",
-      "categories": [
-        "AI Agents",
-        "AI Strategy",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "This coding agent doesn’t want your feedback — it ships without it",
-      "link": "https://thenewstack.io/skiplabs-skipper-ai-coding-tool-agent",
-      "summary": "The pitch for most AI coding tools is speed. Write a prompt, get a draft, iterate. The faster the model, The post This coding agent doesn’t want your feedback — it ships without it appeared first on The New Stack .",
-      "published": "2026-06-01T16:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Darryl K. Taft",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Engineering"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“Blowing things up”: The one move vendors got wrong on AI agents",
-      "link": "https://thenewstack.io/hyland-enterprise-context-engine-agents",
-      "summary": "Just about every enterprise software vendor now agrees on one thing, at least: AI agents are only as useful as The post “Blowing things up”: The one move vendors got wrong on AI agents appeared first on The New Stack .",
-      "published": "2026-06-01T15:00:32+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "At Sapphire, SAP makes the case that enterprise AI is a context problem",
-      "link": "https://thenewstack.io/sap-sapphire-ai-context",
-      "summary": "At SAP Sapphire 2026 in Orlando in May, SAP made the case that the enterprise AI race will not be The post At Sapphire, SAP makes the case that enterprise AI is a context problem appeared first on The New Stack .",
-      "published": "2026-06-01T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "AI Strategy",
-        "sponsor-sap",
-        "sponsored-event-coverage"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Microsoft AI Update May 2026",
-      "link": "https://www.youtube.com/watch?v=HN12PCVEeuM",
-      "summary": "Major Microsoft AI updates in May 2026.\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation...",
-      "published": "2026-06-01T14:25:16+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/HN12PCVEeuM/mqdefault.jpg"
-    },
-    {
-      "title": "Dynamic configuration for cloud native Swift services",
-      "link": "https://www.cncf.io/blog/2026/06/01/dynamic-configuration-for-cloud-native-swift-services",
-      "summary": "Modern Swift services increasingly run alongside the same cloud native infrastructure stacks that power much of today’s Kubernetes ecosystem — including ConfigMaps, containerized workloads, declarative deployments, and service lifecycle management. Projects such as Prometheus and OpenTelemetry...",
-      "published": "2026-06-01T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Joe Heck, Swift Documentation Workgroup Member, Apple",
       "categories": [
         "Blog"
       ],
