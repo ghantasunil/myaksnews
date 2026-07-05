@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-07-04T08:25:26.957870+00:00",
-    "total_items": 275,
+    "generated_at": "2026-07-05T08:41:32.872392+00:00",
+    "total_items": 261,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,32 @@
     ]
   },
   "items": [
+    {
+      "title": "AI Security Engineer detailed roadmap with certification in 45 days.",
+      "link": "https://www.youtube.com/watch?v=qjwNY6CJVAc",
+      "summary": "30 Percent off on TryHackMe AI1 Roadmap:\nhttps://tryhackme.com/AbhishekAI1\n\nLearn AI Security - the practical way with TryHackMe 🚀\n\nIn this video, I walk through the TryHackMe learning path and show how you can build real skills step by step. Perfect for beginners and anyone who wants hands-on...",
+      "published": "2026-07-04T15:27:51+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/qjwNY6CJVAc/mqdefault.jpg"
+    },
+    {
+      "title": "Why cheaper models alone won’t save your AI budget",
+      "link": "https://thenewstack.io/agentic-ai-token-costs",
+      "summary": "Finding the most capable model at the lowest cost has always been the goal. But as agentic AI evolves, a The post Why cheaper models alone won’t save your AI budget appeared first on The New Stack .",
+      "published": "2026-07-04T12:02:30+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Infrastructure",
+        "Emerging technologies",
+        "Operations"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Apple just turned Safari into something AI agents can control",
       "link": "https://thenewstack.io/safari-mcp-platform-infrastructure",
@@ -2517,6 +2543,17 @@
       "thumbnail": ""
     },
     {
+      "title": "How to Get a DevOps Job with NO Experience (step-by-step framework)",
+      "link": "https://www.youtube.com/watch?v=7UcpQBWQehc",
+      "summary": "How to Get a DevOps Job with ZERO Experience (step-by-step framework)\n\n𝗖𝗢𝗠𝗣𝗟𝗘𝗧𝗘 COURSES  👌 It’s   🅵🆁🅴🅴 ⛳\n✅ Terraform Full Course For Beginners - #28daysofAZTerraform\nhttps://www.youtube.com/playlist?list=PLl4APkPHzsUUHlbhuq9V02n9AMLPySoEQ\n\n✅ Certified Kubernetes Administrator (CKA)...",
+      "published": "2026-06-15T10:00:06+00:00",
+      "source": "Piyush Sachdeva",
+      "type": "video",
+      "author": "Tech Tutorials with Piyush",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/7UcpQBWQehc/mqdefault.jpg"
+    },
+    {
       "title": "Spotlight on SIG Storage",
       "link": "https://kubernetes.io/blog/2026/06/15/sig-storage-spotlight-2026",
       "summary": "In our ongoing SIG Spotlight series, we shine a light on the groups that keep the Kubernetes project\nmoving forward. This time, we catch up with SIG\nStorage , the group responsible\nfor persistent data, volume management, and the interfaces that connect Kubernetes workloads to the\nstorage systems...",
@@ -3701,254 +3738,6 @@
       "author": "Abhishek.Veeramalla",
       "categories": [],
       "thumbnail": "https://i.ytimg.com/vi/vksyLZ6dZoI/mqdefault.jpg"
-    },
-    {
-      "title": "Regional Endpoints for Azure Container Registry Geo-Replication — Now in Public Preview",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/regional-endpoints-for-azure-container-registry-geo-replication/ba-p/4525717",
-      "summary": "By Johnson Shi , Zoey (Zhuyu) Li , Huangli Wu What's new Regional endpoints for geo-replicated Azure Container Registries are now in public preview . See the feature's official MS Learn documentation . If you've been following since the private preview announcement , here's what changed: No feature...",
-      "published": "2026-06-05T06:12:53+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "johnsonshi_msft",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Cursor cuts prices and adds enterprise spend controls amid “tokenomics” reckoning",
-      "link": "https://thenewstack.io/cursor-pricing-token-billing",
-      "summary": "If there’s one big takeaway from the AI coding space this week, it’s that the era of flat-rate, all-you-can-code pricing The post Cursor cuts prices and adds enterprise spend controls amid “tokenomics” reckoning appeared first on The New Stack .",
-      "published": "2026-06-04T19:36:41+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Google Gemma 4 12B nearly matches 26B benchmarks — and runs on your laptop",
-      "link": "https://thenewstack.io/google-gemma-local-ai",
-      "summary": "Google has introduced Gemma 4 12B, a new model designed to bring high-performance, multi-modal intelligence to standard laptops. Small enough The post Google Gemma 4 12B nearly matches 26B benchmarks — and runs on your laptop appeared first on The New Stack .",
-      "published": "2026-06-04T19:30:19+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "AI Models",
-        "Edge Computing",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Snowflake thinks it knows what’s really slowing developers down",
-      "link": "https://thenewstack.io/snowflake-coco-coding-agent",
-      "summary": "Ready or not, the agentic enterprise is here, and the key to enabling it efficiently is being debated from various The post Snowflake thinks it knows what’s really slowing developers down appeared first on The New Stack .",
-      "published": "2026-06-04T19:22:24+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Chris J. Preimesberger",
-      "categories": [
-        "AI Agents",
-        "Data Streaming",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Autonomous agents have met their biggest challenge yet: The database.",
-      "link": "https://thenewstack.io/ai-agents-database-challenge",
-      "summary": "As large language models evolve from mere chatbots into autonomous agents capable of reasoning, planning, and acting, they are beginning The post Autonomous agents have met their biggest challenge yet: The database. appeared first on The New Stack .",
-      "published": "2026-06-04T18:53:28+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Chris J. Preimesberger",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Databases",
-        "sponsor-percona",
-        "sponsored-event-coverage"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why agentic AI makes the ops platform the most important layer in the enterprise",
-      "link": "https://thenewstack.io/hpe-greenlake-agentic-hybrid-ops",
-      "summary": "The biggest obstacle to enterprise AI isn’t models, data science talent, or even infrastructure.  It’s operations. Across today’s enterprises, hybrid The post Why agentic AI makes the ops platform the most important layer in the enterprise appeared first on The New Stack .",
-      "published": "2026-06-04T18:35:21+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "TNS Staff",
-      "categories": [
-        "AI Infrastructure",
-        "AI Operations",
-        "Platform Engineering",
-        "sponsor-hpe",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Identity and Access Management Whitepaper",
-      "link": "https://www.cncf.io/blog/2026/06/04/identity-and-access-management-whitepaper",
-      "summary": "As cloud native architectures become more distributed, dynamic, and automated, identity increasingly becomes the new security perimeter. Traditional approaches to authentication and authorization struggle to keep pace with short-lived workloads, service-to-service communication, and zero-trust...",
-      "published": "2026-06-04T18:23:17+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "CNCF TAG Security and Compliance",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to dramatically improve enterprise security alert tuning to battle cyberattacks",
-      "link": "https://thenewstack.io/soc-alert-tuning-blind-spots",
-      "summary": "The number of incoming IT security alerts arriving at enterprise security operations centers (SOCs) today is staggering, with one IT The post How to dramatically improve enterprise security alert tuning to battle cyberattacks appeared first on The New Stack .",
-      "published": "2026-06-04T18:12:50+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Todd R. Weiss",
-      "categories": [
-        "AI",
-        "AI Operations",
-        "Security",
-        "sponsor-elastic",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "KubeCon India Coffee Chat: Giveaways, Stories & Survival Tips",
-      "link": "https://www.youtube.com/watch?v=1RwkiEuIKx8",
-      "summary": "KubeCon India and Open Source Summit India are just around the corner, and what better way to prepare than a casual coffee chat with members of the community?\n\nJoin us as we sit down with speakers, attendees, and Co Chair to discuss:\n\n🎤 Behind-the-scenes speaker stories\n🤝 How to network effectively...",
-      "published": "2026-06-04T17:44:55+00:00",
-      "source": "Kubesimplify",
-      "type": "video",
-      "author": "Kubesimplify",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/1RwkiEuIKx8/mqdefault.jpg"
-    },
-    {
-      "title": "Why the need for humans won’t disappear in the age of autonomous databases",
-      "link": "https://thenewstack.io/dba-role-kubernetes-autonomous-databases",
-      "summary": "The promise of fully autonomous systems — databases that manage, heal, and optimize themselves amid rapidly increasing data stores — The post Why the need for humans won’t disappear in the age of autonomous databases appeared first on The New Stack .",
-      "published": "2026-06-04T17:18:07+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Chris J. Preimesberger",
-      "categories": [
-        "Databases",
-        "Kubernetes",
-        "Open Source",
-        "sponsor-percona",
-        "sponsored-event-coverage"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to secure Kubernetes in the age of AI workloads",
-      "link": "https://thenewstack.io/securing-kubernetes-ai-agents",
-      "summary": "Securing Kubernetes has always been complex — spanning access control, image vulnerabilities, secrets management, and networking. AI workloads make it The post How to secure Kubernetes in the age of AI workloads appeared first on The New Stack .",
-      "published": "2026-06-04T16:45:57+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Mary Branscombe",
-      "categories": [
-        "AI Agents",
-        "Kubernetes",
-        "Security",
-        "sponsor-microsoft-azure",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Bash for Loops Explained (With Examples)",
-      "link": "https://kodekloud.com/blog/bash-for-loops-explained-with-examples",
-      "summary": "Learn Bash for loops the easy way. Understand the syntax, see how they work behind the scenes, and automate repetitive Linux tasks.",
-      "published": "2026-06-04T16:26:09+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Alexandru Andrei",
-      "categories": [
-        "bash",
-        "Bash Scripting",
-        "Command Line"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Asana says its new AI “chief of staff” turns your Slack chaos into trackable work",
-      "link": "https://thenewstack.io/asana-dash-ai-teammates",
-      "summary": "Asana on Thursday unveiled an AI assistant called Dash and a new generation of what the company calls AI “teammates” The post Asana says its new AI “chief of staff” turns your Slack chaos into trackable work appeared first on The New Stack .",
-      "published": "2026-06-04T16:21:55+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Databases"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Free Claude Code Alternative that actually works | 250 USD Free Credits",
-      "link": "https://www.youtube.com/watch?v=SlxnYTBRCWo",
-      "summary": "Kimchi.dev with 250 USD credits:\n- https://kimchi.dev/ea?utm_campaign=Abhishek\n\nCoupon code - ABHISHEK\n\nFinally a working claude code alternative is here. Kimchi.dev is an opensource AI Agent that works with hosted cloud opensource models which makes it extremely inexpensive for developers. To add...",
-      "published": "2026-06-04T16:17:11+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/SlxnYTBRCWo/mqdefault.jpg"
-    },
-    {
-      "title": "Nvidia’s best model is now live",
-      "link": "https://thenewstack.io/nvidias-best-model-is-now-live",
-      "summary": "After pre-announcing Nemotron 3 Ultra, a 550-billion-parameter open-weight mixture-of-experts model, at Computex, Nvidia on Thursday released the model on platforms The post Nvidia’s best model is now live appeared first on The New Stack .",
-      "published": "2026-06-04T16:12:33+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Mate Security’s Asaf Wiener made every backend engineer a model router. He’s right to.",
-      "link": "https://thenewstack.io/mate-security-inference-economics",
-      "summary": "AI Operators is The New Stack’s profile series on how CEOs and founders run AI-native companies: the stacks they choose, The post Mate Security’s Asaf Wiener made every backend engineer a model router. He’s right to. appeared first on The New Stack .",
-      "published": "2026-06-04T15:23:08+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Matthew Burns",
-      "categories": [
-        "AI",
-        "AI Operations",
-        "AI Strategy",
-        "DevOps",
-        "ai operators"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Securing CI/CD for an open source project: Controlling who runs what",
-      "link": "https://www.cncf.io/blog/2026/06/04/securing-ci-cd-for-an-open-source-project-controlling-who-runs-what",
-      "summary": "Part one The last twelve months have been rough on the open source supply chain. Axios was compromised on npm and shipped a remote access trojan inside otherwise normal-looking releases. LiteLLM’s PyPI package was hijacked to...",
-      "published": "2026-06-04T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "André Martins, Cilium maintainer and Software Engineer, Isovalent at Cisco and Feroz Salam, Cilium Security Team and a Security Engineer, Isovalent at Cisco.",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
     }
   ]
 }
