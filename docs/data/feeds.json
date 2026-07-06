@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-07-05T08:41:32.872392+00:00",
-    "total_items": 261,
+    "generated_at": "2026-07-06T09:58:00.899275+00:00",
+    "total_items": 267,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,171 @@
     ]
   },
   "items": [
+    {
+      "title": "Kubernetes Tutorial: Deploy Your First App on Kubernetes Today",
+      "link": "https://kodekloud.com/blog/kubernetes-tutorial-deploy-first-app",
+      "summary": "A hands-on Kubernetes tutorial for beginners: deploy your first app, expose and scale it, see self-healing, and use YAML with kubectl.",
+      "published": "2026-07-06T08:25:48+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "Tutorial",
+        "Kubernetes"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Gateway API v1.2: A Hands-On Migration Guide from Ingress",
+      "link": "https://collabnix.com/gateway-api-v1-2-a-hands-on-migration-guide-from-ingress",
+      "summary": "Gateway API graduated more routing features to GA in the v1.2 line, and migrating off Ingress kept coming up in KubeCon hallway conversations as clusters take on more protocols than plain HTTP. This tutorial migrates a real Ingress resource to Gateway API step by step, so you can see exactly what...",
+      "published": "2026-07-06T08:08:38+00:00",
+      "source": "Collabnix",
+      "type": "article",
+      "author": "Collabnix Team",
+      "categories": [
+        "Kubernetes",
+        "Gateway API",
+        "Ingress",
+        "Kubecon",
+        "kubernetes",
+        "Migration"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Dynamic Resource Allocation (DRA): The Future of GPU Scheduling in Kubernetes",
+      "link": "https://collabnix.com/dynamic-resource-allocation-dra-the-future-of-gpu-scheduling-in-kubernetes",
+      "summary": "Dynamic Resource Allocation, or DRA, has been a recurring theme at recent KubeCon sessions on AI infrastructure, and for good reason: the classic device-plugin model for GPUs is too rigid for modern accelerator sharing, MIG partitioning, and multi-vendor hardware. DRA reworks how Kubernetes claims...",
+      "published": "2026-07-06T08:00:32+00:00",
+      "source": "Collabnix",
+      "type": "article",
+      "author": "Collabnix Team",
+      "categories": [
+        "Kubernetes",
+        "AI Workloads",
+        "Cluster Optimization",
+        "Containers",
+        "Dynamic Resource Allocation",
+        "GPU Scheduling",
+        "kubernetes",
+        "Resource Management"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Gateway API Inference Extension: Smart LLM Traffic Routing on Kubernetes",
+      "link": "https://collabnix.com/gateway-api-inference-extension-smart-llm-traffic-routing-on-kubernetes",
+      "summary": "Gateway API’s Inference Extension was one of the standout topics at recent KubeCon events, tackling a very specific pain point: generic HTTP load balancing algorithms are a poor fit for LLM traffic, where request cost varies wildly and a single long-running generation can pin a backend for seconds....",
+      "published": "2026-07-06T07:54:54+00:00",
+      "source": "Collabnix",
+      "type": "article",
+      "author": "Collabnix Team",
+      "categories": [
+        "Kubernetes",
+        "Gateway API",
+        "Inference",
+        "Kubecon",
+        "kubernetes",
+        "LLM",
+        "Load Balancing"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Deploying LLM Inference on Kubernetes with the NVIDIA GPU Operator: A Step-by-Step Tutorial",
+      "link": "https://collabnix.com/deploying-llm-inference-on-kubernetes-with-the-nvidia-gpu-operator-a-step-by-step-tutorial",
+      "summary": "Serving large language models efficiently is one of the dominant themes at recent KubeCon and CloudNativeCon events, and the NVIDIA GPU Operator has become the de-facto way to make GPUs first-class, schedulable resources inside Kubernetes. This tutorial walks through installing the operator and...",
+      "published": "2026-07-06T07:49:54+00:00",
+      "source": "Collabnix",
+      "type": "article",
+      "author": "Collabnix Team",
+      "categories": [
+        "Kubernetes",
+        "AI Inference",
+        "GPU",
+        "Kubecon",
+        "kubernetes",
+        "LLM",
+        "NVIDIA"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "MCP + Kubernetes: A Step-by-Step Tutorial on Connecting AI Agents to Your Cluster",
+      "link": "https://collabnix.com/mcp-kubernetes-a-step-by-step-tutorial-on-connecting-ai-agents-to-your-cluster",
+      "summary": "The Model Context Protocol (MCP) has quickly become one of the most talked-about topics at recent CNCF and KubeCon hallway tracks. It gives AI assistants a standard way to call tools and read live data, and Kubernetes is a perfect target: instead of copy-pasting kubectl output into a chat window,...",
+      "published": "2026-07-06T07:45:24+00:00",
+      "source": "Collabnix",
+      "type": "article",
+      "author": "Collabnix Team",
+      "categories": [
+        "Kubernetes",
+        "AI Agents",
+        "GPU",
+        "Kubecon",
+        "kubernetes",
+        "MCP"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The AI Hype Is Finally Dying. Now what?",
+      "link": "https://www.youtube.com/watch?v=BhtqUryaoA0",
+      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
+      "published": "2026-07-05T16:38:59+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/BhtqUryaoA0/mqdefault.jpg"
+    },
+    {
+      "title": "Microsoft, AWS and Anthropic are spending billions — and not on better models",
+      "link": "https://thenewstack.io/microsoft-frontier-forward-deployed",
+      "summary": "On July 2, Judson Althoff, CEO of Microsoft’s commercial business, announced the formation of the Microsoft Frontier Company. The new The post Microsoft, AWS and Anthropic are spending billions — and not on better models appeared first on The New Stack .",
+      "published": "2026-07-05T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Janakiram MSV",
+      "categories": [
+        "AI Engineering",
+        "AI Operations",
+        "AI Strategy"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "10 moments that defined AI’s turbulent first half of 2026",
+      "link": "https://thenewstack.io/biggest-ai-moments-2026",
+      "summary": "Halfway through 2026, artificial intelligence has been at the center of every major story inside the world of software development The post 10 moments that defined AI’s turbulent first half of 2026 appeared first on The New Stack .",
+      "published": "2026-07-05T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Darryl K. Taft",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Strategy"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The AI revolution will not be televised — it’ll be quantized",
+      "link": "https://thenewstack.io/chinese-frontier-models-quantization",
+      "summary": "With apologies to Gil Scott-Heron and his timeless 1971 protest song, if anyone thought the AI revolution would not be The post The AI revolution will not be televised — it’ll be quantized appeared first on The New Stack .",
+      "published": "2026-07-05T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI",
+        "AI Models",
+        "AI Strategy",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "AI Security Engineer detailed roadmap with certification in 45 days.",
       "link": "https://www.youtube.com/watch?v=qjwNY6CJVAc",
@@ -3340,6 +3505,17 @@
       "thumbnail": ""
     },
     {
+      "title": "KubeCon India Coffee Chat: Giveaways, Stories & Survival Tips",
+      "link": "https://www.youtube.com/watch?v=1RwkiEuIKx8",
+      "summary": "KubeCon India and Open Source Summit India are just around the corner, and what better way to prepare than a casual coffee chat with members of the community?\n\nJoin us as we sit down with speakers, attendees, and Co Chair to discuss:\n\n🎤 Behind-the-scenes speaker stories\n🤝 How to network effectively...",
+      "published": "2026-06-09T03:57:14+00:00",
+      "source": "Kubesimplify",
+      "type": "video",
+      "author": "Kubesimplify",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/1RwkiEuIKx8/mqdefault.jpg"
+    },
+    {
       "title": "What's new in Azure App Service at #MSBuild 2026",
       "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/what-s-new-in-azure-app-service-at-msbuild-2026/ba-p/4526569",
       "summary": "At Microsoft Build 2026, Azure App Service introduced a powerful set of updates designed to help organizations accelerate their journey into AI, without increasing complexity or cost. These innovations focus on one clear business outcome: enabling teams to build, deploy, and scale AI-powered...",
@@ -3676,68 +3852,6 @@
         "AI"
       ],
       "thumbnail": ""
-    },
-    {
-      "title": "Replit shows how vibe coding is getting its own financial stack — and a path to profit",
-      "link": "https://thenewstack.io/replit-shopify-storefront-integration",
-      "summary": "Making apps is easier than it’s ever been, but making money from them is another matter entirely. While almost anyone The post Replit shows how vibe coding is getting its own financial stack — and a path to profit appeared first on The New Stack .",
-      "published": "2026-06-05T19:03:28+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Cloudflare aqui-hires VoidZero: Did a piece of the open web just stabilize, or become more brittle?",
-      "link": "https://thenewstack.io/cloudflare-voidzero-acquisition-vite",
-      "summary": "Cloud network security and content delivery network company Cloudflare announced its acquisition of VoidZero this week, and VoidZero founder Evan The post Cloudflare aqui-hires VoidZero: Did a piece of the open web just stabilize, or become more brittle? appeared first on The New Stack .",
-      "published": "2026-06-05T19:01:18+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "Developer tools",
-        "JavaScript",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Azure Update 6th June 2026 - BUILD SPECIAL",
-      "link": "https://www.youtube.com/watch?v=f1JZs2bYUss",
-      "summary": "HUGE Update this week! Make sure to check out Build blog for details on anything mentioned.\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read...",
-      "published": "2026-06-05T18:16:57+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/f1JZs2bYUss/mqdefault.jpg"
-    },
-    {
-      "title": "I built An AI agent Using Elastic and AWS Bedrock That Sends Alerts About AWS cost Spikes",
-      "link": "https://www.youtube.com/watch?v=hULkzJMHf7U",
-      "summary": "Elastic Cloud Sign Up: https://www.elastic.co/partners/aws-marketplace-offer-application?utm_source=youtube&utm_medium=paid-video&utm_campaign=aws-influencer-piyush-bedrock-pm\n\n\nGitHub repo: https://github.com/piyushsachdeva/elastic-cost-analyzer\n\n𝗖𝗢𝗠𝗣𝗟𝗘𝗧𝗘 COURSES  👌 It’s   🅵🆁🅴🅴 ⛳\n✅ Terraform Full...",
-      "published": "2026-06-05T17:57:11+00:00",
-      "source": "Piyush Sachdeva",
-      "type": "video",
-      "author": "Tech Tutorials with Piyush",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/hULkzJMHf7U/mqdefault.jpg"
-    },
-    {
-      "title": "If I have to learn AI in 2026, This is the roadmap I would follow.",
-      "link": "https://www.youtube.com/watch?v=vksyLZ6dZoI",
-      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
-      "published": "2026-06-05T17:12:54+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/vksyLZ6dZoI/mqdefault.jpg"
     }
   ]
 }
