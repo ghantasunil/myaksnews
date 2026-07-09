@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-07-08T08:09:56.974752+00:00",
-    "total_items": 279,
+    "generated_at": "2026-07-09T09:22:37.906446+00:00",
+    "total_items": 277,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,186 @@
     ]
   },
   "items": [
+    {
+      "title": "A Paradigm Shift in Cloud Operations with Azure SRE Agent",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/a-paradigm-shift-in-cloud-operations-with-azure-sre-agent/ba-p/4533244",
+      "summary": "Cloud operations are entering a new era. As systems grow in scale and complexity, the traditional model of reactive incident response, where engineers manually piece together signals across dozens of tools and portals, juggling all that context alone, is no longer sustainable. The operational toil...",
+      "published": "2026-07-08T22:41:52+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Nir_Mashkowski",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "“Opus-class, but faster”: What Elon Musk says about beating Anthropic",
+      "link": "https://thenewstack.io/grok-45-opus-killer-launch",
+      "summary": "SpaceXAI CEO Elon Musk announced on Wednesday that Grok 4.5 will be released publicly on Thursday, posting on X, “Based The post “Opus-class, but faster”: What Elon Musk says about beating Anthropic appeared first on The New Stack .",
+      "published": "2026-07-08T18:59:49+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Models",
+        "AI Strategy",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "JetBrains’ next move isn’t a better IDE — it’s a governance layer over Claude Code, Codex, and Gemini CLI",
+      "link": "https://thenewstack.io/jetbrains-ai-team-governance",
+      "summary": "Engineering teams have spent the past few years picking their own AI tools — an IDE here, a terminal-based coding The post JetBrains’ next move isn’t a better IDE — it’s a governance layer over Claude Code, Codex, and Gemini CLI appeared first on The New Stack .",
+      "published": "2026-07-08T17:44:04+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Engineering",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The CNCF Data Storage in Cloud Native AI White Paper",
+      "link": "https://www.cncf.io/report-whitepaper/2026/07/08/the-cncf-data-storage-in-cloud-native-ai-white-paper",
+      "summary": "Deploying Artificial Intelligence (AI) and Machine Learning (ML) workloads at scale has become a primary objective for modern enterprises. However, moving these data-heavy, stateful workloads into cloud native infrastructure introduces massive data bottlenecks. To help organizations...",
+      "published": "2026-07-08T17:35:54+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "CNCF TAG Infrastructure",
+      "categories": [
+        "Blog",
+        "Report / Whitepaper"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Meta says it caught OpenAI. One thing is missing.",
+      "link": "https://thenewstack.io/meta-watermelon-benchmark-claim",
+      "summary": "The same week Mark Zuckerberg told Meta staff that the company’s AI bets “haven’t come to fruition yet,” his superintelligence The post Meta says it caught OpenAI. One thing is missing. appeared first on The New Stack .",
+      "published": "2026-07-08T17:34:17+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Janakiram MSV",
+      "categories": [
+        "AI Models",
+        "AI Strategy",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Real-Time Forward Deployed Engineer (FDE) project using an E-Commerce Application",
+      "link": "https://www.youtube.com/watch?v=miHREcaScRY",
+      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nReal-time FDE implementation using an e-commerce application, explained step by step in this YouTube Video. Learn how FDE works in production-style workflows, how to integrate it into checkout and order flows, and how it...",
+      "published": "2026-07-08T17:10:14+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/miHREcaScRY/mqdefault.jpg"
+    },
+    {
+      "title": "OpenAI’s own safety card says GPT-5.6 has a lying problem",
+      "link": "https://thenewstack.io/gpt-5-6-developer-reactions",
+      "summary": "OpenAI’s confirmation late Tuesday that GPT-5.6 Sol, Terra, and Luna will launch publicly on Thursday closes one of the more The post OpenAI’s own safety card says GPT-5.6 has a lying problem appeared first on The New Stack .",
+      "published": "2026-07-08T17:08:16+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Models",
+        "AI Operations",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure Monitor Health Model Overview",
+      "link": "https://www.youtube.com/watch?v=RKEvu6asHd4",
+      "summary": "Overview of Copilot Cowork usage-based billing. How to estimate, plan, control and observe.\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:06 - Resource health challenges\n01:34 - Azure Health Models\n06:41 - Demo\n11:23 - Summary\n11:46 - Close\n\n▬▬▬▬▬▬  Want to learn more? 🚀  ▬▬▬▬▬▬ \n📖...",
+      "published": "2026-07-08T14:17:36+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/RKEvu6asHd4/mqdefault.jpg"
+    },
+    {
+      "title": "Most enterprises will hand root cause analysis to AI agents within two years",
+      "link": "https://thenewstack.io/elastic-agentic-observability-enterprise-adoption",
+      "summary": "For decades, software engineers have been the eyes and ears of enterprises, combing through voluminous logs, observability tools, consoles, browser The post Most enterprises will hand root cause analysis to AI agents within two years appeared first on The New Stack .",
+      "published": "2026-07-08T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "TNS Staff",
+      "categories": [
+        "AI Agents",
+        "AI Operations",
+        "Observability",
+        "sponsor-elastic",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“Nature is the most computationally efficient system we know”: How Refiant used swarm optimization to build a 10-million-token AI model",
+      "link": "https://thenewstack.io/refiant-protea-swarm-optimization",
+      "summary": "While the household-name frontier models race forward with version numbers and context windows of at least a million tokens, a The post “Nature is the most computationally efficient system we know”: How Refiant used swarm optimization to build a 10-million-token AI model appeared first on The New...",
+      "published": "2026-07-08T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Infrastructure",
+        "AI Models",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Entire is building a Git network for agents",
+      "link": "https://thenewstack.io/entire-git-for-agents",
+      "summary": "Thomas Dohmke, who stepped down as GitHub’s CEO last year to become a founder again, is opening a preview of The post Entire is building a Git network for agents appeared first on The New Stack .",
+      "published": "2026-07-08T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Announcing etcd v3.7.0",
+      "link": "https://kubernetes.io/blog/2026/07/08/announcing-etcd-3.7",
+      "summary": "This article is a mirror of the original announcement Today, SIG etcd is releasing etcd v3.7.0 , the latest minor release of the popular distributed key-value store and core Kubernetes component. v3.7 ships the long-requested RangeStream feature, delivers several other performance improvements,...",
+      "published": "2026-07-08T12:00:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Network boundary for AI agents using NGINX and OpenTelemetry",
+      "link": "https://www.cncf.io/blog/2026/07/08/network-boundary-for-ai-agents-using-nginx-and-opentelemetry",
+      "summary": "I recently had an interesting conversation at a KCD about OpenClaw with one of the attendees, and they remarked that they wouldn’t put an agent in their network, because “we don’t know what that thing really...",
+      "published": "2026-07-08T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Marko Sluga, F5",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Coinbase runs 1,200 agents and just slashed its AI bill in half",
       "link": "https://thenewstack.io/multi-model-ai-infrastructure",
@@ -3810,212 +3990,6 @@
         "AI Operations",
         "FinOps",
         "Observability"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "KubeCon India Coffee Chat: Giveaways, Stories & Survival Tips",
-      "link": "https://www.youtube.com/watch?v=1RwkiEuIKx8",
-      "summary": "KubeCon India and Open Source Summit India are just around the corner, and what better way to prepare than a casual coffee chat with members of the community?\n\nJoin us as we sit down with speakers, attendees, and Co Chair to discuss:\n\n🎤 Behind-the-scenes speaker stories\n🤝 How to network effectively...",
-      "published": "2026-06-09T03:57:14+00:00",
-      "source": "Kubesimplify",
-      "type": "video",
-      "author": "Kubesimplify",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/1RwkiEuIKx8/mqdefault.jpg"
-    },
-    {
-      "title": "What's new in Azure App Service at #MSBuild 2026",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/what-s-new-in-azure-app-service-at-msbuild-2026/ba-p/4526569",
-      "summary": "At Microsoft Build 2026, Azure App Service introduced a powerful set of updates designed to help organizations accelerate their journey into AI, without increasing complexity or cost. These innovations focus on one clear business outcome: enabling teams to build, deploy, and scale AI-powered...",
-      "published": "2026-06-08T22:30:40+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "Mayunk_Jain",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "How AI is solving the memory crunch it created",
-      "link": "https://thenewstack.io/memory-constraint-virtualization-optimization",
-      "summary": "Memory has replaced compute as a primary constraint for modern tech teams. A perfect storm of hardware architecture limitations, semiconductor The post How AI is solving the memory crunch it created appeared first on The New Stack .",
-      "published": "2026-06-08T19:25:40+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jennifer Riggins",
-      "categories": [
-        "AI Infrastructure",
-        "FinOps",
-        "Hardware",
-        "sponsor-hpe",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Microsoft’s pitch to enterprises: Ditch Azure Repos for GitHub, despite its rocky reliability record",
-      "link": "https://thenewstack.io/azure-repos-github-migration",
-      "summary": "GitHub hasn’t had an easy year. The platform has been hit by repeated outages affecting core services — including the The post Microsoft’s pitch to enterprises: Ditch Azure Repos for GitHub, despite its rocky reliability record appeared first on The New Stack .",
-      "published": "2026-06-08T19:05:40+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Engineering",
-        "AI Infrastructure"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Claude Code’s biggest upgrade yet ran 5 agents at once — here’s what happened",
-      "link": "https://thenewstack.io/claude-code-dynamic-workflows-test",
-      "summary": "Anthropic shipped Claude Opus 4.8 on May 28, and with it came dynamic workflows in Claude Code. This fully testable The post Claude Code’s biggest upgrade yet ran 5 agents at once — here’s what happened appeared first on The New Stack .",
-      "published": "2026-06-08T19:01:20+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jessica Wachtel",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Designing for High Availability: The Operational Reference for Running a Geo-Replicated ACR",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/designing-for-high-availability-the-operational-reference-for/ba-p/4526465",
-      "summary": "By Johnson Shi , Zoey (Zhuyu) Li , Huangli Wu Introduction Three of the most common questions we hear from enterprise teams running geo-replicated Azure Container Registries (ACR) are: \"How do I control which region serves my traffic?\" — When my AKS clusters are spread across regions, can I pin...",
-      "published": "2026-06-08T18:07:21+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "johnsonshi_msft",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why Anthropic just doubled Claude Cowork limits at no charge",
-      "link": "https://thenewstack.io/anthropic-claude-cowork-promotion",
-      "summary": "Anthropic has announced a limited-time promotion that doubles users’ five-hour usage limits in Claude Cowork. Announced on Monday, it’s sure The post Why Anthropic just doubled Claude Cowork limits at no charge appeared first on The New Stack .",
-      "published": "2026-06-08T17:35:05+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI Operations",
-        "AI Strategy",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "For years, Apache Cassandra handed this work to your team — 6.0 takes it back",
-      "link": "https://thenewstack.io/apache-cassandra-6-features",
-      "summary": "Apache Cassandra releases tend to be evaluated on roughly the same terms. What can it do now that it couldn’t The post For years, Apache Cassandra handed this work to your team — 6.0 takes it back appeared first on The New Stack .",
-      "published": "2026-06-08T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Anil Inamdar",
-      "categories": [
-        "Data",
-        "Databases",
-        "Open Source",
-        "sponsor-netapp",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Entra Passkey Registration Campaign",
-      "link": "https://www.youtube.com/watch?v=10Se9jR-cR0",
-      "summary": "Understanding how to use the passkey registration campaign feature in Entra.\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:07 - Passkey benefits\n03:24 - Nudging users\n03:57 - Passkey policies\n07:49 - Registration campaigns\n14:38 - When are users nudged\n16:41 - Summary\n17:43 -...",
-      "published": "2026-06-08T13:51:17+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/10Se9jR-cR0/mqdefault.jpg"
-    },
-    {
-      "title": "Now in preview: built-in MCP for Azure App Service",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/now-in-preview-built-in-mcp-for-azure-app-service/ba-p/4526407",
-      "summary": "At Build 2026 last week, we announced the public preview of built-in MCP for Azure App Service . It does one thing, and it does it with almost no effort on your part: it turns a REST API you already host on App Service into a Model Context Protocol (MCP) server, so AI agents and assistants can call...",
-      "published": "2026-06-08T13:09:52+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "jordanselig",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "“A dangerous combination”: The 2 factors that can “corrupt” AI agent workflows",
-      "link": "https://thenewstack.io/ai-agents-identity-access-management",
-      "summary": "Almost everyone’s workplace experience is now set to welcome AI-agent-driven actions through the applications we use daily, and this rapid evolution The post “A dangerous combination”: The 2 factors that can “corrupt” AI agent workflows appeared first on The New Stack .",
-      "published": "2026-06-08T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "With Foundry, Microsoft bets the enterprise AI battle is about reliability, not capability",
-      "link": "https://thenewstack.io/microsoft-foundry-build-2026-ai-agents",
-      "summary": "The agentic AI wave has produced no shortage of impressive demos. What it has produced less of is agents that The post With Foundry, Microsoft bets the enterprise AI battle is about reliability, not capability appeared first on The New Stack .",
-      "published": "2026-06-08T12:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Darryl K. Taft",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Breaking free of a single datacenter: Practical geo-distributed AI operations with the k0smos platforms",
-      "link": "https://www.cncf.io/blog/2026/06/08/breaking-free-of-a-single-datacenter-practical-geo-distributed-ai-operations-with-the-k0smos-platforms",
-      "summary": "Breaking the single datacenter assumption Modern AI architectures are built on the assumption of centralized, homogeneous data centers. In reality, infrastructure is messy. For most organizations, compute resources are fragmented across private clouds, research environments, and...",
-      "published": "2026-06-08T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Prithvi Raj (Mirantis), Alexander Acker (Logsight.ai), and Soeren Becker (Logsight.ai)",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Benchmarking KubeVirt performance with virtbench",
-      "link": "https://www.cncf.io/blog/2026/06/08/benchmarking-kubevirt-performance-with-virtbench",
-      "summary": "Organizations migrating VM estates from traditional hypervisors to KubeVirt often discover that many Kubernetes observability tools were originally designed around container workloads rather than VM-centric operational metrics. While KubeVirt schedules VMs as pods, the performance variables...",
-      "published": "2026-06-08T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Bob Glithero, Senior Technical Product Marketing Manager, Portworx by Everpure",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Microsoft unlocks Visual Studio for developers left behind by its own AI",
-      "link": "https://thenewstack.io/microsoft-visual-studio-ai-agents",
-      "summary": "Microsoft used its Build 2026 conference last week to announce a series of updates to its flagship Visual Studio IDE The post Microsoft unlocks Visual Studio for developers left behind by its own AI appeared first on The New Stack .",
-      "published": "2026-06-08T11:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Darryl K. Taft",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Developer tools"
       ],
       "thumbnail": ""
     }
