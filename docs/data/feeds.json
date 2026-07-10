@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-07-09T09:22:37.906446+00:00",
-    "total_items": 277,
+    "generated_at": "2026-07-10T09:20:03.438068+00:00",
+    "total_items": 279,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -16,10 +16,201 @@
       "Kubesimplify",
       "LearnK8s",
       "Piyush Sachdeva",
+      "Rawkode Academy",
       "The New Stack"
     ]
   },
   "items": [
+    {
+      "title": "Hands-on Introduction to Iroh | Rawkode Live",
+      "link": "https://www.youtube.com/watch?v=5_us1xfYpOE",
+      "summary": "Join Brendan O'Brien for a hands-on introduction to **Iroh**, the peer-to-peer networking library that makes direct device-to-device connections simple, secure, and reliable.\n\nIn this live session, we explore:\n\n* What Iroh is and the problems it solves\n* How its networking model works\n* Building...",
+      "published": "2026-07-10T07:02:55+00:00",
+      "source": "Rawkode Academy",
+      "type": "video",
+      "author": "Rawkode Academy",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/5_us1xfYpOE/mqdefault.jpg"
+    },
+    {
+      "title": "Meta debuts Muse Spark 1.1 — its first paid AI model",
+      "link": "https://thenewstack.io/meta-muse-spark-api",
+      "summary": "Meta on Thursday rolled out Muse Spark 1.1, a major update to its AI platform, just three months after launching The post Meta debuts Muse Spark 1.1 — its first paid AI model appeared first on The New Stack .",
+      "published": "2026-07-09T22:22:15+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Models",
+        "AI Strategy",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Navigating the ingress-NGINX retirement",
+      "link": "https://www.cncf.io/blog/2026/07/09/navigating-the-ingress-nginx-retirement",
+      "summary": "1. The Post-March 2026 landscape ⚠ The CatalystAcknowledge the March 2026 retirement of the Kubernetes SIG Network ingress-nginx controller. Staying on this controller introduces severe operational risks, including unpatched CVEs and a complete halt of feature...",
+      "published": "2026-07-09T20:45:02+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Sunny Chan, TCC Consulting",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI is folding Codex into the ChatGPT app — and taking aim at Claude Cowork",
+      "link": "https://thenewstack.io/openai-codex-work-atlas",
+      "summary": "OpenAI’s GPT-5.6 launch on Thursday was widely expected, but in addition to the new models, the company also made a The post OpenAI is folding Codex into the ChatGPT app — and taking aim at Claude Cowork appeared first on The New Stack .",
+      "published": "2026-07-09T18:55:19+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI Agents",
+        "AI Models",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI’s GPT-5.6 is now live",
+      "link": "https://thenewstack.io/openai-gpt-56-live",
+      "summary": "As expected, OpenAI on Thursday made its family of GPT-5.6 models available to its app and API users globally. This The post OpenAI’s GPT-5.6 is now live appeared first on The New Stack .",
+      "published": "2026-07-09T18:16:05+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Enterprise AI benchmarks are broken",
+      "link": "https://thenewstack.io/enterprise-ai-benchmarks-are-broken",
+      "summary": "Every enterprise software vendor claims its AI agent is production-ready, but how to measure it remains up in the air. The The post Enterprise AI benchmarks are broken appeared first on The New Stack .",
+      "published": "2026-07-09T17:51:08+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI Agents",
+        "AI Operations",
+        "Model Context Protocol (MCP)"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Jensen Huang says traditional coding is dead. Here’s what comes next.",
+      "link": "https://thenewstack.io/huang-engineers-building-ai-agents",
+      "summary": "Traditional coding is at a crossroads. The manual process of writing syntax like Python is rapidly being replaced by agentic The post Jensen Huang says traditional coding is dead. Here’s what comes next. appeared first on The New Stack .",
+      "published": "2026-07-09T17:43:25+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Tech Careers"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why a five-minute sniff test is your secret supply chain defense",
+      "link": "https://thenewstack.io/sbom-sniff-test-hardened-images",
+      "summary": "In its updated 2025 guidance on SBOMs, the Cybersecurity and Infrastructure Security Agency (CISA) states, “An SBOM should include information The post Why a five-minute sniff test is your secret supply chain defense appeared first on The New Stack .",
+      "published": "2026-07-09T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Christian Dupuis",
+      "categories": [
+        "Compliance",
+        "Containers",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "This one AI Platform can make you AI Platform Engineer 🚀",
+      "link": "https://www.youtube.com/watch?v=4GSmacqk2sM",
+      "summary": "Get Started with Coder Agents for FREE:\nhttps://fandf.co/4uO2lQQ\n\nRecently I came across Coder Agents, and I think it could be one of the most important AI tools Platform Engineers should be paying attention to.\n\nIn this video we're going to cover:\n- The problem Coder Agents is trying to solve\n-...",
+      "published": "2026-07-09T15:31:04+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/4GSmacqk2sM/mqdefault.jpg"
+    },
+    {
+      "title": "Develop like you deploy: closing the Kubernetes local-to-cluster gap",
+      "link": "https://thenewstack.io/krumware-epinio-kubernetes-mcp",
+      "summary": "Despite significant investments and technological developments in platform engineering over the past decade, most developers still face the same problem The post Develop like you deploy: closing the Kubernetes local-to-cluster gap appeared first on The New Stack .",
+      "published": "2026-07-09T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Katie Tincello",
+      "categories": [
+        "Kubernetes",
+        "Model Context Protocol (MCP)",
+        "Platform Engineering",
+        "sponsor-krumware",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The “silent hallucination” loop: how our autonomous data pipeline poisoned its own vector store",
+      "link": "https://thenewstack.io/silent-llm-hallucination-loop",
+      "summary": "Nothing matches the dread of checking a perfectly green observability dashboard with sub-100ms latency, right before an enterprise client emails The post The “silent hallucination” loop: how our autonomous data pipeline poisoned its own vector store appeared first on The New Stack .",
+      "published": "2026-07-09T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Emmanuel Akita",
+      "categories": [
+        "AI Engineering",
+        "Data",
+        "Large Language Models",
+        "sponsor-andela",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Agentic AI in observability: accelerating root cause analysis",
+      "link": "https://thenewstack.io/agentic-ai-observability-operations",
+      "summary": "The growing development, promise, and use of generative AI and agentic AI continue to drive dramatic change in the IT The post Agentic AI in observability: accelerating root cause analysis appeared first on The New Stack .",
+      "published": "2026-07-09T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "TNS Staff",
+      "categories": [
+        "AI Agents",
+        "AI Operations",
+        "Observability",
+        "sponsor-elastic",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“The Switzerland of AI”: OpenClaw becomes a non-profit foundation",
+      "link": "https://thenewstack.io/openclaw-foundation-nonprofit-status",
+      "summary": "OpenClaw has undoubtedly been one of the big AI success stories of 2026, an example of how far an open-source The post “The Switzerland of AI”: OpenClaw becomes a non-profit foundation appeared first on The New Stack .",
+      "published": "2026-07-09T12:44:35+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "A Paradigm Shift in Cloud Operations with Azure SRE Agent",
       "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/a-paradigm-shift-in-cloud-operations-with-azure-sre-agent/ba-p/4533244",
@@ -3836,160 +4027,6 @@
         "AI",
         "AI Agents",
         "AI Strategy"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How I’d Start MLOps in 2026 - 100DaysOfMLOps",
-      "link": "https://www.youtube.com/watch?v=QrE_F5-XuQ0",
-      "summary": "What is MLOps, actually? You've seen the job posts, but most explanations make it sound like a completely new universe where you need a heavy math background or a PhD. You don't. MLOps is basically DevOps aimed at machine learning models instead of microservices.\n\nIn this video, I break down what...",
-      "published": "2026-06-10T02:32:28+00:00",
-      "source": "Piyush Sachdeva",
-      "type": "video",
-      "author": "Tech Tutorials with Piyush",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/QrE_F5-XuQ0/mqdefault.jpg"
-    },
-    {
-      "title": "How ARM Tracks Work That Takes Hours",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/how-arm-tracks-work-that-takes-hours/ba-p/4526930",
-      "summary": "By Arav Goyal , Joy Shah , Michael Cheng , Manik Sikka , Jenny Hunter , Johnson Shi Introduction When a user creates, updates, or deletes a resource in Azure, the request flows through Azure Resource Manager (ARM) before reaching the service that actually owns the resource. For operations that...",
-      "published": "2026-06-10T02:22:06+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "aravgoyal",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Git real: AI agents aren’t just for solo developers anymore",
-      "link": "https://thenewstack.io/coding-agents-team-infrastructure",
-      "summary": "In the first week of June, three vendors pushed coding agents past the single-developer loop. The three launches sit at The post Git real: AI agents aren’t just for solo developers anymore appeared first on The New Stack .",
-      "published": "2026-06-09T19:58:07+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Janakiram MSV",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Platform Engineering"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic launches Claude Mythos/Fable 5, but you better try it soon",
-      "link": "https://thenewstack.io/anthropic-claude-mythos-fable-5",
-      "summary": "On Tuesday, Anthropic launched Fable 5, its first generally available Mythos-class model. Fable 5 is essentially the highly capable Mythos The post Anthropic launches Claude Mythos/Fable 5, but you better try it soon appeared first on The New Stack .",
-      "published": "2026-06-09T19:30:45+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Spring is 23 years old. AI just made it a security emergency.",
-      "link": "https://thenewstack.io/broadcom-spring-java-cve-security-ai",
-      "summary": "AI is rewriting the rules of software security, and the Java ecosystem — the backbone of enterprise computing for more The post Spring is 23 years old. AI just made it a security emergency. appeared first on The New Stack .",
-      "published": "2026-06-09T18:48:06+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Darryl K. Taft",
-      "categories": [
-        "AI",
-        "Java",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "This AI agent startup ditched Anthropic for DeepSeek — and says it’s saving millions",
-      "link": "https://thenewstack.io/lindy-deepseek-anthropic-switch",
-      "summary": "The biggest blocker to sustainable AI deployment has emerged as inference cost. GitHub recently abandoned its flat-rate Copilot subscription in The post This AI agent startup ditched Anthropic for DeepSeek — and says it’s saving millions appeared first on The New Stack .",
-      "published": "2026-06-09T16:17:48+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI Agents",
-        "AI Models",
-        "FinOps"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Setup AWS locally without creating an AWS account | Zero billing.",
-      "link": "https://www.youtube.com/watch?v=E016v2p2DlY",
-      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nIn this video, I will show you how you can learn the AWS, Azure and GCP cloud services practically without actually creating an account with these cloud providers and without actually paying them. \n\nI will show you how...",
-      "published": "2026-06-09T16:01:35+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/E016v2p2DlY/mqdefault.jpg"
-    },
-    {
-      "title": "When your data model is the bottleneck: lessons from Medium’s feature store",
-      "link": "https://thenewstack.io/medium-scylladb-feature-store",
-      "summary": "“Keep readers reading” is the not-so-simple goal of Medium’s recommendations system. To predict what’s most likely to appeal to a The post When your data model is the bottleneck: lessons from Medium’s feature store appeared first on The New Stack .",
-      "published": "2026-06-09T14:40:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Cynthia Dunlop",
-      "categories": [
-        "AI Infrastructure",
-        "Data",
-        "Databases",
-        "sponsor-scylladb",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How long before we stop reading the code?",
-      "link": "https://thenewstack.io/future-of-code-reviews",
-      "summary": "Don’t kill the code reviews; just move the human checkpoint upstream to reviewing intent, specs, plans, constraints, and acceptance criteria. The post How long before we stop reading the code? appeared first on The New Stack .",
-      "published": "2026-06-09T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Ankit Jain",
-      "categories": [
-        "AI Engineering",
-        "Developer tools",
-        "Software Development",
-        "sponsor-aviator",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Solving secret sprawl in multi-account Kubernetes with External Secrets Operator",
-      "link": "https://www.cncf.io/blog/2026/06/09/solving-secret-sprawl-in-multi-account-kubernetes-with-external-secrets-operator",
-      "summary": "Infrastructure provisioning in Kubernetes has become increasingly automated, but secret management often remains a challenge as environments grow. Organizations commonly separate development, staging, and production workloads across clusters, namespaces, or cloud accounts to improve security and...",
-      "published": "2026-06-09T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Viktoria Bisova, DevOps Engineer, Itigix",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The tokenmaxxing party is over, and Revenium is mopping up",
-      "link": "https://thenewstack.io/revenium-ai-cost-observability",
-      "summary": "For the past 18 months, the corporate approach to artificial intelligence has been a gold rush. The mandate was simple: The post The tokenmaxxing party is over, and Revenium is mopping up appeared first on The New Stack .",
-      "published": "2026-06-09T10:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Chris J. Preimesberger",
-      "categories": [
-        "AI Operations",
-        "FinOps",
-        "Observability"
       ],
       "thumbnail": ""
     }
