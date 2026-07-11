@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-07-10T09:20:03.438068+00:00",
-    "total_items": 279,
+    "generated_at": "2026-07-11T07:41:33.281233+00:00",
+    "total_items": 277,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -21,6 +21,140 @@
     ]
   },
   "items": [
+    {
+      "title": "Where should AI workloads run? A sovereign and sensible approach",
+      "link": "https://www.cncf.io/blog/2026/07/10/where-should-ai-workloads-run-a-sovereign-and-sensible-approach",
+      "summary": "Opinions on AI range from transformative optimism to deep skepticism, but one thing is clear: AI is becoming an increasingly important part of enterprise technology strategies. Feel free to pick whichever you like. But whatever you...",
+      "published": "2026-07-10T23:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Johannes Hemminger and Martin Hafner, KubeOps",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Meta’s Iris push signals the next phase of AI infrastructure",
+      "link": "https://thenewstack.io/meta-iris-ai-chip",
+      "summary": "Meta is preparing to manufacture its own AI chip for the first time. According to an internal memo, the company The post Meta’s Iris push signals the next phase of AI infrastructure appeared first on The New Stack .",
+      "published": "2026-07-10T17:02:09+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Infrastructure",
+        "Cloud Services",
+        "Hardware"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why retrieval quality is becoming the defining challenge in AI agent architecture",
+      "link": "https://thenewstack.io/retrieval-ai-agent-architecture",
+      "summary": "Agentic systems usually have two jobs: Build context, then use that context to produce an answer or action. Many failures The post Why retrieval quality is becoming the defining challenge in AI agent architecture appeared first on The New Stack .",
+      "published": "2026-07-10T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Isaac Flath",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "AI Infrastructure",
+        "sponsor-vespa-ai",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure Update 10th July 2026",
+      "link": "https://www.youtube.com/watch?v=6bIsgofHE_c",
+      "summary": "Nice selection of updates this week!\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation queue...",
+      "published": "2026-07-10T15:33:36+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/6bIsgofHE_c/mqdefault.jpg"
+    },
+    {
+      "title": "What running Kubernetes across millions of clusters taught AWS about zonal failures",
+      "link": "https://thenewstack.io/eks-zonal-shift-resilience",
+      "summary": "Handling the obvious failures is the easy part: a server goes down, you spin up another. The failures that actually The post What running Kubernetes across millions of clusters taught AWS about zonal failures appeared first on The New Stack .",
+      "published": "2026-07-10T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Raghav Tripathi",
+      "categories": [
+        "Cloud Services",
+        "Kubernetes",
+        "Operations",
+        "sponsor-aws-marketplace",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic wants you to use AI to decide whether or not you should use AI.",
+      "link": "https://thenewstack.io/claude-reflection-ai-judgment",
+      "summary": "On Thursday, Anthropic released reflection, a new feature that lets users track and review their Claude activity. Available now in beta The post Anthropic wants you to use AI to decide whether or not you should use AI. appeared first on The New Stack .",
+      "published": "2026-07-10T14:14:40+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI Engineering",
+        "Developer tools",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI, Microsoft & Anthropic agree on who runs the agent. They disagree on what you can take back.",
+      "link": "https://thenewstack.io/ai-agent-control-planes",
+      "summary": "OpenAI announced ChatGPT Work on July 9 and began rolling it out to Pro, Enterprise, and Edu users. It runs The post OpenAI, Microsoft & Anthropic agree on who runs the agent. They disagree on what you can take back. appeared first on The New Stack .",
+      "published": "2026-07-10T14:11:49+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Janakiram MSV",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Strategy"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“Every IC engineer is really a front line manager now.” But are they productive?",
+      "link": "https://thenewstack.io/ai-engineering-productivity",
+      "summary": "Saying AI has changed the way software engineers work is an understatement, but Cameron Etezadi, CTO, LaunchDarkly and former VP The post “Every IC engineer is really a front line manager now.” But are they productive? appeared first on The New Stack .",
+      "published": "2026-07-10T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI Engineering",
+        "Developer tools",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why zero vulnerability code packages could still be your biggest software supply chain risk",
+      "link": "https://thenewstack.io/zero-cve-supply-chain-risk",
+      "summary": "The unwelcome specter of software supply chain security threats has been the main character in the narrative security specialists have The post Why zero vulnerability code packages could still be your biggest software supply chain risk appeared first on The New Stack .",
+      "published": "2026-07-10T11:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI",
+        "DevOps",
+        "Open Source",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Hands-on Introduction to Iroh | Rawkode Live",
       "link": "https://www.youtube.com/watch?v=5_us1xfYpOE",
@@ -3873,160 +4007,6 @@
         "Security",
         "sponsor-sonarsource",
         "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Observability overload is drowning engineers",
-      "link": "https://thenewstack.io/observability-overload-is-drowning-engineers",
-      "summary": "If you can see everything, you may see nothing at all. That’s what SREs and DevOps engineers are learning as The post Observability overload is drowning engineers appeared first on The New Stack .",
-      "published": "2026-06-10T17:27:46+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Alex Wilhelm",
-      "categories": [
-        "AI Agents",
-        "AI Operations",
-        "Observability",
-        "sponsor-datadog",
-        "sponsored-webinar"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Google’s DiffusionGemma is 4x faster than its other Gemma models",
-      "link": "https://thenewstack.io/google-diffusiongemma-text-diffusion",
-      "summary": "About a year ago, Google demoed a diffusion model at its I/O developer conference, but went quiet about the technology The post Google’s DiffusionGemma is 4x faster than its other Gemma models appeared first on The New Stack .",
-      "published": "2026-06-10T17:18:54+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI Infrastructure",
-        "AI Models",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Fable 5: Guardrails and burn rate are annoying users, who say it’s still better than Opus 4.8",
-      "link": "https://thenewstack.io/fable-5-developer-reactions",
-      "summary": "On Tuesday, Anthropic debuted Fable 5, the first — and much-anticipated — generally available Mythos-class model.  Anthropic says it can work The post Fable 5: Guardrails and burn rate are annoying users, who say it’s still better than Opus 4.8 appeared first on The New Stack .",
-      "published": "2026-06-10T17:11:37+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "AI Agents",
-        "AI Models",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The Anthropic leader who built Claude Code says he ditched prompting — now he just writes loops.",
-      "link": "https://thenewstack.io/loop-engineering",
-      "summary": "The fastest-moving conversation in AI developer tooling this week began with a job description. Boris Cherny, head of Claude Code The post The Anthropic leader who built Claude Code says he ditched prompting — now he just writes loops. appeared first on The New Stack .",
-      "published": "2026-06-10T17:01:52+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Janakiram MSV",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "eBPF Host Routing in AKS: Faster, Low-Latency Networking with Azure CNI & ACNS",
-      "link": "https://www.youtube.com/watch?v=GU17M2DfD7c",
-      "summary": "eBPF Host Routing in Advanced Container Networking Services (ACNS) introduces a high-performance data path for networking in Azure Kubernetes Service (AKS). By moving routing logic into eBPF programs, ACNS enables packet processing directly in the kernel and bypasses traditional IPTables-based...",
-      "published": "2026-06-10T17:00:05+00:00",
-      "source": "AKS (Official)",
-      "type": "video",
-      "author": "Azure Kubernetes Service (AKS)",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/GU17M2DfD7c/mqdefault.jpg"
-    },
-    {
-      "title": "AWS can now mathematically prove your VMs are isolated",
-      "link": "https://thenewstack.io/graviton5-nitro-isolation-engine",
-      "summary": "On Wednesday, AWS announced that its Graviton5 processor is now generally available and powers two new Amazon EC2 instances: M9g The post AWS can now mathematically prove your VMs are isolated appeared first on The New Stack .",
-      "published": "2026-06-10T16:46:34+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "Containers",
-        "Science"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Microsoft pulled 73 GitHub repos after malware attack — but still won’t say who’s compromised",
-      "link": "https://thenewstack.io/microsoft-github-repos-malware",
-      "summary": "Last week, Microsoft shut down 73 of its own GitHub repositories following a malware attack that would steal developers’ credentials The post Microsoft pulled 73 GitHub repos after malware attack — but still won’t say who’s compromised appeared first on The New Stack .",
-      "published": "2026-06-10T16:40:33+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "AI Agents",
-        "Open Source",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Watch this before using Claude Fable 5 | Major Security Advice",
-      "link": "https://www.youtube.com/watch?v=JU5z8c26EN4",
-      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nWatch this video before you jump on to using Claude Fable 5. There is a major security advice for you in the video.\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist:...",
-      "published": "2026-06-10T16:13:17+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/JU5z8c26EN4/mqdefault.jpg"
-    },
-    {
-      "title": "AKS Community Call - US & Europe (May 2026) - Azure Kubernetes Service",
-      "link": "https://www.youtube.com/watch?v=PtsZhcijFQY",
-      "summary": "Welcome to the AKS Community Calls! These sessions foster direct interaction between our product teams and the AKS community. Engage with our teams, hear the latest updates, and gain insights into the product’s development. Join our monthly public calls to discuss the product roadmap, provide...",
-      "published": "2026-06-10T14:05:15+00:00",
-      "source": "AKS (Official)",
-      "type": "video",
-      "author": "Azure Kubernetes Service (AKS)",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/PtsZhcijFQY/mqdefault.jpg"
-    },
-    {
-      "title": "Databricks wants to kill the “email me a file” problem for AI agent skills",
-      "link": "https://thenewstack.io/databricks-opensharing-ai-agents",
-      "summary": "Databricks on Wednesday launched OpenSharing, the successor to its open-source Delta Sharing protocol. This updated protocol adds support for Apache The post Databricks wants to kill the “email me a file” problem for AI agent skills appeared first on The New Stack .",
-      "published": "2026-06-10T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI Agents",
-        "Data",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Ramp bets forward deployed engineers can do what off-the-shelf finance AI can’t",
-      "link": "https://thenewstack.io/ramp-forward-deployed-engineers-applied-ai",
-      "summary": "The forward deployed engineer (FDE), the role OpenAI and Anthropic turned into one of the most sought-after jobs in AI, The post Ramp bets forward deployed engineers can do what off-the-shelf finance AI can’t appeared first on The New Stack .",
-      "published": "2026-06-10T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Matthew Burns",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Strategy"
       ],
       "thumbnail": ""
     }
