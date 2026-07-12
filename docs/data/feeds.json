@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-07-11T07:41:33.281233+00:00",
-    "total_items": 277,
+    "generated_at": "2026-07-12T08:01:51.139951+00:00",
+    "total_items": 267,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -21,6 +21,68 @@
     ]
   },
   "items": [
+    {
+      "title": "85% say code review is the new bottleneck. Here’s what the AI coding narrative leaves out.",
+      "link": "https://thenewstack.io/merge-gate-coding-agents",
+      "summary": "A merge is a contract. The moment a change lands on main, every other team in the organization starts building The post 85% say code review is the new bottleneck. Here’s what the AI coding narrative leaves out. appeared first on The New Stack .",
+      "published": "2026-07-11T17:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Arjun Iyer",
+      "categories": [
+        "AI Agents",
+        "CI/CD",
+        "Microservices",
+        "sponsor-signadot",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The impressive AI demo is dead. Here’s what actually reaches production",
+      "link": "https://thenewstack.io/ai-production-data-problem",
+      "summary": "Most engineering teams I talk to can ship an AI demo. The prototype works, stakeholders are impressed, and everyone agrees The post The impressive AI demo is dead. Here’s what actually reaches production appeared first on The New Stack .",
+      "published": "2026-07-11T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Andrew Sellers",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Data Streaming",
+        "sponsor-confluent",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Microsoft joins Google in backing Go for AI agents — OpenAI and Anthropic lag",
+      "link": "https://thenewstack.io/microsoft-agent-framework-go",
+      "summary": "Go has emerged as the lingua franca for cloud infrastructure, used for everything from container orchestration and CI/CD pipelines to The post Microsoft joins Google in backing Go for AI agents — OpenAI and Anthropic lag appeared first on The New Stack .",
+      "published": "2026-07-11T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Go"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "In 24 hours, OpenAI, SpaceXAI, and Meta turned AI into a race to the bottom on price",
+      "link": "https://thenewstack.io/openai-spacexai-meta-price-war",
+      "summary": "I’m Matt Burns, Chief Content Officer at Insight Media Group. Each week, I round up the most important AI developments, The post In 24 hours, OpenAI, SpaceXAI, and Meta turned AI into a race to the bottom on price appeared first on The New Stack .",
+      "published": "2026-07-11T10:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Matthew Burns",
+      "categories": [
+        "AI"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Where should AI workloads run? A sovereign and sensible approach",
       "link": "https://www.cncf.io/blog/2026/07/10/where-should-ai-workloads-run-a-sovereign-and-sensible-approach",
@@ -3793,221 +3855,6 @@
       "type": "article",
       "author": "RohitMadhavKrishnan",
       "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Build 2026 in 15 Minutes",
-      "link": "https://www.youtube.com/watch?v=bzAH7Rrq9rM",
-      "summary": "My quick rundown of the biggest features.\n\n▬▬▬▬▬▬  Want to learn more? 🚀  ▬▬▬▬▬▬ \n📖 Recommended Learning Path for Azure\n🔗 https://learn.onboardtoazure.com\n🥇 Certification Content Repository\n🔗 https://github.com/johnthebrit/CertificationMaterials\n📅 Weekly Azure Update\n🔗 ...",
-      "published": "2026-06-11T22:36:46+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/bzAH7Rrq9rM/mqdefault.jpg"
-    },
-    {
-      "title": "“Don’t just grab random stuff off the internet”: What Chainguard found in 52,000 open-source packages",
-      "link": "https://thenewstack.io/chainguard-greyware-scanner-vibe-coding",
-      "summary": "The promise of agentic development is that anyone — the finance analyst, the operations manager, the non-technical founder — can The post “Don’t just grab random stuff off the internet”: What Chainguard found in 52,000 open-source packages appeared first on The New Stack .",
-      "published": "2026-06-11T20:38:54+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Darryl K. Taft",
-      "categories": [
-        "AI",
-        "Security",
-        "Vibe Coding"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“AI is disrupting everything”: Where do entry-level tech jobs go now?",
-      "link": "https://thenewstack.io/ai-junior-developer-hiring",
-      "summary": "The impact AI is making on the world’s workforce is being felt across every industry, but perhaps nowhere more acutely The post “AI is disrupting everything”: Where do entry-level tech jobs go now? appeared first on The New Stack .",
-      "published": "2026-06-11T18:34:19+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Engineering",
-        "Software Development",
-        "Tech Careers"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“The manual model breaks”: What happens when agents write to production data",
-      "link": "https://thenewstack.io/lakefs-agentic-ai-sandbox",
-      "summary": "Beneath the chatbots and copilots, there’s a quiet revolution happening in the data services space. From pure-play database vendors to The post “The manual model breaks”: What happens when agents write to production data appeared first on The New Stack .",
-      "published": "2026-06-11T17:35:59+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Data"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Beyond the stack trace: why AI requires a new debugging paradigm",
-      "link": "https://thenewstack.io/beyond-the-stack-trace",
-      "summary": "For some time, debugging has relied on the assumption that software is deterministic. It’s expected that with the same input, The post Beyond the stack trace: why AI requires a new debugging paradigm appeared first on The New Stack .",
-      "published": "2026-06-11T17:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Zziwa Raymond Ian",
-      "categories": [
-        "AI Engineering",
-        "Developer tools",
-        "Software Development",
-        "sponsor-andela",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to delegate 40% of tickets to AI",
-      "link": "https://thenewstack.io/delegate-tickets-to-ai",
-      "summary": "AI beats us at coding.  But it’s also better and faster at nearly everything else: planning, QA, working with all The post How to delegate 40% of tickets to AI appeared first on The New Stack .",
-      "published": "2026-06-11T14:30:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Zohar Einy",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Software Development",
-        "sponsor-port",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Agentic development hinges on verification. For cloud-native software, that is a runtime problem.",
-      "link": "https://thenewstack.io/verifying-async-ai-agents",
-      "summary": "Async agents are only useful if you can trust what they hand back. In a distributed system, that trust comes The post Agentic development hinges on verification. For cloud-native software, that is a runtime problem. appeared first on The New Stack .",
-      "published": "2026-06-11T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Arjun Iyer",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Cloud Native Ecosystem",
-        "sponsor-signadot",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AI agents need infrastructure: Why Europe’s regional cloud strategy matters",
-      "link": "https://thenewstack.io/agentic-ai-cloud-sovereignty",
-      "summary": "It’s no secret that generative AI has shifted the operations and business models of companies in nearly every sector. But The post AI agents need infrastructure: Why Europe’s regional cloud strategy matters appeared first on The New Stack .",
-      "published": "2026-06-11T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Kevin Cochrane",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Infrastructure",
-        "Cloud Services",
-        "sponsor-vultr",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Introducing Verifiable Execution in Dapr 1.18",
-      "link": "https://www.cncf.io/blog/2026/06/11/introducing-verifiable-execution-in-dapr-1-18",
-      "summary": "Bringing attestation, provenance, and tamper-evident execution history to workflows and AI agents For years, the cloud native ecosystem has focused on making distributed systems resilient. Applications recover from failures. Services retry requests. Workflows survive crashes and...",
-      "published": "2026-06-11T13:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "epower",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Transform your AI coding agent into a deterministic Java Spring expert",
-      "link": "https://thenewstack.io/deterministic-ai-spring-upgrades",
-      "summary": "With the rise of AI coding agents, developers have begun experimenting with complex, multi-step upgrade requests. Since Spring is the The post Transform your AI coding agent into a deterministic Java Spring expert appeared first on The New Stack .",
-      "published": "2026-06-11T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Raquel Pau",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Java",
-        "sponsor-vmware",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "WeAreDevelopers is coming to the US to give unsung developers a bigger voice",
-      "link": "https://thenewstack.io/wearedevelopers-san-jose-expansion",
-      "summary": "Unless you’ve been living under a mousepad, you know about WeAreDevelopers. The Berlin-based software developers conference and networking event, now The post WeAreDevelopers is coming to the US to give unsung developers a bigger voice appeared first on The New Stack .",
-      "published": "2026-06-11T12:42:08+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Nick Lucchesi",
-      "categories": [
-        "AI Agents",
-        "Software Development",
-        "Tech Culture",
-        "Podcast",
-        "Video"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Debug App Startup Faster on Azure App Service for Linux with Startup Logs",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/debug-app-startup-faster-on-azure-app-service-for-linux-with/ba-p/4527521",
-      "summary": "When an app fails to start on Azure App Service for Linux, one of the first things you need is visibility into what happened during startup. This can include container initialization, runtime setup, startup command execution, application output, and warmup probe results. To make this easier, we...",
-      "published": "2026-06-11T12:34:17+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "TulikaC",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kubernetes Interview Questions and Answers",
-      "link": "https://kodekloud.com/blog/kubernetes-interview-questions-and-answers",
-      "summary": "Master Kubernetes interviews with top questions and answers on important topics with KodeKlode.",
-      "published": "2026-06-11T12:06:36+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "KodeKloud",
-      "categories": [
-        "interview-questions",
-        "Kubernetes"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Cleaner AI training data, fewer bugs: Sonar’s SonarSweep explained",
-      "link": "https://thenewstack.io/ai-training-data-quality",
-      "summary": "Large language models have moved quickly from novelty to daily infrastructure in software development. We are no longer using AI The post Cleaner AI training data, fewer bugs: Sonar’s SonarSweep explained appeared first on The New Stack .",
-      "published": "2026-06-11T12:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Joe Tyler",
-      "categories": [
-        "AI Engineering",
-        "Large Language Models",
-        "Security",
-        "sponsor-sonarsource",
-        "sponsored-post-contributed"
-      ],
       "thumbnail": ""
     }
   ]
