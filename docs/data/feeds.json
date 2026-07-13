@@ -1,9 +1,8 @@
 {
   "metadata": {
-    "generated_at": "2026-07-12T08:01:51.139951+00:00",
-    "total_items": 267,
+    "generated_at": "2026-07-13T08:51:28.083671+00:00",
+    "total_items": 263,
     "sources": [
-      "AKS (Official)",
       "AKS Newsletter",
       "Abhishek Veeramalla",
       "Alex Ellis",
@@ -21,6 +20,71 @@
     ]
   },
   "items": [
+    {
+      "title": "APIs aren’t dead. Here’s where MCP fits alongside them.",
+      "link": "https://thenewstack.io/api-vs-mcp-incident-management",
+      "summary": "The allure of emerging technology is undeniable, but adopting it rarely means completely ripping out what already works. Instead, new The post APIs aren’t dead. Here’s where MCP fits alongside them. appeared first on The New Stack .",
+      "published": "2026-07-12T18:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Hannah Culver",
+      "categories": [
+        "AI Operations",
+        "API Management",
+        "Model Context Protocol (MCP)",
+        "sponsor-pagerduty",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How async processing hides latency and improves responsiveness",
+      "link": "https://thenewstack.io/async-processing-hides-latency",
+      "summary": "Editor’s Note: This article contains an exclusive excerpt from Latency by Pekka Engberg, which helps readers diagnose latency problems and The post How async processing hides latency and improves responsiveness appeared first on The New Stack .",
+      "published": "2026-07-12T17:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Pekka Enberg",
+      "categories": [
+        "Backend development",
+        "eBook Series Article",
+        "Software Development",
+        "sponsor-scylladb",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic’s newest enterprise partner is training 20,000 people on Claude — here’s the shift it signals",
+      "link": "https://thenewstack.io/ust-anthropic-enterprise-ai-stack",
+      "summary": "The clearest signal of a major pivot in enterprise AI came this week when Anthropic announced its second Global Premier Partner in the The post Anthropic’s newest enterprise partner is training 20,000 people on Claude — here’s the shift it signals appeared first on The New Stack .",
+      "published": "2026-07-12T17:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Engineering",
+        "AI Infrastructure",
+        "AI Strategy"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Meet Brain, the AI that decides when Azure is officially down",
+      "link": "https://thenewstack.io/inside-azure-brain",
+      "summary": "Microsoft recently took the wraps off Brain, the internal AI system that continuously monitors Azure’s health and, increasingly, acts on The post Meet Brain, the AI that decides when Azure is officially down appeared first on The New Stack .",
+      "published": "2026-07-12T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Cloud Services",
+        "Observability"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "85% say code review is the new bottleneck. Here’s what the AI coding narrative leaves out.",
       "link": "https://thenewstack.io/merge-gate-coding-agents",
@@ -3756,105 +3820,6 @@
         "AI Models",
         "AI Strategy"
       ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Federal government orders Anthropic to pull Fable 5 and Mythos 5, three days after launch",
-      "link": "https://thenewstack.io/us-gov-orders-anthropic-to-pull-fable-5-and-mythos-5-three-days-after-launch",
-      "summary": "Anthropic abruptly disabled Fable 5 and Mythos 5 for all customers Friday evening, after the US government issued an export The post Federal government orders Anthropic to pull Fable 5 and Mythos 5, three days after launch appeared first on The New Stack .",
-      "published": "2026-06-13T02:12:53+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Matthew Burns",
-      "categories": [
-        "AI",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Who gets to be Switzerland in the enterprise agent wars?",
-      "link": "https://thenewstack.io/outsystems-agent-orchestration-neutrality",
-      "summary": "Every enterprise software vendor is currently selling some version of the same thing: AI agents grounded in enterprise context and The post Who gets to be Switzerland in the enterprise agent wars? appeared first on The New Stack .",
-      "published": "2026-06-12T19:50:19+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Infrastructure"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Coding agents have questions, too — so Stack Overflow built them a home",
-      "link": "https://thenewstack.io/stack-overflow-for-agents",
-      "summary": "Stack Overflow has been the internet’s go-to troubleshooting ground for software developers for more than 15 years — the place The post Coding agents have questions, too — so Stack Overflow built them a home appeared first on The New Stack .",
-      "published": "2026-06-12T16:30:27+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Azure Update 12th June 2026",
-      "link": "https://www.youtube.com/watch?v=0dOmMLqrlw0",
-      "summary": "Nice selection of updates this week!\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation queue...",
-      "published": "2026-06-12T15:21:26+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/0dOmMLqrlw0/mqdefault.jpg"
-    },
-    {
-      "title": "AI DevOps Project - Terraform Drift Detector.",
-      "link": "https://www.youtube.com/watch?v=6mvBMLWRPGs",
-      "summary": "Getting started with Cursor Agents:\n- CTA Link -\n\nIn this video, I build Driftctl, a terraform drift detection platform that continuously compares your terraform state against live cloud infrastructure to catch configuration drift before it becomes an outage or compliance issue.\n\nNo terraform plan....",
-      "published": "2026-06-12T14:37:21+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/6mvBMLWRPGs/mqdefault.jpg"
-    },
-    {
-      "title": "How we solved AKS cluster sprawl - Kube & Tell - June 2026 - Azure Kubernetes Service",
-      "link": "https://www.youtube.com/watch?v=3yhudHJp3Vo",
-      "summary": "What do you do when hundreds of Kubernetes clusters are spreading across your org, each team running its own version of \"what good looks like,\" with no consistent way to stay on top of security, versions, or cost?\n\nIn this episode of Kube & Tell, Microsoft Cloud Solution Architect Vigh Madas shares...",
-      "published": "2026-06-12T12:00:27+00:00",
-      "source": "AKS (Official)",
-      "type": "video",
-      "author": "Azure Kubernetes Service (AKS)",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/3yhudHJp3Vo/mqdefault.jpg"
-    },
-    {
-      "title": "Securing CI/CD for an open source project: Locking down dependencies",
-      "link": "https://www.cncf.io/blog/2026/06/12/securing-ci-cd-for-an-open-source-project-locking-down-dependencies",
-      "summary": "Part two This is the second post in a three-part series on how Cilium hardens its CI/CD pipeline. Part 1 covered access control: who can trigger builds and what code CI is allowed to execute. This...",
-      "published": "2026-06-12T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "André Martins (Cilium maintainer and Software Engineer, Isovalent at Cisco) and Feroz Salam (Cilium Security Team and Security Engineer, Isovalent at Cisco)",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "ArchAngel: Skilling the next developer generation for the Agentic transformation.",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/archangel-skilling-the-next-developer-generation-for-the-agentic/ba-p/4525836",
-      "summary": "AI is transforming the SDLC at speed but there's a quieter question following close behind. If the code is being written for your junior developers, when do they learn the skills to become senior ones and how can they use these tools without losing understanding of what they've made? Most tools try...",
-      "published": "2026-06-12T10:13:43+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "RohitMadhavKrishnan",
-      "categories": [],
       "thumbnail": ""
     }
   ]
