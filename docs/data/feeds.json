@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-07-13T08:51:28.083671+00:00",
-    "total_items": 263,
+    "generated_at": "2026-07-14T07:48:36.152765+00:00",
+    "total_items": 269,
     "sources": [
       "AKS Newsletter",
       "Abhishek Veeramalla",
@@ -20,6 +20,162 @@
     ]
   },
   "items": [
+    {
+      "title": "Prefect just bought Dagster, another big Airflow rival — and it’s not a data pipeline story",
+      "link": "https://thenewstack.io/prefect-acquires-dagster-orchestrator",
+      "summary": "Prefect, best known for the eponymous open-source data pipeline and workflow orchestrator, has announced that it’s acquiring Dagster, one of The post Prefect just bought Dagster, another big Airflow rival — and it’s not a data pipeline story appeared first on The New Stack .",
+      "published": "2026-07-13T22:08:55+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Data",
+        "Model Context Protocol",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Microsoft CEO Satya Nadella says you’re paying for AI twice — the second price is worse",
+      "link": "https://thenewstack.io/nadella-reverse-information-paradox",
+      "summary": "Microsoft Chairman and CEO Satya Nadella took to the internet to share his thoughts about the hidden cost of enterprise The post Microsoft CEO Satya Nadella says you’re paying for AI twice — the second price is worse appeared first on The New Stack .",
+      "published": "2026-07-13T22:06:26+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Infrastructure",
+        "AI Strategy",
+        "Cloud Services"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Operating AI/ML Workloads on Kubernetes: A Headlamp Plugin for Kubeflow",
+      "link": "https://kubernetes.io/blog/2026/07/13/introducing-headlamp-plugin-for-kubeflow",
+      "summary": "Kubernetes has quietly become the default platform for AI and machine learning. Whether you run notebook servers for data scientists, schedule distributed training jobs, tune hyperparameters, or orchestrate multi-step ML pipelines, those workloads increasingly land on a Kubernetes cluster. Kubeflow...",
+      "published": "2026-07-13T20:00:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes Dashboard to Headlamp: A Step-by-Step Guide",
+      "link": "https://kubernetes.io/blog/2026/07/13/kubernetes-dashboard-to-headlamp",
+      "summary": "1. Before you start: know what is changing Kubernetes Dashboard and Headlamp both show what is running in a cluster, but they work differently. When Headlamp runs on the desktop, it uses your existing kubeconfig to connect to one or more clusters and can be extended with plugins. When Headlamp runs...",
+      "published": "2026-07-13T18:00:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "From AI Adoption to AI Governance - Using APIM as the Gateway for Azure AI Foundry",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/from-ai-adoption-to-ai-governance-using-apim-as-the-gateway-for/ba-p/4536247",
+      "summary": "Enterprises move through three phases of AI adoption: evaluating models, building apps and agents, and operationalizing them in production. The first two are easier to accelerate. The third is where governance becomes critical. Once multiple teams share an AI endpoint, leaders need clear answers to...",
+      "published": "2026-07-13T17:45:10+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "abhimittal",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Prompt Injection Attacks for DevOps Engineers, Threats and Defenses",
+      "link": "https://kodekloud.com/blog/prompt-injection-attacks-for-devops-engineers-threats-and-defenses",
+      "summary": "AI coding assistants and agents now live inside your pipelines, and prompt injection can turn a poisoned pull request or document into remote code execution. Here is how the attack works and how to defend your systems.",
+      "published": "2026-07-13T17:42:56+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "Prompt Engineering",
+        "LLM",
+        "AI Agents",
+        "DevSecOps",
+        "mcp",
+        "LLM Security",
+        "Prompt Injection"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic extends Fable 5 again — and won’t talk about what developers found inside Cursor",
+      "link": "https://thenewstack.io/fable-5-honeycomb-opus",
+      "summary": "Anthropic has extended its enhanced access to Claude Fable 5 for all paid subscribers through July 19, marking the third The post Anthropic extends Fable 5 again — and won’t talk about what developers found inside Cursor appeared first on The New Stack .",
+      "published": "2026-07-13T17:10:27+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Models",
+        "AI Strategy",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "This Is how I use AI better than Most DevOps Engineers",
+      "link": "https://www.youtube.com/watch?v=D0rcnsmxdcY",
+      "summary": "Join our Discord for Career...",
+      "published": "2026-07-13T16:08:56+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/D0rcnsmxdcY/mqdefault.jpg"
+    },
+    {
+      "title": "What an ex-NSA red teamer wants every SOC to stop doing",
+      "link": "https://thenewstack.io/ai-soc-alert-fatigue",
+      "summary": "Security teams have spent years trying to see more. More endpoints, more cloud services, more identities, more telemetry. For the The post What an ex-NSA red teamer wants every SOC to stop doing appeared first on The New Stack .",
+      "published": "2026-07-13T13:50:34+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Carly Page",
+      "categories": [
+        "AI Operations",
+        "Observability",
+        "Security",
+        "sponsored-webinar"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Where AI saves me time and where it slows me down",
+      "link": "https://thenewstack.io/ai-engineering-speed-tradeoffs",
+      "summary": "I use AI every day, and I would not want to go back. That is probably the simplest way to The post Where AI saves me time and where it slows me down appeared first on The New Stack .",
+      "published": "2026-07-13T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Laureano Gonzalez",
+      "categories": [
+        "AI Engineering",
+        "Model Context Protocol (MCP)",
+        "Software Development",
+        "sponsor-webflow",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Operating OpenTelemetry at scale with OpAMP",
+      "link": "https://www.cncf.io/blog/2026/07/13/operating-opentelemetry-at-scale-with-opamp",
+      "summary": "As more organizations move to use OpenTelemetry in production at scale, with multiple Collectors across heterogeneous environments, a new challenge arises: how to remotely manage, configure, and update this agent fleet in a consistent and secure...",
+      "published": "2026-07-13T11:30:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Dotan Horovits, CNCF Ambassador",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "APIs aren’t dead. Here’s where MCP fits alongside them.",
       "link": "https://thenewstack.io/api-vs-mcp-incident-management",
@@ -3560,6 +3716,17 @@
       "thumbnail": "https://i.ytimg.com/vi/e1RxEgxtWV0/mqdefault.jpg"
     },
     {
+      "title": "ArchAngel: Skilling the next developer generation for the Agentic transformation.",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/archangel-skilling-the-next-developer-generation-for-the-agentic/ba-p/4525836",
+      "summary": "AI is transforming the SDLC at speed but there's a quieter question following close behind. If the code is being written for your junior developers, when do they learn the skills to become senior ones and how can they use these tools without losing understanding of what they've made? Most tools try...",
+      "published": "2026-06-15T15:24:42+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "RohitMadhavKrishnan",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
       "title": "Cohere sold sovereign AI to enterprises, now it’s targeting developers with its first coding model",
       "link": "https://thenewstack.io/cohere-sovereign-coding-model-north-mini-code",
       "summary": "Canadian foundation model company Cohere has spent the past few years selling a specific idea to banks, governments, and healthcare The post Cohere sold sovereign AI to enterprises, now it’s targeting developers with its first coding model appeared first on The New Stack .",
@@ -3726,99 +3893,6 @@
         "Model Context Protocol (MCP)",
         "sponsor-pagerduty",
         "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Fable 5 and Mythos 5 remain suspended: “The ball is in Anthropic’s court”",
-      "link": "https://thenewstack.io/fable-5-and-mythos-5-remain-suspended-the-ball-is-in-anthropics-court",
-      "summary": "On Friday evening, Anthropic suddenly disabled its new flagship models, Fable 5 and Mythos 5, after the U.S. government became The post Fable 5 and Mythos 5 remain suspended: “The ball is in Anthropic’s court” appeared first on The New Stack .",
-      "published": "2026-06-13T21:09:17+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why AI retrieval and ranking need more than vector search",
-      "link": "https://thenewstack.io/tensors-beyond-vector-search",
-      "summary": "A recent GigaOm CxO Decision Brief explores how AI retrieval architectures are evolving beyond flat vector databases as organizations combine The post Why AI retrieval and ranking need more than vector search appeared first on The New Stack .",
-      "published": "2026-06-13T18:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Bonnie Chase",
-      "categories": [
-        "AI Engineering",
-        "AI Infrastructure",
-        "Databases",
-        "sponsor-vespa-ai",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Can JetBrains close the IDE skills gap before AI widens it further?",
-      "link": "https://thenewstack.io/jetbrains-course-creators-program",
-      "summary": "JetBrains recently launched a program to bring hands-on coding practice into its professional development environments, targeting the gap between how The post Can JetBrains close the IDE skills gap before AI widens it further? appeared first on The New Stack .",
-      "published": "2026-06-13T17:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Darryl K. Taft",
-      "categories": [
-        "AI",
-        "Developer tools",
-        "Tech Careers"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Loops are replacing prompts. Verification is about to be your biggest problem.",
-      "link": "https://thenewstack.io/agent-loops-cloud-native-verification",
-      "summary": "Something shifted in the AI coding discourse this month. The argument is no longer about whether agents can write production The post Loops are replacing prompts. Verification is about to be your biggest problem. appeared first on The New Stack .",
-      "published": "2026-06-13T16:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Arjun Iyer",
-      "categories": [
-        "AI Engineering",
-        "Kubernetes",
-        "Platform Engineering",
-        "sponsor-signadot",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Fable 5 vs Opus 4.8: The real stakes, not the spec sheet",
-      "link": "https://thenewstack.io/fable-5-opus-comparison",
-      "summary": "This week Anthropic finally dropped the first model in its Mythos-class tier, Fable 5. The pitch was clear: this is The post Fable 5 vs Opus 4.8: The real stakes, not the spec sheet appeared first on The New Stack .",
-      "published": "2026-06-13T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jessica Wachtel",
-      "categories": [
-        "AI",
-        "AI Models",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Claude Fable cost $9 in one coding test. GPT-5.5 cost $1.50. Model triage is the new AI skill.",
-      "link": "https://thenewstack.io/claude-fable-cost-model-triage",
-      "summary": "I’m Matt Burns, Chief Content Officer at Insight Media Group. Each week, I round up the most important AI developments, The post Claude Fable cost $9 in one coding test. GPT-5.5 cost $1.50. Model triage is the new AI skill. appeared first on The New Stack .",
-      "published": "2026-06-13T10:31:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Matthew Burns",
-      "categories": [
-        "AI Agents",
-        "AI Models",
-        "AI Strategy"
       ],
       "thumbnail": ""
     }
