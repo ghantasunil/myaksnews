@@ -1,8 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-07-14T07:48:36.152765+00:00",
-    "total_items": 269,
+    "generated_at": "2026-07-15T07:51:59.119937+00:00",
+    "total_items": 281,
     "sources": [
+      "AKS (Official)",
       "AKS Newsletter",
       "Abhishek Veeramalla",
       "Alex Ellis",
@@ -20,6 +21,243 @@
     ]
   },
   "items": [
+    {
+      "title": "AKS Community Call - US & Europe (June 2026) - Azure Kubernetes Service",
+      "link": "https://www.youtube.com/watch?v=3GQkcyVZhEY",
+      "summary": "Welcome to the AKS Community Calls! These sessions foster direct interaction between our product teams and the AKS community. Engage with our teams, hear the latest updates, and gain insights into the product’s development. Join our monthly public calls to discuss the product roadmap, provide...",
+      "published": "2026-07-14T22:17:57+00:00",
+      "source": "AKS (Official)",
+      "type": "video",
+      "author": "Azure Kubernetes Service (AKS)",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/3GQkcyVZhEY/mqdefault.jpg"
+    },
+    {
+      "title": "Orchestrate Azure Container Apps Jobs with Apache Airflow",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/orchestrate-azure-container-apps-jobs-with-apache-airflow/ba-p/4534607",
+      "summary": "Azure Container Apps (ACA) Jobs are a great way to run work that starts, does something, and finishes: nightly batch, data processing, ETL, ML scoring, report generation. They scale to zero, bill per execution, and run any container you give them. But the moment your \"one job\" becomes \"a set of...",
+      "published": "2026-07-14T21:41:26+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "hetvip",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "KeycloakCon Japan 2026: Navigating cloud native identity and the AI frontier",
+      "link": "https://www.cncf.io/blog/2026/07/14/keycloakcon-japan-2026-navigating-cloud-native-identity-and-the-ai-frontier",
+      "summary": "The countdown is officially on. In just a few weeks, the cloud-native ecosystem meets in Yokohama for KubeCon + CloudNativeCon Japan 2026. Taking place on Tuesday, July 28 from 09:00 – 12:30, KeycloakCon Japan brings together...",
+      "published": "2026-07-14T21:34:55+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "KeycloakCon Organizers",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“We did not adapt and move quickly enough”: What IBM’s earnings miss says about enterprise AI spending",
+      "link": "https://thenewstack.io/ibm-earnings-ai-infrastructure",
+      "summary": "IBM’s value has plunged after the company issued a preliminary second-quarter earnings update that fell short of Wall Street’s expectations. The post “We did not adapt and move quickly enough”: What IBM’s earnings miss says about enterprise AI spending appeared first on The New Stack .",
+      "published": "2026-07-14T20:38:17+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Engineering",
+        "AI Infrastructure",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI hits 8 million Codex users — what developers need to know",
+      "link": "https://thenewstack.io/gpt-5-6-codex-user-surge",
+      "summary": "OpenAI launched GPT-5.6 last week and folded Codex into a unified ChatGPT desktop app. Since then, the company has been The post OpenAI hits 8 million Codex users — what developers need to know appeared first on The New Stack .",
+      "published": "2026-07-14T19:16:31+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Models",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AWS will now watch Microsoft’s cloud for you",
+      "link": "https://thenewstack.io/aws-security-hub-azure",
+      "summary": "On Tuesday, AWS announced an expansion to Security Hub, its security operations service, to also monitor Microsoft Azure resources, in addition The post AWS will now watch Microsoft’s cloud for you appeared first on The New Stack .",
+      "published": "2026-07-14T19:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Operations",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "What happens when your VPN meets 200 AI agents",
+      "link": "https://thenewstack.io/unified-access-ai-agents",
+      "summary": "Providing secure access for your human staff is no simple task. For one, traditional VPNs often grant unnecessarily broad access, The post What happens when your VPN meets 200 AI agents appeared first on The New Stack .",
+      "published": "2026-07-14T18:53:13+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Alex Wilhelm",
+      "categories": [
+        "AI Agents",
+        "Networking",
+        "Security",
+        "sponsor-tailscale",
+        "sponsored-webinar"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The enterprise strikes back: Keep your data, ditch the AI bill.",
+      "link": "https://thenewstack.io/enterprise-data-ai-labs",
+      "summary": "As the AI cost crisis begins to fade from the forefront, a related fear is rearing its head: The need The post The enterprise strikes back: Keep your data, ditch the AI bill. appeared first on The New Stack .",
+      "published": "2026-07-14T18:16:07+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Alex Wilhelm",
+      "categories": [
+        "AI Models",
+        "AI Strategy",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Building a Custom Metrics Exporter for Kubernetes",
+      "link": "https://kubernetes.io/blog/2026/07/14/custom-metrics-exporter-kubernetes",
+      "summary": "Kubernetes ships with built-in awareness of CPU and memory, but most\nreal-world scaling decisions depend on signals that live entirely outside\nthat narrow window: how many messages are waiting in a queue, how long\nthe last batch job took, how many active WebSocket connections a pod is\nholding. When...",
+      "published": "2026-07-14T18:00:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "How to become a DevOps Engineer without experience - (Non It, Non DevOps, Career gap, Freshers)",
+      "link": "https://www.youtube.com/watch?v=9JBHaX4_-S8",
+      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nIn this video, I will explain how to transition to a DevOps role without previous experience in the DevOps background. I will cover all the 4 categories in the video - Career gap, Non IT, Non DevOps and Freshers.\n\nFree...",
+      "published": "2026-07-14T17:06:13+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/9JBHaX4_-S8/mqdefault.jpg"
+    },
+    {
+      "title": "Open-source AI is just “4 months behind” closed frontier models — and 10x cheaper",
+      "link": "https://thenewstack.io/open-weight-models-frontier-costs",
+      "summary": "A quiet revolution is brewing in the AI model space. The dominance of proprietary closed frontier models has been cemented The post Open-source AI is just “4 months behind” closed frontier models — and 10x cheaper appeared first on The New Stack .",
+      "published": "2026-07-14T16:04:23+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Models",
+        "Large Language Models",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“Vibe coding slop”: Port’s CEO on the problem with ungoverned AI dev",
+      "link": "https://thenewstack.io/port-ai-builder-governance",
+      "summary": "Vibe coding, left alone on the dance floor without any steps, shimmy, or syncopation, lacks the rhythm it needs to The post “Vibe coding slop”: Port’s CEO on the problem with ungoverned AI dev appeared first on The New Stack .",
+      "published": "2026-07-14T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Platform Engineering",
+        "Vibe Coding"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The MCP debate has a context problem",
+      "link": "https://thenewstack.io/mcp-enterprise-agent-governance",
+      "summary": "Every few months, a new technology gets its premature obituary. Across many developer circles, MCP’s has already been written. Too The post The MCP debate has a context problem appeared first on The New Stack .",
+      "published": "2026-07-14T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Rueda",
+      "categories": [
+        "AI Agents",
+        "Model Context Protocol (MCP)",
+        "Security",
+        "sponsor-gitlab",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI can finally read your handwriting — here’s why enterprises care",
+      "link": "https://thenewstack.io/valantor-eyelevel-document-management",
+      "summary": "The seemingly unquenchable thirst of the AI data ingestion pipeline spans language, numerical, and tabular data in the first instance, while The post AI can finally read your handwriting — here’s why enterprises care appeared first on The New Stack .",
+      "published": "2026-07-14T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI",
+        "AI Infrastructure",
+        "Data",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Is a Pod the right deployment unit for an AI agent?",
+      "link": "https://www.cncf.io/blog/2026/07/14/is-a-pod-the-right-deployment-unit-for-an-ai-agent",
+      "summary": "When we first started building kagent, we didn’t run every agent in its own Kubernetes Pod, Service, and ServiceAccount. Instead, agents were simply executed inside the kagent runtime. It was the simplest architecture possible: one runtime...",
+      "published": "2026-07-14T11:20:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Lin Sun, Solo.io | CNCF Ambassador",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "What makes CIOs trust an AI agent? Thira bets it’s not the model.",
+      "link": "https://thenewstack.io/what-makes-cios-trust-an-ai-agent-thira-bets-its-not-the-model",
+      "summary": "Sunny Gupta spent a decade and a half building Apptio into the system of record for enterprise technology spend. His The post What makes CIOs trust an AI agent? Thira bets it’s not the model. appeared first on The New Stack .",
+      "published": "2026-07-14T10:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Operations",
+        "AI Strategy"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "I Built an AI Agent That Summarizes Tech News Automatically for free using Kestra",
+      "link": "https://www.youtube.com/watch?v=YoAKMkNEhzI",
+      "summary": "Stop Writing Fragile Cron Jobs. Build Automated AI Workflows with Kestra instead!\n\nAre you still relying on messy Python scripts, fragile glue code, and impossible-to-debug cron jobs for your cloud automations? In this video, I’ll show you a cleaner, more robust way to automate your data pipelines...",
+      "published": "2026-07-14T02:18:00+00:00",
+      "source": "Piyush Sachdeva",
+      "type": "video",
+      "author": "Tech Tutorials with Piyush",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/YoAKMkNEhzI/mqdefault.jpg"
+    },
     {
       "title": "Prefect just bought Dagster, another big Airflow rival — and it’s not a data pipeline story",
       "link": "https://thenewstack.io/prefect-acquires-dagster-orchestrator",
@@ -3824,77 +4062,6 @@
       "author": "Tech Tutorials with Piyush",
       "categories": [],
       "thumbnail": "https://i.ytimg.com/vi/7UcpQBWQehc/mqdefault.jpg"
-    },
-    {
-      "title": "Spotlight on SIG Storage",
-      "link": "https://kubernetes.io/blog/2026/06/15/sig-storage-spotlight-2026",
-      "summary": "In our ongoing SIG Spotlight series, we shine a light on the groups that keep the Kubernetes project\nmoving forward. This time, we catch up with SIG\nStorage , the group responsible\nfor persistent data, volume management, and the interfaces that connect Kubernetes workloads to the\nstorage systems...",
-      "published": "2026-06-15T00:00:00+00:00",
-      "source": "Kubernetes Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "The future of AI is at risk | Hence proved",
-      "link": "https://www.youtube.com/watch?v=cC_ROMZ4S0s",
-      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nAnthropic's decision to block Fable5 has sparked a major debate in the AI industry. What happened, why it matters, and what it means for startups building on third-party AI models.\n\nIn this video, I will show you how you...",
-      "published": "2026-06-14T17:03:53+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/cC_ROMZ4S0s/mqdefault.jpg"
-    },
-    {
-      "title": "Xiaomi’s MiMo Code claims it beats Claude Code past 200 steps",
-      "link": "https://thenewstack.io/coding-agent-endurance-gap",
-      "summary": "A coding agent that scaffolds a working app over lunch will routinely stall around 30 steps into a production refactor. The post Xiaomi’s MiMo Code claims it beats Claude Code past 200 steps appeared first on The New Stack .",
-      "published": "2026-06-14T17:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Janakiram MSV",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "What your logs can’t tell you when an AI agent acts alone",
-      "link": "https://thenewstack.io/audit-trails-revenue-asset",
-      "summary": "For a long time, logs lived in a strange purgatory: technically required, rarely read, and mostly forgotten until something broke. The post What your logs can’t tell you when an AI agent acts alone appeared first on The New Stack .",
-      "published": "2026-06-14T16:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Mohit Bansal",
-      "categories": [
-        "AI Agents",
-        "Compliance",
-        "Security",
-        "sponsor-webflow",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "PagerDuty’s CAIO says most AI incident tools are missing a critical layer",
-      "link": "https://thenewstack.io/ai-incident-management-harness",
-      "summary": "AI is empowering software teams to ship code faster than ever. Given that an average of 70% of incidents stem The post PagerDuty’s CAIO says most AI incident tools are missing a critical layer appeared first on The New Stack .",
-      "published": "2026-06-14T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "João Freitas",
-      "categories": [
-        "AI Agents",
-        "AI Operations",
-        "Model Context Protocol (MCP)",
-        "sponsor-pagerduty",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
     }
   ]
 }
