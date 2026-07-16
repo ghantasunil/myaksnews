@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-07-15T07:51:59.119937+00:00",
-    "total_items": 281,
+    "generated_at": "2026-07-16T07:57:29.416151+00:00",
+    "total_items": 287,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -21,6 +21,220 @@
     ]
   },
   "items": [
+    {
+      "title": "How Microsoft 365 built a platform engineering layer on AKS to ship faster at global scale",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/how-microsoft-365-built-a-platform-engineering-layer-on-aks-to/ba-p/4537523",
+      "summary": "Challenge : Scaling success without increasing complexity Microsoft 365 runs a broad portfolio of services across global and sovereign clouds. At that scale, the platform has to do more than schedule workloads. It has to enforce security boundaries, meet enterprise compliance requirements, and...",
+      "published": "2026-07-16T05:00:13+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Suma SaganeGowda",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes won the container decade. Google’s Agent Substrate wants the next one.",
+      "link": "https://thenewstack.io/kubernetes-ai-agent-runtime",
+      "summary": "Google made GKE Agent Sandbox generally available in May 2026 and, in the same post, introduced a second project called The post Kubernetes won the container decade. Google’s Agent Substrate wants the next one. appeared first on The New Stack .",
+      "published": "2026-07-15T18:17:02+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Janakiram MSV",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Kubernetes"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "A2A vs MCP, Agent Communication Protocols Explained for DevOps",
+      "link": "https://kodekloud.com/blog/a2a-vs-mcp-agent-communication-protocols-explained-for-devops",
+      "summary": "MCP and A2A are not competitors, and treating them as a choice is the fastest way to build the wrong architecture. Here is what each protocol does, where it belongs in your stack, and how to run both safely.",
+      "published": "2026-07-15T18:04:30+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Trust, transactions and tokenomics: AI agent infrastructure begins to standardize",
+      "link": "https://thenewstack.io/x402-foundation-ai-agents-standards",
+      "summary": "As AI agents gain greater autonomy across the internet, a system of governance is emerging around three questions: how much The post Trust, transactions and tokenomics: AI agent infrastructure begins to standardize appeared first on The New Stack .",
+      "published": "2026-07-15T18:03:22+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI Agents",
+        "Compliance",
+        "FinOps"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Elon Musk: “We will make the entire codebase of X open source, with no exceptions.”",
+      "link": "https://thenewstack.io/x-open-source-codebase",
+      "summary": "Elon Musk, the billionaire owner of X, wants to make the social network one of the most transparent major technology The post Elon Musk: “We will make the entire codebase of X open source, with no exceptions.” appeared first on The New Stack .",
+      "published": "2026-07-15T17:59:43+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "Open Source",
+        "Software Development",
+        "Tech Culture"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Atlassian wants developers to finally like Jira",
+      "link": "https://thenewstack.io/atlassian-jira-coding-agents",
+      "summary": "Atlassian wants developers to spend more of their days in Jira. To get them there, Atlassian on Wednesday launched a The post Atlassian wants developers to finally like Jira appeared first on The New Stack .",
+      "published": "2026-07-15T17:52:28+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI Agents",
+        "Developer tools",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Give your AI agent two memories with Azure App Service",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/give-your-ai-agent-two-memories-with-azure-app-service/ba-p/4537400",
+      "summary": "Agents feel continuous only when they can operate across two very different time horizons. They need the recent turns that make the current conversation coherent, and they need a smaller set of durable facts that can follow an authenticated user into a new conversation. This sample implements both...",
+      "published": "2026-07-15T17:23:43+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "jordanselig",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Best Claude Code alternative that's 90 percent Cheaper",
+      "link": "https://www.youtube.com/watch?v=sFdhA5b13d8",
+      "summary": "Use my code ABHISHEK25 to get $50 credits for $20 Coder pack:\nhttps://kimchi.dev \n\nSTAR the GitHub link:\nhttps://github.com/getkimchi/kimchi\n\nKimchi is the most affordable Claude code alternative that's 90 percent cheaper. It's opensource and hosts a large range of open models which brings the cost...",
+      "published": "2026-07-15T16:34:06+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/sFdhA5b13d8/mqdefault.jpg"
+    },
+    {
+      "title": "OpenAI’s first gadget is the $230 Codex Micro macropad",
+      "link": "https://thenewstack.io/openai-codex-micro-macropad",
+      "summary": "OpenAI’s Codex is about to hit 9 million users, and at least some of those users will soon get a The post OpenAI’s first gadget is the $230 Codex Micro macropad appeared first on The New Stack .",
+      "published": "2026-07-15T16:01:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI Agents",
+        "Hardware"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "HAMi becomes a CNCF incubating project",
+      "link": "https://www.cncf.io/blog/2026/07/15/hami-becomes-a-cncf-incubating-project",
+      "summary": "The CNCF Technical Oversight Committee (TOC) has voted to accept HAMi as a CNCF incubating project.  About HAMi Modern AI infrastructure teams run into the same problem over and over: expensive GPUs often sit fragmented and...",
+      "published": "2026-07-15T16:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "HAMi Maintainers",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Don't Waste Your Bench Period: A Real DevOps Strategy",
+      "link": "https://www.youtube.com/watch?v=ACG4dCwmw4M",
+      "summary": "Are you currently on the bench or serving a notice period at a service-based IT company? It is easy to treat this idle time like a paid vacation, but doing so could leave you with an embarrassing career gap. Give me 10 minutes, and I will show you how to turn your bench period into a free,...",
+      "published": "2026-07-15T15:35:55+00:00",
+      "source": "Piyush Sachdeva",
+      "type": "video",
+      "author": "Tech Tutorials with Piyush",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/ACG4dCwmw4M/mqdefault.jpg"
+    },
+    {
+      "title": "Anaconda buys Kilo, the open source coding agent that answers to no single model maker",
+      "link": "https://thenewstack.io/anaconda-kilo-open-source-acquisition",
+      "summary": "Anaconda, a company that provides governed, open-source packages and environments for enterprises, has acquired popular open-source coding agent Kilo. The The post Anaconda buys Kilo, the open source coding agent that answers to no single model maker appeared first on The New Stack .",
+      "published": "2026-07-15T14:07:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Developer tools",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Meta and the rise of the accidental cloud",
+      "link": "https://thenewstack.io/meta-compute-supply-fragmentation",
+      "summary": "In the same quarter, a $1.7 trillion social network and a shoe company both became cloud providers. Nobody’s operating model The post Meta and the rise of the accidental cloud appeared first on The New Stack .",
+      "published": "2026-07-15T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Yasmin Rajabi",
+      "categories": [
+        "AI Infrastructure",
+        "Cloud Services",
+        "FinOps"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“The database is the product”: What breaks when memory devices scale",
+      "link": "https://thenewstack.io/ai-notetaker-database-architecture",
+      "summary": "Imagine you just finished a two-hour meeting. You were wearing a small AI work companion that promised to capture the The post “The database is the product”: What breaks when memory devices scale appeared first on The New Stack .",
+      "published": "2026-07-15T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Ed Huang",
+      "categories": [
+        "AI Infrastructure",
+        "Databases",
+        "Hardware",
+        "sponsor-pingcap",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "On-prem DBaaS in 2026: Platforms, standards, and gaps",
+      "link": "https://www.cncf.io/blog/2026/07/15/on-prem-dbaas-in-2026-platforms-standards-and-gaps",
+      "summary": "For application teams, databases should feel like a solved problem. A team needs PostgreSQL, MariaDB, Redis, or another data service, submits a request, receives credentials, and starts building. In practice, the experience is rarely that simple....",
+      "published": "2026-07-15T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Oliver Wolf, anynines",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Load testing Copilot Studio agents with Locust and Azure Load Testing",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/load-testing-copilot-studio-agents-with-locust-and-azure-load/ba-p/4535445",
+      "summary": "A conversational agent doesn't answer like an API. You send one message. The server returns 200 OK. And then nothing happens. The real answer is still coming, streaming back over a WebSocket as one reply or several. It might take two seconds, or three minutes while the agent thinks, calls a tool,...",
+      "published": "2026-07-15T09:47:26+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Krishna-Roy",
+      "categories": [],
+      "thumbnail": ""
+    },
     {
       "title": "AKS Community Call - US & Europe (June 2026) - Azure Kubernetes Service",
       "link": "https://www.youtube.com/watch?v=3GQkcyVZhEY",
@@ -3926,142 +4140,6 @@
         "Blog"
       ],
       "thumbnail": ""
-    },
-    {
-      "title": "The Anthropic Fable mess, explained",
-      "link": "https://thenewstack.io/anthropic-fable-mess-explained",
-      "summary": "The Anthropic-Mythos-Fable story has been The Topic since Friday, and it moved fast enough to lose anyone who blinked. Here’s my opinionated The post The Anthropic Fable mess, explained appeared first on The New Stack .",
-      "published": "2026-06-15T18:24:34+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Alex Wilhelm",
-      "categories": [
-        "AI",
-        "AI Models",
-        "AI Strategy"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "5 AI Projects for DevOps Engineers in 3 Hours | FREE Projects",
-      "link": "https://www.youtube.com/watch?v=e1RxEgxtWV0",
-      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nThis is a very special video where I will help you learn how to build DevOps projects using AI for FREE. \n\n00:00:00 - Introduction\n00:04:01 - Project 1 - AI Kubernetes Agent\n00:52:36 - Project 2 - AI Cloud Cost...",
-      "published": "2026-06-15T15:29:49+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/e1RxEgxtWV0/mqdefault.jpg"
-    },
-    {
-      "title": "ArchAngel: Skilling the next developer generation for the Agentic transformation.",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/archangel-skilling-the-next-developer-generation-for-the-agentic/ba-p/4525836",
-      "summary": "AI is transforming the SDLC at speed but there's a quieter question following close behind. If the code is being written for your junior developers, when do they learn the skills to become senior ones and how can they use these tools without losing understanding of what they've made? Most tools try...",
-      "published": "2026-06-15T15:24:42+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "RohitMadhavKrishnan",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Cohere sold sovereign AI to enterprises, now it’s targeting developers with its first coding model",
-      "link": "https://thenewstack.io/cohere-sovereign-coding-model-north-mini-code",
-      "summary": "Canadian foundation model company Cohere has spent the past few years selling a specific idea to banks, governments, and healthcare The post Cohere sold sovereign AI to enterprises, now it’s targeting developers with its first coding model appeared first on The New Stack .",
-      "published": "2026-06-15T14:54:16+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Engineering",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Overview of Azure HorizonDB",
-      "link": "https://www.youtube.com/watch?v=ZsLnWnjkJQw",
-      "summary": "Overview of what HorizonDB is and how it works.\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:08 - PostgreSQL\n04:06 - Cloud-native architecture\n04:50 - Azure HorizonDB\n06:33 - Architecture\n16:15 - Standby replicas\n19:42 - Other features\n21:21 - Pricing\n23:22 - Summary\n24:12 -...",
-      "published": "2026-06-15T14:38:21+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/ZsLnWnjkJQw/mqdefault.jpg"
-    },
-    {
-      "title": "Your AI-generated app runs on their cloud, and that’s the problem",
-      "link": "https://thenewstack.io/your-ai-generated-app-runs-on-their-cloud-and-thats-the-problem",
-      "summary": "The prompt-to-app loop has gotten genuinely good. Describe the thing, watch it appear, click deploy. Replit, Lovable, Base44 and others The post Your AI-generated app runs on their cloud, and that’s the problem appeared first on The New Stack .",
-      "published": "2026-06-15T13:50:16+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Oluwadamilola Oshungboye",
-      "categories": [
-        "AI",
-        "AI Strategy",
-        "Software Development",
-        "contributed-bit"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "We’ve been measuring AI wrong; why economically valuable work is the new benchmark",
-      "link": "https://thenewstack.io/agents-last-exam-benchmark",
-      "summary": "As the AI industry gradually builds standardization guidelines and systems, such as those overseen by the Tokenonmics Foundation, the need The post We’ve been measuring AI wrong; why economically valuable work is the new benchmark appeared first on The New Stack .",
-      "published": "2026-06-15T13:42:33+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI Agents",
-        "AI Strategy",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Code is a message to the future",
-      "link": "https://thenewstack.io/code-message-to-future",
-      "summary": "Engineers communicate constantly. Slack messages, design docs, RFC threads, code review comments: the job is as much about sharing intent The post Code is a message to the future appeared first on The New Stack .",
-      "published": "2026-06-15T12:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Hernan Garchtrom",
-      "categories": [
-        "AI Engineering",
-        "Developer tools",
-        "Software Development",
-        "sponsor-webflow",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Improving Arm64 support in CNCF projects with OCI credits",
-      "link": "https://www.cncf.io/blog/2026/06/15/improving-arm64-support-in-cncf-projects-with-oci-credits",
-      "summary": "In recent years, Arm64 has been taking the cloud service provider world by storm. Recent reports indicate that, as of the end of 2025, over 50% of new instances on AWS and over 33% on Azure...",
-      "published": "2026-06-15T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Dave Neary, Director of Developer Relations at Ampere Computing",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to Get a DevOps Job with NO Experience (step-by-step framework)",
-      "link": "https://www.youtube.com/watch?v=7UcpQBWQehc",
-      "summary": "How to Get a DevOps Job with ZERO Experience (step-by-step framework)\n\n𝗖𝗢𝗠𝗣𝗟𝗘𝗧𝗘 COURSES  👌 It’s   🅵🆁🅴🅴 ⛳\n✅ Terraform Full Course For Beginners - #28daysofAZTerraform\nhttps://www.youtube.com/playlist?list=PLl4APkPHzsUUHlbhuq9V02n9AMLPySoEQ\n\n✅ Certified Kubernetes Administrator (CKA)...",
-      "published": "2026-06-15T10:00:06+00:00",
-      "source": "Piyush Sachdeva",
-      "type": "video",
-      "author": "Tech Tutorials with Piyush",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/7UcpQBWQehc/mqdefault.jpg"
     }
   ]
 }
