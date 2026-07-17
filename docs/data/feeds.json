@@ -1,12 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-07-16T07:57:29.416151+00:00",
-    "total_items": 287,
+    "generated_at": "2026-07-17T07:53:46.018287+00:00",
+    "total_items": 295,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
       "Abhishek Veeramalla",
-      "Alex Ellis",
       "Apps on Azure",
       "CNCF Blog",
       "Collabnix",
@@ -21,6 +20,220 @@
     ]
   },
   "items": [
+    {
+      "title": "Microsoft just open-sourced the app that put Comic Sans on the map",
+      "link": "https://thenewstack.io/microsoft-comic-chat-open-source",
+      "summary": "Comic Sans has been mocked, memed, and muzzled from corporate communications since time immemorial, but most people won’t know that The post Microsoft just open-sourced the app that put Comic Sans on the map appeared first on The New Stack .",
+      "published": "2026-07-17T07:50:03+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "Open Source",
+        "Tech Culture"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Hands-on Introduction to Odin | Rawkode Live",
+      "link": "https://www.youtube.com/watch?v=5t28uwZL-rE",
+      "summary": "Join Peter Mbanugo for a hands-on introduction to **Odin**, a modern systems programming language designed for simplicity, performance, and practical software development.\n\nIn this live session, we explore:\n\n* What Odin is and the problems it aims to solve\n* Odin’s approach to types, memory,...",
+      "published": "2026-07-17T06:31:08+00:00",
+      "source": "Rawkode Academy",
+      "type": "video",
+      "author": "Rawkode Academy",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/5t28uwZL-rE/mqdefault.jpg"
+    },
+    {
+      "title": "Why Every DevOps Engineer Should Learn AI",
+      "link": "https://kodekloud.com/blog/why-devops-engineers-should-learn-ai",
+      "summary": "AI is now near-universal and widely distrusted at once. Why every DevOps engineer should learn it, what that really means, and how to start.",
+      "published": "2026-07-17T06:15:33+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "AI",
+        "DevOps"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI hasn’t shifted the bottleneck from coding to code review",
+      "link": "https://thenewstack.io/ai-code-bottleneck-myth",
+      "summary": "Why we’ve stopped noticing the real improvement opportunity Since AI arrived, many people have mentioned that the bottleneck has shifted The post AI hasn’t shifted the bottleneck from coding to code review appeared first on The New Stack .",
+      "published": "2026-07-16T18:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Steve Fenton",
+      "categories": [
+        "AI Strategy",
+        "DevOps",
+        "Software Development",
+        "Contributed",
+        "contributed-octopus-deploy"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "GoDaddy opened its registrar to AI agents. Then it had to build guardrails.",
+      "link": "https://thenewstack.io/godaddy-developer-platform-domains",
+      "summary": "On Wednesday, GoDaddy launched its new developer platform, giving developers a way to manage domains without leaving their development environment. The post GoDaddy opened its registrar to AI agents. Then it had to build guardrails. appeared first on The New Stack .",
+      "published": "2026-07-16T17:48:29+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "API Management",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "You don’t have a deployment problem. You have a validation problem.",
+      "link": "https://thenewstack.io/solving-the-validation-problem",
+      "summary": "Ask a platform team about their deployment capabilities, and you will usually hear a genuinely impressive story. Progressive rollouts that The post You don’t have a deployment problem. You have a validation problem. appeared first on The New Stack .",
+      "published": "2026-07-16T17:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Arjun Iyer",
+      "categories": [
+        "AI Agents",
+        "Kubernetes",
+        "Platform Engineering",
+        "sponsor-signadot",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "CNCF Strengthens Partnership with Broadcom as a Platinum Member to Advance AI-Ready Cloud Native Infrastructure",
+      "link": "https://www.cncf.io/announcements/2026/07/16/cncf-strengthens-partnership-with-broadcom-as-a-platinum-member-to-to-advance-ai-ready-cloud-native-infrastructure",
+      "summary": "Collaboration with CNCF reflects Broadcom’s continued investment in open source innovation, cloud native resilience and the technologies powering the next generation of AI workloads Key Highlights SAN FRANCISCO, California  — July 16, 2026 — The Cloud...",
+      "published": "2026-07-16T16:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Haley White",
+      "categories": [
+        "Announcements"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why smarter AI caching sometimes makes everything slower",
+      "link": "https://thenewstack.io/redis-vector-caching-tradeoffs",
+      "summary": "Caching was one of the most critical optimizations in modern AI systems long before most teams realized it. Early prototypes The post Why smarter AI caching sometimes makes everything slower appeared first on The New Stack .",
+      "published": "2026-07-16T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Zziwa Raymond Ian",
+      "categories": [
+        "AI Engineering",
+        "AI Infrastructure",
+        "Databases",
+        "sponsor-andela",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Hands-on Introduction to Kueue | Rawkode Live",
+      "link": "https://www.youtube.com/watch?v=B2YrGiWA_oI",
+      "summary": "Join Amy Chen for a hands-on introduction to **Kueue**, the Kubernetes-native job queueing system for batch, HPC, and AI/ML workloads.\n\nKubernetes knows how to schedule Pods, but running large collections of resource-intensive jobs introduces another set of challenges. Which workloads should start...",
+      "published": "2026-07-16T15:17:33+00:00",
+      "source": "Rawkode Academy",
+      "type": "video",
+      "author": "Rawkode Academy",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/B2YrGiWA_oI/mqdefault.jpg"
+    },
+    {
+      "title": "Linux creator Linus Torvalds tells AI haters to walk away from Linux, or go fork it",
+      "link": "https://thenewstack.io/torvalds-linux-ai-stance",
+      "summary": "Creator of the Linux kernel, Linus Torvalds, has refreshed his stance on the use of AI in software development with The post Linux creator Linus Torvalds tells AI haters to walk away from Linux, or go fork it appeared first on The New Stack .",
+      "published": "2026-07-16T15:15:14+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Engineering",
+        "Linux",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI’s GPT-Red automates prompt injection testing to harden AI agents",
+      "link": "https://thenewstack.io/gpt-red-prompt-injection-testing",
+      "summary": "Now that AI agents are performing real tasks rather than just generating text, the old methods of manual security testing The post OpenAI’s GPT-Red automates prompt injection testing to harden AI agents appeared first on The New Stack .",
+      "published": "2026-07-16T14:58:18+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Engineering",
+        "AI Models",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "MCP Enterprise Authorization Is Here — What Entra and App Service Can Do Today",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/mcp-enterprise-authorization-is-here-what-entra-and-app-service/ba-p/4537433",
+      "summary": "A few weeks ago I wrote about what the latest MCP changes meant for scaling on Azure App Service. This time, the protocol change is about a different kind of scale: how an enterprise connects hundreds or thousands of employees to MCP servers without making every person authorize every server one at...",
+      "published": "2026-07-16T14:31:39+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "jordanselig",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "“There are no laws, only suggestions”: What AI agents do with your instructions",
+      "link": "https://thenewstack.io/ai-agents-no-laws",
+      "summary": "Nine days into a twelve-day experiment with an AI coding agent, SaaStr founder Jason Lemkin had one instruction on file: The post “There are no laws, only suggestions”: What AI agents do with your instructions appeared first on The New Stack .",
+      "published": "2026-07-16T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Zeen Rachidi",
+      "categories": [
+        "AI Agents",
+        "Security",
+        "Software Development",
+        "sponsor-env-zero",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Running a self-hosted LLM in Kubernetes with vLLM",
+      "link": "https://www.cncf.io/blog/2026/07/16/running-a-self-hosted-llm-in-kubernetes-with-vllm",
+      "summary": "Running large language model (LLM) workloads in-house is one of several patterns teams adopt alongside managed API services. Managed API services are convenient and well suited to many workloads. Self-hosting is a complementary option that some...",
+      "published": "2026-07-16T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Michael Troutman, LINBIT",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Using AI to Optimize CI/CD Pipelines",
+      "link": "https://kodekloud.com/blog/using-ai-to-optimize-cicd-pipelines",
+      "summary": "How AI actually helps in CI/CD: failure triage, flaky-test detection, and PR review, plus a real pipeline step you can copy, and the limits.",
+      "published": "2026-07-16T09:26:05+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "AI",
+        "CI/CD"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "How Microsoft 365 built a platform engineering layer on AKS to ship faster at global scale",
       "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/how-microsoft-365-built-a-platform-engineering-layer-on-aks-to/ba-p/4537523",
@@ -4031,111 +4244,6 @@
       "source": "CNCF Blog",
       "type": "article",
       "author": "Willem Berroubache, Lead Security Architect (Orange Innovation) and CNCF Golden Kubestronaut.",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Local Qwen isn't a worse Opus, it's a different tool",
-      "link": "https://blog.alexellis.io/local-ai-is-not-opus",
-      "summary": "We've all heard people say that Qwen is near-Opus level, but I have receipts and am here to be transparent with you.",
-      "published": "2026-06-17T00:00:00+00:00",
-      "source": "Alex Ellis",
-      "type": "article",
-      "author": "Alex Ellis",
-      "categories": [
-        "llm",
-        "localai",
-        "agents"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Databricks wants to merge the two databases every company runs",
-      "link": "https://thenewstack.io/databricks-is-rebuilding-the-data-stack-for-ai-agents",
-      "summary": "Databricks wants to erase the divide between the databases that run a business and the systems that analyze it. At The post Databricks wants to merge the two databases every company runs appeared first on The New Stack .",
-      "published": "2026-06-16T21:30:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Infrastructure"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "SpaceX acquires Cursor for $60 billion. Can it fix Musk’s coding division?",
-      "link": "https://thenewstack.io/spacex-cursor-ai-coding",
-      "summary": "Today it was announced SpaceX will buy Anysphere, Inc., maker of AI coding agent Cursor, for $60 billion.  The news The post SpaceX acquires Cursor for $60 billion. Can it fix Musk’s coding division? appeared first on The New Stack .",
-      "published": "2026-06-16T18:30:45+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why did my AWS bill spike? There’s now an agent for that",
-      "link": "https://thenewstack.io/aws-finops-agent-ai",
-      "summary": "Amazon Web Services has added a third specialized “frontier agent” to its growing portfolio of AI tools aimed at IT The post Why did my AWS bill spike? There’s now an agent for that appeared first on The New Stack .",
-      "published": "2026-06-16T15:15:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Darryl K. Taft",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Infrastructure"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The siloed-data era is over. Here’s what comes next for AI agents.",
-      "link": "https://thenewstack.io/agentic-ai-data-foundation",
-      "summary": "Some 700 million people now use ChatGPT every week. Now, the next phase of AI is well underway, as agentic The post The siloed-data era is over. Here’s what comes next for AI agents. appeared first on The New Stack .",
-      "published": "2026-06-16T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "TNS Staff",
-      "categories": [
-        "AI Agents",
-        "Data",
-        "eBook Series Article",
-        "sponsor-heroku",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect",
-      "link": "https://thenewstack.io/anthropic-pauses-claude-agent-sdk-subscription-change",
-      "summary": "Anthropic has hit pause on a billing change affecting developers who use its Claude Agent SDK through a paid subscription The post Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect appeared first on The New Stack .",
-      "published": "2026-06-16T12:07:51+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "From data residency to digital sovereignty: Architectural patterns for  cloud native platforms",
-      "link": "https://www.cncf.io/blog/2026/06/16/from-data-residency-to-digital-sovereignty-architectural-patterns-for-cloud-native-platforms",
-      "summary": "Over the past two years, digital sovereignty has evolved from a policy discussion into a practical platform engineering concern. The EU Data Act has been fully applicable since January 11, 2025. NIS-2 and DORA already shape...",
-      "published": "2026-06-16T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Hrittik Roy, CNCF Ambassador",
       "categories": [
         "Blog"
       ],
