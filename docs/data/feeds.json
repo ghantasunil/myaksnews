@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-07-18T07:29:25.641832+00:00",
-    "total_items": 290,
+    "generated_at": "2026-07-19T08:01:22.213128+00:00",
+    "total_items": 287,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,119 @@
     ]
   },
   "items": [
+    {
+      "title": "AI didn’t replace our security team — it multiplied it.",
+      "link": "https://thenewstack.io/scaling-security-with-ai",
+      "summary": "For years, the assumption in security has been straightforward: mature detection and response programs require a Security Operations Center (SOC). The post AI didn’t replace our security team — it multiplied it. appeared first on The New Stack .",
+      "published": "2026-07-18T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Andy Gombar",
+      "categories": [
+        "AI Operations",
+        "AI Strategy",
+        "Security",
+        "sponsor-webflow",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The bottleneck for AI agents isn’t the model anymore. It’s the context layer.",
+      "link": "https://thenewstack.io/ai-agent-infrastructure-bottleneck",
+      "summary": "There’s a pattern I’ve watched repeat for two years. A team builds an agent, hits reliability problems, upgrades the model, The post The bottleneck for AI agents isn’t the model anymore. It’s the context layer. appeared first on The New Stack .",
+      "published": "2026-07-18T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Asaf Wiener",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "AI Infrastructure",
+        "Contributed",
+        "contributed-mate"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Platform engineering’s new job: serving environments at agent speed",
+      "link": "https://thenewstack.io/serving-environments-agent-speed",
+      "summary": "Platform engineering has won the argument. Some 90% of organizations have adopted at least one internal platform; golden paths are The post Platform engineering’s new job: serving environments at agent speed appeared first on The New Stack .",
+      "published": "2026-07-18T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Arjun Iyer",
+      "categories": [
+        "AI Engineering",
+        "AI Infrastructure",
+        "Platform Engineering",
+        "sponsor-signadot",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Least Privilege for AI Agents, Securing kubectl, Terraform, and Cloud CLIs",
+      "link": "https://kodekloud.com/blog/least-privilege-for-ai-agents-securing-kubectl-terraform-and-cloud-clis",
+      "summary": "An AI agent destroyed a company's production database and every backup in nine seconds, and it was never attacked or injected. It simply found a token that could. Here is how to scope agent access properly.",
+      "published": "2026-07-18T13:29:01+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "AI Agents",
+        "DevSecOps",
+        "CKA Kubernetes",
+        "Cloud",
+        "AI Security",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "I trust Claude for everything. This test made me rethink that.",
+      "link": "https://thenewstack.io/grok-opus-coding-tokens",
+      "summary": "Can Grok 4.5 really match Opus for a quarter of the tokens? xAI released Grok 4.5 on July 8. It The post I trust Claude for everything. This test made me rethink that. appeared first on The New Stack .",
+      "published": "2026-07-18T13:01:42+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jessica Wachtel",
+      "categories": [
+        "AI Engineering",
+        "AI Models",
+        "Rust"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Musk open-sourced Grok Build to fight Anthropic. Anthropic pays him $1.25 billion a month.",
+      "link": "https://thenewstack.io/musk-spacexai-grok-open-source",
+      "summary": "I’m Matt Burns, Chief Content Officer at Insight Media Group. Each week, I round up the most important AI developments, The post Musk open-sourced Grok Build to fight Anthropic. Anthropic pays him $1.25 billion a month. appeared first on The New Stack .",
+      "published": "2026-07-18T10:39:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Matthew Burns",
+      "categories": [
+        "AI Engineering",
+        "AI Models",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Using AI to Troubleshoot Kubernetes Clusters",
+      "link": "https://kodekloud.com/blog/using-ai-to-troubleshoot-kubernetes",
+      "summary": "Use AI to troubleshoot Kubernetes with k8sgpt: diagnose real ImagePullBackOff and CrashLoopBackOff errors, get fix steps, and verify recovery.",
+      "published": "2026-07-18T08:34:19+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "AI",
+        "Kubernetes"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Microsoft Foundry Now Has an AI Gateway Control Plane — What Changes for App Service",
       "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/microsoft-foundry-now-has-an-ai-gateway-control-plane-what/ba-p/4538320",
@@ -4024,162 +4137,6 @@
         "Developer tools",
         "Frontend Development",
         "Vibe Coding"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Gusto Cofounder: An AI agent that runs payroll, HR, and benefits without waiting to be asked",
-      "link": "https://thenewstack.io/gusto-cofounder-small-business-ai",
-      "summary": "Almost every startup or small business today has a wingperson, a principal working partner, or a co-founder.  When it comes The post Gusto Cofounder: An AI agent that runs payroll, HR, and benefits without waiting to be asked appeared first on The New Stack .",
-      "published": "2026-06-18T20:40:59+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI Agents",
-        "Software Development",
-        "Vibe Coding",
-        "Podcast",
-        "sponsor-gusto",
-        "sponsored-podcast"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "KubeCon + CloudNativeCon, OpenInfra Summit and PyTorch Conference Unite in China to Scale AI",
-      "link": "https://www.cncf.io/announcements/2026/06/18/kubecon-cloudnativecon-openinfra-summit-and-pytorch-conference-unite-in-china-to-scale-ai",
-      "summary": "Schedule highlights global communities bridging cloud native infrastructure with AI stacks Key Highlights SHANGHAI — JUNE 18, 2026 — The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for cloud native software, the OpenInfra Foundation,...",
-      "published": "2026-06-18T20:31:13+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "kthornhill",
-      "categories": [
-        "Announcements"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "MCP gets its missing enterprise authorization layer",
-      "link": "https://thenewstack.io/mcp-gets-its-missing-enterprise-authorization-layer",
-      "summary": "Every enterprise company is seemingly trying to adopt the Model Context Protocol (MCP) to connect its AI agents to tools. But so The post MCP gets its missing enterprise authorization layer appeared first on The New Stack .",
-      "published": "2026-06-18T18:21:43+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Model Context Protocol",
-        "Model Context Protocol (MCP)",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Cursor, GitLab and Zed agree GitHub is breaking. They disagree on how to rebuild it.",
-      "link": "https://thenewstack.io/cursor-origin-github-disruption",
-      "summary": "The biggest news to emerge from the AI world this week was undoubtedly that Elon Musk’s SpaceX had agreed to The post Cursor, GitLab and Zed agree GitHub is breaking. They disagree on how to rebuild it. appeared first on The New Stack .",
-      "published": "2026-06-18T17:32:35+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Engineering",
-        "AI Infrastructure",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Neoclouds, sovereign AI and Postgres: The new operating model for regulated enterprises",
-      "link": "https://thenewstack.io/neoclouds-postgres-sovereign-ai",
-      "summary": "Inference is now the dominant force in enterprise AI — and with it has come an inconvenient reality: Data is The post Neoclouds, sovereign AI and Postgres: The new operating model for regulated enterprises appeared first on The New Stack .",
-      "published": "2026-06-18T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Max Romanenko",
-      "categories": [
-        "AI Infrastructure",
-        "AI Strategy",
-        "Databases",
-        "sponsor-enterprisedb",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Controlling Tool Access with APIM MCP Gateway",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/controlling-tool-access-with-apim-mcp-gateway/ba-p/4529225",
-      "summary": "If you've started working with MCP servers in GitHub Copilot, Claude, or any other agent host in an enterprise environment, you've probably hit a similar problem. You want to give your developers access to a useful MCP server, but not every tool it ships with. Maybe one tool is noisy and burns...",
-      "published": "2026-06-18T14:44:22+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "samcogan",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "The database storage problem is solved. Here’s what comes next.",
-      "link": "https://thenewstack.io/postgres-data-movement-interoperability",
-      "summary": "For most of its 30-year history, Postgres has been viewed as a transactional database. Organizations trust it with customer records, The post The database storage problem is solved. Here’s what comes next. appeared first on The New Stack .",
-      "published": "2026-06-18T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Craig Kerstiens",
-      "categories": [
-        "AI Infrastructure",
-        "Data",
-        "Databases",
-        "sponsor-snowflake",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Fable 5 ban: 4 open models responded before Anthropic could restore access",
-      "link": "https://thenewstack.io/fable-ban-open-weights",
-      "summary": "On Friday, June 12, the United States government ordered Anthropic to suspend Claude Fable 5 and Mythos 5 for all The post Fable 5 ban: 4 open models responded before Anthropic could restore access appeared first on The New Stack .",
-      "published": "2026-06-18T13:34:01+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Janakiram MSV",
-      "categories": [
-        "AI Models",
-        "AI Strategy",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Your AI pipeline is broken, and your dashboards don’t know it",
-      "link": "https://thenewstack.io/debugging-probabilistic-ai-systems",
-      "summary": "Recently, a crucial RAG pipeline used by one of our corporate clients began hallucinating about financial numbers without notifying us The post Your AI pipeline is broken, and your dashboards don’t know it appeared first on The New Stack .",
-      "published": "2026-06-18T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Emmanuel Akita",
-      "categories": [
-        "AI Engineering",
-        "Large Language Models",
-        "Observability",
-        "sponsor-andela",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Git Revert - Accidentally Pushed Secret Keys to GitHub? Here’s How to Fix It!",
-      "link": "https://kodekloud.com/blog/git-revert-accidentally-pushed-secret-keys-to-github-heres-how-to-fix-it",
-      "summary": "Don't waste hours scrubbing history while a live key is still active. Rotate first, clean second, and automate your protection for the future.",
-      "published": "2026-06-18T08:57:40+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "KodeKloud",
-      "categories": [
-        "Git",
-        "Git commands"
       ],
       "thumbnail": ""
     }
