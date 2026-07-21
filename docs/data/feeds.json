@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-07-20T08:42:26.364223+00:00",
-    "total_items": 287,
+    "generated_at": "2026-07-21T08:09:43.520765+00:00",
+    "total_items": 292,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,124 @@
     ]
   },
   "items": [
+    {
+      "title": "Google just bet its inference future on a chip built for one model",
+      "link": "https://thenewstack.io/google-frozen-gemini-chip",
+      "summary": "The race to make AI inference cheaper is pushing chip design beyond general-purpose accelerators. We’re now moving toward silicon that The post Google just bet its inference future on a chip built for one model appeared first on The New Stack .",
+      "published": "2026-07-20T22:14:41+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Engineering",
+        "AI Infrastructure",
+        "Hardware"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Claude Fable 5 vs. Kimi K3: Same results, one-third the cost, 4x slower",
+      "link": "https://thenewstack.io/kimi-k3-fable-coding-benchmark",
+      "summary": "Moonshot AI released Kimi K3 in mid-July, selling it as a serious professional coding tool that competes head-on with Claude The post Claude Fable 5 vs. Kimi K3: Same results, one-third the cost, 4x slower appeared first on The New Stack .",
+      "published": "2026-07-20T18:07:20+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Nick Lucchesi",
+      "categories": [
+        "AI Models",
+        "Developer tools",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Amazon, Microsoft, and Google are converging on the same enterprise agent architecture",
+      "link": "https://thenewstack.io/agent-platform-portability-contract",
+      "summary": "Over the past nine months, Amazon, Microsoft, and Google have each introduced or renamed an enterprise agent platform. And all The post Amazon, Microsoft, and Google are converging on the same enterprise agent architecture appeared first on The New Stack .",
+      "published": "2026-07-20T17:43:11+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Janakiram MSV",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Platform Engineering"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Linux Security Hardening for AI Training and Inference Servers",
+      "link": "https://kodekloud.com/blog/linux-security-hardening-ai-servers",
+      "summary": "Roughly 175,000 AI inference servers sit on the open internet with no password, handing strangers your model weights, your API keys, and your GPUs. Here is how to harden a Linux AI server so yours is not one of them.",
+      "published": "2026-07-20T17:14:46+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "AI Security",
+        "Linux",
+        "Linux Hardening",
+        "AI Infrastructure",
+        "GPU",
+        "CIS Benchmark",
+        "Kernel Hardening",
+        "DevSecOps",
+        "Server Hardening"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic employees worked “literally around the clock” to keep Fable 5 from disappearing",
+      "link": "https://thenewstack.io/fable-5-permanent-subscription-access",
+      "summary": "After weeks of extending temporary access while bringing additional inference capacity online, Anthropic has finalized Claude Fable 5 subscriptions. In The post Anthropic employees worked “literally around the clock” to keep Fable 5 from disappearing appeared first on The New Stack .",
+      "published": "2026-07-20T16:38:09+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Infrastructure",
+        "AI Models",
+        "AI Strategy"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Microsoft IQ Overview",
+      "link": "https://www.youtube.com/watch?v=LrIS9lcSbko",
+      "summary": "Overview of Microsoft IQ and how to leverage intelligence with your AI agents.\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:39 - Responsibilities and requirements\n01:17 - Tasks and AI\n02:07 - Intelligence needed\n02:16 - How I work\n03:28 - State of the business\n04:16 - Institutional...",
+      "published": "2026-07-20T13:41:13+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/LrIS9lcSbko/mqdefault.jpg"
+    },
+    {
+      "title": "ArgoCon Japan 2026: Meeting the Maintainers, enterprise insights, and the road to Argo CD 3.5",
+      "link": "https://www.cncf.io/blog/2026/07/20/argocon-japan-2026-meeting-the-maintainers-enterprise-insights-and-the-road-to-argo-cd-3-5",
+      "summary": "A special half-day ArgoCon Japan (1:30pm – 6:30pm) will be held July 28, 2026 in Yokohama, Japan as a colocated event with KubeCon + CloudNativeCon. This is a chance to hear from and meet both end...",
+      "published": "2026-07-20T12:34:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "ArgoCon Japan 2026 Organizers",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why goodput matters more than throughput for LLM serving",
+      "link": "https://www.cncf.io/blog/2026/07/20/why-goodput-matters-more-than-throughput-for-llm-serving",
+      "summary": "When we benchmark an LLM serving setup, the number almost everyone reaches for first is throughput: how many requests per second the system can push through. It is easy to measure, easy to compare, and it...",
+      "published": "2026-07-20T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Graziano Casto, Akamas",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "AI in SRE: What's Changing (and What Isn't)",
       "link": "https://kodekloud.com/blog/ai-in-sre-whats-changing",
@@ -4094,52 +4212,6 @@
         "AI Agents",
         "AI Infrastructure",
         "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Gemini CLI vs. Antigravity: What works, not the spec sheet",
-      "link": "https://thenewstack.io/gemini-cli-antigravity-replacement",
-      "summary": "Google has decommissioned its Gemini CLI, the open-source terminal tool that just shipped last year. It had over 100,000 GitHub The post Gemini CLI vs. Antigravity: What works, not the spec sheet appeared first on The New Stack .",
-      "published": "2026-06-20T16:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jessica Wachtel",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Backporting bug fixes is dead, Project Valkey now  sends in the bots",
-      "link": "https://thenewstack.io/valkey-ai-backporting-agents",
-      "summary": "When Project Valkey released version 9.1 last month, users, contributors and maintainers alike were understandably excited: There were new functionalities The post Backporting bug fixes is dead, Project Valkey now  sends in the bots appeared first on The New Stack .",
-      "published": "2026-06-20T14:21:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "DevOps",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Losing Fable made the best case yet for AI models you can run yourself",
-      "link": "https://thenewstack.io/losing-fable-open-weight-glm",
-      "summary": "The most-said line in one of my group chats this week was three words, on repeat: “I miss Fable.” I The post Losing Fable made the best case yet for AI models you can run yourself appeared first on The New Stack .",
-      "published": "2026-06-20T10:30:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Matthew Burns",
-      "categories": [
-        "AI Models",
-        "AI Strategy",
-        "Software Development"
       ],
       "thumbnail": ""
     }
