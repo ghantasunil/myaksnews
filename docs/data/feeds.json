@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-07-22T08:10:11.702810+00:00",
-    "total_items": 306,
+    "generated_at": "2026-07-23T08:13:35.468880+00:00",
+    "total_items": 311,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -21,6 +21,174 @@
     ]
   },
   "items": [
+    {
+      "title": "How to Build an AI-Powered DevOps Pipeline",
+      "link": "https://kodekloud.com/blog/how-to-build-an-ai-powered-devops-pipeline",
+      "summary": "Build an AI-powered DevOps pipeline: lint, test, and an AI review stage that blocks a real bug in CI. Hands-on tutorial with real output.",
+      "published": "2026-07-23T04:42:45+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "AI",
+        "DevOps"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kimi K3: White House alleges Fable 5 siphoning",
+      "link": "https://thenewstack.io/moonshot-fable5-distillation-accusations",
+      "summary": "Top White House technology official Michael Kratsios on Wednesday accused Chinese artificial intelligence startup Moonshot of using deceptive practices to The post Kimi K3: White House alleges Fable 5 siphoning appeared first on The New Stack .",
+      "published": "2026-07-22T18:28:31+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Models",
+        "AI Strategy",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "DevOps and Cloud Live | 22nd July",
+      "link": "https://www.youtube.com/watch?v=Sxbaq1wQm1U",
+      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
+      "published": "2026-07-22T18:21:51+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/Sxbaq1wQm1U/mqdefault.jpg"
+    },
+    {
+      "title": "Service Mesh 101 with Istio | Complete Hands-On Workshop for Beginners",
+      "link": "https://www.youtube.com/watch?v=FwXF-ICECLc",
+      "summary": "Confused about what a service mesh actually does, and whether you need one? In this free hands-on workshop, we go from zero to production-grade Istio on Kubernetes. You will learn how a service mesh works under the hood, then use Istio to control, secure, observe, and debug traffic between your...",
+      "published": "2026-07-22T18:03:22+00:00",
+      "source": "Kubesimplify",
+      "type": "video",
+      "author": "Kubesimplify",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/FwXF-ICECLc/mqdefault.jpg"
+    },
+    {
+      "title": "Agents keep changing their answers. Harness just built delivery pipelines that don’t care.",
+      "link": "https://thenewstack.io/harness-ai-agent-dlc",
+      "summary": "Software delivery lifecycle company (SDLC) Harness wants to put agents through the same pipelines and controls that all application code The post Agents keep changing their answers. Harness just built delivery pipelines that don’t care. appeared first on The New Stack .",
+      "published": "2026-07-22T17:51:12+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Operations",
+        "DevOps"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI built support agents for its own customer service line, now it hopes big enterprises will trust them too",
+      "link": "https://thenewstack.io/openai-presence-enterprise-agents",
+      "summary": "The general consensus emerging across the AI and industrial spheres is that the models themselves are no longer the bottleneck The post OpenAI built support agents for its own customer service line, now it hopes big enterprises will trust them too appeared first on The New Stack .",
+      "published": "2026-07-22T17:23:20+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Strategy",
+        "Tech Careers"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "MCP in Azure: Using API Management for Authentication, Access, Logging & Governance",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/mcp-in-azure-using-api-management-for-authentication-access/ba-p/4532139",
+      "summary": "If MCP is becoming the “USB-C for AI,” enterprises need something equally familiar on the other side of that port: a control plane . The Model Context Protocol (MCP) gives AI applications a standard way to discover tools, retrieve context, and call capabilities from external systems. But once you...",
+      "published": "2026-07-22T16:51:16+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Kalaivanan",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "“Every few months, a new model made part of our roadmap unnecessary”: Why Mendral’s founders gave up their startup for Anthropic",
+      "link": "https://thenewstack.io/anthropic-mendral-cicd-acquihire",
+      "summary": "Anthropic is bringing the team behind AI startup Mendral on board to strengthen Claude’s software engineering capabilities. As part of The post “Every few months, a new model made part of our roadmap unnecessary”: Why Mendral’s founders gave up their startup for Anthropic appeared first on The New...",
+      "published": "2026-07-22T16:45:49+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "CI/CD",
+        "DevOps"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Confidential Containers becomes a CNCF incubating project",
+      "link": "https://www.cncf.io/blog/2026/07/22/confidential-containers-becomes-a-cncf-incubating-project",
+      "summary": "The CNCF Technical Oversight Committee (TOC) has voted to accept Confidential Containers as a CNCF incubating project. About Confidential Containers Confidential Containers addresses the need to protect data in use within cloud native environments. While data...",
+      "published": "2026-07-22T16:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "CNCF Staff",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Building an AI Agent for Docker Image Optimization",
+      "link": "https://kodekloud.com/blog/ai-agent-docker-image-optimization",
+      "summary": "Your production image is probably a gigabyte of packages your app never calls. Here is how an AI agent analyzes the layers, rewrites the Dockerfile, and proves the smaller image still works before you ship it.",
+      "published": "2026-07-22T15:08:15+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "Docker",
+        "AI Agents",
+        "Containers",
+        "Image Scanning",
+        "Multi Stage Builds",
+        "Distroless",
+        "DevOps",
+        "Docker Image Optimization"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Multi-Cluster databases on Kubernetes: Architecture and deployment",
+      "link": "https://www.cncf.io/blog/2026/07/22/multi-cluster-databases-on-kubernetes-architecture-and-deployment",
+      "summary": "Introduction Running a database on Kubernetes is well understood. Running one that survives a complete regional failure, a corrupted control plane, or a severed network requires a fault-resistant architecture. This post walks through how to build...",
+      "published": "2026-07-22T11:42:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Edith Puclla (CNCF Ambassador) and Ivan Groenewold (Tech Lead, Percona for MongoDB)",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "I made a policy engine think it was in production",
+      "link": "https://www.cncf.io/blog/2026/07/22/i-made-a-policy-engine-think-it-was-in-production",
+      "summary": "Kyverno is a Kubernetes-native policy engine that validates, mutates, and generates resources before workloads reach your cluster, enforcing security and compliance rules as code, without requiring a separate policy language. Enterprise teams running Kyverno policies in...",
+      "published": "2026-07-22T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Sargam Puram, Kyverno Project Maintainer",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Moonshot launched Kimi K3. Then demand shut down subscriptions in 48 hours.",
       "link": "https://thenewstack.io/kimi-k3-inference-bottleneck",
@@ -4319,106 +4487,6 @@
       "source": "CNCF Blog",
       "type": "article",
       "author": "Mahad Zaryab, CNCF Jaeger Project Maintainer and Software Engineer at Meta",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Cursor quietly acquires Continue, an open-source alternative to GitHub Copilot",
-      "link": "https://thenewstack.io/cursor-acquires-continue-coding",
-      "summary": "The AI developer tools consolidation continues apace, with news that Cursor has snapped up open-source coding assistant Continue — its The post Cursor quietly acquires Continue, an open-source alternative to GitHub Copilot appeared first on The New Stack .",
-      "published": "2026-06-22T19:48:42+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Developer tools",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Qodo just shipped cross-repo review. Here’s why it matters for AI-flooded teams.",
-      "link": "https://thenewstack.io/qodo-cross-repo-code-review",
-      "summary": "Late-night debugging sessions aren’t a rare edge case anymore. They are what happens when reviews can’t keep up with volume. The post Qodo just shipped cross-repo review. Here’s why it matters for AI-flooded teams. appeared first on The New Stack .",
-      "published": "2026-06-22T19:42:18+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI",
-        "AI Engineering",
-        "DevOps",
-        "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Running AI Agents Safely Inside Kubernetes",
-      "link": "https://kodekloud.com/blog/running-ai-agents-safely-inside-kubernetes",
-      "summary": "Learn how to run AI agents safely inside Kubernetes through sandboxing, RBAC, network policies, egress control, and observability for production.",
-      "published": "2026-06-22T17:42:20+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "Kubernetes",
-        "AI Agents",
-        "Kubernetes security",
-        "DevSecOps",
-        "Cloud Native",
-        "Agentic AI",
-        "container",
-        "AI Security",
-        "mcp",
-        "network policy"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How Many Copies of Each Layer Does Your Container Registry Actually Need?",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/how-many-copies-of-each-layer-does-your-container-registry/ba-p/4529836",
-      "summary": "Authors: Payal Mahesh and Vicky Lin Azure Container Registry team: Jeanine Burke and Johnson Shi Introduction It's Monday morning. You spin up a fresh 1,000-node AKS cluster for a big training run or a fleet-wide rollout. Every node reaches for the same large container image at the same instant....",
-      "published": "2026-06-22T15:20:26+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "payalmahesh",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Is Terraform Dead? Should you stop learning Terraform?",
-      "link": "https://www.youtube.com/watch?v=xQ_b6dziuUs",
-      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
-      "published": "2026-06-22T14:29:04+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/xQ_b6dziuUs/mqdefault.jpg"
-    },
-    {
-      "title": "Overview of Web IQ",
-      "link": "https://www.youtube.com/watch?v=YpUSm0_7Lgs",
-      "summary": "Overview of what Web IQ is and its capabilities.\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:06 - Model training\n01:25 - Problems with the training data\n04:32 - Adding knowledge with our prompt\n05:30 - Organizational data gap\n06:23 - Info on the Internet\n07:52 - What matters for...",
-      "published": "2026-06-22T14:19:21+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/YpUSm0_7Lgs/mqdefault.jpg"
-    },
-    {
-      "title": "Telemetry that matters: Designing sustainable, high-impact observability pipelines",
-      "link": "https://www.cncf.io/blog/2026/06/22/telemetry-that-matters-designing-sustainable-high-impact-observability-pipelines",
-      "summary": "As system architectures grow increasingly complex, the cloud-native community faces a subtle but pressing challenge: we are drowning in our own telemetry data. It is easier than ever to instrument an application and collect signals, but...",
-      "published": "2026-06-22T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Diana Todea - DevRel Engineer at VictoriaMetrics and Cloud Native Days Romania community organizer, Laura Luttmer - Principal Product Manager at Bindplane (Dynatrace), Antonio Jimenez Martinez - Tech Lead Software Engineer at Cisco ThousandEyes",
       "categories": [
         "Blog"
       ],
