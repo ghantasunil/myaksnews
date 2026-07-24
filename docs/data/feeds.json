@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-07-23T08:13:35.468880+00:00",
-    "total_items": 311,
+    "generated_at": "2026-07-24T08:09:45.695528+00:00",
+    "total_items": 310,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -21,6 +21,202 @@
     ]
   },
   "items": [
+    {
+      "title": "Launch of the AI Infra SIG under the CNCF Japan chapter: First meetup and call for speakers",
+      "link": "https://www.cncf.io/blog/2026/07/23/launch-of-the-ai-infra-sig-under-the-cncf-japan-chapter-first-meetup-and-call-for-speakers",
+      "summary": "Japanese article follows English one. As we all know, AI is advancing from generative AI to agents, driving growing demand for scalable, efficient infrastructure. Kubernetes and the broader Cloud Native ecosystem are becoming increasingly critical foundations...",
+      "published": "2026-07-24T00:05:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Shingo Omura (Principal Architect of AI Infrastructure at LY Corporation) and Sunyanan Choochotkaew (CNCF Ambassador and Senior Research Scientist at IBM Research, Tokyo)",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI and Anthropic both speak at once with dueling voice updates",
+      "link": "https://thenewstack.io/voice-ai-openai-anthropic",
+      "summary": "OpenAI and Anthropic both rolled out major voice updates on Thursday afternoon, but the frontier AI labs seem to be The post OpenAI and Anthropic both speak at once with dueling voice updates appeared first on The New Stack .",
+      "published": "2026-07-23T19:57:50+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Nvidia’s new DNA model learns what token prediction misses",
+      "link": "https://thenewstack.io/nvidia-jepa-dna-genomics",
+      "summary": "The AI industry has largely focused on language-based approaches, using transformers trained on massive datasets to predict words or fill The post Nvidia’s new DNA model learns what token prediction misses appeared first on The New Stack .",
+      "published": "2026-07-23T18:44:01+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Infrastructure",
+        "AI Models",
+        "Science"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“We love the world where we can use both”: How Nvidia thinks about local and frontier models",
+      "link": "https://thenewstack.io/nvidia-local-frontier-models",
+      "summary": "The models small enough to run on the box on your desk are getting good enough that the interesting question The post “We love the world where we can use both”: How Nvidia thinks about local and frontier models appeared first on The New Stack .",
+      "published": "2026-07-23T18:12:41+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Infrastructure"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Cursor, Ramp, and Meta are all building model routers — but two have major model ambitions themselves",
+      "link": "https://thenewstack.io/cursor-ramp-meta-model-router",
+      "summary": "Cursor, the AI coding tool recently acquired by Elon Musk’s SpaceX in a $60 billion all-stock deal, has launched a The post Cursor, Ramp, and Meta are all building model routers — but two have major model ambitions themselves appeared first on The New Stack .",
+      "published": "2026-07-23T17:12:57+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Infrastructure",
+        "AI Models",
+        "AI Strategy",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Personalization is a ranking problem — architecture makes it work",
+      "link": "https://thenewstack.io/vespa-realtime-personalization-ranking",
+      "summary": "Every product team is chasing the same moment: The user opens a page and thinks, this understands me. A shopper The post Personalization is a ranking problem — architecture makes it work appeared first on The New Stack .",
+      "published": "2026-07-23T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jenny Morris",
+      "categories": [
+        "AI Engineering",
+        "AI Infrastructure",
+        "Backend development",
+        "sponsor-vespa-ai",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Quick Introduction to Windows Sandbox",
+      "link": "https://www.youtube.com/watch?v=v7crnKhSLws",
+      "summary": "Run to run some app or process in an isolated environment fast, Windows Sandbox could be your best friend!\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:25 - Windows Sandbox (WSB)\n01:17 - Installing\n01:39 - Architecture\n02:47 - Customizing the environment\n04:36 - Documentation and...",
+      "published": "2026-07-23T15:38:26+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/v7crnKhSLws/mqdefault.jpg"
+    },
+    {
+      "title": "Event Driven AI Agents with Prometheus Alerts, From Page to Root Cause",
+      "link": "https://kodekloud.com/blog/event-driven-ai-agents-prometheus-alerts",
+      "summary": "Every page interrupts a human, yet most alerts end in the same ten investigation steps. Here is how event driven AI agents catch Prometheus alerts and do that first pass before you even look at your phone.",
+      "published": "2026-07-23T15:00:31+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "Prometheus",
+        "AI Agents",
+        "AIOps",
+        "DevAIOps",
+        "Kubernetes",
+        "Alert Manager",
+        "SRE",
+        "Automation"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How regulated organizations can increase AI code velocity safely",
+      "link": "https://thenewstack.io/regulated-ai-continuous-verification",
+      "summary": "Many industries are excited about the possibilities AI opens up for software development. Still, for regulated industries, there’s something extra The post How regulated organizations can increase AI code velocity safely appeared first on The New Stack .",
+      "published": "2026-07-23T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Ekaterina Okuneva",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Compliance",
+        "sponsor-sonarsource",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Sustaining OpenTelemetry: What a 10-week contributor cohort actually looks like",
+      "link": "https://www.cncf.io/blog/2026/07/23/sustaining-opentelemetry-what-a-10-week-contributor-cohort-actually-looks-like",
+      "summary": "A follow-up to our earlier post: “Sustaining OpenTelemetry: Moving from Dependency Management to Stewardship” *** In April 2026, the Cloud Native Computing Foundation (CNCF), the OpenTelemetry (OTel) project, and Bloomberg’s Open Source Program Office came together...",
+      "published": "2026-07-23T13:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Alyssa Wright, Bloomberg's Open Source Program Office",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Can prompt caching tame RAG costs without sacrificing accuracy?",
+      "link": "https://thenewstack.io/production-rag-architecture-fixes",
+      "summary": "The AI ecosystem is drowning in tutorials on how to build a retrieval-augmented generation (RAG) app in five minutes. The The post Can prompt caching tame RAG costs without sacrificing accuracy? appeared first on The New Stack .",
+      "published": "2026-07-23T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Emmanuel Akita",
+      "categories": [
+        "AI Engineering",
+        "AI Infrastructure",
+        "Backend development",
+        "sponsor-andela",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "When Kubeflow meets Cilium: Debugging 60% idle GPUs in Kubernetes",
+      "link": "https://www.cncf.io/blog/2026/07/23/when-kubeflow-meets-cilium-debugging-60-idle-gpus-in-kubernetes",
+      "summary": "The symptom that made no sense The first time we saw it, we didn’t trust the dashboard. A distributed training job was scheduled and healthy — every pod was running, no crashes, no OOMKills, nothing in...",
+      "published": "2026-07-23T11:33:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Ramkumar Nagaraj (Golden Kubestronaut, Adobe) and Bingi Narasimha Karthik (Golden Kubestronaut, Adobe)",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The future of AI is community driven and open",
+      "link": "https://www.cncf.io/blog/2026/07/23/the-future-of-ai-is-community-driven-and-open",
+      "summary": "Kubernetes has become the de facto operating system for AI. In CNCF’s 2025 Annual Cloud Native Survey, 82% of container users now run Kubernetes in production, and 66% of organizations hosting generative AI use it to...",
+      "published": "2026-07-23T08:56:53+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Erin A. Boyd, Senior Director at NVIDIA and CNCF Governing Board Member",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "How to Build an AI-Powered DevOps Pipeline",
       "link": "https://kodekloud.com/blog/how-to-build-an-ai-powered-devops-pipeline",
@@ -4293,202 +4489,6 @@
       "categories": [
         "interview questions",
         "Docker"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kubernetes teams trust automation to ship code but not to touch CPU, and AI is raising the stakes",
-      "link": "https://thenewstack.io/kubernetes-teams-trust-automation",
-      "summary": "Kubernetes teams automate deployments without thinking about it. CI/CD pipelines fire dozens of times a day, autoscaling adjusts replicas in The post Kubernetes teams trust automation to ship code but not to touch CPU, and AI is raising the stakes appeared first on The New Stack .",
-      "published": "2026-06-23T20:56:47+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Yasmin Rajabi",
-      "categories": [
-        "AI Infrastructure",
-        "FinOps",
-        "Kubernetes",
-        "contributed-cloudbolt"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Only 8.5% of MCP Servers Use OAuth — Here's How to Host One Securely on App Service",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/only-8-5-of-mcp-servers-use-oauth-here-s-how-to-host-one/ba-p/4530349",
-      "summary": "The Model Context Protocol exploded onto the scene because it's easy . Stand up a server, expose a few tools, point Claude or VS Code at it, and your agent can suddenly read files, hit APIs, and run code. That same ease is the problem: most MCP servers ship with no authentication at all , and...",
-      "published": "2026-06-23T19:20:54+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "jordanselig",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic gives @Claude a permanent seat in your Slack channels",
-      "link": "https://thenewstack.io/anthropic-claude-tag-slack",
-      "summary": "Anthropic has announced Claude Tag, a new product that embeds Claude directly into Slack as a persistent, shared team member The post Anthropic gives @Claude a permanent seat in your Slack channels appeared first on The New Stack .",
-      "published": "2026-06-23T18:50:18+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenClaw and Hermes agree on what an agent is. They disagree on what controls it.",
-      "link": "https://thenewstack.io/openclaw-hermes-agent-harness",
-      "summary": "At Microsoft’s Build keynote this month, CEO Satya Nadella described a platform shift away from operating systems and apps, and The post OpenClaw and Hermes agree on what an agent is. They disagree on what controls it. appeared first on The New Stack .",
-      "published": "2026-06-23T17:56:26+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Janakiram MSV",
-      "categories": [
-        "AI"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Developers are now validating code they didn’t write — and may not understand",
-      "link": "https://thenewstack.io/gitlab-ai-code-governance",
-      "summary": "With an eye on the huge downstream pressure that AI code tools are putting on software engineering teams, GitLab released The post Developers are now validating code they didn’t write — and may not understand appeared first on The New Stack .",
-      "published": "2026-06-23T17:05:46+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI",
-        "AI Operations",
-        "AI Strategy",
-        "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "90 Percent DevOps Resumes are same | Watch this to improve your resume and opportunities.",
-      "link": "https://www.youtube.com/watch?v=F8uJk7c1rOM",
-      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\n90 percent DevOps Resume are common. Copy pasted resumes are the major reason for rejection. Try to keep your resume unique.\nTelegram Channel : https://t.me/abhishekveeramalla\n\nFree Course on the...",
-      "published": "2026-06-23T16:37:54+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/F8uJk7c1rOM/mqdefault.jpg"
-    },
-    {
-      "title": "Nx debuts Polygraph, taking aim at what’s stalling AI coding agents",
-      "link": "https://thenewstack.io/nx-polygraph-synthetic-monorepo-agents",
-      "summary": "Nx, the company behind the open-source monorepo build system of the same name, on Tuesday launched Polygraph, a service that The post Nx debuts Polygraph, taking aim at what’s stalling AI coding agents appeared first on The New Stack .",
-      "published": "2026-06-23T16:30:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "MCP Just Went Stateless — What the 2026 Spec Changes About Scaling on App Service",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/mcp-just-went-stateless-what-the-2026-spec-changes-about-scaling/ba-p/4530222",
-      "summary": "A couple of months ago I wrote about scaling MCP servers behind App Service's built-in load balancer . The trick back then was to lean on stateless HTTP transport so any instance could serve any request — and to make sure you turned off ARR affinity so the load balancer was actually free to spread...",
-      "published": "2026-06-23T16:14:36+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "jordanselig",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "AI can write the code. Your team still owns the debt.",
-      "link": "https://thenewstack.io/ai-technical-debt-verification",
-      "summary": "The software industry is still talking about AI mostly in terms of speed. Models and agents can now generate code The post AI can write the code. Your team still owns the debt. appeared first on The New Stack .",
-      "published": "2026-06-23T16:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Robert Curlee",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Software Development",
-        "sponsor-sonarsource",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "GitLab just surveyed 1,500 developers. Here’s why it matters for your codebase.",
-      "link": "https://thenewstack.io/agentic-infrastructure-ai-governance",
-      "summary": "For the past two years, the conversation about AI-assisted software development has been dominated by speed. A new GitLab survey The post GitLab just surveyed 1,500 developers. Here’s why it matters for your codebase. appeared first on The New Stack .",
-      "published": "2026-06-23T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Manav Khurana",
-      "categories": [
-        "AI Engineering",
-        "AI Infrastructure",
-        "DevOps",
-        "sponsor-gitlab",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Linux Interview Questions 2026: Real Answers, Not Memorized Definitions",
-      "link": "https://kodekloud.com/blog/linux-interview-questions",
-      "summary": "30 Linux interview questions with senior-level answers, real command output, and what each one is testing. Built to practice, not memorize.",
-      "published": "2026-06-23T13:26:32+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "interview questions",
-        "Linux"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Can DNS become the basis for AI agent identity?",
-      "link": "https://thenewstack.io/can-dns-become-the-basis-for-ai-agent-identity",
-      "summary": "The Linux Foundation on Tuesday declared its intent to launch the Agent Name Service (ANS), an open standard that gives The post Can DNS become the basis for AI agent identity? appeared first on The New Stack .",
-      "published": "2026-06-23T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Infrastructure"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Agent Auth: A lawyer’s day in court",
-      "link": "https://www.cncf.io/blog/2026/06/23/agent-auth-a-lawyers-day-in-court",
-      "summary": "I’ve always thought about AI agents as microservices+. They need everything a traditional microservice needs, and: When thinking about agent auth, I found myself reflecting on a traffic lawyer I hired years ago after receiving a...",
-      "published": "2026-06-23T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Lin Sun, CNCF Ambassador",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Building Jaeger’s ClickHouse backend: 8.6× compression on 10 million spans",
-      "link": "https://www.cncf.io/blog/2026/06/23/building-jaegers-clickhouse-backend-8-6x-compression-on-10-million-spans",
-      "summary": "As someone who’s been maintaining Jaeger, I’ve watched users request ClickHouse support consistently over the past few years. With Jaeger v2.18.0, we’ve finally delivered it. What excites me most isn’t just that ClickHouse is available—it’s that its architecture is...",
-      "published": "2026-06-23T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Mahad Zaryab, CNCF Jaeger Project Maintainer and Software Engineer at Meta",
-      "categories": [
-        "Blog"
       ],
       "thumbnail": ""
     }
