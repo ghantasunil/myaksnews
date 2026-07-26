@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-07-25T07:51:49.277225+00:00",
-    "total_items": 308,
+    "generated_at": "2026-07-26T08:10:15.902272+00:00",
+    "total_items": 300,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -21,6 +21,100 @@
     ]
   },
   "items": [
+    {
+      "title": "Stop correcting AI code. Build the system agents need.",
+      "link": "https://thenewstack.io/stop-correcting-ai-code-build-the-system-agents-need",
+      "summary": "If software engineers are no longer writing code, what are they doing? That’s the question on millions of minds.  AI The post Stop correcting AI code. Build the system agents need. appeared first on The New Stack .",
+      "published": "2026-07-25T17:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jennifer Riggins",
+      "categories": [
+        "AI"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure OpenAI Security: Networking, Identity, and Compliance Controls",
+      "link": "https://kodekloud.com/blog/azure-openai-security-networking-identity-compliance",
+      "summary": "Every new Azure OpenAI resource ships with API keys enabled and a public endpoint. This tutorial walks the four layers that close that gap, then hands you an audit script that proves each control is actually on.",
+      "published": "2026-07-25T16:00:49+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "OpenAI",
+        "Azure",
+        "Private Endpoint",
+        "AI Security",
+        "DevSecOps",
+        "Azure Cloud",
+        "Azure OpenAI",
+        "Cloud security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "5 steps to build great service architecture and operational resilience",
+      "link": "https://thenewstack.io/build-resilient-service-architecture",
+      "summary": "When operations teams get an alert, three questions need to be answered before any action can take place:  Without a The post 5 steps to build great service architecture and operational resilience appeared first on The New Stack .",
+      "published": "2026-07-25T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Debora Cambe",
+      "categories": [
+        "AI Operations",
+        "DevOps",
+        "Operations",
+        "sponsor-pagerduty",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Helm Interview Questions 2026: Real Answers and Commands",
+      "link": "https://kodekloud.com/blog/helm-interview-questions",
+      "summary": "30 real Helm interview questions with senior-level answers, real helm command output, and the Tiller, storage, and Helm 4 traps explained.",
+      "published": "2026-07-25T15:06:07+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "Helm",
+        "interview questions"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How routing keys isolate Kafka consumer tests on a shared broker",
+      "link": "https://thenewstack.io/isolate-kafka-consumer-tests",
+      "summary": "A change to a service that consumes from Kafka is not validated until it has run against the real system: The post How routing keys isolate Kafka consumer tests on a shared broker appeared first on The New Stack .",
+      "published": "2026-07-25T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Arjun Iyer",
+      "categories": [
+        "Data Streaming",
+        "Developer tools",
+        "Software Testing",
+        "sponsor-signadot",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Microsoft, Nvidia, Meta and 22 others defended open weights. Anthropic and OpenAI didn’t sign.",
+      "link": "https://thenewstack.io/microsoft-nvidia-meta-and-open-weights",
+      "summary": "The fight over open-weight AI entered a new round over the last week. On July 22, White House officials accused The post Microsoft, Nvidia, Meta and 22 others defended open weights. Anthropic and OpenAI didn’t sign. appeared first on The New Stack .",
+      "published": "2026-07-25T10:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Matthew Burns",
+      "categories": [
+        "AI"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Opus 5 costs a third of the price — and that’s actually the problem",
       "link": "https://thenewstack.io/opus-5-agentic-coding-cost",
@@ -4277,204 +4371,6 @@
       "categories": [
         "interview questions",
         "DevOps"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Public cloud vs. on-prem: Summit on where each workload belongs",
-      "link": "https://thenewstack.io/cloud-costs-private-repatriation",
-      "summary": "We’re more than 20 years past the launch of AWS, the starter gun for the shift of compute and storage The post Public cloud vs. on-prem: Summit on where each workload belongs appeared first on The New Stack .",
-      "published": "2026-06-26T00:09:24+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Alex Wilhelm",
-      "categories": [
-        "AI",
-        "AI Infrastructure",
-        "Cloud Services",
-        "FinOps",
-        "Podcast",
-        "sponsor-summit",
-        "sponsored-podcast",
-        "Video"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Introducing the Cluster API plugin for Headlamp",
-      "link": "https://kubernetes.io/blog/2026/06/25/headlamp-cluster-api-plugin",
-      "summary": "Headlamp is an open-source, extensible Kubernetes SIG UI\nproject designed to let you explore, manage, and debug cluster resources directly\nfrom a browser. Cluster API (CAPI) is a Kubernetes sub-project\nthat brings declarative, Kubernetes-style APIs to cluster lifecycle management. It\nlets platform...",
-      "published": "2026-06-25T22:00:00+00:00",
-      "source": "Kubernetes Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Inspect Volcano workloads faster with Headlamp",
-      "link": "https://kubernetes.io/blog/2026/06/25/visual-context-volcano-headlamp-plugin",
-      "summary": "Volcano is a cloud native batch scheduler for Kubernetes, built for high-performance computing, AI/ML, and other batch workloads. Headlamp is an extensible Kubernetes web UI. With its plugin system, Headlamp can surface APIs and workflows beyond the built-in Kubernetes resources. The Volcano plugin...",
-      "published": "2026-06-25T20:00:00+00:00",
-      "source": "Kubernetes Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "AI Interview Questions 2026: ML Foundations to LLMs",
-      "link": "https://kodekloud.com/blog/ai-interview-questions",
-      "summary": "30 real AI interview questions with senior-level answers across ML fundamentals, LLMs, RAG, embeddings, and prompt engineering.",
-      "published": "2026-06-25T18:25:44+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "interview questions",
-        "AI"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "DevOps Live Stream with Abhishek | June 25th",
-      "link": "https://www.youtube.com/watch?v=AdUcOXF5Ltg",
-      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
-      "published": "2026-06-25T18:22:19+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/AdUcOXF5Ltg/mqdefault.jpg"
-    },
-    {
-      "title": "See your serverless: introducing the Headlamp plugin for Knative",
-      "link": "https://kubernetes.io/blog/2026/06/25/headlamp-knative-plugin",
-      "summary": "Headlamp is an open-source, extensible Kubernetes SIG UI project designed to let you explore, manage, and debug cluster resources. Knative brings serverless workloads to Kubernetes, handling traffic routing, autoscaling, and revision management so teams can deploy and iterate without fighting...",
-      "published": "2026-06-25T18:00:00+00:00",
-      "source": "Kubernetes Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "“Code should be regenerated, not maintained”: Codeplain makes the case for spec-driven development",
-      "link": "https://thenewstack.io/codeplain-spec-driven-regenerative-code",
-      "summary": "AI is generating code faster than teams can review it. The answer, a small but growing number of developers argue, The post “Code should be regenerated, not maintained”: Codeplain makes the case for spec-driven development appeared first on The New Stack .",
-      "published": "2026-06-25T17:47:19+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Engineering",
-        "Developer tools",
-        "Vibe Coding"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Trust in Rust: Foundation debuts official training to tackle steep learning curve",
-      "link": "https://thenewstack.io/rust-foundation-training-certification",
-      "summary": "The Rust Foundation on Thursday announced the launch of the Rust Foundation Trusted Training (RFTT) program, a new formal accreditation The post Trust in Rust: Foundation debuts official training to tackle steep learning curve appeared first on The New Stack .",
-      "published": "2026-06-25T16:30:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Darryl K. Taft",
-      "categories": [
-        "Programming Languages",
-        "Rust",
-        "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Template-based data extraction is dead. Here’s what comes next.",
-      "link": "https://thenewstack.io/amazon-bedrock-data-automation",
-      "summary": "Modern businesses are in a constant, uphill battle against what to do with unstructured data: PDFs, contracts, scanned images, customer The post Template-based data extraction is dead. Here’s what comes next. appeared first on The New Stack .",
-      "published": "2026-06-25T16:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Hafiz Hassan",
-      "categories": [
-        "AI Infrastructure",
-        "Cloud Services",
-        "Data",
-        "sponsor-andela",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How we cut AI costs by 80%",
-      "link": "https://thenewstack.io/how-cut-ai-costs",
-      "summary": "AI costs are rising, and not for the reason most people assume. It’s true that the models are getting more The post How we cut AI costs by 80% appeared first on The New Stack .",
-      "published": "2026-06-25T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Zohar Einy",
-      "categories": [
-        "AI Agents",
-        "Model Context Protocol (MCP)",
-        "Platform Engineering",
-        "sponsor-port",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Agent Toolkit for AWS includes 20+ agent skills, but your agent might not load them without this one file",
-      "link": "https://thenewstack.io/aws-agent-toolkit-rules-file",
-      "summary": "If you’re like me, sometimes you get so excited to try something new that you don’t read the docs all The post Agent Toolkit for AWS includes 20+ agent skills, but your agent might not load them without this one file appeared first on The New Stack .",
-      "published": "2026-06-25T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Esin Saribudak",
-      "categories": [
-        "AI Agents",
-        "Cloud Services",
-        "Developer tools",
-        "sponsor-aws-marketplace",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Building a Cluster-Aware AI Agent with Kubernetes, Argo CD, and GitOps",
-      "link": "https://www.cncf.io/blog/2026/06/25/building-a-cluster-aware-ai-agent-with-kubernetes-argo-cd-and-gitops",
-      "summary": "A practical walkthrough of running a self-hosted, read-only AI agent inside a Kubernetes cluster, with the full CI/CD chain handled by GitHub Actions and Argo CD Image Updater. No data leaves the cluster, no cloud AI...",
-      "published": "2026-06-25T11:25:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Maryam Tavakkoli (CNCF Ambassador | Lead Cloud Engineer @ RELEX Solutions)",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "A Better Way to View Logs in Kudu for Azure App Service on Linux",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/a-better-way-to-view-logs-in-kudu-for-azure-app-service-on-linux/ba-p/4530934",
-      "summary": "Logs are often the fastest way to understand what is happening inside your application. Whether you are investigating startup behavior, runtime errors, failed requests, dependency issues, or unexpected application behavior, having the right log view can make troubleshooting much easier. To make...",
-      "published": "2026-06-25T09:46:14+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "TulikaC",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Git Interview Questions 2026: Real Answers and Commands",
-      "link": "https://kodekloud.com/blog/git-interview-questions",
-      "summary": "30 real Git interview questions with senior-level answers, real command output (status, conflicts, reflog), and what each one is testing.",
-      "published": "2026-06-25T09:18:26+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "interview questions",
-        "Git"
       ],
       "thumbnail": ""
     }
