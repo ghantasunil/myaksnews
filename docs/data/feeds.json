@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-07-26T08:10:15.902272+00:00",
-    "total_items": 300,
+    "generated_at": "2026-07-27T09:33:54.215566+00:00",
+    "total_items": 294,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -21,6 +21,114 @@
     ]
   },
   "items": [
+    {
+      "title": "Nvidia, Palantir, Hugging Face join 30 others in race to defend open-weight AI from cyber threats",
+      "link": "https://thenewstack.io/open-secure-ai-alliance",
+      "summary": "The current maelstrom of discussion surrounding the use of open-source software and open-weight AI models appears to be splitting opinion The post Nvidia, Palantir, Hugging Face join 30 others in race to defend open-weight AI from cyber threats appeared first on The New Stack .",
+      "published": "2026-07-27T09:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI",
+        "AI Infrastructure",
+        "Open Source",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Building AI Agents That Manage Kubernetes",
+      "link": "https://kodekloud.com/blog/building-ai-agents-that-manage-kubernetes",
+      "summary": "Build a supervised AI agent that manages Kubernetes: an LLM in a kubectl tool loop with real guardrails. Full hands-on tutorial, live output.",
+      "published": "2026-07-27T05:00:53+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "AI",
+        "Kubernetes"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Multi Agent Systems for Platform Engineering, Patterns and Architecture",
+      "link": "https://kodekloud.com/blog/multi-agent-systems-platform-engineering-patterns",
+      "summary": "Studies of real agent systems put failure rates between 41 and 86 percent, and almost none of it is the model's fault. Here are the patterns that hold up for platform work, and the discipline that decides whether yours does.",
+      "published": "2026-07-26T16:16:42+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "AI Agents",
+        "Platform Engineering",
+        "Multi Agent Systems",
+        "DevOps",
+        "Langgraph",
+        "Kubernetes",
+        "Automation",
+        "mcp"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "MCP’s biggest update removes the machinery many servers were built around",
+      "link": "https://thenewstack.io/mcp-release-candidate-rewrite",
+      "summary": "The biggest update to the Model Context Protocol (MCP) since its launch is almost here. Lead maintainers froze the release The post MCP’s biggest update removes the machinery many servers were built around appeared first on The New Stack .",
+      "published": "2026-07-26T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Janakiram MSV",
+      "categories": [
+        "API Management",
+        "Developer tools",
+        "Model Context Protocol"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "This is how I learned AI as a DevOps Engineer | Step by Step Guide",
+      "link": "https://www.youtube.com/watch?v=ltDlAgEn59U",
+      "summary": "Join our Discord for Career...",
+      "published": "2026-07-26T15:30:09+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/ltDlAgEn59U/mqdefault.jpg"
+    },
+    {
+      "title": "Microsoft and Google DeepMind agree on AI control — but not on who holds it",
+      "link": "https://thenewstack.io/nadella-hassabis-ai-frameworks",
+      "summary": "Over two days this month, two of the most credible people in the industry published framework manifestos on X. Microsoft The post Microsoft and Google DeepMind agree on AI control — but not on who holds it appeared first on The New Stack .",
+      "published": "2026-07-26T15:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Janakiram MSV",
+      "categories": [
+        "AI Infrastructure",
+        "AI Strategy",
+        "Compliance"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "5 ways SRE AI agents are set to augment human capabilities",
+      "link": "https://thenewstack.io/sre-ai-agents-capabilities",
+      "summary": "In digital operations management, AI agents give organizations a competitive edge by reducing incident volume and accelerating recovery. The potential The post 5 ways SRE AI agents are set to augment human capabilities appeared first on The New Stack .",
+      "published": "2026-07-26T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Mandi Walls",
+      "categories": [
+        "AI Agents",
+        "AI Operations",
+        "DevOps",
+        "sponsor-pagerduty",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Stop correcting AI code. Build the system agents need.",
       "link": "https://thenewstack.io/stop-correcting-ai-code-build-the-system-agents-need",
@@ -4189,188 +4297,6 @@
         "AI Engineering",
         "API Management",
         "Vibe Coding"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Azure Update 26th June 2026",
-      "link": "https://www.youtube.com/watch?v=aSGmp859GSA",
-      "summary": "REALLY quick update!\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation queue never to be seen...",
-      "published": "2026-06-26T19:43:59+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/aSGmp859GSA/mqdefault.jpg"
-    },
-    {
-      "title": "After Fable 5 ban, Anthropic and 19 organizations launch open source security body",
-      "link": "https://thenewstack.io/akrites-open-source-vulnerability-coordination",
-      "summary": "The arrival of frontier AI models capable of scanning major open-source projects and surfacing multiple vulnerabilities in a single pass The post After Fable 5 ban, Anthropic and 19 organizations launch open source security body appeared first on The New Stack .",
-      "published": "2026-06-26T18:36:35+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "Open Source",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The US government just told OpenAI who’s allowed to use the next GPT 5.6 model",
-      "link": "https://thenewstack.io/openai-gpt56-access-restricted",
-      "summary": "The release of leading AI foundation model technologies has reached a watershed moment. Just two weeks after Anthropic received a directive The post The US government just told OpenAI who’s allowed to use the next GPT 5.6 model appeared first on The New Stack .",
-      "published": "2026-06-26T18:26:50+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI",
-        "AI Models",
-        "AI Strategy",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Building an AI Agent for Infrastructure Automation Using Go",
-      "link": "https://kodekloud.com/blog/building-an-ai-agent-for-infrastructure-automation-using-go",
-      "summary": "Gartner's Predicts 2026 research places AI agents at the core of IT infrastructure and operations, even though only 17 percent of organizations have deployed one so far. The distance between that ambition and that reality is an engineering problem, not a model problem. An agent that operates real",
-      "published": "2026-06-26T18:20:11+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Open source maintainership in the age of AI",
-      "link": "https://kubernetes.io/blog/2026/06/26/open-source-maintainership-in-the-age-of-ai",
-      "summary": "AI has really changed the game around software development.\nMore people are leveraging AI than ever to contribute patches to projects they use.\nTo me, this is a good thing as more folks will contribute patches rather than fork or not fix them.\nThe main problem is that AI has made generating code...",
-      "published": "2026-06-26T18:00:00+00:00",
-      "source": "Kubernetes Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "AWS, Microsoft, and Google agree the session is the new unit of compute. They disagree on how to isolate it.",
-      "link": "https://thenewstack.io/agent-session-aware-runtime",
-      "summary": "Over the past few months, four AI giants quietly rebuilt the same thing at once: AWS, Microsoft, Google, and Anthropic The post AWS, Microsoft, and Google agree the session is the new unit of compute. They disagree on how to isolate it. appeared first on The New Stack .",
-      "published": "2026-06-26T14:11:18+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Janakiram MSV",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Cloud Services"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Your engineering org needs an AI slop registry",
-      "link": "https://thenewstack.io/engineering-ai-slop-registry",
-      "summary": "AI coding tools don’t just help engineers write code faster. They help engineers make the same mistake faster, at scale, The post Your engineering org needs an AI slop registry appeared first on The New Stack .",
-      "published": "2026-06-26T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Ankit Jain",
-      "categories": [
-        "AI Engineering",
-        "Developer tools",
-        "Software Development",
-        "sponsor-aviator",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Shopify taught AI to spot duplicate products. Here’s why retailers are scrambling.",
-      "link": "https://thenewstack.io/shopify-catalog-agent-discovery",
-      "summary": "Retailers are rushing to make their product listings discoverable by AI shopping agents, but AI assistants often struggle to determine The post Shopify taught AI to spot duplicate products. Here’s why retailers are scrambling. appeared first on The New Stack .",
-      "published": "2026-06-26T13:52:28+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Suman Bhattacharyya",
-      "categories": [
-        "AI Agents",
-        "AI Strategy",
-        "Data"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Programming Interview Questions 2026: Concepts and Code",
-      "link": "https://kodekloud.com/blog/programming-interview-questions",
-      "summary": "30 real programming interview questions with senior-level answers on Big-O, data structures, OOP, recursion, and coding, with real Python output.",
-      "published": "2026-06-26T13:26:39+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "interview questions",
-        "Programming"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The AI agent identity problem nobody’s talking about",
-      "link": "https://thenewstack.io/agent-workload-identity-authentication",
-      "summary": "Many agentic projects can sail through development just fine. Then they hit security review — and that’s where things can The post The AI agent identity problem nobody’s talking about appeared first on The New Stack .",
-      "published": "2026-06-26T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jackson Connell",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Security",
-        "sponsor-ibm",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Security Profiles Operator v1: Stable APIs, Security Hardened, and Shaping Upstream Kubernetes",
-      "link": "https://www.cncf.io/blog/2026/06/26/security-profiles-operator-v1-stable-apis-security-hardened-and-shaping-upstream-kubernetes",
-      "summary": "Linux provides powerful kernel-level security mechanisms, seccomp, SELinux, and AppArmor, that restrict what containerized workloads can do. Each uses profiles that define permitted behavior, but writing, distributing, and maintaining those profiles by hand is tedious and...",
-      "published": "2026-06-26T11:30:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Sascha Grunert (Red Hat)",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Securing CI/CD for an open source project, part 3: Credentials, verification, and what’s next",
-      "link": "https://www.cncf.io/blog/2026/06/26/securing-ci-cd-for-an-open-source-project-part-3-credentials-verification-and-whats-next",
-      "summary": "This is the third and final post in a series on how Cilium hardens its CI/CD pipeline. Part 1 covered access control and Part 2 covered dependency hardening. This post covers the last layer: keeping CI...",
-      "published": "2026-06-26T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "André Martins (Cilium maintainer and Software Engineer, Isovalent at Cisco) and Feroz Salam (Cilium Security Team and Security Engineer, Isovalent at Cisco)",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "DevOps Interview Questions 2026: A Practical Prep Guide",
-      "link": "https://kodekloud.com/blog/devops-interview-questions",
-      "summary": "30 real DevOps interview questions with senior-level answers, real Git and Terraform output, and what each one is testing.",
-      "published": "2026-06-26T10:57:58+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "interview questions",
-        "DevOps"
       ],
       "thumbnail": ""
     }
