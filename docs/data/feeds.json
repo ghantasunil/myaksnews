@@ -1,10 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-07-27T09:33:54.215566+00:00",
-    "total_items": 294,
+    "generated_at": "2026-07-28T08:17:10.381339+00:00",
+    "total_items": 301,
     "sources": [
       "AKS (Official)",
-      "AKS Newsletter",
       "Abhishek Veeramalla",
       "Apps on Azure",
       "CNCF Blog",
@@ -21,6 +20,182 @@
     ]
   },
   "items": [
+    {
+      "title": "Best AI Tools for DevOps Engineers in 2026",
+      "link": "https://kodekloud.com/blog/best-ai-tools-for-devops-engineers",
+      "summary": "AI tools worth a DevOps engineer's time, grouped by job: coding, Kubernetes diagnostics, incident response, and the terminal, plus the limits.",
+      "published": "2026-07-28T08:11:17+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "AI",
+        "DevOps"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic wants tests, not bans, as OpenAI and Google back open weights",
+      "link": "https://thenewstack.io/anthropic-wants-tests-not-bans-as-openai-and-google-back-open-weights",
+      "summary": "Anthropic does not want open-weight AI models banned. CEO Dario Amodei said so plainly today after a week of criticism. The post Anthropic wants tests, not bans, as OpenAI and Google back open weights appeared first on The New Stack .",
+      "published": "2026-07-28T00:02:25+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Matthew Burns",
+      "categories": [
+        "AI",
+        "AI Models",
+        "AI Strategy"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The 24-hour experiment that helped Anthropic find its identity",
+      "link": "https://thenewstack.io/anthropic-evals-replace-prds",
+      "summary": "If you’re building traditional software, you write the product requirements document. If you’re building frontier AI, you run an evaluation. The post The 24-hour experiment that helped Anthropic find its identity appeared first on The New Stack .",
+      "published": "2026-07-27T19:14:57+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Strategy",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Moonshot opens Kimi K3 weights — but few can run it",
+      "link": "https://thenewstack.io/kimi-k3-open-weights",
+      "summary": "Moonshot AI has released the open weights for Kimi K3 on Hugging Face, giving developers access to one of the The post Moonshot opens Kimi K3 weights — but few can run it appeared first on The New Stack .",
+      "published": "2026-07-27T19:10:17+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Infrastructure",
+        "AI Models",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How to Build a Kubernetes Troubleshooting AI Agent with LangChain and kubectl",
+      "link": "https://kodekloud.com/blog/kubernetes-troubleshooting-ai-agent-langchain-kubectl",
+      "summary": "Most pod failures resolve into six root causes, and the investigation is identical every time. Here is how to build an agent that runs that investigation for you, with a hard boundary between reading a cluster and changing one.",
+      "published": "2026-07-27T17:26:08+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "Kubernetes",
+        "AI",
+        "Python",
+        "Langgraph",
+        "Automation",
+        "AI Agents",
+        "Kubectl",
+        "DevOps"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Rayfin and Fabric Apps Overview",
+      "link": "https://www.youtube.com/watch?v=TEKN0gcH9Gg",
+      "summary": "Quick overview of Rayfin and Fabric Apps.\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:10 - The challenge today\n03:12 - Rayfin\n05:09 - Data model\n10:05 - App hosting\n14:57 - Demo\n19:28 - Key focus points\n20:07 - PowerBI and vibe coding\n21:25 - Summary\n21:49 - Close\n\n▬▬▬▬▬▬  K E Y   L...",
+      "published": "2026-07-27T17:22:54+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/TEKN0gcH9Gg/mqdefault.jpg"
+    },
+    {
+      "title": "Microsoft is racing to make OpenAI optional",
+      "link": "https://thenewstack.io/microsoft-homegrown-ai-models",
+      "summary": "AI is changing the technology game so quickly that Microsoft CEO Satya Nadella can’t stop long-posting on Twitter. Microsoft has The post Microsoft is racing to make OpenAI optional appeared first on The New Stack .",
+      "published": "2026-07-27T16:24:08+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Alex Wilhelm",
+      "categories": [
+        "AI Models",
+        "AI Strategy",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“Developers see this as the future”:  Pilot Protocol launches to power the agent economy",
+      "link": "https://thenewstack.io/pilot-protocol-agent-economy",
+      "summary": "When we created software agents, we built them in the shape of humans, as solitary individuals.  Today, agents created by The post “Developers see this as the future”:  Pilot Protocol launches to power the agent economy appeared first on The New Stack .",
+      "published": "2026-07-27T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "Emerging technologies"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Cloudflare open-sources a debugger for privacy protocols used by Apple and Microsoft, with AI agents in mind",
+      "link": "https://thenewstack.io/cloudflare-pvcli-privacy-debugger-agents",
+      "summary": "Every time you use a privacy service like Apple’s iCloud Private Relay, you’re trusting a system designed so that no The post Cloudflare open-sources a debugger for privacy protocols used by Apple and Microsoft, with AI agents in mind appeared first on The New Stack .",
+      "published": "2026-07-27T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Open Source",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Dynatrace’s new agents can reveal the single hardest part of AI operations",
+      "link": "https://thenewstack.io/dynatrace-autonomous-sre-agents",
+      "summary": "Observability platform company Dynatrace announced a set of advancements to its Dynatrace Intelligence service on Monday that aim to take The post Dynatrace’s new agents can reveal the single hardest part of AI operations appeared first on The New Stack .",
+      "published": "2026-07-27T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Operations",
+        "Observability"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Federating clusters for zero-downtime Kubernetes",
+      "link": "https://www.cncf.io/blog/2026/07/27/federating-clusters-for-zero-downtime-kubernetes",
+      "summary": "Every multi-region setup eventually meets the same awkward moment: a whole cluster goes away, and the identical copy of your service running two regions over might as well not exist, because nothing is wired to treat...",
+      "published": "2026-07-27T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Dominik Táskai, CNCF Ambassador and Linkerd Contributor",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How to Learn AWS, GCP & Azure for FREE Without Getting a Surprise Bill in 2026",
+      "link": "https://www.youtube.com/watch?v=qY_fSbScFOs",
+      "summary": "An empty S3 bucket cost one developer $1,300 in 2 days. A startup was billed $72,000 overnight from an infinite loop. The problem isn't that cloud computing is expensive—it’s that nobody shows you the BRAKES before handing you the car.\n\nIn this video, I break down how to learn AWS, Google Cloud,...",
+      "published": "2026-07-27T10:57:41+00:00",
+      "source": "Piyush Sachdeva",
+      "type": "video",
+      "author": "Tech Tutorials with Piyush",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/qY_fSbScFOs/mqdefault.jpg"
+    },
     {
       "title": "Nvidia, Palantir, Hugging Face join 30 others in race to defend open-weight AI from cyber threats",
       "link": "https://thenewstack.io/open-secure-ai-alliance",
@@ -4226,77 +4401,6 @@
         "AI Infrastructure",
         "Compliance",
         "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AKS Newsletter – June 2026",
-      "link": "https://aksnewsletter.com/2026/2026-06.html",
-      "summary": "84 curated items covering documentation updates, feature announcements, community blogs, and more.",
-      "published": "2026-06-28T00:00:00+00:00",
-      "source": "AKS Newsletter",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Azure Interview Questions 2026: Services and Scenarios",
-      "link": "https://kodekloud.com/blog/azure-interview-questions",
-      "summary": "30 real Azure interview questions with senior-level answers on compute, storage, networking, identity, governance, and design scenarios.",
-      "published": "2026-06-27T17:39:34+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "interview questions",
-        "Azure"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Cloud Interview Questions 2026: Concepts That Transfer",
-      "link": "https://kodekloud.com/blog/cloud-interview-questions",
-      "summary": "30 real cloud interview questions with senior-level answers on cloud models, shared responsibility, scaling, storage, HA, and security.",
-      "published": "2026-06-27T17:33:48+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "interview questions",
-        "Cloud"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Greptile, Cursor, and Devin agree that agents should run their code. What they run it against matters.",
-      "link": "https://thenewstack.io/runtime-verification-coding-agents",
-      "summary": "The industry has recognized that shipping agent code at scale requires runtime verification, and it is moving that way fast. The post Greptile, Cursor, and Devin agree that agents should run their code. What they run it against matters. appeared first on The New Stack .",
-      "published": "2026-06-27T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Arjun Iyer",
-      "categories": [
-        "AI Agents",
-        "Cloud Native Ecosystem",
-        "Software Testing",
-        "sponsor-signadot",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Vibe slop is the symptom. Context debt is the disease.",
-      "link": "https://thenewstack.io/vibe-coding-context-debt",
-      "summary": "Some of the engineers who made vibe coding possible have decided it’s a problem. Last month, The Wall Street Journal’s The post Vibe slop is the symptom. Context debt is the disease. appeared first on The New Stack .",
-      "published": "2026-06-27T10:30:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Matt Burns",
-      "categories": [
-        "AI Engineering",
-        "API Management",
-        "Vibe Coding"
       ],
       "thumbnail": ""
     }
