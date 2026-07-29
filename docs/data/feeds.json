@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-07-28T08:17:10.381339+00:00",
-    "total_items": 301,
+    "generated_at": "2026-07-29T08:23:04.847935+00:00",
+    "total_items": 311,
     "sources": [
       "AKS (Official)",
       "Abhishek Veeramalla",
@@ -20,6 +20,225 @@
     ]
   },
   "items": [
+    {
+      "title": "CNCF and SlashData Report Finds Japan’s Cloud Native Community Reaches Nearly 1 Million Developers",
+      "link": "https://www.cncf.io/announcements/2026/07/28/cncf-and-slashdata-report-finds-japans-cloud-native-community-reaches-nearly-1-million-developers",
+      "summary": "New research finds 100,000 of Japan’s AI developers now leverage cloud native technologies Key Highlights: YOKOHAMA – KubeCon + CloudNativeCon Japan —July 29, 2026— The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for cloud...",
+      "published": "2026-07-29T00:30:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Haley White",
+      "categories": [
+        "Announcements"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Subaru Wins CNCF End User Case Study Contest for Accelerating AI Development with Cloud Native Infrastructure",
+      "link": "https://www.cncf.io/announcements/2026/07/28/subaru-wins-cncf-end-user-case-study-contest-for-accelerating-ai-development-with-cloud-native-infrastructure",
+      "summary": "New architecture reduced AI container image pull times by 60x while automating workflows for next-generation driver assistance systems Key Highlights YOKOHAMA – KUBECON + CLOUDNATIVECON JAPAN — July 29, 2026 — The Cloud Native Computing Foundation®...",
+      "published": "2026-07-29T00:30:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Haley White",
+      "categories": [
+        "Announcements"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Lima v2.2: Windows guests and TPM 2.0 emulation",
+      "link": "https://www.cncf.io/blog/2026/07/28/lima-v2-2-windows-guests-and-tpm-2-0-emulation",
+      "summary": "Following macOS and FreeBSD guests in v2.1, Lima v2.2 takes the next big step: Windows guest support. With this release, a single `limactl` workflow can now boot Linux, macOS, FreeBSD  and Windows virtual machines. Lima v2.2...",
+      "published": "2026-07-29T00:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Ansuman Sahoo, Lima Project Maintainer",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Welcome CoHDI to the CNCF: Evolving Kubernetes into composable disaggregated infrastructures",
+      "link": "https://www.cncf.io/blog/2026/07/28/welcome-cohdi-to-the-cncf-evolving-kubernetes-into-composable-disaggregated-infrastructures",
+      "summary": "We are thrilled to announce that CoHDI has officially been accepted as a Cloud Native Computing Foundation (CNCF) Sandbox project! This acceptance into the CNCF Sandbox marks an important milestone in CoHDI’s journey. We would like...",
+      "published": "2026-07-29T00:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Hyde Sugiyama (Red Hat), Naoki Oguchi (FSAS Technology), Jin Hase (Fujitsu), Michele Gazzetti (IBM Research), Masaharu Kanda (NTT)",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How Japan’s 250% Training Surge is Shaping Global AI Talent",
+      "link": "https://www.cncf.io/blog/2026/07/28/how-japans-250-training-surge-is-shaping-global-ai-talent",
+      "summary": "The first KubeCon + CloudNativeCon Japan took place in Tokyo in June 2025 and kicked off a cloud native skills boom in the region. In the twelve months since the conference, Kubernetes exams taken in Japan...",
+      "published": "2026-07-28T23:28:55+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Christophe Sauthier, CNCF",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubeflow unveils new cloud native innovations to supercharge AI",
+      "link": "https://www.cncf.io/blog/2026/07/28/kubeflow-unveils-new-cloud-native-innovations-to-supercharge-ai",
+      "summary": "The Kubeflow news coming out of Kubecon + CloudNativeCon Japan 2026 highlights several significant advancements and community initiatives.  The Kubeflow project is rapidly advancing toward CNCF Graduation, emphasizing its evolution into a mature, production-ready ML ecosystem....",
+      "published": "2026-07-28T23:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Kubeflow",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Jensen Huang says AI agents could drive a 5-10x computing boom: “100 billion agents and billions of robots”",
+      "link": "https://thenewstack.io/huang-semiconductor-tenfold-ai-agents",
+      "summary": "This week during an interview with Bloomberg, Jensen Huang made quite the prediction. The Nvidia CEO said the semiconductor industry The post Jensen Huang says AI agents could drive a 5-10x computing boom: “100 billion agents and billions of robots” appeared first on The New Stack .",
+      "published": "2026-07-28T19:46:50+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Hardware"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Using ArgoCD to Manage AI Model Deployments with GitOps",
+      "link": "https://kodekloud.com/blog/argocd-gitops-ai-model-deployments",
+      "summary": "Your microservices deploy through pull requests with full audit trails. Your models deploy because someone ran a script. Here is how to close that gap with ArgoCD, and what changes when the artifact weighs four gigabytes.",
+      "published": "2026-07-28T18:24:57+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "ArgoCD",
+        "GitOps",
+        "MLOps",
+        "AI Models",
+        "KServe",
+        "DevOps",
+        "CI/CD",
+        "ML Model Deployment",
+        "Automation",
+        "Kubernetes"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Sam Altman on model distillation: “This is not in my top ten list of worries”",
+      "link": "https://thenewstack.io/altman-security-distillation-scale",
+      "summary": "Sam Altman’s latest appearance on Patrick O’Shaughnessy’s Invest Like the Best podcast covered everything from AGI and robotics to the The post Sam Altman on model distillation: “This is not in my top ten list of worries” appeared first on The New Stack .",
+      "published": "2026-07-28T18:15:57+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI",
+        "Large Language Models",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kimi K3 just shocked the AI world | Better than Fable and 4 times Cheaper",
+      "link": "https://www.youtube.com/watch?v=8I3yFto_9Uo",
+      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nKimi K3 Explained – Complete Guide\n\nIn this video, you'll learn everything about Kimi K3, including what it is, why it's trending, and whether the hype is justified. I compare Kimi K3 vs Claude Opus 5 vs Fable, analyze...",
+      "published": "2026-07-28T17:04:43+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/8I3yFto_9Uo/mqdefault.jpg"
+    },
+    {
+      "title": "CNCF Announces Schedule for Debut Observability Summit Europe",
+      "link": "https://www.cncf.io/announcements/2026/07/28/cncf-announces-schedule-for-debut-observability-summit-europe",
+      "summary": "Summit gathers practitioners, contributors and engineers to advance open observability standards and practices Key Highlights SAN FRANCISCO, July 28, 2026—The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for cloud native software, today announced the...",
+      "published": "2026-07-28T16:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "kthornhill",
+      "categories": [
+        "Announcements"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Mate Security bets a context-first AI architecture can reinvent the SOC as it lands $35M Series A",
+      "link": "https://thenewstack.io/mate-security-context-graph",
+      "summary": "Every major security vendor now has an AI copilot, but Mate Security thinks they’re solving the wrong problem. The Tel The post Mate Security bets a context-first AI architecture can reinvent the SOC as it lands $35M Series A appeared first on The New Stack .",
+      "published": "2026-07-28T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Carly Page",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Diagrid gives failed AI agents a way to resume",
+      "link": "https://thenewstack.io/diagrid-catalyst-agent-recovery",
+      "summary": "AI agents can impress in a demo and still fumble in production. Diagrid’s Catalyst 2.0 aims to make them more The post Diagrid gives failed AI agents a way to resume appeared first on The New Stack .",
+      "published": "2026-07-28T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "Compliance"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "When vendor-supplied support matters: How AI is changing the open source security equation",
+      "link": "https://thenewstack.io/ai-open-source-security",
+      "summary": "Every enterprise runs on open source, but keeping it secure has become significantly harder. Frontier AI models are uncovering vulnerabilities The post When vendor-supplied support matters: How AI is changing the open source security equation appeared first on The New Stack .",
+      "published": "2026-07-28T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Carly Page",
+      "categories": [
+        "DevOps",
+        "Open Source",
+        "Security",
+        "sponsor-vmware-tanzu",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“There is a sell-by date on low-code, no-code”: What Tines thinks comes next",
+      "link": "https://thenewstack.io/tines-ai-workflow-governance",
+      "summary": "After eight years of building a no-code automation platform, Tines launched 3B Tuesday, a new platform that uses AI to The post “There is a sell-by date on low-code, no-code”: What Tines thinks comes next appeared first on The New Stack .",
+      "published": "2026-07-28T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Low Code / No Code",
+        "Vibe Coding"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Best AI Tools for DevOps Engineers in 2026",
       "link": "https://kodekloud.com/blog/best-ai-tools-for-devops-engineers",
@@ -4331,76 +4550,6 @@
       "author": "Andrey Kolkov and Andrei Kvapil, Ænix",
       "categories": [
         "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Best Docker Certifications for DevOps Engineers in 2026",
-      "link": "https://kodekloud.com/blog/docker-certification",
-      "summary": "Is the Docker Certified Associate still worth it in 2026? The DCA exam format, cost, and how it compares to Kubernetes certs for DevOps engineers",
-      "published": "2026-06-29T04:27:47+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "Certification",
-        "Docker"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kubernetes Certifications 2026: A Complete Guide",
-      "link": "https://kodekloud.com/blog/kubernetes-certification",
-      "summary": "Compare KCNA, KCSA, CKAD, CKA, and CKS: exam format, cost, passing score, validity, and which Kubernetes certification to take first in 2026.",
-      "published": "2026-06-28T17:17:41+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "Certification",
-        "Kubernetes"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "This AI platform feels Illegal | Prompt to Production with Zero coding.",
-      "link": "https://www.youtube.com/watch?v=AD8yzjBXVww",
-      "summary": "Get upto FREE $10,000 AI credits(New Enterprise customers who sign by September 30)\n- https://fandf.co/44bvr0L\n\nRetool AI-native builder helps you extend, customize, and connect 100+ components to ship production-ready apps. It provides a governed environment where applications can inherit access...",
-      "published": "2026-06-28T16:00:54+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/AD8yzjBXVww/mqdefault.jpg"
-    },
-    {
-      "title": "“Bring it to our shop”: Workday’s pitch for keeping AI agents close to your most valuable data",
-      "link": "https://thenewstack.io/workday-ai-inference-guardrails",
-      "summary": "Workday, the payroll and HR data platform, has been pursuing AI and agents for a while, but while other businesses The post “Bring it to our shop”: Workday’s pitch for keeping AI agents close to your most valuable data appeared first on The New Stack .",
-      "published": "2026-06-28T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Model Context Protocol (MCP)"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Okta is the first to bring AI agent governance inside FedRAMP boundaries",
-      "link": "https://thenewstack.io/okta-ai-agents-fedramp",
-      "summary": "Okta has made its AI agent governance platform generally available for FedRAMP- and HIPAA-regulated environments, becoming what it claims is the first independent The post Okta is the first to bring AI agent governance inside FedRAMP boundaries appeared first on The New Stack .",
-      "published": "2026-06-28T13:49:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Darryl K. Taft",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Compliance",
-        "Security"
       ],
       "thumbnail": ""
     }
