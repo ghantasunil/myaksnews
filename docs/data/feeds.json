@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-07-29T08:23:04.847935+00:00",
-    "total_items": 311,
+    "generated_at": "2026-07-30T08:08:43.641162+00:00",
+    "total_items": 315,
     "sources": [
       "AKS (Official)",
       "Abhishek Veeramalla",
@@ -13,13 +13,253 @@
       "KodeKloud",
       "Kubernetes Blog",
       "Kubesimplify",
-      "LearnK8s",
       "Piyush Sachdeva",
       "Rawkode Academy",
       "The New Stack"
     ]
   },
   "items": [
+    {
+      "title": "OpenAI fixed GPT-5.6 Sol’s most frustrating flaw: Burning limits while it waits",
+      "link": "https://thenewstack.io/sol-usage-limits-reset",
+      "summary": "OpenAI introduced GPT-5.6 Sol earlier this month as a model built for more demanding coding tasks. But it didn’t take The post OpenAI fixed GPT-5.6 Sol’s most frustrating flaw: Burning limits while it waits appeared first on The New Stack .",
+      "published": "2026-07-29T18:44:41+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Models",
+        "AI Operations"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic backs urgent call for the most powerful AI labs to hit the brakes",
+      "link": "https://thenewstack.io/ai-pause-framework-letter",
+      "summary": "Less than a week after OpenAI disclosed that two experimental AI models escaped their testing environment during a cybersecurity exercise The post Anthropic backs urgent call for the most powerful AI labs to hit the brakes appeared first on The New Stack .",
+      "published": "2026-07-29T18:41:26+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“The beast needs a cage”: Why PortSwigger’s agentic pentesting is kept safe behind bars",
+      "link": "https://thenewstack.io/burp-agentic-pentesting-control-layer",
+      "summary": "As agentic services diversify across the entire enterprise technology stack, the rise of agentic coding tools is being challenged by The post “The beast needs a cage”: Why PortSwigger’s agentic pentesting is kept safe behind bars appeared first on The New Stack .",
+      "published": "2026-07-29T18:34:54+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Agents",
+        "Security",
+        "Software Testing"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI, Anthropic, and Cursor all localized pricing for India. Only two focused on value.",
+      "link": "https://thenewstack.io/cursor-anthropic-openai-india-pricing",
+      "summary": "Cursor is the latest AI company to target India with localized pricing, announcing on Tuesday a dedicated plan that sits The post OpenAI, Anthropic, and Cursor all localized pricing for India. Only two focused on value. appeared first on The New Stack .",
+      "published": "2026-07-29T18:30:55+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Strategy",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Opus 5 vs. Fable 5: What does half the price buy?",
+      "link": "https://thenewstack.io/opus-5-vs-fable-5",
+      "summary": "Anthropic released Claude Opus 5 last week, with this pitch: It comes “close to the frontier intelligence of Claude Fable The post Opus 5 vs. Fable 5: What does half the price buy? appeared first on The New Stack .",
+      "published": "2026-07-29T18:24:08+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jessica Wachtel",
+      "categories": [
+        "AI Engineering",
+        "AI Models",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API Server",
+      "link": "https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained",
+      "summary": "Kubernetes has long been the default platform for distributed workloads, and writing your own\ncontroller for it is now a matter of a few hours. The common path — Golang, using kubebuilder on top of controller-runtime — gives you a project scaffold, types, and a reconciler. For typical\nscenarios...",
+      "published": "2026-07-29T18:00:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Bring Your Own Orchestrator to Azure Container Apps Jobs",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/bring-your-own-orchestrator-to-azure-container-apps-jobs/ba-p/4541275",
+      "summary": "Azure Container Apps Jobs are a good fit for batch processing, ETL, machine learning, reports, and other tasks that run to completion. But when those tasks have dependencies, retries, or fan-out, you still need an orchestrator. Many teams already have one. The community-maintained Bring Your Own...",
+      "published": "2026-07-29T17:49:33+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "hetvip",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Observability for AI Agents, Building Dashboards with Prometheus and Grafana",
+      "link": "https://kodekloud.com/blog/observability-ai-agents-prometheus-grafana",
+      "summary": "An agent can return HTTP 200, respond in 300 milliseconds, throw zero exceptions, and still be completely wrong. Here are the metrics and dashboards that catch that, and the label mistake that will destroy your Prometheus.",
+      "published": "2026-07-29T17:00:49+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "Prometheus",
+        "Grafana",
+        "Grafana Loki",
+        "Observability",
+        "AI Agents",
+        "Monitoring",
+        "DevOps",
+        "PromQL",
+        "OpenTelemetry"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The AI “vibe shift”: Why NanoClaw and Echo have teamed up to stop the next Hugging Face Breach",
+      "link": "https://thenewstack.io/nanoclaw-echo-agent-runtime",
+      "summary": "When he’s asked about the intensifying contest between rapidly advancing AI attackers and the software defenses meant to contain them, The post The AI “vibe shift”: Why NanoClaw and Echo have teamed up to stop the next Hugging Face Breach appeared first on The New Stack .",
+      "published": "2026-07-29T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "David Eastman",
+      "categories": [
+        "AI Agents",
+        "Open Source",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“Stateful systems are incredibly hard to build”: How Perplexity thinks about AI agent sandboxes",
+      "link": "https://thenewstack.io/perplexity-space-agent-sandboxes",
+      "summary": "Sandboxes for AI agents may feel like a solved problem. After all, projects like Firecracker, the open-source microVM technology AWS built The post “Stateful systems are incredibly hard to build”: How Perplexity thinks about AI agent sandboxes appeared first on The New Stack .",
+      "published": "2026-07-29T15:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Your team isn’t “ignoring security.” They’re just underwater.",
+      "link": "https://thenewstack.io/cloud-security-triage-cadence",
+      "summary": "A cloud security finding becomes useful only when someone decides what matters, assigns an owner, and follows it through. For The post Your team isn’t “ignoring security.” They’re just underwater. appeared first on The New Stack .",
+      "published": "2026-07-29T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Megan Carnegie",
+      "categories": [
+        "Cloud Services",
+        "DevOps",
+        "Security",
+        "sponsor-i-o-mergent",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Turning 10x developers into 10x value",
+      "link": "https://thenewstack.io/building-the-10x-organization",
+      "summary": "When I sit down with leaders and ask why they’re investing in AI, the answer almost always comes back to The post Turning 10x developers into 10x value appeared first on The New Stack .",
+      "published": "2026-07-29T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Bryan Ross",
+      "categories": [
+        "AI Strategy",
+        "DevOps",
+        "Software Development",
+        "sponsor-gitlab",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kernel of truth: GPT-5.6 Sol can cut its own costs, says OpenAI",
+      "link": "https://thenewstack.io/gpt-5-6-serving-efficiency",
+      "summary": "OpenAI has detailed, in a new engineering blog post, how the GPT-5.6 model family balances capability and cost across its The post Kernel of truth: GPT-5.6 Sol can cut its own costs, says OpenAI appeared first on The New Stack .",
+      "published": "2026-07-29T13:04:39+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Janakiram MSV",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "AI Infrastructure"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Modus’s operandi: To give AI agents just the right amount of context",
+      "link": "https://thenewstack.io/modus-enterprise-context-warehouse",
+      "summary": "As more companies plug AI agents into the deepest depths of their internal data banks, how can they be sure The post Modus’s operandi: To give AI agents just the right amount of context appeared first on The New Stack .",
+      "published": "2026-07-29T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "Data"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Shipping code without human verification",
+      "link": "https://thenewstack.io/ship-code-without-verification",
+      "summary": "Agents are writing code faster than humans can review it. The answer is not “review faster”; that would be like The post Shipping code without human verification appeared first on The New Stack .",
+      "published": "2026-07-29T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jade Rubick",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Software Testing",
+        "sponsor-aviator",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Your Kubernetes health checks are accidentally waking your services. Here’s the fix.",
+      "link": "https://www.cncf.io/blog/2026/07/29/your-kubernetes-health-checks-are-accidentally-waking-your-services-heres-the-fix",
+      "summary": "Scale-to-zero breaks when health checks scale you back up. Learn how KubeElasti’s ProbeResponse lets Kubernetes services stay genuinely idle — while keeping load balancers and uptime monitors happy. Scale-to-zero sounds perfect on paper. Idle service. No...",
+      "published": "2026-07-29T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "KubeElasti Maintainers",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "CNCF and SlashData Report Finds Japan’s Cloud Native Community Reaches Nearly 1 Million Developers",
       "link": "https://www.cncf.io/announcements/2026/07/28/cncf-and-slashdata-report-finds-japans-cloud-native-community-reaches-nearly-1-million-developers",
@@ -4381,173 +4621,6 @@
       "source": "CNCF Blog",
       "type": "article",
       "author": "Gaius Qi, Dragonfly Maintainer",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "IdentityServer4 is dead. Here’s what comes next.",
-      "link": "https://thenewstack.io/rsk-forks-open-identityserver",
-      "summary": "Developers weren’t happy when identity and access control software company Duende commercialized its open source IdentityServer product in December 2022, The post IdentityServer4 is dead. Here’s what comes next. appeared first on The New Stack .",
-      "published": "2026-06-30T08:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI",
-        "Open Source",
-        "Security",
-        "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Jenkins Certification in 2026: A Quick Guide to Getting Certified",
-      "link": "https://kodekloud.com/blog/jenkins-certification",
-      "summary": "Is the Jenkins certification still offered? The current CloudBees CJE exam format, cost, validity, and how to prepare and get certified in 2026.",
-      "published": "2026-06-30T07:27:12+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "Certification",
-        "Jenkins"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Server-side apply: what happens when you run kubectl apply",
-      "link": "https://learnkube.com/server-side-apply-kubernetes",
-      "summary": "Client-side apply can silently overwrite changes made by other tools. Server-side apply moves field ownership to the API server. Here is how it works and why it matters.",
-      "published": "2026-06-30T00:00:00+00:00",
-      "source": "LearnK8s",
-      "type": "article",
-      "author": "Chiara Salvatore",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "How AI Reshapes the CKS Exam and Kubernetes Security in 2026",
-      "link": "https://kodekloud.com/blog/how-ai-reshapes-the-cks-exam-and-kubernetes-security-in-2026",
-      "summary": "Kubernetes quietly became the home of production AI, which raises the stakes on every control the CKS exam measures. Here is what changed in 2026 and how to prepare for it.",
-      "published": "2026-06-29T18:40:36+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "CKS Kubernetes",
-        "Kubernetes",
-        "Kubernetes security",
-        "CKS",
-        "DevSecOps",
-        "AI Security",
-        "Container security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Base44 bets a narrow model beats frontier AI for vibe coding",
-      "link": "https://thenewstack.io/base44-base-one-model",
-      "summary": "Base44, an AI-powered app-building platform, has launched its first proprietary AI model, dubbed Base One. It is a fine-tuned open-source The post Base44 bets a narrow model beats frontier AI for vibe coding appeared first on The New Stack .",
-      "published": "2026-06-29T18:03:44+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Darryl K. Taft",
-      "categories": [
-        "AI Models",
-        "Large Language Models",
-        "Vibe Coding"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "JetBrains kills Kotlin Notebook months after Microsoft’s Polyglot exit. But Jupyter is doing just fine.",
-      "link": "https://thenewstack.io/kotlin-notebook-jupyter-python-retreat",
-      "summary": "JetBrains, the Czech developer tools company behind the IntelliJ IDEA IDE, announced Monday that it’s sunsetting Kotlin Notebook, the interactive The post JetBrains kills Kotlin Notebook months after Microsoft’s Polyglot exit. But Jupyter is doing just fine. appeared first on The New Stack .",
-      "published": "2026-06-29T17:59:29+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "Developer tools",
-        "Open Source",
-        "Programming Languages",
-        "Python"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Palantir and Nvidia want to change who owns government AI",
-      "link": "https://thenewstack.io/palantir-nvidia-sovereign-ai",
-      "summary": "Building with AI has, until recently, meant calling up someone else’s model. But wiring an app to an API from The post Palantir and Nvidia want to change who owns government AI appeared first on The New Stack .",
-      "published": "2026-06-29T17:55:42+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Infrastructure",
-        "AI Models",
-        "AI Strategy",
-        "API Management"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The Future of DevOps Engineers explained by Abhishek",
-      "link": "https://www.youtube.com/watch?v=7FLP9fmHFU8",
-      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
-      "published": "2026-06-29T16:41:37+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/7FLP9fmHFU8/mqdefault.jpg"
-    },
-    {
-      "title": "Copilot Cowork Usage Overview",
-      "link": "https://www.youtube.com/watch?v=qXPTJDgbbPg",
-      "summary": "Overview of Copilot Cowork usage-based billing. How to estimate, plan, control and observe.\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:16 - M365 Copilot USL\n03:39 - Copilot Cowork\n07:53 - Usage based billing\n09:21 - Planning\n13:54 - Control\n19:49 - Payment\n20:30 - Observe and...",
-      "published": "2026-06-29T14:19:48+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/qXPTJDgbbPg/mqdefault.jpg"
-    },
-    {
-      "title": "Kubernetes Observability 101: Metrics, Logs, Dashboards, and Traces",
-      "link": "https://www.youtube.com/watch?v=Y6-oOr8Qot8",
-      "summary": "Modern applications generate a huge amount of telemetry, but knowing what to collect, how to collect it, and how to turn it into useful insights can be challenging. This beginner-friendly, hands-on workshop is designed for engineers who want to build a strong foundation in Kubernetes monitoring and...",
-      "published": "2026-06-29T12:17:24+00:00",
-      "source": "Kubesimplify",
-      "type": "video",
-      "author": "Kubesimplify",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/Y6-oOr8Qot8/mqdefault.jpg"
-    },
-    {
-      "title": "OTel and mesh-derived metrics: A 2026 reference",
-      "link": "https://www.cncf.io/blog/2026/06/29/otel-and-mesh-derived-metrics-a-2026-reference",
-      "summary": "If you already run an OpenTelemetry pipeline, you have good visibility into what your applications are doing. This blog post is about what you don’t see yet: the east-west traffic between your services, measured at the...",
-      "published": "2026-06-29T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Mesut Oezdil, DevOps Engineer (written on behalf of Buoyant)",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "etcd-operator joins Cozystack with a new v1alpha2 API",
-      "link": "https://www.cncf.io/blog/2026/06/29/etcd-operator-joins-cozystack-with-a-new-v1alpha2-api",
-      "summary": "The etcd-operator project, which develops an operator for deploying and maintaining etcd clusters on Kubernetes, has been donated to the Cozystack project. Alongside the donation, a from-scratch implementation of the operator has been published under a...",
-      "published": "2026-06-29T10:46:12+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Andrey Kolkov and Andrei Kvapil, Ænix",
       "categories": [
         "Blog"
       ],
