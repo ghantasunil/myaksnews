@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-07-30T08:08:43.641162+00:00",
-    "total_items": 315,
+    "generated_at": "2026-07-31T08:36:19.500341+00:00",
+    "total_items": 310,
     "sources": [
       "AKS (Official)",
       "Abhishek Veeramalla",
@@ -19,6 +19,198 @@
     ]
   },
   "items": [
+    {
+      "title": "Bash Alias Tutorial for Beginners",
+      "link": "https://kodekloud.com/blog/bash-alias-tutorial-for-beginners",
+      "summary": "Tired of typing long Linux commands? Learn how to speed up command-line sessions with Bash aliases.",
+      "published": "2026-07-31T00:30:20+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Alexandru Andrei",
+      "categories": [
+        "bash",
+        "Command Line",
+        "Linux"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Easy Ways to Check Python Version (and Package Versions)",
+      "link": "https://kodekloud.com/blog/easy-ways-to-check-python-version-and-package-versions",
+      "summary": "The easiest and fastest ways to check Python (interpreter) version and Python package versions.",
+      "published": "2026-07-31T00:28:01+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Alexandru Andrei",
+      "categories": [
+        "Python",
+        "Command Line",
+        "powershell"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why your company should (try to) build its own AI SRE",
+      "link": "https://thenewstack.io/ai-sre-root-cause-analysis",
+      "summary": "Companies ship more code today than ever, thanks to agentic coding tools. For product teams, this accelerated pace of development The post Why your company should (try to) build its own AI SRE appeared first on The New Stack .",
+      "published": "2026-07-30T20:30:56+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Nick Lucchesi",
+      "categories": [
+        "AI Agents",
+        "AI Operations",
+        "Observability",
+        "Podcast",
+        "sponsor-chronosphere",
+        "sponsored-podcast",
+        "Video"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Chinese AI competitors may have forced OpenAI’s hand on pricing",
+      "link": "https://thenewstack.io/gpt-5-6-api-price-cuts",
+      "summary": "OpenAI has lowered API prices for two GPT-5.6 models only three weeks after their launch. On Thursday, the company announced The post Chinese AI competitors may have forced OpenAI’s hand on pricing appeared first on The New Stack .",
+      "published": "2026-07-30T19:28:02+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Infrastructure",
+        "AI Models",
+        "API Management"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI-generated software is forcing yet another platform rethink",
+      "link": "https://thenewstack.io/ai-code-security-platforms",
+      "summary": "“Raise your hand if your team is actively using AI to write and review code. Now keep it up if The post AI-generated software is forcing yet another platform rethink appeared first on The New Stack .",
+      "published": "2026-07-30T19:09:47+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jennifer Riggins",
+      "categories": [
+        "AI Engineering",
+        "Platform Engineering",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI and Elastic are tackling the AI problem enterprises can’t ignore",
+      "link": "https://thenewstack.io/openai-elastic-enterprise-context",
+      "summary": "It’s undeniable that enterprise AI has a context problem. Although frontier models are incredibly capable, if they can’t securely access The post OpenAI and Elastic are tackling the AI problem enterprises can’t ignore appeared first on The New Stack .",
+      "published": "2026-07-30T18:42:32+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "Observability",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Building an AI Agent That Writes and Validates Ansible Playbooks",
+      "link": "https://kodekloud.com/blog/building-an-ai-agent-that-writes-and-validates-ansible-playbooks",
+      "summary": "Language models write Ansible that runs perfectly the first time and breaks the second. Ansible happens to ship the exact test that catches it, which is what makes this agent verifiable rather than hopeful.",
+      "published": "2026-07-30T16:56:13+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "Ansible",
+        "AI Agents",
+        "Automation",
+        "DevOps",
+        "Python",
+        "IaC",
+        "Cloud"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "DNS is infrastructure. It’s time to manage it that way.",
+      "link": "https://thenewstack.io/dns-domain-management-automation",
+      "summary": "Attackers aren’t always the reason for DNS failures — they can often be something much more routine. For example, the The post DNS is infrastructure. It’s time to manage it that way. appeared first on The New Stack .",
+      "published": "2026-07-30T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Venus Kohli",
+      "categories": [
+        "Infrastructure as Code",
+        "Networking",
+        "Operations",
+        "sponsor-dnsimple-corporation",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why linting alone can’t govern agentic development",
+      "link": "https://thenewstack.io/governing-agentic-software-development",
+      "summary": "There’s no question that AI agents are changing software development. They can move from an idea to a working implementation The post Why linting alone can’t govern agentic development appeared first on The New Stack .",
+      "published": "2026-07-30T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Robert Curlee",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Software Development",
+        "sponsor-sonarsource",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "When do AI agents need permission boundaries?",
+      "link": "https://thenewstack.io/ai-agent-permission-boundaries",
+      "summary": "An AI agent feels harmless when it only produces text, but the risk profile changes the moment it calls a The post When do AI agents need permission boundaries? appeared first on The New Stack .",
+      "published": "2026-07-30T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Freddy Daniel Alvarez Pinto",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Security",
+        "sponsor-andela",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Runtime Supply Chain Verification using the Node Resource Interface (NRI)",
+      "link": "https://www.cncf.io/blog/2026/07/30/runtime-supply-chain-verification-using-the-node-resource-interface-nri",
+      "summary": "The widely used container supply chain verification tools today operate at the Kubernetes API layer as admission webhooks (such as Kyverno, OPA Gatekeeper, and Sigstore Policy Controller). They intercept pod creation, check signatures and attestations, and...",
+      "published": "2026-07-30T11:09:11+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Sascha Grunert",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "IBM says quantum computers are getting harder to verify. That’s progress.",
+      "link": "https://thenewstack.io/ibm-quantum-advantage-verification",
+      "summary": "IBM and its partners say quantum computers are now getting to the point where they can run calculations that can’t The post IBM says quantum computers are getting harder to verify. That’s progress. appeared first on The New Stack .",
+      "published": "2026-07-30T10:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "Emerging technologies",
+        "Science"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "OpenAI fixed GPT-5.6 Sol’s most frustrating flaw: Burning limits while it waits",
       "link": "https://thenewstack.io/sol-usage-limits-reset",
@@ -4090,6 +4282,17 @@
       "thumbnail": ""
     },
     {
+      "title": "Kubernetes Observability 101: Metrics, Logs, Dashboards, and Traces",
+      "link": "https://www.youtube.com/watch?v=Y6-oOr8Qot8",
+      "summary": "Learn Kubernetes observability from scratch in this hands-on Kube Simplify workshop with Manoj Sardana. In this beginner-friendly session, we start with basic monitoring concepts, then move into Prometheus, Kubernetes Metrics Server, PromQL, OpenTelemetry Collector, traces with Jaeger, and logs...",
+      "published": "2026-07-04T08:38:50+00:00",
+      "source": "Kubesimplify",
+      "type": "video",
+      "author": "Kubesimplify",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/Y6-oOr8Qot8/mqdefault.jpg"
+    },
+    {
       "title": "Apple just turned Safari into something AI agents can control",
       "link": "https://thenewstack.io/safari-mcp-platform-infrastructure",
       "summary": "Earlier this week, Apple’s WebKit team shipped Safari Technology Preview 247 with a built-in Model Context Protocol server — 16 The post Apple just turned Safari into something AI agents can control appeared first on The New Stack .",
@@ -4357,270 +4560,6 @@
       "source": "CNCF Blog",
       "type": "article",
       "author": "ChengHao Yang, CNCF Ambassador",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Argo CD Certification in 2026: A Beginner's Guide to the CAPA",
-      "link": "https://kodekloud.com/blog/argocd-certification",
-      "summary": "A beginner's guide to the Certified Argo Project Associate (CAPA): what it covers, exam format, cost, validity, and how to prepare in 2026.",
-      "published": "2026-07-01T07:40:59+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "Certification",
-        "Argo CD"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How Anthropic is bringing Fable 5 back — and when it’ll cost you",
-      "link": "https://thenewstack.io/how-anthropic-is-bringing-fable-5-back",
-      "summary": "After the U.S. government lifted its export controls for Fable 5 on Tuesday, Anthropic announced that it would bring the The post How Anthropic is bringing Fable 5 back — and when it’ll cost you appeared first on The New Stack .",
-      "published": "2026-07-01T04:12:09+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Models",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Fable is coming back: Federal government lifts export controls on Anthropic AI model",
-      "link": "https://thenewstack.io/anthropic-fable-ban-lifted",
-      "summary": "Anthropic can now bring back Fable. The U.S. Commerce Department is lifting the export controls it placed on both AI models, The post Fable is coming back: Federal government lifts export controls on Anthropic AI model appeared first on The New Stack .",
-      "published": "2026-07-01T00:08:34+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic’s Claude Sonnet 5 system card says more about the future of AI than its benchmarks do",
-      "link": "https://thenewstack.io/ai-agent-infrastructure-reliability",
-      "summary": "With the debut of Anthropic’s Claude Sonnet 5 on Tuesday came its benchmark charts, showing improvements across coding, reasoning, and The post Anthropic’s Claude Sonnet 5 system card says more about the future of AI than its benchmarks do appeared first on The New Stack .",
-      "published": "2026-06-30T20:37:01+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI",
-        "AI Models",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Azure Container Apps Express for Shipping Container Apps Fast",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-container-apps-express-for-shipping-container-apps-fast/ba-p/4531371",
-      "summary": "ACA Express Apps are a strong fit for teams that need to ship quickly and can't afford long platform setup cycles. This includes startups, internal platform teams, and product groups deploying APIs, web apps, or agent endpoints that scale with uneven demand. If the priority is fast...",
-      "published": "2026-06-30T20:10:51+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "hetvip",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "The infrastructure lock-in costing AI companies hundreds of millions",
-      "link": "https://thenewstack.io/future-proof-ai-infrastructure",
-      "summary": "Egor Komarov for Unsplash The post The infrastructure lock-in costing AI companies hundreds of millions appeared first on The New Stack .",
-      "published": "2026-06-30T19:04:40+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Infrastructure",
-        "AI Strategy",
-        "Hardware"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic Sonnet 5: It closes the gap with Opus 4.8, and is cheap until August",
-      "link": "https://thenewstack.io/claude-sonnet-5-launch",
-      "summary": "Anthropic on Tuesday launched Sonnet 5, the latest model in its mainstream Sonnet series. The company calls Sonnet 5 its The post Anthropic Sonnet 5: It closes the gap with Opus 4.8, and is cheap until August appeared first on The New Stack .",
-      "published": "2026-06-30T18:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Building an AI Agent That Automates Terraform Infrastructure Provisioning",
-      "link": "https://kodekloud.com/blog/building-an-ai-agent-that-automates-terraform-infrastructure-provisioning",
-      "summary": "Describe infrastructure in plain language and watch an agent write the Terraform, run the plan, and wait for your approval before anything reaches the cloud. This tutorial builds that agent step by step in Go.",
-      "published": "2026-06-30T17:56:24+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "Terraform",
-        "AI Agents",
-        "IaC",
-        "Go",
-        "Platform Engineering",
-        "AWS",
-        "Infrastructure as Code (IaC)",
-        "AI"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic launches Claude Science, an AI workbench for scientific research",
-      "link": "https://thenewstack.io/anthropic-claude-science-workbench",
-      "summary": "On Tuesday, Anthropic launched Claude Science, a new application for scientists that can run locally on macOS and Linux or The post Anthropic launches Claude Science, an AI workbench for scientific research appeared first on The New Stack .",
-      "published": "2026-06-30T17:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Model Context Protocol",
-        "Science"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AWS launches a desktop for agents",
-      "link": "https://thenewstack.io/aws-workspaces-desktops-for-agents",
-      "summary": "After a short public preview, AWS on Tuesday made its Amazon WorkSpaces for Agents — which you should definitely not The post AWS launches a desktop for agents appeared first on The New Stack .",
-      "published": "2026-06-30T16:01:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Cloud Services",
-        "Model Context Protocol"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Microsoft Foundry Zero to Hero in 8 Minutes (Including Claude project)",
-      "link": "https://www.youtube.com/watch?v=pdd0KJOnbcc",
-      "summary": "Get Started with Foundry for FREE:\nhttps://fandf.co/4dUSXVE\n\nIn this video, I will show you how to build a product ready AI-Assistant right inside visual studio code using Microsoft Foundry and Claude. \nBy the end of the video, you will learn how to build, deploy and observe any enterprise AI...",
-      "published": "2026-06-30T15:59:11+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/pdd0KJOnbcc/mqdefault.jpg"
-    },
-    {
-      "title": "GitHub Actions Certification in 2026: The Ultimate Guide (GH-200)",
-      "link": "https://kodekloud.com/blog/github-actions-certification",
-      "summary": "The GitHub Actions certification (exam GH-200) on Microsoft Learn: format, cost, duration, skill areas, and how to prepare and pass it in 2026.",
-      "published": "2026-06-30T15:26:37+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "Certification",
-        "GitHub Actions"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AWS just put $1 billion into forward deployed engineers. Here’s why it matters for enterprise teams.",
-      "link": "https://thenewstack.io/aws-forward-deployed-engineering",
-      "summary": "Amazon Web Services is investing $1 billion in a new engineering organization that will work directly with enterprise customers building The post AWS just put $1 billion into forward deployed engineers. Here’s why it matters for enterprise teams. appeared first on The New Stack .",
-      "published": "2026-06-30T15:02:22+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Engineering",
-        "AI Strategy",
-        "Cloud Services"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“The harness is where the hard work is”: Harness bets on agents that enterprises can trust in production",
-      "link": "https://thenewstack.io/harness-autonomous-worker-agents",
-      "summary": "The agentic platform Harness launched Autonomous Worker Agents on Tuesday, enabling enterprises to replace fixed scripts in their delivery pipelines with AI The post “The harness is where the hard work is”: Harness bets on agents that enterprises can trust in production appeared first on The New...",
-      "published": "2026-06-30T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI Agents",
-        "CI/CD",
-        "DevOps"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Aikido acquires Root to backport open source fixes without forcing upgrades",
-      "link": "https://thenewstack.io/aikido-acquires-root-security",
-      "summary": "Developer-focused cybersecurity platform Aikido Security has announced that it has acquired Root, a company that patches known vulnerabilities directly into The post Aikido acquires Root to backport open source fixes without forcing upgrades appeared first on The New Stack .",
-      "published": "2026-06-30T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "Open Source",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Operating Kubernetes at scale: a few stories from running Amazon EKS",
-      "link": "https://thenewstack.io/eks-kubernetes-etcd-scale",
-      "summary": "Amazon EKS runs hundreds of thousands of Kubernetes clusters across more than thirty AWS regions. Operating at that scale has The post Operating Kubernetes at scale: a few stories from running Amazon EKS appeared first on The New Stack .",
-      "published": "2026-06-30T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Neelendra Bhandari",
-      "categories": [
-        "AI Infrastructure",
-        "Cloud Services",
-        "Kubernetes",
-        "sponsor-aws-marketplace",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kepler, re-architected: Improved power accuracy and a community call to action!",
-      "link": "https://www.cncf.io/blog/2026/06/30/kepler-re-architected-improved-power-accuracy-and-a-community-call-to-action",
-      "summary": "Thank you to Laura Llinares, Mary Baldwin Hughes, Vimal Kumar, and Sunil Thaha for their significant contributions to this blog post and the Kepler project. Data centers accounted for 1.5% of global electricity demand in 2024,...",
-      "published": "2026-06-30T11:38:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Niki Manoledaki (Grafana Labs), Sunyanan Choochotkaew (IBM) | CNCF Ambassadors",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Dragonfly v2.5.0 is released",
-      "link": "https://www.cncf.io/blog/2026/06/30/dragonfly-v2-5-0-is-released",
-      "summary": "Dragonfly v2.5.0 is released! Thanks to all of the contributors who made this Dragonfly release happen.  New features and enhancements Direct repository downloads from Hugging Face and ModelScope Dragonfly Client now supports directly downloading model repositories...",
-      "published": "2026-06-30T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Gaius Qi, Dragonfly Maintainer",
       "categories": [
         "Blog"
       ],
