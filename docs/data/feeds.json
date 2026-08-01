@@ -1,9 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-07-31T08:36:19.500341+00:00",
-    "total_items": 310,
+    "generated_at": "2026-08-01T08:05:13.848208+00:00",
+    "total_items": 314,
     "sources": [
       "AKS (Official)",
+      "AKS Newsletter",
       "Abhishek Veeramalla",
       "Apps on Azure",
       "CNCF Blog",
@@ -19,6 +20,151 @@
     ]
   },
   "items": [
+    {
+      "title": "Forget humans “in” the loop. Harness engineering puts humans “on” the loop.",
+      "link": "https://thenewstack.io/ai-agents-harness-engineering",
+      "summary": "AI has us quickly forgetting humans as the software delivery loop. Now, forget humans in the loop. For Thoughtworks’ distinguished The post Forget humans “in” the loop. Harness engineering puts humans “on” the loop. appeared first on The New Stack .",
+      "published": "2026-07-31T17:18:13+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jennifer Riggins",
+      "categories": [
+        "AI Agents",
+        "CI/CD",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Nscale just bought Anyscale. Here’s why it matters for multi-cloud neutrality.",
+      "link": "https://thenewstack.io/nscale-anyscale-acquisition-neocloud-lockin",
+      "summary": "Cloud platform company Nscale announced this week a definitive agreement to acquire AI workload scaling specialist Anyscale, in a move The post Nscale just bought Anyscale. Here’s why it matters for multi-cloud neutrality. appeared first on The New Stack .",
+      "published": "2026-07-31T17:04:23+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI",
+        "AI Infrastructure",
+        "AI Operations",
+        "Cloud Services"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How DNS Works for DevOps Engineers",
+      "link": "https://kodekloud.com/blog/how-dns-works-for-devops-engineers",
+      "summary": "Almost every engineer uses DNS a hundred times a day and has never been taught how it works. This guide follows a single lookup from your laptop to the answer, then shows you exactly where it breaks in production.",
+      "published": "2026-07-31T17:00:06+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "Networking",
+        "DNS",
+        "DevOps",
+        "Kubernetes",
+        "Infrastructure",
+        "Linux",
+        "Troubleshooting"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "I created a practical learning platform for DevOps and AI",
+      "link": "https://www.youtube.com/watch?v=SzlRf0o9-hI",
+      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nTry Esc Bash at https://escbash.com\n\nEsc Bash is a practical DevOps and AI learning platform that is one of its kind. Every minute that you spend on the platform is only for practical learning. \n\nFree Course on the...",
+      "published": "2026-07-31T16:35:15+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/SzlRf0o9-hI/mqdefault.jpg"
+    },
+    {
+      "title": "Kubernetes v1.37 Sneak Peek",
+      "link": "https://kubernetes.io/blog/2026/07/31/kubernetes-v1-37-sneak-peek",
+      "summary": "As we get closer to the release date for Kubernetes v1.37, the project develops and matures,\nfeatures may be deprecated, removed, or replaced with better ones for the project's overall\nhealth. This blog outlines some of the planned changes for the Kubernetes v1.37 release that the\nrelease team...",
+      "published": "2026-07-31T16:00:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Gemini Robotics 2 brings us one step closer to physical AGI",
+      "link": "https://thenewstack.io/gemini-robotics-2",
+      "summary": "This week, Google DeepMind revealed Gemini Robotics 2, an intelligence layer comprising three new models to power more adaptable physical The post Gemini Robotics 2 brings us one step closer to physical AGI appeared first on The New Stack .",
+      "published": "2026-07-31T15:56:51+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI Engineering",
+        "AI Models",
+        "Hardware"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure Update 31st July 2026",
+      "link": "https://www.youtube.com/watch?v=565Oh4RH_Nc",
+      "summary": "Nice selection of updates this week.\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation queue...",
+      "published": "2026-07-31T15:26:22+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/565Oh4RH_Nc/mqdefault.jpg"
+    },
+    {
+      "title": "Cost Control and Security for AI Workloads on AWS, Budgets and IAM Guardrails",
+      "link": "https://kodekloud.com/blog/aws-ai-workloads-cost-control-security-guardrails",
+      "summary": "AWS gives you excellent visibility into AI spend and almost no ability to stop it. Budgets alert, they do not block, and cost data arrives up to two days late. Here is the guardrail stack that actually enforces a limit.",
+      "published": "2026-07-31T12:40:08+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "Cloud",
+        "AWS",
+        "Guardrails",
+        "AI Security",
+        "FinOps",
+        "AWS Budgets",
+        "IAM",
+        "Governance"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Scaling Kubernetes pods with KEDA based on Amazon SQS queue depth",
+      "link": "https://www.cncf.io/blog/2026/07/31/scaling-kubernetes-pods-with-keda-based-on-amazon-sqs-queue-depth",
+      "summary": "In event-driven Kubernetes architectures, CPU and memory utilization often fail to reflect real system pressure. A worker pod may sit idle from a CPU perspective while thousands of messages pile up in an Amazon SQS queue....",
+      "published": "2026-07-31T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Albena Galabova, Itgix",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI for Kubernetes: Complete Guide",
+      "link": "https://kodekloud.com/blog/ai-for-kubernetes-complete-guide",
+      "summary": "The complete map of AI for Kubernetes: diagnostics, agents, and copilots, what each does today, the honest limits, and where to start.",
+      "published": "2026-07-31T03:12:00+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "AI",
+        "Kubernetes"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Bash Alias Tutorial for Beginners",
       "link": "https://kodekloud.com/blog/bash-alias-tutorial-for-beginners",
@@ -698,6 +844,17 @@
         "AI Models",
         "AI Strategy"
       ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AKS Newsletter – July 2026",
+      "link": "https://aksnewsletter.com/2026/2026-07.html",
+      "summary": "47 curated items covering documentation updates, feature announcements, community blogs, and more.",
+      "published": "2026-07-28T00:00:00+00:00",
+      "source": "AKS Newsletter",
+      "type": "article",
+      "author": "",
+      "categories": [],
       "thumbnail": ""
     },
     {
@@ -4458,110 +4615,6 @@
         "Large Language Models",
         "sponsor-andela",
         "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenClaw’s new app doesn’t run AI on your phone. That’s the whole point.",
-      "link": "https://thenewstack.io/openclaw-persistent-agent-architecture",
-      "summary": "OpenClaw finally dropped its iOS and Android apps this week, meaning you can now ditch the Telegram and WhatsApp methods The post OpenClaw’s new app doesn’t run AI on your phone. That’s the whole point. appeared first on The New Stack .",
-      "published": "2026-07-01T21:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Infrastructure",
-        "AI Strategy"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Cordyceps flaw pattern is more proof CI/CD is part of the attack surface",
-      "link": "https://thenewstack.io/cordyceps-cicd",
-      "summary": "On June 24, research from Novee Security was released, reporting a CI/CD weakness that could enable anyone with an unauthenticated The post Cordyceps flaw pattern is more proof CI/CD is part of the attack surface appeared first on The New Stack .",
-      "published": "2026-07-01T20:29:58+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "CI/CD",
-        "Developer tools",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Cloudflare wants to build the economic layer of the AI web",
-      "link": "https://thenewstack.io/cloudflare-ai-web-economics",
-      "summary": "AI has changed the web right before our eyes. With Google’s AI Overviews doing the heavy lifting, publications that once The post Cloudflare wants to build the economic layer of the AI web appeared first on The New Stack .",
-      "published": "2026-07-01T20:10:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Infrastructure",
-        "Cloud Services",
-        "Networking"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“You Only Compute Once”: How Clockwork wants to put an end to AI training restarts",
-      "link": "https://thenewstack.io/clockwork-torchpass-gpu-migration",
-      "summary": "On a large enough GPU cluster, something is always breaking. That’s just a fact of life. The standard fix is The post “You Only Compute Once”: How Clockwork wants to put an end to AI training restarts appeared first on The New Stack .",
-      "published": "2026-07-01T17:30:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Operations",
-        "Hardware"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to build long-running MCP tools on Azure Functions",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/how-to-build-long-running-mcp-tools-on-azure-functions/ba-p/4532653",
-      "summary": "Recently, a customer building servers with the Azure Functions MCP extension reached out and asked: How do I handle tools that take longer than the client is willing to wait? This becomes especially relevant when tool calls move beyond simple request/response into multi-step workflows and...",
-      "published": "2026-07-01T16:10:42+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "lily-ma",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "The call is coming from inside your pipeline: the anatomy of a Codecov attack",
-      "link": "https://thenewstack.io/codecov-supply-chain-attack",
-      "summary": "In January 2021, an attacker added a single line of code to a popular bash script. Tens of thousands of The post The call is coming from inside your pipeline: the anatomy of a Codecov attack appeared first on The New Stack .",
-      "published": "2026-07-01T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Zeen Rachidi",
-      "categories": [
-        "CI/CD",
-        "DevOps",
-        "Security",
-        "sponsor-env-zero",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Understanding dynamic resource allocation in Kubernetes",
-      "link": "https://www.cncf.io/blog/2026/07/01/understanding-dynamic-resource-allocation-in-kubernetes",
-      "summary": "Dynamic Resource Allocation (DRA) recently reached GA in Kubernetes v1.35, and I believe many of us are eager to give it a try. Adding to the momentum, NVIDIA has moved dra-driver-nvidia-gpu into Kubernetes SIGs, with the...",
-      "published": "2026-07-01T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "ChengHao Yang, CNCF Ambassador",
-      "categories": [
-        "Blog"
       ],
       "thumbnail": ""
     }
