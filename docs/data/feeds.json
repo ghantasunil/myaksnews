@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-08-01T08:05:13.848208+00:00",
-    "total_items": 314,
+    "generated_at": "2026-08-02T08:07:16.033228+00:00",
+    "total_items": 310,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,89 @@
     ]
   },
   "items": [
+    {
+      "title": "Kubernetes upgrades don’t have to break things: How EKS is making cluster lifecycle management simpler and safer",
+      "link": "https://thenewstack.io/eks-kubernetes-upgrade-rollback",
+      "summary": "Kubernetes moves at a pace of three minor version releases per year, and staying current is not optional if you The post Kubernetes upgrades don’t have to break things: How EKS is making cluster lifecycle management simpler and safer appeared first on The New Stack .",
+      "published": "2026-08-01T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Spyros Angelopoulos",
+      "categories": [
+        "Cloud Services",
+        "DevOps",
+        "Kubernetes",
+        "sponsor-aws-marketplace",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Designing APIs for agents",
+      "link": "https://thenewstack.io/designing-apis-for-agents",
+      "summary": "In early 2025, Webflow started building for MCP before there was a clear playbook for agent-ready APIs. We publicly announced The post Designing APIs for agents appeared first on The New Stack .",
+      "published": "2026-08-01T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Yan Xie",
+      "categories": [
+        "AI Agents",
+        "API Management",
+        "Model Context Protocol (MCP)",
+        "sponsor-webflow",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Managing Environment Variables and Secrets in DevOps",
+      "link": "https://kodekloud.com/blog/managing-environment-variables-and-secrets-devops",
+      "summary": "Nearly 29 million secrets were pushed to public GitHub in a single year, and most teams still discover their own leaks by accident. Here is how environment variables actually escape, and what to use instead at each stage.",
+      "published": "2026-08-01T13:00:47+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "Environment Variables",
+        "Secrets",
+        "Vault",
+        "Cloud",
+        "DevSecOps",
+        "Security",
+        "Kubernetes"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "What Claude’s real-world breaches reveal about AI safety tests",
+      "link": "https://thenewstack.io/anthropic-claude-containment-failure",
+      "summary": "This week, just days after OpenAI announced that two of its advanced AI models had interacted with real-world systems during The post What Claude’s real-world breaches reveal about AI safety tests appeared first on The New Stack .",
+      "published": "2026-08-01T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Models",
+        "AI Operations",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Temporal 5x’d AI spend and doubled revenue. CEO Samar Abbas says he can’t prove they’re connected.",
+      "link": "https://thenewstack.io/temporal-ai-adoption-durable-execution",
+      "summary": "For the final two weeks of the year, Temporal clears its calendars. The company calls it a reading period: no The post Temporal 5x’d AI spend and doubled revenue. CEO Samar Abbas says he can’t prove they’re connected. appeared first on The New Stack .",
+      "published": "2026-08-01T10:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Matthew Burns",
+      "categories": [
+        "AI",
+        "AI Operations",
+        "AI Strategy"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Forget humans “in” the loop. Harness engineering puts humans “on” the loop.",
       "link": "https://thenewstack.io/ai-agents-harness-engineering",
@@ -4486,135 +4569,6 @@
       "author": "Dana Cazacu, Marketing Manager, VEXXHOST",
       "categories": [
         "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The $1.3 million theft that exposed AI’s blind spot",
-      "link": "https://thenewstack.io/ai-infrastructure-cargo-theft",
-      "summary": "Cyberattacks used to be the biggest security issue surrounding AI infrastructure, but that could be changing. A recent cargo theft The post The $1.3 million theft that exposed AI’s blind spot appeared first on The New Stack .",
-      "published": "2026-07-02T21:05:30+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Infrastructure",
-        "Hardware",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Microsoft just admitted its biggest AI mistake — and spent $2.5 billion fixing it",
-      "link": "https://thenewstack.io/enterprise-ai-model-routing",
-      "summary": "Microsoft’s latest AI services announcement suggests the era of standardizing on a single model may be ending. This week, the The post Microsoft just admitted its biggest AI mistake — and spent $2.5 billion fixing it appeared first on The New Stack .",
-      "published": "2026-07-02T21:03:36+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Infrastructure",
-        "AI Models",
-        "AI Strategy"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“AI contributions are demoralizing”: Godot bans coding agents to save its mentoring model",
-      "link": "https://thenewstack.io/godot-bans-ai-coding-agents",
-      "summary": "Godot Engine, the open-source alternative to game engines such as Unity, is rewriting its contribution policy to bar most AI-generated The post “AI contributions are demoralizing”: Godot bans coding agents to save its mentoring model appeared first on The New Stack .",
-      "published": "2026-07-02T20:31:26+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "What comes after attention? This startup says it already knows.",
-      "link": "https://thenewstack.io/subquadratic-sparse-attention-no-attention",
-      "summary": "When Subquadratic launched earlier this year, it could build a sparse-attention model that could handle a 12-million token context window The post What comes after attention? This startup says it already knows. appeared first on The New Stack .",
-      "published": "2026-07-02T17:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Infrastructure",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Claude Fable 5 re-launch is disappointing | Not worth the wait.",
-      "link": "https://www.youtube.com/watch?v=_YO_cf9wUYw",
-      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
-      "published": "2026-07-02T16:45:55+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/_YO_cf9wUYw/mqdefault.jpg"
-    },
-    {
-      "title": "(re)introducing kpt: Your toolchain for infrastructure automation",
-      "link": "https://www.cncf.io/blog/2026/07/02/reintroducing-kpt-your-toolchain-for-infrastructure-automation",
-      "summary": "What is kpt? The opening tagline of the kpt documentation describes it as “… a package-centric toolchain that enables a WYSIWYG configuration authoring, automation, and delivery experience, which simplifies managing Kubernetes platforms and KRM-driven infrastructure at...",
-      "published": "2026-07-02T15:01:38+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Ciaran Johnston, Ericsson",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Your social login buttons run on third-party cookies. FedCM doesn’t.",
-      "link": "https://thenewstack.io/fedcm-federated-login-standard",
-      "summary": "“Sign in with Google” and “Continue with Apple” have carried federated login for more than a decade. They strip away The post Your social login buttons run on third-party cookies. FedCM doesn’t. appeared first on The New Stack .",
-      "published": "2026-07-02T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jeff Hickman",
-      "categories": [
-        "Developer tools",
-        "Frontend Development",
-        "Security",
-        "sponsor-ory",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Auditing and Telemetry for the Agent Governance Toolkit -  Getting Started with .NET Core",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/auditing-and-telemetry-for-the-agent-governance-toolkit-getting/ba-p/4533073",
-      "summary": "Introduction We've entered an era where AI agents autonomously invoke tools — reading and writing files, calling APIs, querying databases. Convenient as this is, without a mechanism to control who can call what, and under what conditions, you can't put it into production. The Agent Governance...",
-      "published": "2026-07-02T13:35:00+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "daisami",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why traditional CI/CD fails for LLMs (and the release gates we built to fix it)",
-      "link": "https://thenewstack.io/why-cicd-fails-llms",
-      "summary": "This article explains why traditional CI/CD gates are not enough for production AI systems. I share a practical release-gating approach The post Why traditional CI/CD fails for LLMs (and the release gates we built to fix it) appeared first on The New Stack .",
-      "published": "2026-07-02T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Freddy Daniel Alvarez Pinto",
-      "categories": [
-        "AI Engineering",
-        "CI/CD",
-        "Large Language Models",
-        "sponsor-andela",
-        "sponsored-post-contributed"
       ],
       "thumbnail": ""
     }
