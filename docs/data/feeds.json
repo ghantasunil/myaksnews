@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-08-02T08:07:16.033228+00:00",
-    "total_items": 310,
+    "generated_at": "2026-08-03T09:25:17.247355+00:00",
+    "total_items": 307,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,26 @@
     ]
   },
   "items": [
+    {
+      "title": "What Is an AI Agent and How Does It Work",
+      "link": "https://kodekloud.com/blog/what-is-an-ai-agent-and-how-does-it-work",
+      "summary": "An agent is not a smarter chatbot. It is a loop, a toolbox, and one surprising rule about who is actually allowed to run anything. Watch a real task go through it, step by step.",
+      "published": "2026-08-02T14:54:50+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "AI Agents",
+        "Automation",
+        "DevOps",
+        "Agentic AI",
+        "Cloud",
+        "A2A",
+        "LLM",
+        "Tool Calling"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Kubernetes upgrades don’t have to break things: How EKS is making cluster lifecycle management simpler and safer",
       "link": "https://thenewstack.io/eks-kubernetes-upgrade-rollback",
@@ -4518,57 +4538,6 @@
         "AI Infrastructure",
         "Emerging technologies",
         "Operations"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kubernetes Observability 101: Metrics, Logs, Dashboards, and Traces",
-      "link": "https://www.youtube.com/watch?v=Y6-oOr8Qot8",
-      "summary": "Learn Kubernetes observability from scratch in this hands-on Kube Simplify workshop with Manoj Sardana. In this beginner-friendly session, we start with basic monitoring concepts, then move into Prometheus, Kubernetes Metrics Server, PromQL, OpenTelemetry Collector, traces with Jaeger, and logs...",
-      "published": "2026-07-04T08:38:50+00:00",
-      "source": "Kubesimplify",
-      "type": "video",
-      "author": "Kubesimplify",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/Y6-oOr8Qot8/mqdefault.jpg"
-    },
-    {
-      "title": "Apple just turned Safari into something AI agents can control",
-      "link": "https://thenewstack.io/safari-mcp-platform-infrastructure",
-      "summary": "Earlier this week, Apple’s WebKit team shipped Safari Technology Preview 247 with a built-in Model Context Protocol server — 16 The post Apple just turned Safari into something AI agents can control appeared first on The New Stack .",
-      "published": "2026-07-03T17:19:46+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "Developer tools",
-        "Model Context Protocol",
-        "Model Context Protocol (MCP)"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Azure Update 3rd July 2026",
-      "link": "https://www.youtube.com/watch?v=RQmWSjKIQJY",
-      "summary": "Quick update but HAPPY 4TH of JULY!!!\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation queue...",
-      "published": "2026-07-03T15:03:16+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/RQmWSjKIQJY/mqdefault.jpg"
-    },
-    {
-      "title": "How data sovereignty is changing cloud native infrastructure design",
-      "link": "https://www.cncf.io/blog/2026/07/03/how-data-sovereignty-is-changing-cloud-native-infrastructure-design",
-      "summary": "The core issue isn’t where your server sits. It’s who can be compelled to hand over what’s on it. For years, cloud providers treated sovereignty as a geography problem. Pick a region. Choose a country. Keep...",
-      "published": "2026-07-03T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Dana Cazacu, Marketing Manager, VEXXHOST",
-      "categories": [
-        "Blog"
       ],
       "thumbnail": ""
     }
