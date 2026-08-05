@@ -1,14 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-08-04T08:22:53.987488+00:00",
-    "total_items": 316,
+    "generated_at": "2026-08-05T08:20:05.733898+00:00",
+    "total_items": 317,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
       "Abhishek Veeramalla",
       "Apps on Azure",
       "CNCF Blog",
-      "Collabnix",
       "Houssem Dellai",
       "John Savill",
       "KodeKloud",
@@ -20,6 +19,161 @@
     ]
   },
   "items": [
+    {
+      "title": "Today’s Codex will feel “primitive” by fall — and its own team’s roadmap backs it up",
+      "link": "https://thenewstack.io/openai-codex-cloud-evolution",
+      "summary": "Thibault Sottiaux, who leads core products at OpenAI, believes that today’s version of Codex will seem outdated before the year The post Today’s Codex will feel “primitive” by fall — and its own team’s roadmap backs it up appeared first on The New Stack .",
+      "published": "2026-08-04T18:30:37+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Cloud Services"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI’s Astra just proved 10 long-standing math and science theorems. The tokens cost $2,000.",
+      "link": "https://thenewstack.io/openai-astra-math-cost",
+      "summary": "OpenAI shared a big research update this week, announcing that an internal version of Astra, its next frontier model, created The post OpenAI’s Astra just proved 10 long-standing math and science theorems. The tokens cost $2,000. appeared first on The New Stack .",
+      "published": "2026-08-04T17:57:06+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Models",
+        "AI Strategy",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "What Is Retrieval Augmented Generation and Why It Matters",
+      "link": "https://kodekloud.com/blog/what-is-retrieval-augmented-generation",
+      "summary": "RAG does not teach a model anything. It finds the right passages and pastes them into the prompt, which means the search is doing the work. That is why most RAG systems fail at retrieval rather than generation.",
+      "published": "2026-08-04T17:16:54+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "RAG",
+        "LLM",
+        "Vector Database",
+        "Embeddings",
+        "DevOps",
+        "Cloud",
+        "search",
+        "Machine Learning"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Claude, Gemini, and GPT-5 can handle every SDLC task. Almost none of them should.",
+      "link": "https://thenewstack.io/ai-software-delivery-architecture",
+      "summary": "For the past two years, most of the conversations about AI and software development have centered on security: How do The post Claude, Gemini, and GPT-5 can handle every SDLC task. Almost none of them should. appeared first on The New Stack .",
+      "published": "2026-08-04T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jeff Michael",
+      "categories": [
+        "AI Operations",
+        "AI Strategy",
+        "Software Development",
+        "sponsor-perforce",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Alibaba Qwen3.8-Max reactions: “An API business model wearing an open source jacket”",
+      "link": "https://thenewstack.io/alibaba-qwen3-8-max-reactions",
+      "summary": "Alibaba this week announced the launch of Qwen3.8-Max. The most powerful model in the Qwen series to date, this multimodal The post Alibaba Qwen3.8-Max reactions: “An API business model wearing an open source jacket” appeared first on The New Stack .",
+      "published": "2026-08-04T14:47:35+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Agents",
+        "AI Models",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Microsoft AI Update July 2026",
+      "link": "https://www.youtube.com/watch?v=2GpTcz6JVhQ",
+      "summary": "Major Microsoft AI updates in July 2026.\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation...",
+      "published": "2026-08-04T14:31:12+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/2GpTcz6JVhQ/mqdefault.jpg"
+    },
+    {
+      "title": "Nvidia’s NOOA makes an agent one Python class",
+      "link": "https://thenewstack.io/nvidia-nooa-agent-framework",
+      "summary": "When Nvidia announced NOOA (Object-Oriented Agents) last week, it signaled a broader shift in agent development: The harness around a The post Nvidia’s NOOA makes an agent one Python class appeared first on The New Stack .",
+      "published": "2026-08-04T14:02:35+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Python"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI agents can create database sprawl issues. YugabyteDB’s solution is more agents!",
+      "link": "https://thenewstack.io/yugabytedb-agentic-postgres-scaling",
+      "summary": "The next database scaling problem may not be how big a database gets, but how many databases an enterprise suddenly The post AI agents can create database sprawl issues. YugabyteDB’s solution is more agents! appeared first on The New Stack .",
+      "published": "2026-08-04T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Carly Page",
+      "categories": [
+        "AI Agents",
+        "Cloud Services",
+        "Databases",
+        "sponsor-yugabyte",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Astro’s GitHub issue backlog is heading to zero for the first time in 5 years. Now Cloudflare is open-sourcing the tool that did it.",
+      "link": "https://thenewstack.io/cloudflare-astro-triage-bot",
+      "summary": "Most open source maintainers will know the feeling of opening GitHub to a growing pile of issues that can’t feasibly The post Astro’s GitHub issue backlog is heading to zero for the first time in 5 years. Now Cloudflare is open-sourcing the tool that did it. appeared first on The New Stack .",
+      "published": "2026-08-04T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Frontend Development",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "You can’t debug what you can’t see — Observability for AI Agents",
+      "link": "https://www.cncf.io/blog/2026/08/04/you-cant-debug-what-you-cant-see-observability-for-ai-agents",
+      "summary": "Traditional APM can’t tell you why your agent spent far more than usual asking the same question three times. We’ve been running AI agents in production for months. The hardest part isn’t building them, it’s understanding...",
+      "published": "2026-08-04T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "epower",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Built-In Observability for Serverless AI Agents on Azure Functions",
       "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/built-in-observability-for-serverless-ai-agents-on-azure/ba-p/4542087",
@@ -4507,157 +4661,6 @@
       "categories": [
         "Tutorial",
         "Kubernetes"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Gateway API v1.2: A Hands-On Migration Guide from Ingress",
-      "link": "https://collabnix.com/gateway-api-v1-2-a-hands-on-migration-guide-from-ingress",
-      "summary": "Gateway API graduated more routing features to GA in the v1.2 line, and migrating off Ingress kept coming up in KubeCon hallway conversations as clusters take on more protocols than plain HTTP. This tutorial migrates a real Ingress resource to Gateway API step by step, so you can see exactly what...",
-      "published": "2026-07-06T08:08:38+00:00",
-      "source": "Collabnix",
-      "type": "article",
-      "author": "Collabnix Team",
-      "categories": [
-        "Kubernetes",
-        "Gateway API",
-        "Ingress",
-        "Kubecon",
-        "kubernetes",
-        "Migration"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Dynamic Resource Allocation (DRA): The Future of GPU Scheduling in Kubernetes",
-      "link": "https://collabnix.com/dynamic-resource-allocation-dra-the-future-of-gpu-scheduling-in-kubernetes",
-      "summary": "Dynamic Resource Allocation, or DRA, has been a recurring theme at recent KubeCon sessions on AI infrastructure, and for good reason: the classic device-plugin model for GPUs is too rigid for modern accelerator sharing, MIG partitioning, and multi-vendor hardware. DRA reworks how Kubernetes claims...",
-      "published": "2026-07-06T08:00:32+00:00",
-      "source": "Collabnix",
-      "type": "article",
-      "author": "Collabnix Team",
-      "categories": [
-        "Kubernetes",
-        "AI Workloads",
-        "Cluster Optimization",
-        "Containers",
-        "Dynamic Resource Allocation",
-        "GPU Scheduling",
-        "kubernetes",
-        "Resource Management"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Gateway API Inference Extension: Smart LLM Traffic Routing on Kubernetes",
-      "link": "https://collabnix.com/gateway-api-inference-extension-smart-llm-traffic-routing-on-kubernetes",
-      "summary": "Gateway API’s Inference Extension was one of the standout topics at recent KubeCon events, tackling a very specific pain point: generic HTTP load balancing algorithms are a poor fit for LLM traffic, where request cost varies wildly and a single long-running generation can pin a backend for seconds....",
-      "published": "2026-07-06T07:54:54+00:00",
-      "source": "Collabnix",
-      "type": "article",
-      "author": "Collabnix Team",
-      "categories": [
-        "Kubernetes",
-        "Gateway API",
-        "Inference",
-        "Kubecon",
-        "kubernetes",
-        "LLM",
-        "Load Balancing"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Deploying LLM Inference on Kubernetes with the NVIDIA GPU Operator: A Step-by-Step Tutorial",
-      "link": "https://collabnix.com/deploying-llm-inference-on-kubernetes-with-the-nvidia-gpu-operator-a-step-by-step-tutorial",
-      "summary": "Serving large language models efficiently is one of the dominant themes at recent KubeCon and CloudNativeCon events, and the NVIDIA GPU Operator has become the de-facto way to make GPUs first-class, schedulable resources inside Kubernetes. This tutorial walks through installing the operator and...",
-      "published": "2026-07-06T07:49:54+00:00",
-      "source": "Collabnix",
-      "type": "article",
-      "author": "Collabnix Team",
-      "categories": [
-        "Kubernetes",
-        "AI Inference",
-        "GPU",
-        "Kubecon",
-        "kubernetes",
-        "LLM",
-        "NVIDIA"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "MCP + Kubernetes: A Step-by-Step Tutorial on Connecting AI Agents to Your Cluster",
-      "link": "https://collabnix.com/mcp-kubernetes-a-step-by-step-tutorial-on-connecting-ai-agents-to-your-cluster",
-      "summary": "The Model Context Protocol (MCP) has quickly become one of the most talked-about topics at recent CNCF and KubeCon hallway tracks. It gives AI assistants a standard way to call tools and read live data, and Kubernetes is a perfect target: instead of copy-pasting kubectl output into a chat window,...",
-      "published": "2026-07-06T07:45:24+00:00",
-      "source": "Collabnix",
-      "type": "article",
-      "author": "Collabnix Team",
-      "categories": [
-        "Kubernetes",
-        "AI Agents",
-        "GPU",
-        "Kubecon",
-        "kubernetes",
-        "MCP"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The AI Hype Is Finally Dying. Now what?",
-      "link": "https://www.youtube.com/watch?v=BhtqUryaoA0",
-      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
-      "published": "2026-07-05T16:38:59+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/BhtqUryaoA0/mqdefault.jpg"
-    },
-    {
-      "title": "Microsoft, AWS and Anthropic are spending billions — and not on better models",
-      "link": "https://thenewstack.io/microsoft-frontier-forward-deployed",
-      "summary": "On July 2, Judson Althoff, CEO of Microsoft’s commercial business, announced the formation of the Microsoft Frontier Company. The new The post Microsoft, AWS and Anthropic are spending billions — and not on better models appeared first on The New Stack .",
-      "published": "2026-07-05T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Janakiram MSV",
-      "categories": [
-        "AI Engineering",
-        "AI Operations",
-        "AI Strategy"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "10 moments that defined AI’s turbulent first half of 2026",
-      "link": "https://thenewstack.io/biggest-ai-moments-2026",
-      "summary": "Halfway through 2026, artificial intelligence has been at the center of every major story inside the world of software development The post 10 moments that defined AI’s turbulent first half of 2026 appeared first on The New Stack .",
-      "published": "2026-07-05T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Darryl K. Taft",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "AI Strategy"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The AI revolution will not be televised — it’ll be quantized",
-      "link": "https://thenewstack.io/chinese-frontier-models-quantization",
-      "summary": "With apologies to Gil Scott-Heron and his timeless 1971 protest song, if anyone thought the AI revolution would not be The post The AI revolution will not be televised — it’ll be quantized appeared first on The New Stack .",
-      "published": "2026-07-05T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI",
-        "AI Models",
-        "AI Strategy",
-        "Open Source"
       ],
       "thumbnail": ""
     }
