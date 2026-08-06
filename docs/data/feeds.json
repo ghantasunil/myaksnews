@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-08-05T08:20:05.733898+00:00",
-    "total_items": 317,
+    "generated_at": "2026-08-06T08:17:19.700829+00:00",
+    "total_items": 311,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -19,6 +19,109 @@
     ]
   },
   "items": [
+    {
+      "title": "Stop telling freshers AI can't do DevOps. It can. Learn it anyways and here's WHY!",
+      "link": "https://www.youtube.com/watch?v=U3HkadhpaIc",
+      "summary": "DevOps is Dead, Cloud is Dead, Webdev , DSA everything is Dead and everything is being by AI! Is that just a hook or there's some reality to it?\n\nin my opinion, there is no black and white in this, there's good, there's bad and there's ugly. it doesn't matter what i feel or think, we need to focus...",
+      "published": "2026-08-05T19:41:50+00:00",
+      "source": "Piyush Sachdeva",
+      "type": "video",
+      "author": "Tech Tutorials with Piyush",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/U3HkadhpaIc/mqdefault.jpg"
+    },
+    {
+      "title": "Google’s four AI departures: “We wanted to build something differently”",
+      "link": "https://thenewstack.io/deepmind-discovery-loop-departures",
+      "summary": "At the start of 2025, investors wondered whether Google could keep pace with OpenAI. By December, Alphabet was completing its The post Google’s four AI departures: “We wanted to build something differently” appeared first on The New Stack .",
+      "published": "2026-08-05T18:44:10+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Infrastructure",
+        "AI Models",
+        "AI Strategy"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The 800 mistakes that could reshape Meta’s AI coding strategy",
+      "link": "https://thenewstack.io/meta-metacode-engineer-training",
+      "summary": "Meta is asking thousands of its software engineers to help train its internal AI coding tools by simply fixing code, The post The 800 mistakes that could reshape Meta’s AI coding strategy appeared first on The New Stack .",
+      "published": "2026-08-05T18:06:05+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Engineering",
+        "AI Models",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Git Branching Strategies Explained for Beginners",
+      "link": "https://kodekloud.com/blog/git-branching-strategies-explained-for-beginners",
+      "summary": "Every argument about branching strategy is really one argument about how long code sits unmerged. Once you see that, choosing between trunk based and GitFlow stops being a matter of taste.",
+      "published": "2026-08-05T18:02:15+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "Git",
+        "DevOps",
+        "GitHub",
+        "CI/CD",
+        "Branching",
+        "Version Control",
+        "Git Workflow"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "K8gb becomes a CNCF incubating project",
+      "link": "https://www.cncf.io/announcements/2026/08/05/k8gb-becomes-a-cncf-incubating-project",
+      "summary": "The CNCF Technical Oversight Committee (TOC) has voted to accept Kubernetes Global Balancer (K8gb) as a CNCF incubating project.  About K8gb K8gb is an open source, cloud native Global Server Load Balancing (GSLB) solution designed specifically...",
+      "published": "2026-08-05T16:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Haley White",
+      "categories": [
+        "Announcements"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Every software company will become a dev tools company",
+      "link": "https://thenewstack.io/platform-engineering-ai-harness",
+      "summary": "If most software will soon be built by machines, the job of software engineers will change: from writing software to The post Every software company will become a dev tools company appeared first on The New Stack .",
+      "published": "2026-08-05T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Ankit Jain",
+      "categories": [
+        "AI Engineering",
+        "AI Strategy",
+        "Platform Engineering",
+        "sponsor-aviator",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenCost 1.121.0: First-of-a-kind Kubernetes inference cost tracking",
+      "link": "https://www.cncf.io/blog/2026/08/05/opencost-1-121-0-first-of-a-kind-kubernetes-inference-cost-tracking",
+      "summary": "Your GPU bill is rising. Your models are serving billions of tokens. Yet one question remains unanswered: what does each token actually cost? This is not a hypothetical problem. Platform teams today operate in a fog...",
+      "published": "2026-08-05T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Sima Nadler Senior Program Manager, IBM Research and Alex Meijer OpenCost Maintainer",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Today’s Codex will feel “primitive” by fall — and its own team’s roadmap backs it up",
       "link": "https://thenewstack.io/openai-codex-cloud-evolution",
@@ -4476,191 +4579,6 @@
       "author": "Lin Sun (Solo.io) | CNCF Ambassador",
       "categories": [
         "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Docker Tutorial for Beginners in 2026: Run Your First Container (and What's New)",
-      "link": "https://kodekloud.com/blog/docker-tutorial-for-beginners",
-      "summary": "A hands-on Docker tutorial for beginners: run your first container, build an image, use Compose, fix common errors, and see what's new.",
-      "published": "2026-07-07T02:08:25+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "Tutorial",
-        "Docker"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "A new study just debunked the biggest fear about AI and open source",
-      "link": "https://thenewstack.io/ai-open-source-newcomers-study",
-      "summary": "There’s a common fear about what AI could do to open source. Coding agents take over the beginner-friendly issues that The post A new study just debunked the biggest fear about AI and open source appeared first on The New Stack .",
-      "published": "2026-07-06T21:26:47+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "Open Source",
-        "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Microsoft, Google and Cloudflare just made 2029 the new quantum deadline",
-      "link": "https://thenewstack.io/post-quantum-cryptography-deadline-2029",
-      "summary": "The inevitable path to access to quantum computing brings an equal and opposite responsibility to address post-quantum cryptography.  Government directives from The post Microsoft, Google and Cloudflare just made 2029 the new quantum deadline appeared first on The New Stack .",
-      "published": "2026-07-06T20:20:17+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI",
-        "Cloud Services",
-        "Compliance",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Getting Claude Code to grunt in Caveman-speak might not save as many tokens as you think",
-      "link": "https://thenewstack.io/caveman-mode-token-savings",
-      "summary": "Developers are paying closer attention to how much their AI coding tools cost them to run, and for good reason. The post Getting Claude Code to grunt in Caveman-speak might not save as many tokens as you think appeared first on The New Stack .",
-      "published": "2026-07-06T18:28:42+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Engineering",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why most AI projects fail: It’s infrastructure and people",
-      "link": "https://thenewstack.io/why-most-ai-projects-fail-its-infrastructure-and-people",
-      "summary": "AI trash-talkers love to rip on the technology for failing to produce meaningful business results, often pointing to studies like The post Why most AI projects fail: It’s infrastructure and people appeared first on The New Stack .",
-      "published": "2026-07-06T18:19:49+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "AI Infrastructure",
-        "AI Operations",
-        "Databases",
-        "sponsor-pgedge",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Palantir’s Alex Karp and Mistral’s Arthur Mensch agree: AI lock-in is coming for enterprises",
-      "link": "https://thenewstack.io/karp-mensch-ai-lockin",
-      "summary": "Palantir CEO Alex Karp went on CNBC’s Squawk Box last week to discuss a new partnership with Nvidia to deploy The post Palantir’s Alex Karp and Mistral’s Arthur Mensch agree: AI lock-in is coming for enterprises appeared first on The New Stack .",
-      "published": "2026-07-06T17:17:53+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Infrastructure",
-        "AI Models",
-        "AI Strategy"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Forward Deployed Engineer (FDE) Roadmap in 20 Minutes",
-      "link": "https://www.youtube.com/watch?v=SOU28VT-Ns4",
-      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nWant to become a Forward Deployed Engineer (FDE)? In this video, I'll explain the complete beginner-friendly FDE roadmap and show how companies like Microsoft use FDEs to build real-world AI solutions for enterprise...",
-      "published": "2026-07-06T17:12:14+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/SOU28VT-Ns4/mqdefault.jpg"
-    },
-    {
-      "title": "Andrej Karpathy, Google and Garry Tan agree Markdown is the answer, but they’re not solving the same problem",
-      "link": "https://thenewstack.io/markdown-agent-memory-moat",
-      "summary": "In April, Andrej Karpathy published a GitHub gist file called “LLM Wiki,” a brief text document designed to help one The post Andrej Karpathy, Google and Garry Tan agree Markdown is the answer, but they’re not solving the same problem appeared first on The New Stack .",
-      "published": "2026-07-06T15:13:41+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Janakiram MSV",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Microsoft AI Update June 2026",
-      "link": "https://www.youtube.com/watch?v=opCw_CDf9fg",
-      "summary": "Major Microsoft AI updates in June 2026.\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation...",
-      "published": "2026-07-06T14:23:53+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/opCw_CDf9fg/mqdefault.jpg"
-    },
-    {
-      "title": "The code review bug hunt is dead. Here’s what developers get wrong.",
-      "link": "https://thenewstack.io/code-review-catches-maintainability-bugs",
-      "summary": "The software code review process is a systematic, peer-driven quality assurance procedure that scrutinizes code when a developer submits a The post The code review bug hunt is dead. Here’s what developers get wrong. appeared first on The New Stack .",
-      "published": "2026-07-06T12:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "Software Development",
-        "Software Testing",
-        "Tech Culture"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The 4-body problem of SRE: Why autonomous operations depend on context",
-      "link": "https://www.cncf.io/blog/2026/07/06/the-4-body-problem-of-sre-why-autonomous-operations-depend-on-context",
-      "summary": "What a room full of senior SREs confirmed about the trust gap, and where the actual work begins I spent a day last week at an event in Bengaluru asking a room full of senior SREs,...",
-      "published": "2026-07-06T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Sanjeev Sharma, Field CTO at StackGen",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Evolving platform engineering for AI-native workloads",
-      "link": "https://www.cncf.io/blog/2026/07/06/evolving-platform-engineering-for-ai-native-workloads",
-      "summary": "Platform Engineering 1.0 delivered real value. Golden paths accelerated deployment. Internal Developer Platforms (IDPs) reduced cognitive load for developers. Self-service infrastructure gave developers back hours they had been spending filing tickets. Pipelines provided a standard vehicle to...",
-      "published": "2026-07-06T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "epower",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kubernetes Tutorial: Deploy Your First App on Kubernetes Today",
-      "link": "https://kodekloud.com/blog/kubernetes-tutorial-deploy-first-app",
-      "summary": "A hands-on Kubernetes tutorial for beginners: deploy your first app, expose and scale it, see self-healing, and use YAML with kubectl.",
-      "published": "2026-07-06T08:25:48+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "Tutorial",
-        "Kubernetes"
       ],
       "thumbnail": ""
     }
