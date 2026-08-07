@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-08-06T08:17:19.700829+00:00",
-    "total_items": 311,
+    "generated_at": "2026-08-07T07:00:56.847775+00:00",
+    "total_items": 314,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -19,6 +19,191 @@
     ]
   },
   "items": [
+    {
+      "title": "GPT-5.6 Sol just got better in one place and stayed the same everywhere else",
+      "link": "https://thenewstack.io/gpt-sol-chatgpt-split",
+      "summary": "Teams testing prompts in ChatGPT before moving them to Codex or Work may notice the difference on longer tasks. OpenAI The post GPT-5.6 Sol just got better in one place and stayed the same everywhere else appeared first on The New Stack .",
+      "published": "2026-08-06T19:33:02+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Engineering",
+        "AI Models",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why AI tools know nothing about your company — until now",
+      "link": "https://thenewstack.io/cloudflare-os-agentic-workspace-security",
+      "summary": "Cloudflare launched its CloudflareOS open-source AI workspace platform this week, promising every employee a secure workspace equipped with AI tools The post Why AI tools know nothing about your company — until now appeared first on The New Stack .",
+      "published": "2026-08-06T19:30:08+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Your AI agent’s next tool call may be valid but wrong. AWS’s Dogwood promises to fix that.",
+      "link": "https://thenewstack.io/aws-dogwood-agent-policies",
+      "summary": "AWS on Thursday launched Dogwood, an open-source policy language and reference interpreter that lets developers govern sequences of AI agent The post Your AI agent’s next tool call may be valid but wrong. AWS’s Dogwood promises to fix that. appeared first on The New Stack .",
+      "published": "2026-08-06T19:11:55+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Open Source",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Free agents: How AWS Kiro could untie agents from editors",
+      "link": "https://thenewstack.io/kiro-agent-client-protocol",
+      "summary": "Choosing a coding agent may soon no longer mean having to pick a new editor or terminal, too. That scenario The post Free agents: How AWS Kiro could untie agents from editors appeared first on The New Stack .",
+      "published": "2026-08-06T17:50:35+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Janakiram MSV",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The blank-check AI coding era is dead. Here’s what comes next.",
+      "link": "https://thenewstack.io/microsoft-copilot-token-budgets",
+      "summary": "Microsoft spent the first phase of the AI coding boom pushing its engineers to use the tools. Now it wants The post The blank-check AI coding era is dead. Here’s what comes next. appeared first on The New Stack .",
+      "published": "2026-08-06T17:29:08+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Operations",
+        "AI Strategy",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "YAML for DevOps Beginners, Syntax, Rules and Common Mistakes",
+      "link": "https://kodekloud.com/blog/yaml-for-devops-beginners-syntax-rules-mistakes",
+      "summary": "YAML tries to guess what you meant, and that is the entire problem. Once you know which values it silently reinterprets and why, the manifests that mysteriously break stop being mysterious.",
+      "published": "2026-08-06T17:16:19+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "yaml",
+        "json",
+        "DevOps",
+        "Cloud",
+        "Kubernetes",
+        "Configuration",
+        "CI/CD"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why Todoist says less AI can deliver more",
+      "link": "https://thenewstack.io/doist-ai-automation-code",
+      "summary": "Doist CTO Gonçalo Silva doesn’t pretend to know where AI is headed. The pace of change has made it harder The post Why Todoist says less AI can deliver more appeared first on The New Stack .",
+      "published": "2026-08-06T17:05:57+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Strategy"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“Just rewrite it”: What platform teams really think about modernization",
+      "link": "https://thenewstack.io/nutanix-dual-native-architecture",
+      "summary": "Mergers, acquisitions, and the steady churn of business and technology initiatives are creating something nobody asked for: Duplicate infrastructure and The post “Just rewrite it”: What platform teams really think about modernization appeared first on The New Stack .",
+      "published": "2026-08-06T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Aarthi Mahesh",
+      "categories": [
+        "AI Infrastructure",
+        "Kubernetes",
+        "Platform Engineering",
+        "sponsor-nutanix",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Say goodbye to K8s GPU pain: How DRA changes everything",
+      "link": "https://thenewstack.io/kubernetes-dra-gpu-scheduling",
+      "summary": "Consider a platform team managing a shared GPU cluster with a mix of B200s, H100s, and recently added B300s. Every The post Say goodbye to K8s GPU pain: How DRA changes everything appeared first on The New Stack .",
+      "published": "2026-08-06T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Dawood Abbas",
+      "categories": [
+        "AI Infrastructure",
+        "Kubernetes",
+        "Platform Engineering",
+        "sponsor-andela",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Claude Code Zero to Hero in 60 Minutes",
+      "link": "https://www.youtube.com/watch?v=GQ1SJf67nKw",
+      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nThis tutorial covers Claude Code Zero to Hero in 60 Minutes. The following concepts are covered in the same order.\n\n01    What is Claude Code  \n02  Installation and setup  \n03  Your first session  \n04  Built-in slash...",
+      "published": "2026-08-06T15:36:29+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/GQ1SJf67nKw/mqdefault.jpg"
+    },
+    {
+      "title": "Anthropic recommends a git worktree per agent. Your runtime infra makes that a problem.",
+      "link": "https://thenewstack.io/agent-native-runtime-branching",
+      "summary": "A developer supervising four coding agents has four changes in flight at once, each in its own git worktree. That The post Anthropic recommends a git worktree per agent. Your runtime infra makes that a problem. appeared first on The New Stack .",
+      "published": "2026-08-06T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Arjun Iyer",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Developer tools",
+        "sponsor-signadot",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "LitmusChaos Q1-Q2 2026 update: community, contributions, and project progress",
+      "link": "https://www.cncf.io/blog/2026/08/06/litmuschaos-q1-q2-2026-update-community-contributions-and-project-progress",
+      "summary": "About LitmusChaos LitmusChaos is an open source chaos engineering platform that helps teams identify weaknesses and potential outages in their infrastructure by running controlled chaos experiments. Built on cloud native principles, LitmusChaos enables teams to validate...",
+      "published": "2026-08-06T11:30:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Pritesh Kiri",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Stop telling freshers AI can't do DevOps. It can. Learn it anyways and here's WHY!",
       "link": "https://www.youtube.com/watch?v=U3HkadhpaIc",
@@ -4439,144 +4624,6 @@
       "source": "CNCF Blog",
       "type": "article",
       "author": "Marko Sluga, F5",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Coinbase runs 1,200 agents and just slashed its AI bill in half",
-      "link": "https://thenewstack.io/multi-model-ai-infrastructure",
-      "summary": "Vercel CEO Guillermo Rauch and Coinbase CEO Brian Armstrong run very different companies, but they’re making the same architectural bet. The post Coinbase runs 1,200 agents and just slashed its AI bill in half appeared first on The New Stack .",
-      "published": "2026-07-07T20:55:05+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Engineering",
-        "AI Infrastructure",
-        "AI Strategy"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Watch AWS engineers troubleshoot agentic AI with OpenTelemetry and OpenSearch",
-      "link": "https://thenewstack.io/opentelemetry-opensearch-agent-observability",
-      "summary": "Your organization constantly needs more information about system performance, usage, and data while in production — or better yet, before The post Watch AWS engineers troubleshoot agentic AI with OpenTelemetry and OpenSearch appeared first on The New Stack .",
-      "published": "2026-07-07T20:29:14+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jennifer Riggins",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Observability",
-        "Open Source",
-        "sponsor-linux-foundation-training",
-        "sponsored-webinar"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Vercel acquires Better Auth to give AI agents their own identity",
-      "link": "https://thenewstack.io/vercel-acquires-better-auth",
-      "summary": "AI agents increasingly act on people’s behalf, opening pull requests, reviewing code, creating deployments, querying internal systems, or updating business The post Vercel acquires Better Auth to give AI agents their own identity appeared first on The New Stack .",
-      "published": "2026-07-07T20:13:37+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI Agents",
-        "Open Source",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic gives Claude subscribers five more days with Fable 5",
-      "link": "https://thenewstack.io/anthropic-extends-fable-5",
-      "summary": "Anthropic was scheduled to remove included access to its flagship Fable model from its subscription accounts today, July 7, and The post Anthropic gives Claude subscribers five more days with Fable 5 appeared first on The New Stack .",
-      "published": "2026-07-07T18:45:26+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic’s Claude Cowork now keeps working when you close your laptop",
-      "link": "https://thenewstack.io/claude-cowork-cloud-mobile",
-      "summary": "Since its launch, Claude Cowork, Anthropic’s agentic tool for knowledge workers, has run only on the desktop, leaving it tethered to The post Anthropic’s Claude Cowork now keeps working when you close your laptop appeared first on The New Stack .",
-      "published": "2026-07-07T16:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Strategy",
-        "Cloud Services"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Two months of Open Community Groups",
-      "link": "https://www.cncf.io/blog/2026/07/07/two-months-of-open-community-groups",
-      "summary": "Two months ago, the CNCF launched Open Community Groups (OCG, ocgroups.dev), an online meetup platform that’s open source. This wasn’t a weekend project that happened to ship, it was almost two years in the making before...",
-      "published": "2026-07-07T15:44:58+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Jeffrey Sica, Head of Projects at CNCF",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The organizational iceberg: the invisible data breaking your AI agents",
-      "link": "https://thenewstack.io/invisible-data-ai-agents",
-      "summary": "When building data platforms for large institutions, we often make decisions based on what we can see, ignoring blind spots, The post The organizational iceberg: the invisible data breaking your AI agents appeared first on The New Stack .",
-      "published": "2026-07-07T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Nitin Singhal",
-      "categories": [
-        "AI Agents",
-        "AI Strategy",
-        "Data",
-        "sponsor-gitlab",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to kill the code review",
-      "link": "https://thenewstack.io/killing-the-code-review",
-      "summary": "This is a follow-up to “How long before we stop reading the code?“, which argued that traditional code review is The post How to kill the code review appeared first on The New Stack .",
-      "published": "2026-07-07T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Ankit Jain",
-      "categories": [
-        "AI Engineering",
-        "AI Strategy",
-        "Software Development",
-        "sponsor-aviator",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why sandboxing your agent is not enough",
-      "link": "https://www.cncf.io/blog/2026/07/07/why-sandboxing-your-agent-is-not-enough",
-      "summary": "The agentic AI space is moving incredibly fast. Not long ago, I learned about a cool project called agent-sandbox, which provides a sandboxed environment for AI agents by leveraging many of the building blocks we have...",
-      "published": "2026-07-07T11:30:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Lin Sun (Solo.io) | CNCF Ambassador",
       "categories": [
         "Blog"
       ],
