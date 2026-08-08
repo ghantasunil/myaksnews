@@ -1,13 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-08-07T07:00:56.847775+00:00",
-    "total_items": 314,
+    "generated_at": "2026-08-08T06:36:11.911334+00:00",
+    "total_items": 315,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
       "Abhishek Veeramalla",
       "Apps on Azure",
       "CNCF Blog",
+      "Collabnix",
       "Houssem Dellai",
       "John Savill",
       "KodeKloud",
@@ -19,6 +20,204 @@
     ]
   },
   "items": [
+    {
+      "title": "Announcing Grafana 13 Support in Azure Managed Grafana",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-grafana-13-support-in-azure-managed-grafana/ba-p/4545199",
+      "summary": "Enhanced Dashboarding and Visualization Experience Grafana 13 introduces a number of improvements that make dashboards easier to build, reuse, and manage at scale. Teams can create richer observability experiences while reducing duplication and improving consistency across environments. These...",
+      "published": "2026-08-07T22:24:56+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "nuzhat-minhaz",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Auto Mode will soon be the default in Claude Code — because humans can’t be trusted",
+      "link": "https://thenewstack.io/claude-code-auto-mode",
+      "summary": "In the early days of Claude Code, it felt like you either had to approve everything the coding agent did The post Auto Mode will soon be the default in Claude Code — because humans can’t be trusted appeared first on The New Stack .",
+      "published": "2026-08-07T21:42:44+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The AI model OpenAI won’t release yet — and what it found in testing",
+      "link": "https://thenewstack.io/openai-astra-cybersecurity-delay",
+      "summary": "OpenAI is reducing work on Astra after internal testing indicated the upcoming model may have reached a cybersecurity limit that no The post The AI model OpenAI won’t release yet — and what it found in testing appeared first on The New Stack .",
+      "published": "2026-08-07T20:56:38+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Models",
+        "AI Strategy",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Build Durable, Long-Running MCP Tasks on Azure App Service",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/build-durable-long-running-mcp-tasks-on-azure-app-service/ba-p/4545170",
+      "summary": "Not every tool call finishes in a few seconds. A compliance scan might inspect hundreds of resources. A deployment might wait for an approval. A batch import might run for an hour. Holding an HTTP connection open for that entire operation is fragile: clients restart, proxies time out, networks...",
+      "published": "2026-08-07T19:40:32+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "jordanselig",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Zero Ops: Agents Operate, Humans Govern",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/zero-ops-agents-operate-humans-govern/ba-p/4545151",
+      "summary": "A note on scope: the patterns in this guide apply to any agentic operations platform. The specifics — the pricing model, the built-in capabilities, the primitives named throughout — are Azure SRE Agent . Where something is a property of the product rather than a universal truth, it’s called out....",
+      "published": "2026-08-07T19:18:40+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Shamir_AbdulAziz",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "The npm attack that turned provenance attestations into camouflage",
+      "link": "https://thenewstack.io/npm-supply-chain-worm-attack",
+      "summary": "⁠Security researchers this week disclosed an npm supply-chain attack affecting more than 400 packages, including projects connected to Keyv and The post The npm attack that turned provenance attestations into camouflage appeared first on The New Stack .",
+      "published": "2026-08-07T18:31:59+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "CI/CD",
+        "DevOps",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Meta’s new coding agent is cheap (but it’ll cost you your data).",
+      "link": "https://thenewstack.io/meta-muse-code",
+      "summary": "Meta this week announced Muse Code, its first coding agent designed to tackle complex software engineering tasks, like planning changes, The post Meta’s new coding agent is cheap (but it’ll cost you your data). appeared first on The New Stack .",
+      "published": "2026-08-07T18:17:56+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI Agents",
+        "AI Models",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Coinbase, Shopify and Ramp all built their own coding agents. All three still pay Anthropic.",
+      "link": "https://thenewstack.io/enterprise-ai-agent-harness",
+      "summary": "Enterprise engineering teams are converging on a common architecture for AI-assisted software development. Coinbase, Shopify, and Ramp have each built The post Coinbase, Shopify and Ramp all built their own coding agents. All three still pay Anthropic. appeared first on The New Stack .",
+      "published": "2026-08-07T18:16:03+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Janakiram MSV",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Platform Engineering"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Understanding LLMs for DevOps Beginners",
+      "link": "https://kodekloud.com/blog/understanding-llms-for-devops-beginners",
+      "summary": "A language model cannot see the letters in a word, which explains almost everything odd about how it behaves. Start there, and the rest of it stops being mysterious.",
+      "published": "2026-08-07T17:00:08+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "LLM",
+        "AI Agents",
+        "AI",
+        "OpenAI",
+        "DevOps",
+        "Automation",
+        "Cloud",
+        "Machine Learning"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The “AI kill switch” assumes you know what you are trying to shut down",
+      "link": "https://thenewstack.io/ai-kill-switch-infrastructure",
+      "summary": "“AI kill switch” entered the public conversation because it gives people a simple way to talk about a complex fear. The post The “AI kill switch” assumes you know what you are trying to shut down appeared first on The New Stack .",
+      "published": "2026-08-07T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Robin Tatam",
+      "categories": [
+        "AI Infrastructure",
+        "AI Operations",
+        "AI Strategy",
+        "sponsor-perforce",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Getting Started With Kubernetes",
+      "link": "https://collabnix.com/__trashed",
+      "summary": "Kubernetes conversations this week span everything from managed-service comparisons and storage volumes to scheduler research and key-management integrations. With so much happening in the ecosystem, it is easy to forget that most engineers are still climbing the same first hill: getting a working...",
+      "published": "2026-08-07T12:20:52+00:00",
+      "source": "Collabnix",
+      "type": "article",
+      "author": "Tanvir Kour",
+      "categories": [
+        "Kubernetes"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Does Kubernetes DRA Replace HAMi?",
+      "link": "https://www.cncf.io/blog/2026/08/07/does-kubernetes-dra-replace-hami",
+      "summary": "Projects that want to share a GPU on Kubernetes have to work around an API instead of with it. The device plugin interface could count devices, and that was the whole vocabulary: nvidia.com/gpu: 1. It meant one...",
+      "published": "2026-08-07T11:30:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Mesut Oezdil",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Shadow AI in CI/CD: Threat-modeling the path from developer laptop to Kubernetes",
+      "link": "https://www.cncf.io/blog/2026/08/07/shadow-ai-in-ci-cd-threat-modeling-the-path-from-developer-laptop-to-kubernetes",
+      "summary": "Artificial intelligence is becoming part of daily software delivery, often before it becomes part of the security architecture. That gap has a name: Shadow AI. It is any AI tool, model, agent, extension, or integration used...",
+      "published": "2026-08-07T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Matteo Bisi, ReeVo SpA",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "What Actually Happens When Your Code Talks to an AI Model",
+      "link": "https://kodekloud.com/blog/how-llm-apis-work",
+      "summary": "How LLM APIs work, with real receipts: what an API key spends, how tokens are billed, context window limits, and what temperature changes.",
+      "published": "2026-08-07T09:32:56+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "KodeKey",
+        "LLM",
+        "AI"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "GPT-5.6 Sol just got better in one place and stayed the same everywhere else",
       "link": "https://thenewstack.io/gpt-sol-chatgpt-split",
@@ -4446,186 +4645,6 @@
         "AI",
         "AI Agents",
         "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "A Paradigm Shift in Cloud Operations with Azure SRE Agent",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/a-paradigm-shift-in-cloud-operations-with-azure-sre-agent/ba-p/4533244",
-      "summary": "Cloud operations are entering a new era. As systems grow in scale and complexity, the traditional model of reactive incident response, where engineers manually piece together signals across dozens of tools and portals, juggling all that context alone, is no longer sustainable. The operational toil...",
-      "published": "2026-07-08T22:41:52+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "Nir_Mashkowski",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "“Opus-class, but faster”: What Elon Musk says about beating Anthropic",
-      "link": "https://thenewstack.io/grok-45-opus-killer-launch",
-      "summary": "SpaceXAI CEO Elon Musk announced on Wednesday that Grok 4.5 will be released publicly on Thursday, posting on X, “Based The post “Opus-class, but faster”: What Elon Musk says about beating Anthropic appeared first on The New Stack .",
-      "published": "2026-07-08T18:59:49+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Models",
-        "AI Strategy",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "JetBrains’ next move isn’t a better IDE — it’s a governance layer over Claude Code, Codex, and Gemini CLI",
-      "link": "https://thenewstack.io/jetbrains-ai-team-governance",
-      "summary": "Engineering teams have spent the past few years picking their own AI tools — an IDE here, a terminal-based coding The post JetBrains’ next move isn’t a better IDE — it’s a governance layer over Claude Code, Codex, and Gemini CLI appeared first on The New Stack .",
-      "published": "2026-07-08T17:44:04+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Engineering",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The CNCF Data Storage in Cloud Native AI White Paper",
-      "link": "https://www.cncf.io/report-whitepaper/2026/07/08/the-cncf-data-storage-in-cloud-native-ai-white-paper",
-      "summary": "Deploying Artificial Intelligence (AI) and Machine Learning (ML) workloads at scale has become a primary objective for modern enterprises. However, moving these data-heavy, stateful workloads into cloud native infrastructure introduces massive data bottlenecks. To help organizations...",
-      "published": "2026-07-08T17:35:54+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "CNCF TAG Infrastructure",
-      "categories": [
-        "Blog",
-        "Report / Whitepaper"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Meta says it caught OpenAI. One thing is missing.",
-      "link": "https://thenewstack.io/meta-watermelon-benchmark-claim",
-      "summary": "The same week Mark Zuckerberg told Meta staff that the company’s AI bets “haven’t come to fruition yet,” his superintelligence The post Meta says it caught OpenAI. One thing is missing. appeared first on The New Stack .",
-      "published": "2026-07-08T17:34:17+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Janakiram MSV",
-      "categories": [
-        "AI Models",
-        "AI Strategy",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Real-Time Forward Deployed Engineer (FDE) project using an E-Commerce Application",
-      "link": "https://www.youtube.com/watch?v=miHREcaScRY",
-      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nReal-time FDE implementation using an e-commerce application, explained step by step in this YouTube Video. Learn how FDE works in production-style workflows, how to integrate it into checkout and order flows, and how it...",
-      "published": "2026-07-08T17:10:14+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/miHREcaScRY/mqdefault.jpg"
-    },
-    {
-      "title": "OpenAI’s own safety card says GPT-5.6 has a lying problem",
-      "link": "https://thenewstack.io/gpt-5-6-developer-reactions",
-      "summary": "OpenAI’s confirmation late Tuesday that GPT-5.6 Sol, Terra, and Luna will launch publicly on Thursday closes one of the more The post OpenAI’s own safety card says GPT-5.6 has a lying problem appeared first on The New Stack .",
-      "published": "2026-07-08T17:08:16+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Models",
-        "AI Operations",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Azure Monitor Health Model Overview",
-      "link": "https://www.youtube.com/watch?v=RKEvu6asHd4",
-      "summary": "Overview of Copilot Cowork usage-based billing. How to estimate, plan, control and observe.\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:06 - Resource health challenges\n01:34 - Azure Health Models\n06:41 - Demo\n11:23 - Summary\n11:46 - Close\n\n▬▬▬▬▬▬  Want to learn more? 🚀  ▬▬▬▬▬▬ \n📖...",
-      "published": "2026-07-08T14:17:36+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/RKEvu6asHd4/mqdefault.jpg"
-    },
-    {
-      "title": "Most enterprises will hand root cause analysis to AI agents within two years",
-      "link": "https://thenewstack.io/elastic-agentic-observability-enterprise-adoption",
-      "summary": "For decades, software engineers have been the eyes and ears of enterprises, combing through voluminous logs, observability tools, consoles, browser The post Most enterprises will hand root cause analysis to AI agents within two years appeared first on The New Stack .",
-      "published": "2026-07-08T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "TNS Staff",
-      "categories": [
-        "AI Agents",
-        "AI Operations",
-        "Observability",
-        "sponsor-elastic",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“Nature is the most computationally efficient system we know”: How Refiant used swarm optimization to build a 10-million-token AI model",
-      "link": "https://thenewstack.io/refiant-protea-swarm-optimization",
-      "summary": "While the household-name frontier models race forward with version numbers and context windows of at least a million tokens, a The post “Nature is the most computationally efficient system we know”: How Refiant used swarm optimization to build a 10-million-token AI model appeared first on The New...",
-      "published": "2026-07-08T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI Infrastructure",
-        "AI Models",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Entire is building a Git network for agents",
-      "link": "https://thenewstack.io/entire-git-for-agents",
-      "summary": "Thomas Dohmke, who stepped down as GitHub’s CEO last year to become a founder again, is opening a preview of The post Entire is building a Git network for agents appeared first on The New Stack .",
-      "published": "2026-07-08T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Infrastructure",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Announcing etcd v3.7.0",
-      "link": "https://kubernetes.io/blog/2026/07/08/announcing-etcd-3.7",
-      "summary": "This article is a mirror of the original announcement Today, SIG etcd is releasing etcd v3.7.0 , the latest minor release of the popular distributed key-value store and core Kubernetes component. v3.7 ships the long-requested RangeStream feature, delivers several other performance improvements,...",
-      "published": "2026-07-08T12:00:00+00:00",
-      "source": "Kubernetes Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Network boundary for AI agents using NGINX and OpenTelemetry",
-      "link": "https://www.cncf.io/blog/2026/07/08/network-boundary-for-ai-agents-using-nginx-and-opentelemetry",
-      "summary": "I recently had an interesting conversation at a KCD about OpenClaw with one of the attendees, and they remarked that they wouldn’t put an agent in their network, because “we don’t know what that thing really...",
-      "published": "2026-07-08T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Marko Sluga, F5",
-      "categories": [
-        "Blog"
       ],
       "thumbnail": ""
     }
