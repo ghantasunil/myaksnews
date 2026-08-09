@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-08-08T06:36:11.911334+00:00",
-    "total_items": 315,
+    "generated_at": "2026-08-09T06:39:42.794376+00:00",
+    "total_items": 308,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,90 @@
     ]
   },
   "items": [
+    {
+      "title": "A Beginner's Guide to Prompt Engineering for Engineers",
+      "link": "https://kodekloud.com/blog/prompt-engineering-for-engineers-beginners-guide",
+      "summary": "Half the prompt engineering advice online was written for models that no longer exist. Here is what still earns its keep, what quietly stopped mattering, and the skill that replaced it.",
+      "published": "2026-08-08T16:30:57+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "Prompt Engineering",
+        "AI",
+        "LLM",
+        "Context Engineering",
+        "DevOps",
+        "OpenAI",
+        "Cloud",
+        "AI and Machine Learning"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI adoption isn’t the same as AI usage",
+      "link": "https://thenewstack.io/ai-adoption-versus-usage",
+      "summary": "Every engineering org I’ve talked to this year has some version of the same chart. Seat activations climbing. Token spend The post AI adoption isn’t the same as AI usage appeared first on The New Stack .",
+      "published": "2026-08-08T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Harshal Shah",
+      "categories": [
+        "AI Engineering",
+        "AI Strategy",
+        "Developer tools",
+        "sponsor-webflow",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why your KubeVirt VMs can’t move between clusters — and how EVPN fixes it",
+      "link": "https://thenewstack.io/kubevirt-evpn-vm-migration",
+      "summary": "Your team has moved VMs to Kubernetes with KubeVirt. The workloads are running. The team is gaining confidence. Then someone The post Why your KubeVirt VMs can’t move between clusters — and how EVPN fixes it appeared first on The New Stack .",
+      "published": "2026-08-08T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Miguel Duarte Barroso",
+      "categories": [
+        "Kubernetes",
+        "Networking",
+        "Platform Engineering",
+        "sponsor-cncf",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Five AI rivals just backed a shared plugin standard. Here’s why it matters for developers.",
+      "link": "https://thenewstack.io/agent-plugins-open-standard",
+      "summary": "OpenAI, AWS, Cursor, GitHub and Microsoft have backed Agent Plugins 1.0.0, a portable package format for reusable components that extends The post Five AI rivals just backed a shared plugin standard. Here’s why it matters for developers. appeared first on The New Stack .",
+      "published": "2026-08-08T13:50:59+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Agents",
+        "Developer tools",
+        "Model Context Protocol (MCP)"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI skills start on laptops. Enterprises inherit the mess.",
+      "link": "https://thenewstack.io/speakeasy-enterprise-agent-skills",
+      "summary": "“It’s unrealistic to expect an admin to have context over how every skill in a company should be optimally performing,” The post AI skills start on laptops. Enterprises inherit the mess. appeared first on The New Stack .",
+      "published": "2026-08-08T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "David Eastman",
+      "categories": [
+        "AI Agents",
+        "Developer tools",
+        "Observability"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Announcing Grafana 13 Support in Azure Managed Grafana",
       "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-grafana-13-support-in-azure-managed-grafana/ba-p/4545199",
@@ -4468,185 +4552,6 @@
       "author": "Rawkode Academy",
       "categories": [],
       "thumbnail": "https://i.ytimg.com/vi/5_us1xfYpOE/mqdefault.jpg"
-    },
-    {
-      "title": "Meta debuts Muse Spark 1.1 — its first paid AI model",
-      "link": "https://thenewstack.io/meta-muse-spark-api",
-      "summary": "Meta on Thursday rolled out Muse Spark 1.1, a major update to its AI platform, just three months after launching The post Meta debuts Muse Spark 1.1 — its first paid AI model appeared first on The New Stack .",
-      "published": "2026-07-09T22:22:15+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Models",
-        "AI Strategy",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Navigating the ingress-NGINX retirement",
-      "link": "https://www.cncf.io/blog/2026/07/09/navigating-the-ingress-nginx-retirement",
-      "summary": "1. The Post-March 2026 landscape ⚠ The CatalystAcknowledge the March 2026 retirement of the Kubernetes SIG Network ingress-nginx controller. Staying on this controller introduces severe operational risks, including unpatched CVEs and a complete halt of feature...",
-      "published": "2026-07-09T20:45:02+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Sunny Chan, TCC Consulting",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI is folding Codex into the ChatGPT app — and taking aim at Claude Cowork",
-      "link": "https://thenewstack.io/openai-codex-work-atlas",
-      "summary": "OpenAI’s GPT-5.6 launch on Thursday was widely expected, but in addition to the new models, the company also made a The post OpenAI is folding Codex into the ChatGPT app — and taking aim at Claude Cowork appeared first on The New Stack .",
-      "published": "2026-07-09T18:55:19+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI Agents",
-        "AI Models",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI’s GPT-5.6 is now live",
-      "link": "https://thenewstack.io/openai-gpt-56-live",
-      "summary": "As expected, OpenAI on Thursday made its family of GPT-5.6 models available to its app and API users globally. This The post OpenAI’s GPT-5.6 is now live appeared first on The New Stack .",
-      "published": "2026-07-09T18:16:05+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Enterprise AI benchmarks are broken",
-      "link": "https://thenewstack.io/enterprise-ai-benchmarks-are-broken",
-      "summary": "Every enterprise software vendor claims its AI agent is production-ready, but how to measure it remains up in the air. The The post Enterprise AI benchmarks are broken appeared first on The New Stack .",
-      "published": "2026-07-09T17:51:08+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI Agents",
-        "AI Operations",
-        "Model Context Protocol (MCP)"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Jensen Huang says traditional coding is dead. Here’s what comes next.",
-      "link": "https://thenewstack.io/huang-engineers-building-ai-agents",
-      "summary": "Traditional coding is at a crossroads. The manual process of writing syntax like Python is rapidly being replaced by agentic The post Jensen Huang says traditional coding is dead. Here’s what comes next. appeared first on The New Stack .",
-      "published": "2026-07-09T17:43:25+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Tech Careers"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why a five-minute sniff test is your secret supply chain defense",
-      "link": "https://thenewstack.io/sbom-sniff-test-hardened-images",
-      "summary": "In its updated 2025 guidance on SBOMs, the Cybersecurity and Infrastructure Security Agency (CISA) states, “An SBOM should include information The post Why a five-minute sniff test is your secret supply chain defense appeared first on The New Stack .",
-      "published": "2026-07-09T16:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Christian Dupuis",
-      "categories": [
-        "Compliance",
-        "Containers",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "This one AI Platform can make you AI Platform Engineer 🚀",
-      "link": "https://www.youtube.com/watch?v=4GSmacqk2sM",
-      "summary": "Get Started with Coder Agents for FREE:\nhttps://fandf.co/4uO2lQQ\n\nRecently I came across Coder Agents, and I think it could be one of the most important AI tools Platform Engineers should be paying attention to.\n\nIn this video we're going to cover:\n- The problem Coder Agents is trying to solve\n-...",
-      "published": "2026-07-09T15:31:04+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/4GSmacqk2sM/mqdefault.jpg"
-    },
-    {
-      "title": "Develop like you deploy: closing the Kubernetes local-to-cluster gap",
-      "link": "https://thenewstack.io/krumware-epinio-kubernetes-mcp",
-      "summary": "Despite significant investments and technological developments in platform engineering over the past decade, most developers still face the same problem The post Develop like you deploy: closing the Kubernetes local-to-cluster gap appeared first on The New Stack .",
-      "published": "2026-07-09T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Katie Tincello",
-      "categories": [
-        "Kubernetes",
-        "Model Context Protocol (MCP)",
-        "Platform Engineering",
-        "sponsor-krumware",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The “silent hallucination” loop: how our autonomous data pipeline poisoned its own vector store",
-      "link": "https://thenewstack.io/silent-llm-hallucination-loop",
-      "summary": "Nothing matches the dread of checking a perfectly green observability dashboard with sub-100ms latency, right before an enterprise client emails The post The “silent hallucination” loop: how our autonomous data pipeline poisoned its own vector store appeared first on The New Stack .",
-      "published": "2026-07-09T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Emmanuel Akita",
-      "categories": [
-        "AI Engineering",
-        "Data",
-        "Large Language Models",
-        "sponsor-andela",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Agentic AI in observability: accelerating root cause analysis",
-      "link": "https://thenewstack.io/agentic-ai-observability-operations",
-      "summary": "The growing development, promise, and use of generative AI and agentic AI continue to drive dramatic change in the IT The post Agentic AI in observability: accelerating root cause analysis appeared first on The New Stack .",
-      "published": "2026-07-09T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "TNS Staff",
-      "categories": [
-        "AI Agents",
-        "AI Operations",
-        "Observability",
-        "sponsor-elastic",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“The Switzerland of AI”: OpenClaw becomes a non-profit foundation",
-      "link": "https://thenewstack.io/openclaw-foundation-nonprofit-status",
-      "summary": "OpenClaw has undoubtedly been one of the big AI success stories of 2026, an example of how far an open-source The post “The Switzerland of AI”: OpenClaw becomes a non-profit foundation appeared first on The New Stack .",
-      "published": "2026-07-09T12:44:35+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Open Source"
-      ],
-      "thumbnail": ""
     }
   ]
 }
