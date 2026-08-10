@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-08-09T06:39:42.794376+00:00",
-    "total_items": 308,
+    "generated_at": "2026-08-10T07:12:59.629660+00:00",
+    "total_items": 306,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,102 @@
     ]
   },
   "items": [
+    {
+      "title": "A simpler way to deploy ZIP packages to Azure App Service from the Azure portal",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/a-simpler-way-to-deploy-zip-packages-to-azure-app-service-from/ba-p/4545430",
+      "summary": "We recently introduced a simpler way to deploy applications to Azure App Service for Linux by uploading a ZIP package through Kudu. The experience lets you review the package contents, choose whether to run a server-side build, and follow the deployment through its different stages. This capability...",
+      "published": "2026-08-10T06:42:46+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "TulikaC",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Blue Green and Canary Deployments Explained",
+      "link": "https://kodekloud.com/blog/blue-green-and-canary-deployments-explained",
+      "summary": "Both strategies buy you the same thing, which is a cheap way to be wrong. The mechanism is the easy part, and the two hard parts are noticing you are wrong and dealing with the database.",
+      "published": "2026-08-09T16:30:08+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "Deployment Strategies",
+        "CI/CD",
+        "CI/CD Pipeline",
+        "SRE",
+        "Release Management",
+        "Automation",
+        "DevOps",
+        "Cloud",
+        "Kubernetes"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Platform Engineering ROI: What it costs to build your own platform",
+      "link": "https://thenewstack.io/real-cost-diy-platform",
+      "summary": "What it actually costs to build your own internal developer platform over five years, and why most “we’ll just build The post Platform Engineering ROI: What it costs to build your own platform appeared first on The New Stack .",
+      "published": "2026-08-09T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Michael Coté",
+      "categories": [
+        "DevOps",
+        "Platform Engineering",
+        "Software Development",
+        "sponsor-vmware-tanzu",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why Every AI Project Ends With Five Logins and Three Credit Cards",
+      "link": "https://kodekloud.com/blog/one-api-key-multiple-llms",
+      "summary": "Why AI projects end up with five logins and three invoices, and how one API key for multiple LLMs turns switching models into a one word change.",
+      "published": "2026-08-09T15:43:24+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "AI",
+        "KodeKey",
+        "LLM"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Coding agents can be evaluated. We just have to evaluate the work.",
+      "link": "https://thenewstack.io/evaluating-coding-agents-framework",
+      "summary": "I recently argued with a software factory provider, whose position was that coding agents cannot be evaluated. Their reasoning was The post Coding agents can be evaluated. We just have to evaluate the work. appeared first on The New Stack .",
+      "published": "2026-08-09T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Pete Hampton",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Software Testing",
+        "sponsor-clickhouse",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI coding got faster. Why didn’t engineering?",
+      "link": "https://thenewstack.io/ai-productivity-measurement-gap",
+      "summary": "AI is great at making individuals faster, but the surrounding systems are then slowing everything right back down. This result The post AI coding got faster. Why didn’t engineering? appeared first on The New Stack .",
+      "published": "2026-08-09T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jennifer Riggins",
+      "categories": [
+        "AI Engineering",
+        "AI Strategy",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "A Beginner's Guide to Prompt Engineering for Engineers",
       "link": "https://kodekloud.com/blog/prompt-engineering-for-engineers-beginners-guide",
@@ -232,6 +328,17 @@
       "thumbnail": ""
     },
     {
+      "title": "Azure Update 7th August 2026",
+      "link": "https://www.youtube.com/watch?v=nys8Uj16gbI",
+      "summary": "Yay, Friday!\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation queue never to be seen so...",
+      "published": "2026-08-07T15:21:36+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/nys8Uj16gbI/mqdefault.jpg"
+    },
+    {
       "title": "The “AI kill switch” assumes you know what you are trying to shut down",
       "link": "https://thenewstack.io/ai-kill-switch-infrastructure",
       "summary": "“AI kill switch” entered the public conversation because it gives people a simple way to talk about a complex fear. The post The “AI kill switch” assumes you know what you are trying to shut down appeared first on The New Stack .",
@@ -247,6 +354,17 @@
         "sponsored-post-contributed"
       ],
       "thumbnail": ""
+    },
+    {
+      "title": "Claude Code + Open Router + Deep Seek V4 Flash (Complete setup)",
+      "link": "https://www.youtube.com/watch?v=1CShnHMx0Uk",
+      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nGitHub repo link:\nhttps://gist.github.com/iam-veeramalla/11dc1508f1557a0d6b6d59702b83c0ee\n\nLearn how to configure Claude Code with OpenRouter and use DeepSeek V4 Flash as your coding model in this complete...",
+      "published": "2026-08-07T12:43:11+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/1CShnHMx0Uk/mqdefault.jpg"
     },
     {
       "title": "Getting Started With Kubernetes",
@@ -4407,151 +4525,6 @@
         "AI"
       ],
       "thumbnail": ""
-    },
-    {
-      "title": "Where should AI workloads run? A sovereign and sensible approach",
-      "link": "https://www.cncf.io/blog/2026/07/10/where-should-ai-workloads-run-a-sovereign-and-sensible-approach",
-      "summary": "Opinions on AI range from transformative optimism to deep skepticism, but one thing is clear: AI is becoming an increasingly important part of enterprise technology strategies. Feel free to pick whichever you like. But whatever you...",
-      "published": "2026-07-10T23:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Johannes Hemminger and Martin Hafner, KubeOps",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Meta’s Iris push signals the next phase of AI infrastructure",
-      "link": "https://thenewstack.io/meta-iris-ai-chip",
-      "summary": "Meta is preparing to manufacture its own AI chip for the first time. According to an internal memo, the company The post Meta’s Iris push signals the next phase of AI infrastructure appeared first on The New Stack .",
-      "published": "2026-07-10T17:02:09+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Infrastructure",
-        "Cloud Services",
-        "Hardware"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why retrieval quality is becoming the defining challenge in AI agent architecture",
-      "link": "https://thenewstack.io/retrieval-ai-agent-architecture",
-      "summary": "Agentic systems usually have two jobs: Build context, then use that context to produce an answer or action. Many failures The post Why retrieval quality is becoming the defining challenge in AI agent architecture appeared first on The New Stack .",
-      "published": "2026-07-10T16:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Isaac Flath",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "AI Infrastructure",
-        "sponsor-vespa-ai",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Azure Update 10th July 2026",
-      "link": "https://www.youtube.com/watch?v=6bIsgofHE_c",
-      "summary": "Nice selection of updates this week!\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation queue...",
-      "published": "2026-07-10T15:33:36+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/6bIsgofHE_c/mqdefault.jpg"
-    },
-    {
-      "title": "What running Kubernetes across millions of clusters taught AWS about zonal failures",
-      "link": "https://thenewstack.io/eks-zonal-shift-resilience",
-      "summary": "Handling the obvious failures is the easy part: a server goes down, you spin up another. The failures that actually The post What running Kubernetes across millions of clusters taught AWS about zonal failures appeared first on The New Stack .",
-      "published": "2026-07-10T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Raghav Tripathi",
-      "categories": [
-        "Cloud Services",
-        "Kubernetes",
-        "Operations",
-        "sponsor-aws-marketplace",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic wants you to use AI to decide whether or not you should use AI.",
-      "link": "https://thenewstack.io/claude-reflection-ai-judgment",
-      "summary": "On Thursday, Anthropic released reflection, a new feature that lets users track and review their Claude activity. Available now in beta The post Anthropic wants you to use AI to decide whether or not you should use AI. appeared first on The New Stack .",
-      "published": "2026-07-10T14:14:40+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "AI Engineering",
-        "Developer tools",
-        "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI, Microsoft & Anthropic agree on who runs the agent. They disagree on what you can take back.",
-      "link": "https://thenewstack.io/ai-agent-control-planes",
-      "summary": "OpenAI announced ChatGPT Work on July 9 and began rolling it out to Pro, Enterprise, and Edu users. It runs The post OpenAI, Microsoft & Anthropic agree on who runs the agent. They disagree on what you can take back. appeared first on The New Stack .",
-      "published": "2026-07-10T14:11:49+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Janakiram MSV",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "AI Strategy"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“Every IC engineer is really a front line manager now.” But are they productive?",
-      "link": "https://thenewstack.io/ai-engineering-productivity",
-      "summary": "Saying AI has changed the way software engineers work is an understatement, but Cameron Etezadi, CTO, LaunchDarkly and former VP The post “Every IC engineer is really a front line manager now.” But are they productive? appeared first on The New Stack .",
-      "published": "2026-07-10T12:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "AI Engineering",
-        "Developer tools",
-        "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why zero vulnerability code packages could still be your biggest software supply chain risk",
-      "link": "https://thenewstack.io/zero-cve-supply-chain-risk",
-      "summary": "The unwelcome specter of software supply chain security threats has been the main character in the narrative security specialists have The post Why zero vulnerability code packages could still be your biggest software supply chain risk appeared first on The New Stack .",
-      "published": "2026-07-10T11:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI",
-        "DevOps",
-        "Open Source",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Hands-on Introduction to Iroh | Rawkode Live",
-      "link": "https://www.youtube.com/watch?v=5_us1xfYpOE",
-      "summary": "Join Brendan O'Brien for a hands-on introduction to **Iroh**, the peer-to-peer networking library that makes direct device-to-device connections simple, secure, and reliable.\n\nIn this live session, we explore:\n\n* What Iroh is and the problems it solves\n* How its networking model works\n* Building...",
-      "published": "2026-07-10T07:02:55+00:00",
-      "source": "Rawkode Academy",
-      "type": "video",
-      "author": "Rawkode Academy",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/5_us1xfYpOE/mqdefault.jpg"
     }
   ]
 }
