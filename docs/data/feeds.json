@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-08-10T07:12:59.629660+00:00",
-    "total_items": 306,
+    "generated_at": "2026-08-11T06:50:48.796287+00:00",
+    "total_items": 311,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,147 @@
     ]
   },
   "items": [
+    {
+      "title": "Learning Cloud-Native Engineering Beyond Tutorials Through LFX",
+      "link": "https://www.cncf.io/blog/2026/08/10/learning-cloud-native-engineering-beyond-tutorials-through-lfx",
+      "summary": "I joined the LFX mentorship expecting to spend three months writing documentation. A few weeks later, I was deploying OpenTelemetry Collectors across AWS EC2 instances, debugging networking problems between machines, and trying to understand why a...",
+      "published": "2026-08-10T23:43:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Uzochukwu Nweneary | LFX Mentee",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI built a model it doesn’t want most people to use",
+      "link": "https://thenewstack.io/openai-gpt56-cyber-daybreak",
+      "summary": "OpenAI on Monday released GPT-5.6 Cyber, a model trained for security work that general-purpose models routinely block. It’s now available The post OpenAI built a model it doesn’t want most people to use appeared first on The New Stack .",
+      "published": "2026-08-10T21:15:15+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Models",
+        "Large Language Models",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "What Is a Container Registry and How to Use One",
+      "link": "https://kodekloud.com/blog/what-is-a-container-registry-and-how-to-use-one",
+      "summary": "A tag is a bookmark somebody else can move. A digest is the image itself. Once that distinction lands, reproducible builds, supply chain security, and every it worked yesterday mystery make sense.",
+      "published": "2026-08-10T17:48:35+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "Docker",
+        "Containers",
+        "Container Registry",
+        "Kubernetes",
+        "DevOps",
+        "Cloud",
+        "Harbor",
+        "CI/CD",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Meta’s Muse Glimmer fits on a laptop",
+      "link": "https://thenewstack.io/meta-glimmer-distillation-agents",
+      "summary": "Meta released Muse Glimmer on Monday, a 30-billion-parameter open-weight model designed to run agentic workflows on local hardware. It’s available The post Meta’s Muse Glimmer fits on a laptop appeared first on The New Stack .",
+      "published": "2026-08-10T17:16:20+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Engineering",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "CNCF Reveals KubeCon + CloudNativeCon North America 2026 Schedule, Adds New AI Inference + Agentic Track",
+      "link": "https://www.cncf.io/announcements/2026/08/10/cncf-reveals-kubecon-cloudnativecon-north-america-2026-schedule-adds-new-ai-inference-agentic-track",
+      "summary": "Flagship event returns November 9–12 with sessions on production AI, platform engineering and cloud native security Key Highlights SAN FRANCISCO, Aug. 7, 2026 – The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for cloud...",
+      "published": "2026-08-10T16:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "kthornhill",
+      "categories": [
+        "Announcements"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Pulling multi-gigabyte container images in seconds on Amazon EKS",
+      "link": "https://thenewstack.io/accelerating-eks-image-pulls",
+      "summary": "When the image is the bottleneck: Machine learning changed what a container image looks like. A typical application ships in The post Pulling multi-gigabyte container images in seconds on Amazon EKS appeared first on The New Stack .",
+      "published": "2026-08-10T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Sri Saran Balaji Vellore Rajakumar",
+      "categories": [
+        "AI Infrastructure",
+        "Containers",
+        "Kubernetes",
+        "sponsor-aws-marketplace",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Meta Muse Code vs. Fable 5: Meta Muse is cheaper, but at what cost?",
+      "link": "https://thenewstack.io/meta-muse-claude-code",
+      "summary": "Meta released Muse Code on August 5, its first AI coding agent, built on the new Muse Spark 1.2 model. The post Meta Muse Code vs. Fable 5: Meta Muse is cheaper, but at what cost? appeared first on The New Stack .",
+      "published": "2026-08-10T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jessica Wachtel",
+      "categories": [
+        "AI Agents",
+        "Developer tools",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“It blows my mind”-“It has a tendency to overengineer things a little”: Developers react to road-testing OpenAI GPT‑5.6 Sol",
+      "link": "https://thenewstack.io/developers-review-gpt-56-sol",
+      "summary": "OpenAI made its family of GPT-5.6 models available to its app and API users globally at the start of July. The post “It blows my mind”-“It has a tendency to overengineer things a little”: Developers react to road-testing OpenAI GPT‑5.6 Sol appeared first on The New Stack .",
+      "published": "2026-08-10T14:28:08+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI",
+        "AI Models",
+        "Developer tools",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "V4-Flash vs. V4-Pro: DeepSeek promised better and cheaper. It’s true,  but not how I expected.",
+      "link": "https://thenewstack.io/deepseek-flash-pro-benchmark",
+      "summary": "DeepSeek, the Chinese AI lab that’s been undercutting OpenAI and Anthropic on price since it arrived, recently refreshed V4-Flash, moving The post V4-Flash vs. V4-Pro: DeepSeek promised better and cheaper. It’s true,  but not how I expected. appeared first on The New Stack .",
+      "published": "2026-08-10T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jessica Wachtel",
+      "categories": [
+        "AI Engineering",
+        "AI Models",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "A simpler way to deploy ZIP packages to Azure App Service from the Azure portal",
       "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/a-simpler-way-to-deploy-zip-packages-to-azure-app-service-from/ba-p/4545430",
@@ -4461,68 +4602,6 @@
         "AI Infrastructure",
         "Cloud Services",
         "Observability"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "85% say code review is the new bottleneck. Here’s what the AI coding narrative leaves out.",
-      "link": "https://thenewstack.io/merge-gate-coding-agents",
-      "summary": "A merge is a contract. The moment a change lands on main, every other team in the organization starts building The post 85% say code review is the new bottleneck. Here’s what the AI coding narrative leaves out. appeared first on The New Stack .",
-      "published": "2026-07-11T17:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Arjun Iyer",
-      "categories": [
-        "AI Agents",
-        "CI/CD",
-        "Microservices",
-        "sponsor-signadot",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The impressive AI demo is dead. Here’s what actually reaches production",
-      "link": "https://thenewstack.io/ai-production-data-problem",
-      "summary": "Most engineering teams I talk to can ship an AI demo. The prototype works, stakeholders are impressed, and everyone agrees The post The impressive AI demo is dead. Here’s what actually reaches production appeared first on The New Stack .",
-      "published": "2026-07-11T16:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Andrew Sellers",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Data Streaming",
-        "sponsor-confluent",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Microsoft joins Google in backing Go for AI agents — OpenAI and Anthropic lag",
-      "link": "https://thenewstack.io/microsoft-agent-framework-go",
-      "summary": "Go has emerged as the lingua franca for cloud infrastructure, used for everything from container orchestration and CI/CD pipelines to The post Microsoft joins Google in backing Go for AI agents — OpenAI and Anthropic lag appeared first on The New Stack .",
-      "published": "2026-07-11T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Go"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "In 24 hours, OpenAI, SpaceXAI, and Meta turned AI into a race to the bottom on price",
-      "link": "https://thenewstack.io/openai-spacexai-meta-price-war",
-      "summary": "I’m Matt Burns, Chief Content Officer at Insight Media Group. Each week, I round up the most important AI developments, The post In 24 hours, OpenAI, SpaceXAI, and Meta turned AI into a race to the bottom on price appeared first on The New Stack .",
-      "published": "2026-07-11T10:30:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Matthew Burns",
-      "categories": [
-        "AI"
       ],
       "thumbnail": ""
     }
