@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-08-15T06:22:09.390738+00:00",
-    "total_items": 316,
+    "generated_at": "2026-08-16T06:24:16.456107+00:00",
+    "total_items": 309,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,56 @@
     ]
   },
   "items": [
+    {
+      "title": "How to Find Large Files in Linux (and the Directories Hiding Them)",
+      "link": "https://kodekloud.com/blog/find-large-files-in-linux",
+      "summary": "Find large files in Linux fast: rank every directory with du and sort, then name the files over 100MB with find. Real commands, real output.",
+      "published": "2026-08-15T16:54:04+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "Linux"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "A Beginner's Guide to Vector Databases",
+      "link": "https://kodekloud.com/blog/a-beginners-guide-to-vector-databases",
+      "summary": "A vector database searches by meaning instead of by words. Once you see how that works, you will also spot why you might already own one without knowing it.",
+      "published": "2026-08-15T16:30:20+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "Vector Database",
+        "AI",
+        "Embeddings",
+        "RAG",
+        "Postgres",
+        "Machine Learning",
+        "DevOps",
+        "Cloud"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Per-developer environments were the goal. Agents moved the goalposts.",
+      "link": "https://thenewstack.io/new-tenant-is-change",
+      "summary": "Multi-tenancy has moved in one direction for 60 years: the tenant keeps getting smaller. Mainframe time-sharing carved a single machine The post Per-developer environments were the goal. Agents moved the goalposts. appeared first on The New Stack .",
+      "published": "2026-08-15T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Arjun Iyer",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Platform Engineering",
+        "sponsor-signadot",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Grok 4.6 matched Fable 5 Max at an 85% discount. Downloadable models set that price.",
       "link": "https://thenewstack.io/grok-4-6-matched-fable-5-max",
@@ -64,6 +114,17 @@
         "Open Source"
       ],
       "thumbnail": ""
+    },
+    {
+      "title": "AKS Community Calls - August 2026",
+      "link": "https://www.youtube.com/watch?v=X3sG0w8L3iM",
+      "summary": "Agenda - August 2026\n - Welcome & Announcements\n - Feature Deepdive: Kubernetes Center in Azure\n - Feature Deepdive: Azure Kubernetes Fleet Manager Workload Placement\n - Feature Roadmap\n - Q&A Session",
+      "published": "2026-08-14T18:09:18+00:00",
+      "source": "AKS (Official)",
+      "type": "video",
+      "author": "Azure Kubernetes Service (AKS)",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/X3sG0w8L3iM/mqdefault.jpg"
     },
     {
       "title": "Networking Concepts Every DevOps Engineer Needs to Know",
@@ -112,6 +173,17 @@
         "Large Language Models"
       ],
       "thumbnail": ""
+    },
+    {
+      "title": "Azure Update 14th August 2026",
+      "link": "https://www.youtube.com/watch?v=KPNPsO-72Kw",
+      "summary": "Quick update but nice milestone hit this week. Thank you for all the support.\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they...",
+      "published": "2026-08-14T15:17:52+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/KPNPsO-72Kw/mqdefault.jpg"
     },
     {
       "title": "Your container images are unsigned. In the AI era, that’s a ticking time bomb.",
@@ -4113,6 +4185,17 @@
       "thumbnail": ""
     },
     {
+      "title": "Don't Waste Your Bench Period: A Real DevOps Strategy",
+      "link": "https://www.youtube.com/watch?v=ACG4dCwmw4M",
+      "summary": "Are you currently on the bench or serving a notice period at a service-based IT company? It is easy to treat this idle time like a paid vacation, but doing so could leave you with an embarrassing career gap. Give me 10 minutes, and I will show you how to turn your bench period into a free,...",
+      "published": "2026-07-20T10:00:06+00:00",
+      "source": "Piyush Sachdeva",
+      "type": "video",
+      "author": "Tech Tutorials with Piyush",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/ACG4dCwmw4M/mqdefault.jpg"
+    },
+    {
       "title": "AI in SRE: What's Changing (and What Isn't)",
       "link": "https://kodekloud.com/blog/ai-in-sre-whats-changing",
       "summary": "AI in SRE is real for toil and oversold as autopilot. What DORA and SRE data actually show, what's changing, and what stays human.",
@@ -4517,195 +4600,6 @@
       "author": "Rawkode Academy",
       "categories": [],
       "thumbnail": "https://i.ytimg.com/vi/5t28uwZL-rE/mqdefault.jpg"
-    },
-    {
-      "title": "Why Every DevOps Engineer Should Learn AI",
-      "link": "https://kodekloud.com/blog/why-devops-engineers-should-learn-ai",
-      "summary": "AI is now near-universal and widely distrusted at once. Why every DevOps engineer should learn it, what that really means, and how to start.",
-      "published": "2026-07-17T06:15:33+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "AI",
-        "DevOps"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AI hasn’t shifted the bottleneck from coding to code review",
-      "link": "https://thenewstack.io/ai-code-bottleneck-myth",
-      "summary": "Why we’ve stopped noticing the real improvement opportunity Since AI arrived, many people have mentioned that the bottleneck has shifted The post AI hasn’t shifted the bottleneck from coding to code review appeared first on The New Stack .",
-      "published": "2026-07-16T18:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Steve Fenton",
-      "categories": [
-        "AI Strategy",
-        "DevOps",
-        "Software Development",
-        "Contributed",
-        "contributed-octopus-deploy"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "GoDaddy opened its registrar to AI agents. Then it had to build guardrails.",
-      "link": "https://thenewstack.io/godaddy-developer-platform-domains",
-      "summary": "On Wednesday, GoDaddy launched its new developer platform, giving developers a way to manage domains without leaving their development environment. The post GoDaddy opened its registrar to AI agents. Then it had to build guardrails. appeared first on The New Stack .",
-      "published": "2026-07-16T17:48:29+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "API Management",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "You don’t have a deployment problem. You have a validation problem.",
-      "link": "https://thenewstack.io/solving-the-validation-problem",
-      "summary": "Ask a platform team about their deployment capabilities, and you will usually hear a genuinely impressive story. Progressive rollouts that The post You don’t have a deployment problem. You have a validation problem. appeared first on The New Stack .",
-      "published": "2026-07-16T17:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Arjun Iyer",
-      "categories": [
-        "AI Agents",
-        "Kubernetes",
-        "Platform Engineering",
-        "sponsor-signadot",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "CNCF Strengthens Partnership with Broadcom as a Platinum Member to Advance AI-Ready Cloud Native Infrastructure",
-      "link": "https://www.cncf.io/announcements/2026/07/16/cncf-strengthens-partnership-with-broadcom-as-a-platinum-member-to-to-advance-ai-ready-cloud-native-infrastructure",
-      "summary": "Collaboration with CNCF reflects Broadcom’s continued investment in open source innovation, cloud native resilience and the technologies powering the next generation of AI workloads Key Highlights SAN FRANCISCO, California  — July 16, 2026 — The Cloud...",
-      "published": "2026-07-16T16:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Haley White",
-      "categories": [
-        "Announcements"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why smarter AI caching sometimes makes everything slower",
-      "link": "https://thenewstack.io/redis-vector-caching-tradeoffs",
-      "summary": "Caching was one of the most critical optimizations in modern AI systems long before most teams realized it. Early prototypes The post Why smarter AI caching sometimes makes everything slower appeared first on The New Stack .",
-      "published": "2026-07-16T16:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Zziwa Raymond Ian",
-      "categories": [
-        "AI Engineering",
-        "AI Infrastructure",
-        "Databases",
-        "sponsor-andela",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Hands-on Introduction to Kueue | Rawkode Live",
-      "link": "https://www.youtube.com/watch?v=B2YrGiWA_oI",
-      "summary": "Join Amy Chen for a hands-on introduction to **Kueue**, the Kubernetes-native job queueing system for batch, HPC, and AI/ML workloads.\n\nKubernetes knows how to schedule Pods, but running large collections of resource-intensive jobs introduces another set of challenges. Which workloads should start...",
-      "published": "2026-07-16T15:17:33+00:00",
-      "source": "Rawkode Academy",
-      "type": "video",
-      "author": "Rawkode Academy",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/B2YrGiWA_oI/mqdefault.jpg"
-    },
-    {
-      "title": "Linux creator Linus Torvalds tells AI haters to walk away from Linux, or go fork it",
-      "link": "https://thenewstack.io/torvalds-linux-ai-stance",
-      "summary": "Creator of the Linux kernel, Linus Torvalds, has refreshed his stance on the use of AI in software development with The post Linux creator Linus Torvalds tells AI haters to walk away from Linux, or go fork it appeared first on The New Stack .",
-      "published": "2026-07-16T15:15:14+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI Engineering",
-        "Linux",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI’s GPT-Red automates prompt injection testing to harden AI agents",
-      "link": "https://thenewstack.io/gpt-red-prompt-injection-testing",
-      "summary": "Now that AI agents are performing real tasks rather than just generating text, the old methods of manual security testing The post OpenAI’s GPT-Red automates prompt injection testing to harden AI agents appeared first on The New Stack .",
-      "published": "2026-07-16T14:58:18+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Engineering",
-        "AI Models",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "MCP Enterprise Authorization Is Here — What Entra and App Service Can Do Today",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/mcp-enterprise-authorization-is-here-what-entra-and-app-service/ba-p/4537433",
-      "summary": "A few weeks ago I wrote about what the latest MCP changes meant for scaling on Azure App Service. This time, the protocol change is about a different kind of scale: how an enterprise connects hundreds or thousands of employees to MCP servers without making every person authorize every server one at...",
-      "published": "2026-07-16T14:31:39+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "jordanselig",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "“There are no laws, only suggestions”: What AI agents do with your instructions",
-      "link": "https://thenewstack.io/ai-agents-no-laws",
-      "summary": "Nine days into a twelve-day experiment with an AI coding agent, SaaStr founder Jason Lemkin had one instruction on file: The post “There are no laws, only suggestions”: What AI agents do with your instructions appeared first on The New Stack .",
-      "published": "2026-07-16T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Zeen Rachidi",
-      "categories": [
-        "AI Agents",
-        "Security",
-        "Software Development",
-        "sponsor-env-zero",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Running a self-hosted LLM in Kubernetes with vLLM",
-      "link": "https://www.cncf.io/blog/2026/07/16/running-a-self-hosted-llm-in-kubernetes-with-vllm",
-      "summary": "Running large language model (LLM) workloads in-house is one of several patterns teams adopt alongside managed API services. Managed API services are convenient and well suited to many workloads. Self-hosting is a complementary option that some...",
-      "published": "2026-07-16T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Michael Troutman, LINBIT",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Using AI to Optimize CI/CD Pipelines",
-      "link": "https://kodekloud.com/blog/using-ai-to-optimize-cicd-pipelines",
-      "summary": "How AI actually helps in CI/CD: failure triage, flaky-test detection, and PR review, plus a real pipeline step you can copy, and the limits.",
-      "published": "2026-07-16T09:26:05+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "AI",
-        "CI/CD"
-      ],
-      "thumbnail": ""
     }
   ]
 }
