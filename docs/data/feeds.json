@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-08-16T06:24:16.456107+00:00",
-    "total_items": 309,
+    "generated_at": "2026-08-17T06:35:16.574525+00:00",
+    "total_items": 296,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -15,11 +15,43 @@
       "Kubernetes Blog",
       "Kubesimplify",
       "Piyush Sachdeva",
-      "Rawkode Academy",
       "The New Stack"
     ]
   },
   "items": [
+    {
+      "title": "What Is MCP and Why It Matters for AI Tooling",
+      "link": "https://kodekloud.com/blog/what-is-mcp-and-why-it-matters-for-ai-tooling",
+      "summary": "MCP solved a maths problem. Build each tool once instead of once per app. That one idea explains why it spread everywhere, and why the security work caught everyone out.",
+      "published": "2026-08-16T16:30:58+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "mcp",
+        "AI",
+        "LLM",
+        "DevOps",
+        "Security",
+        "Platform Engineering",
+        "AI Agents",
+        "Cloud"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How to Point a Domain to Localhost with the Hosts File",
+      "link": "https://kodekloud.com/blog/point-domain-to-localhost",
+      "summary": "Point a domain to localhost with one line in your hosts file and test cookies, auth and redirects against a real domain name, on your machine.",
+      "published": "2026-08-16T15:49:57+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "Linux"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "How to Find Large Files in Linux (and the Directories Hiding Them)",
       "link": "https://kodekloud.com/blog/find-large-files-in-linux",
@@ -4395,211 +4427,6 @@
         "Kubernetes"
       ],
       "thumbnail": ""
-    },
-    {
-      "title": "Microsoft Foundry Now Has an AI Gateway Control Plane — What Changes for App Service",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/microsoft-foundry-now-has-an-ai-gateway-control-plane-what/ba-p/4538320",
-      "summary": "In May, I published a runnable sample that put Azure API Management in front of an AI agent on Azure App Service . APIM handled token limits, semantic caching, token metrics, and access to the model. The point was simple: keep the agent framework interchangeable and put the production controls at...",
-      "published": "2026-07-17T17:04:16+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "jordanselig",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Next-Gen Kubernetes Networking with Jack Ma: AKS Me Anything: Azure Kubernetes Service",
-      "link": "https://www.youtube.com/watch?v=Rg21m1YTdBA",
-      "summary": "Discover next-gen Kubernetes application networking with Azure Kubernetes Application Network (AKS AppNet) and how it simplifies application connectivity, traffic management, and service-to-service communication for Kubernetes workloads. Built on Istio ambient mesh principles and delivered as a...",
-      "published": "2026-07-17T16:30:02+00:00",
-      "source": "AKS (Official)",
-      "type": "video",
-      "author": "Azure Kubernetes Service (AKS)",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/Rg21m1YTdBA/mqdefault.jpg"
-    },
-    {
-      "title": "AI vs Automation in DevOps: What's the Difference?",
-      "link": "https://kodekloud.com/blog/ai-vs-automation-in-devops",
-      "summary": "AI decides, automation executes. How AI and automation differ in DevOps, where each one belongs, and how to combine them safely.",
-      "published": "2026-07-17T16:13:16+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "AI",
-        "DevOps"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kimi K3 tops Arena’s coding leaderboard — and it’s open-weight",
-      "link": "https://thenewstack.io/kimi-k3-open-weight-coding",
-      "summary": "Developers building with AI have largely relied on proprietary models like Anthropic’s Fable and OpenAI’s GPT-5.6 Sol for their most The post Kimi K3 tops Arena’s coding leaderboard — and it’s open-weight appeared first on The New Stack .",
-      "published": "2026-07-17T16:07:39+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Models",
-        "Developer tools",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "1Password’s new browser integration for Claude changes how AI uses your credentials",
-      "link": "https://thenewstack.io/1password-agent-authentication-framework",
-      "summary": "As AI agents tackle more tasks, such as managing online accounts, authentication has become a practical engineering problem. For example, The post 1Password’s new browser integration for Claude changes how AI uses your credentials appeared first on The New Stack .",
-      "published": "2026-07-17T16:05:12+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "Security",
-        "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“They’re dead if they don’t offer this”: DoorDash’s CLI for agents may be out of necessity",
-      "link": "https://thenewstack.io/doordash-cli-agents-order",
-      "summary": "As AI agents evolve beyond writing code toward handling everyday tasks for people, the infrastructure required to keep them on The post “They’re dead if they don’t offer this”: DoorDash’s CLI for agents may be out of necessity appeared first on The New Stack .",
-      "published": "2026-07-17T14:36:17+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Build Impressive Linkedin Profile with just these 3 Prompts",
-      "link": "https://www.youtube.com/watch?v=O_p5g5fUT3M",
-      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nStyle 1:\n======\n- Start with the problem statement\n- Emphasize more on the problem statement\n- Talk about the potential solution to the problem\n- Introduce ApplicationSets as the solution\n- Highlight the features of...",
-      "published": "2026-07-17T13:23:09+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/O_p5g5fUT3M/mqdefault.jpg"
-    },
-    {
-      "title": "Azure Update 17th July 2026",
-      "link": "https://www.youtube.com/watch?v=bemRBrJnYvA",
-      "summary": "Really quick update\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation queue never to be seen...",
-      "published": "2026-07-17T13:15:31+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/bemRBrJnYvA/mqdefault.jpg"
-    },
-    {
-      "title": "AKS Application Network : Azure Kubernetes Service",
-      "link": "https://www.youtube.com/watch?v=8Qqwdur3fBM",
-      "summary": "Azure Kubernetes Application Networking (AppNet) provides a fully managed, ambient-based service network for AKS, enabling secure, policy-driven service-to-service communication without sidecars.\n\nAzure manages both the control plane and data plane, so you can focus on your workloads instead of...",
-      "published": "2026-07-17T13:00:39+00:00",
-      "source": "AKS (Official)",
-      "type": "video",
-      "author": "Azure Kubernetes Service (AKS)",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/8Qqwdur3fBM/mqdefault.jpg"
-    },
-    {
-      "title": "Why every AI agent decision needs a receipt",
-      "link": "https://thenewstack.io/agent-evidence-packet-analytics",
-      "summary": "A conversion-rate alert fires 30 minutes after a pricing engine deploys updated discount rules. The analytics platform holds millions of The post Why every AI agent decision needs a receipt appeared first on The New Stack .",
-      "published": "2026-07-17T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Manveer Chawla",
-      "categories": [
-        "AI Agents",
-        "Data",
-        "Observability",
-        "sponsor-clickhouse",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "From intent to enforcement: Lessons from operating Kubernetes controllers at scale",
-      "link": "https://thenewstack.io/kubernetes-controllers-at-scale",
-      "summary": "Kubernetes controllers are what make the platform’s declarative model real. They observe the state, reconcile toward the intent, and keep The post From intent to enforcement: Lessons from operating Kubernetes controllers at scale appeared first on The New Stack .",
-      "published": "2026-07-17T12:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Sri Saran Balaji Vellore Rajakumar",
-      "categories": [
-        "Kubernetes",
-        "Networking",
-        "Platform Engineering",
-        "sponsor-aws-marketplace",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Arm and Google offer a smarter option to run agentic AI workloads",
-      "link": "https://thenewstack.io/cpu-agentic-ai-axion",
-      "summary": "As enterprise leaders start deploying agentic workflows, they must establish the infrastructure to build and run them, one capable of The post Arm and Google offer a smarter option to run agentic AI workloads appeared first on The New Stack .",
-      "published": "2026-07-17T12:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Poornima Apte",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "FinOps",
-        "sponsor-arm",
-        "sponsor-google",
-        "Sponsored",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Flipkart and LitmusChaos at KubeCon + CloudNativeCon India 2026: A recap",
-      "link": "https://www.cncf.io/blog/2026/07/17/flipkart-and-litmuschaos-at-kubecon-cloudnativecon-india-2026-a-recap",
-      "summary": "KubeCon + CloudNativeCon India 2026 brought the cloud native community to Mumbai on June 18-19. For LitmusChaos, this was not just another conference. It was one of our most significant events to date. We walked away...",
-      "published": "2026-07-17T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Pritesh Kiri, LitmusChaos",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Microsoft just open-sourced the app that put Comic Sans on the map",
-      "link": "https://thenewstack.io/microsoft-comic-chat-open-source",
-      "summary": "Comic Sans has been mocked, memed, and muzzled from corporate communications since time immemorial, but most people won’t know that The post Microsoft just open-sourced the app that put Comic Sans on the map appeared first on The New Stack .",
-      "published": "2026-07-17T07:50:03+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "Open Source",
-        "Tech Culture"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Hands-on Introduction to Odin | Rawkode Live",
-      "link": "https://www.youtube.com/watch?v=5t28uwZL-rE",
-      "summary": "Join Peter Mbanugo for a hands-on introduction to **Odin**, a modern systems programming language designed for simplicity, performance, and practical software development.\n\nIn this live session, we explore:\n\n* What Odin is and the problems it aims to solve\n* Odin’s approach to types, memory,...",
-      "published": "2026-07-17T06:31:08+00:00",
-      "source": "Rawkode Academy",
-      "type": "video",
-      "author": "Rawkode Academy",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/5t28uwZL-rE/mqdefault.jpg"
     }
   ]
 }
