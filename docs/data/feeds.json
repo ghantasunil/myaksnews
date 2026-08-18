@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-08-17T06:35:16.574525+00:00",
-    "total_items": 296,
+    "generated_at": "2026-08-18T06:27:09.606505+00:00",
+    "total_items": 298,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -19,6 +19,124 @@
     ]
   },
   "items": [
+    {
+      "title": "Why Cloud Browsers Are Becoming Enterprise Infrastructure for AI Agents and Automation",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/why-cloud-browsers-are-becoming-enterprise-infrastructure-for-ai/ba-p/4547583",
+      "summary": "The browser is becoming a new execution environment Over the last decade, enterprises moved compute from desktops to the cloud. Applications that once depended on individual machines now run on scalable, managed infrastructure. A similar shift is beginning to happen with browser automation....",
+      "published": "2026-08-18T04:30:35+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "AbhinavPremsekhar",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Claude can now delete your production voice agent from a chat window",
+      "link": "https://thenewstack.io/elevenlabs-mcp-voice-agents",
+      "summary": "Developers can now ask Claude to inspect a production voice agent, revise its system prompt, change the voice entirely, or The post Claude can now delete your production voice agent from a chat window appeared first on The New Stack .",
+      "published": "2026-08-17T19:51:01+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Operations",
+        "Model Context Protocol"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic defined the standards inside Agent Plugins. So why isn’t it helping govern the format?",
+      "link": "https://thenewstack.io/agent-plugins-portability-gaps",
+      "summary": "Earlier this month, Vercel released Agent Plugins 1.0.0 with core maintainers from AWS, Cursor, Microsoft, and OpenAI. Google announced the The post Anthropic defined the standards inside Agent Plugins. So why isn’t it helping govern the format? appeared first on The New Stack .",
+      "published": "2026-08-17T19:27:20+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Janakiram MSV",
+      "categories": [
+        "AI Agents",
+        "Developer tools",
+        "Model Context Protocol (MCP)"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Welcome Falkey the Falco and Ky the Kyverno Pyrenees",
+      "link": "https://www.cncf.io/blog/2026/08/17/welcome-falkey-the-falco-and-ky-the-kyverno-pyrenees",
+      "summary": "If you have yet to meet Phippy, she’s a friendly PHP app exploring the cloud native world with her pals. Over the last decade, Phippy’s circle has grown to include eighteen friends, with the newest members...",
+      "published": "2026-08-17T17:50:06+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "CNCF Staff",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Understanding Load Balancing for Beginners",
+      "link": "https://kodekloud.com/blog/understanding-load-balancing-for-beginners",
+      "summary": "Spreading traffic is the easy half of load balancing. The half that decides whether an outage lasts ten seconds or ten minutes is noticing that a backend has stopped working, and most health checks cannot.",
+      "published": "2026-08-17T17:00:34+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "Load Balancing",
+        "Networking",
+        "DevOps",
+        "Kubernetes",
+        "NGINX",
+        "Cloud",
+        "Traffic Management",
+        "SRE",
+        "High Availability"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“Open weights are nowhere near a sufficient solution”: Dario Amodei fires back on AI power",
+      "link": "https://thenewstack.io/amodei-open-weights-compute-regulation",
+      "summary": "The independence developers gain from open weights comes with a hard infrastructure ceiling, according to Anthropic CEO Dario Amodei. “AI The post “Open weights are nowhere near a sufficient solution”: Dario Amodei fires back on AI power appeared first on The New Stack .",
+      "published": "2026-08-17T16:58:51+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI",
+        "AI Models",
+        "AI Strategy",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "CNCF Announces Kubeflow’s Graduation, Solidifying a Standard for Cloud Native AI Operations",
+      "link": "https://www.cncf.io/announcements/2026/08/17/cncf-announces-kubeflows-graduation-solidifying-the-standard-for-cloud-native-ai-operations",
+      "summary": "Milestone marks widespread enterprise adoption for automating end-to-end AI and machine learning lifecycles on Kubernetes Key Highlights SAN FRANCISCO — August 17, 2026 — The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for cloud...",
+      "published": "2026-08-17T16:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "kthornhill",
+      "categories": [
+        "Announcements"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "TNS journalist Darryl K. Taft leaves a legacy of respected work and quiet integrity",
+      "link": "https://thenewstack.io/darryl-taft-technology-journalist",
+      "summary": "Technology journalist Darryl K. Taft led a long and successful career at several first-rank tech publications and was a highly The post TNS journalist Darryl K. Taft leaves a legacy of respected work and quiet integrity appeared first on The New Stack .",
+      "published": "2026-08-17T15:43:18+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Chris J. Preimesberger",
+      "categories": [
+        "Tech Careers",
+        "Tech Culture"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "What Is MCP and Why It Matters for AI Tooling",
       "link": "https://kodekloud.com/blog/what-is-mcp-and-why-it-matters-for-ai-tooling",
@@ -1945,6 +2063,17 @@
         "AI Engineering",
         "AI Models"
       ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Microsoft Foundry Now Has an AI Gateway Control Plane — What Changes for App Service",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/microsoft-foundry-now-has-an-ai-gateway-control-plane-what/ba-p/4538320",
+      "summary": "In May, I published a runnable sample that put Azure API Management in front of an AI agent on Azure App Service . APIM handled token limits, semantic caching, token metrics, and access to the model. The point was simple: keep the agent framework interchangeable and put the production controls at...",
+      "published": "2026-08-03T18:24:20+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "jordanselig",
+      "categories": [],
       "thumbnail": ""
     },
     {
@@ -4312,119 +4441,6 @@
         "Open Source",
         "sponsor-aws-marketplace",
         "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AI didn’t replace our security team — it multiplied it.",
-      "link": "https://thenewstack.io/scaling-security-with-ai",
-      "summary": "For years, the assumption in security has been straightforward: mature detection and response programs require a Security Operations Center (SOC). The post AI didn’t replace our security team — it multiplied it. appeared first on The New Stack .",
-      "published": "2026-07-18T16:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Andy Gombar",
-      "categories": [
-        "AI Operations",
-        "AI Strategy",
-        "Security",
-        "sponsor-webflow",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The bottleneck for AI agents isn’t the model anymore. It’s the context layer.",
-      "link": "https://thenewstack.io/ai-agent-infrastructure-bottleneck",
-      "summary": "There’s a pattern I’ve watched repeat for two years. A team builds an agent, hits reliability problems, upgrades the model, The post The bottleneck for AI agents isn’t the model anymore. It’s the context layer. appeared first on The New Stack .",
-      "published": "2026-07-18T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Asaf Wiener",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "AI Infrastructure",
-        "Contributed",
-        "contributed-mate"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Platform engineering’s new job: serving environments at agent speed",
-      "link": "https://thenewstack.io/serving-environments-agent-speed",
-      "summary": "Platform engineering has won the argument. Some 90% of organizations have adopted at least one internal platform; golden paths are The post Platform engineering’s new job: serving environments at agent speed appeared first on The New Stack .",
-      "published": "2026-07-18T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Arjun Iyer",
-      "categories": [
-        "AI Engineering",
-        "AI Infrastructure",
-        "Platform Engineering",
-        "sponsor-signadot",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Least Privilege for AI Agents, Securing kubectl, Terraform, and Cloud CLIs",
-      "link": "https://kodekloud.com/blog/least-privilege-for-ai-agents-securing-kubectl-terraform-and-cloud-clis",
-      "summary": "An AI agent destroyed a company's production database and every backup in nine seconds, and it was never attacked or injected. It simply found a token that could. Here is how to scope agent access properly.",
-      "published": "2026-07-18T13:29:01+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "AI Agents",
-        "DevSecOps",
-        "CKA Kubernetes",
-        "Cloud",
-        "AI Security",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "I trust Claude for everything. This test made me rethink that.",
-      "link": "https://thenewstack.io/grok-opus-coding-tokens",
-      "summary": "Can Grok 4.5 really match Opus for a quarter of the tokens? xAI released Grok 4.5 on July 8. It The post I trust Claude for everything. This test made me rethink that. appeared first on The New Stack .",
-      "published": "2026-07-18T13:01:42+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jessica Wachtel",
-      "categories": [
-        "AI Engineering",
-        "AI Models",
-        "Rust"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Musk open-sourced Grok Build to fight Anthropic. Anthropic pays him $1.25 billion a month.",
-      "link": "https://thenewstack.io/musk-spacexai-grok-open-source",
-      "summary": "I’m Matt Burns, Chief Content Officer at Insight Media Group. Each week, I round up the most important AI developments, The post Musk open-sourced Grok Build to fight Anthropic. Anthropic pays him $1.25 billion a month. appeared first on The New Stack .",
-      "published": "2026-07-18T10:39:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Matthew Burns",
-      "categories": [
-        "AI Engineering",
-        "AI Models",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Using AI to Troubleshoot Kubernetes Clusters",
-      "link": "https://kodekloud.com/blog/using-ai-to-troubleshoot-kubernetes",
-      "summary": "Use AI to troubleshoot Kubernetes with k8sgpt: diagnose real ImagePullBackOff and CrashLoopBackOff errors, get fix steps, and verify recovery.",
-      "published": "2026-07-18T08:34:19+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "AI",
-        "Kubernetes"
       ],
       "thumbnail": ""
     }
