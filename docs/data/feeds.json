@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-08-18T06:27:09.606505+00:00",
-    "total_items": 298,
+    "generated_at": "2026-08-19T06:27:51.508686+00:00",
+    "total_items": 301,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -19,6 +19,144 @@
     ]
   },
   "items": [
+    {
+      "title": "What happens to your indexed data when Mistral flips the switch?",
+      "link": "https://thenewstack.io/mistral-mcp-connector-migration",
+      "summary": "Mistral is giving enterprise customers until August 31 to replace the Google Drive and Microsoft SharePoint Knowledge Connectors they use The post What happens to your indexed data when Mistral flips the switch? appeared first on The New Stack .",
+      "published": "2026-08-18T20:07:55+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Infrastructure",
+        "Cloud Services",
+        "Model Context Protocol (MCP)"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“If GitHub was stable, these alternatives would not be as interesting”: Cursor launches Origin as GitHub goes dark",
+      "link": "https://thenewstack.io/cursor-origin-github-alternative",
+      "summary": "Cursor has officially thrown its hat into the code-hosting ring with Origin, a Git-compatible platform built for a world where The post “If GitHub was stable, these alternatives would not be as interesting”: Cursor launches Origin as GitHub goes dark appeared first on The New Stack .",
+      "published": "2026-08-18T19:47:17+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Infrastructure",
+        "Developer tools",
+        "DevOps"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "A Beginner's Guide to Monitoring and Observability",
+      "link": "https://kodekloud.com/blog/a-beginners-guide-to-monitoring-and-observability",
+      "summary": "Monitoring tells you the things you predicted would break are broken. Observability is what you need for the things you did not predict, and the difference decides whether an unfamiliar outage takes ten minutes or three hours.",
+      "published": "2026-08-18T18:00:41+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "Monitoring",
+        "Observability",
+        "Prometheus",
+        "Grafana",
+        "DevOps",
+        "SRE",
+        "Platform Engineering",
+        "Cloud",
+        "Alerting"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "A Claude Code skill was eating 200,000 tokens before answering a single question",
+      "link": "https://thenewstack.io/claude-code-token-reduction",
+      "summary": "A Claude Code skill designed to help developers work with Anthropic’s API was consuming more than 200,000 tokens to load. The post A Claude Code skill was eating 200,000 tokens before answering a single question appeared first on The New Stack .",
+      "published": "2026-08-18T17:42:50+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Engineering",
+        "Developer tools",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Agentic AI has a latency problem that more compute won’t solve",
+      "link": "https://thenewstack.io/agentic-ai-latency-infrastructure",
+      "summary": "Half of enterprise AI deployments are missing their own latency targets at peak load. This is the headline finding of The post Agentic AI has a latency problem that more compute won’t solve appeared first on The New Stack .",
+      "published": "2026-08-18T16:58:18+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jon Alexander",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Edge Computing",
+        "sponsor-akamai",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Announcing General Availability of Managed Instance on Azure App Service",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-general-availability-of-managed-instance-on-azure-app/ba-p/4541283",
+      "summary": "Today, we are thrilled to announce the General Availability (GA) of Managed Instance on Azure App Service. Following the tremendous response to our Public Preview announcement at Ignite 2025 , we've spent the past nine months working closely with customers, partners, and the community to harden the...",
+      "published": "2026-08-18T14:16:56+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Gaurav-Seth",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI’s Greg Brockman: Z.ai’s GLM-5.3 likely to “significantly accelerate the threat landscape”",
+      "link": "https://thenewstack.io/openai-open-weight-glm-5-3",
+      "summary": "OpenAI has adopted a less-than-straightforward stance with regards to open-weight AI models, both raising alarms over powerful Chinese releases while The post OpenAI’s Greg Brockman: Z.ai’s GLM-5.3 likely to “significantly accelerate the threat landscape” appeared first on The New Stack .",
+      "published": "2026-08-18T13:10:15+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "Large Language Models",
+        "Open Source",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Cloud Native platform sovereignty through multi-plane architecture",
+      "link": "https://www.cncf.io/blog/2026/08/18/cloud-native-platform-sovereignty-through-multi-plane-architecture",
+      "summary": "When people talk about cloud sovereignty, the conversation often starts with regions: where a workload runs and where its data is stored. But choosing a region is only part of the story. The architecture of the...",
+      "published": "2026-08-18T11:30:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Chamod Perera | CNCF Ambassador and Suvin Kodituwakku, Senior Software Engineer at WSO2",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How Does ChatGPT Search the Web? (The Model Never Touches the Internet)",
+      "link": "https://kodekloud.com/blog/how-does-chatgpt-search-the-web",
+      "summary": "How does ChatGPT search the web when the model can't open a connection? Tool calling explained: the model asks, the application runs the search.",
+      "published": "2026-08-18T07:20:45+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "AI"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Why Cloud Browsers Are Becoming Enterprise Infrastructure for AI Agents and Automation",
       "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/why-cloud-browsers-are-becoming-enterprise-infrastructure-for-ai/ba-p/4547583",
@@ -4355,94 +4493,6 @@
       "author": "Tech Tutorials with Piyush",
       "categories": [],
       "thumbnail": "https://i.ytimg.com/vi/ACG4dCwmw4M/mqdefault.jpg"
-    },
-    {
-      "title": "AI in SRE: What's Changing (and What Isn't)",
-      "link": "https://kodekloud.com/blog/ai-in-sre-whats-changing",
-      "summary": "AI in SRE is real for toil and oversold as autopilot. What DORA and SRE data actually show, what's changing, and what stays human.",
-      "published": "2026-07-20T02:09:15+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "AI",
-        "SRE"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "This FREE tool creates Kubernetes resources for your apps in 30 seconds.",
-      "link": "https://www.youtube.com/watch?v=u-v2wCnnZEg",
-      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nIn today's video I will introduce you to a Free and Opensource tool called Kompose. Kompose is a tool to help users who are familiar with docker-compose move to Kubernetes. kompose takes a Compose Specification file and...",
-      "published": "2026-07-19T16:28:59+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/u-v2wCnnZEg/mqdefault.jpg"
-    },
-    {
-      "title": "Spark 4.2 has a feature that could retire your vector database",
-      "link": "https://thenewstack.io/spark-4-2-ai-workloads",
-      "summary": "Apache Spark 4.2 launched last week, and it signals an expansion of Spark’s decade-plus role at the center of enterprise The post Spark 4.2 has a feature that could retire your vector database appeared first on The New Stack .",
-      "published": "2026-07-19T16:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Infrastructure",
-        "Data",
-        "Python"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Agentic AI for Autonomous DevOps: Reality or Hype?",
-      "link": "https://kodekloud.com/blog/agentic-ai-autonomous-devops",
-      "summary": "Agents that plan and act are real; hands-off autonomous DevOps is mostly hype. Where agentic AI fits, what Gartner found, and how to adopt it.",
-      "published": "2026-07-19T15:41:22+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "AI",
-        "DevOps"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Move code review before the code",
-      "link": "https://thenewstack.io/move-code-review-upstream",
-      "summary": "The pull request as we know it is roughly 20 years old, younger than the careers of many people now The post Move code review before the code appeared first on The New Stack .",
-      "published": "2026-07-19T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Ankit Jain",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Software Development",
-        "sponsor-aviator",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Self-healing GPU nodes in Kubernetes: What we learned building the EKS node monitoring agent",
-      "link": "https://thenewstack.io/self-healing-gpu-nodes",
-      "summary": "When you run Kubernetes at the scale we do on Amazon EKS, nodes break constantly. GPUs fall off the PCIe The post Self-healing GPU nodes in Kubernetes: What we learned building the EKS node monitoring agent appeared first on The New Stack .",
-      "published": "2026-07-19T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Sajjan Gundapuneedi",
-      "categories": [
-        "AI Infrastructure",
-        "Kubernetes",
-        "Open Source",
-        "sponsor-aws-marketplace",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
     }
   ]
 }
