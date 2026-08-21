@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-08-20T06:29:12.486104+00:00",
-    "total_items": 302,
+    "generated_at": "2026-08-21T06:30:48.541292+00:00",
+    "total_items": 301,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -9,7 +9,6 @@
       "Apps on Azure",
       "CNCF Blog",
       "Collabnix",
-      "Houssem Dellai",
       "John Savill",
       "KodeKloud",
       "Kubernetes Blog",
@@ -19,6 +18,235 @@
     ]
   },
   "items": [
+    {
+      "title": "GitHub now sees 2.9 billion commits a month — and it can’t keep up",
+      "link": "https://thenewstack.io/github-2-9b-monthly-commits",
+      "summary": "Per month, GitHub now sees 2.9 billion commits, 130 million merged pull requests, and 24 million new repos. Back in The post GitHub now sees 2.9 billion commits a month — and it can’t keep up appeared first on The New Stack .",
+      "published": "2026-08-20T21:37:37+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Operations"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Google’s AI coding agent just escaped its own IDE",
+      "link": "https://thenewstack.io/google-antigravity-ide-extensions",
+      "summary": "When Google launched Antigravity in November 2025, it was on the premise that developers could hand an entire coding task The post Google’s AI coding agent just escaped its own IDE appeared first on The New Stack .",
+      "published": "2026-08-20T20:17:54+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Operations",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Debian just proposed banning AI code. Here’s why it matters for open source developers & maintainers.",
+      "link": "https://thenewstack.io/debian-ai-contribution-ban-debate",
+      "summary": "The board behind open source operating system Debian has tabled proposals for and against the use of LLM-assisted contributions in The post Debian just proposed banning AI code. Here’s why it matters for open source developers & maintainers. appeared first on The New Stack .",
+      "published": "2026-08-20T18:49:42+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI",
+        "Open Source",
+        "Tech Culture"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Slack makes it easier to install agents built with third-party tools",
+      "link": "https://thenewstack.io/add-to-slack-agents",
+      "summary": "Slack on Thursday rolled out Add to Slack, which lets users more easily bring the agents they’ve built with ten The post Slack makes it easier to install agents built with third-party tools appeared first on The New Stack .",
+      "published": "2026-08-20T18:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "What Is an AI Copilot and How It Fits Your Workflow",
+      "link": "https://kodekloud.com/blog/what-is-an-ai-copilot-and-how-it-fits-your-workflow",
+      "summary": "Adoption of AI copilots climbed while trust in their output fell, and both numbers are correct. Understanding why explains exactly where a copilot earns its keep and where it quietly costs you time.",
+      "published": "2026-08-20T18:08:35+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "AI",
+        "Agentic AI",
+        "AI-Driven Code",
+        "Copilot",
+        "DevOps",
+        "Cloud",
+        "DORA"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Warp wants to make it easier to build your software factory",
+      "link": "https://thenewstack.io/warp-software-factory-infrastructure",
+      "summary": "On Tuesday, Warp introduced Warp Factories, open infrastructure for building cloud software factories, agentic systems that automate work across the The post Warp wants to make it easier to build your software factory appeared first on The New Stack .",
+      "published": "2026-08-20T17:52:29+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How to build smarter OpenSearch alerts: Join our live conversation",
+      "link": "https://thenewstack.io/opensearch-ppl-unified-alerting",
+      "summary": "OpenSearch is a top-level open-source project under the Linux Foundation, backed by Amazon Web Services and other prominent players. The The post How to build smarter OpenSearch alerts: Join our live conversation appeared first on The New Stack .",
+      "published": "2026-08-20T17:40:44+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Charles Humble",
+      "categories": [
+        "Observability",
+        "Open Source",
+        "Platform Engineering",
+        "sponsored-webinar"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenRouter called itself the “Stripe for LLMs” — now Stripe’s swooped in to buy it",
+      "link": "https://thenewstack.io/stripe-acquires-openrouter-tokens",
+      "summary": "After weeks of speculation, fintech giant Stripe has confirmed that it’s tabled a bid for AI model gateway platform OpenRouter, The post OpenRouter called itself the “Stripe for LLMs” — now Stripe’s swooped in to buy it appeared first on The New Stack .",
+      "published": "2026-08-20T17:20:31+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Infrastructure",
+        "FinOps"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Researchers hid an attack inside AES encryption. The AI model cracked it open willingly.",
+      "link": "https://thenewstack.io/encrypted-prompt-injection-grok",
+      "summary": "Security filters are designed to catch malicious instructions before an AI model can act on them. Researchers at AI security The post Researchers hid an attack inside AES encryption. The AI model cracked it open willingly. appeared first on The New Stack .",
+      "published": "2026-08-20T17:15:21+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Models",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Slack has a new channel type — but only agents can create one",
+      "link": "https://thenewstack.io/slack-code-agent-channels",
+      "summary": "Slack on Thursday launched Slack Code, a new kind of Slack channel that’s built for coding agents and the developers The post Slack has a new channel type — but only agents can create one appeared first on The New Stack .",
+      "published": "2026-08-20T16:50:07+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI Agents",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Announcing H1 2027 KCDs",
+      "link": "https://www.cncf.io/blog/2026/08/20/announcing-h1-2027-kcds",
+      "summary": "Get ready to connect, learn, and innovate right in your backyard. Kubernetes Community Days (KCDs) are officially kicking off for H1! Supported by the Cloud Native Computing Foundation (CNCF), these community-organized events bring open source adopters...",
+      "published": "2026-08-20T16:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Helena Spease | Community & Outreach, CNCF",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Stop the token bleed: building token-efficient multi-agent systems",
+      "link": "https://thenewstack.io/building-token-efficient-agents",
+      "summary": "Every engineering team deploying AI agents eventually discovers an uncomfortable truth: the model isn’t the biggest expense. The hidden cost The post Stop the token bleed: building token-efficient multi-agent systems appeared first on The New Stack .",
+      "published": "2026-08-20T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Oladimeji Sowole",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "AI Infrastructure",
+        "sponsor-andela",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“Save frontier models for frontier problems”: Why Korea’s Solar Pro 4 is a workhorse agent reliability play",
+      "link": "https://thenewstack.io/upstage-solar-pro-4",
+      "summary": "South Korean AI model company Upstage AI officially announced the launch of its Solar Pro 4 closed commercial LLM last The post “Save frontier models for frontier problems”: Why Korea’s Solar Pro 4 is a workhorse agent reliability play appeared first on The New Stack .",
+      "published": "2026-08-20T13:11:35+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Agents",
+        "AI Models",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "German ciphers, telegrams, and cloud native data sovereignty",
+      "link": "https://www.cncf.io/blog/2026/08/20/german-ciphers-telegrams-and-cloud-native-data-sovereignty",
+      "summary": "A lesson from 1917 In January 1917, Germany sent a secret telegram. It went to Mexico. The offer: join the war against the United States, and you can have Texas, Arizona and New Mexico back. The...",
+      "published": "2026-08-20T13:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "James Hirst and Budhaditya Bhattacharya, Tyk",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes at the edge has hit a wall. Fleet management is the way through.",
+      "link": "https://thenewstack.io/edge-kubernetes-fleet-management",
+      "summary": "Not too long ago, edge computing was seen as a niche use case, limited to telcos, manufacturing plants, and large The post Kubernetes at the edge has hit a wall. Fleet management is the way through. appeared first on The New Stack .",
+      "published": "2026-08-20T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Arvind Bhoj",
+      "categories": [
+        "Edge Computing",
+        "Kubernetes",
+        "Operations",
+        "sponsor-nutanix",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "“The opening stages of OpenAI’s unraveling”: OpenAI slows model training — not everyone is buying the explanation",
       "link": "https://thenewstack.io/openai-training-pause-cybersecurity",
@@ -4279,246 +4507,6 @@
       "source": "CNCF Blog",
       "type": "article",
       "author": "Sargam Puram, Kyverno Project Maintainer",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Moonshot launched Kimi K3. Then demand shut down subscriptions in 48 hours.",
-      "link": "https://thenewstack.io/kimi-k3-inference-bottleneck",
-      "summary": "Moonshot AI became the latest AI company to discover that launching a popular model is only half the battle. Less The post Moonshot launched Kimi K3. Then demand shut down subscriptions in 48 hours. appeared first on The New Stack .",
-      "published": "2026-07-21T20:48:32+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Infrastructure",
-        "AI Models",
-        "Cloud Services"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AI Supply Chain Security: Scanning ML Models and Dependencies in CI/CD",
-      "link": "https://kodekloud.com/blog/ai-supply-chain-security-cicd",
-      "summary": "Your pipeline now pulls models, datasets, and ML packages straight off the internet, and attackers have turned every one of them into a delivery channel. Here is how to secure the AI supply chain before it ships malware for you.",
-      "published": "2026-07-21T17:14:33+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "DevSecOps",
-        "MLOps",
-        "CI/CD",
-        "AI Security",
-        "SBOM",
-        "Dependency Scanning",
-        "AI Supply Chain Security",
-        "MLOps Pipeline"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Single-pass AI code isn’t dead, but “high-reasoning” is the next frontier",
-      "link": "https://thenewstack.io/high-reasoning-ai-coding",
-      "summary": "Ask an AI model what comes next after “bacon-double”, and the return is fairly unanimously “cheeseburger.” It’s a pattern-matched, single-pass The post Single-pass AI code isn’t dead, but “high-reasoning” is the next frontier appeared first on The New Stack .",
-      "published": "2026-07-21T17:13:17+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI Engineering",
-        "Developer tools",
-        "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Microsoft is building an AI stack it doesn’t fully own — on purpose",
-      "link": "https://thenewstack.io/microsoft-mistral-sovereign-ai",
-      "summary": "Microsoft and Mistral are deepening their partnership with a multibillion-dollar agreement focused on enterprise AI infrastructure. The goal is to The post Microsoft is building an AI stack it doesn’t fully own — on purpose appeared first on The New Stack .",
-      "published": "2026-07-21T17:05:16+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Infrastructure",
-        "AI Strategy",
-        "Cloud Services"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Block built a Slack for AI agents — and gave each one its own passport",
-      "link": "https://thenewstack.io/block-buzz-agent-workspace",
-      "summary": "Block on Tuesday launched Buzz, a free, open-source workspace meant to give people and AI agents a Slack-like service for The post Block built a Slack for AI agents — and gave each one its own passport appeared first on The New Stack .",
-      "published": "2026-07-21T16:30:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI Agents",
-        "Developer tools",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Opensource AWS alternative cloud platform that is Agent native",
-      "link": "https://www.youtube.com/watch?v=ELcdCnGN54o",
-      "summary": "Get started with Insforge for FREE:\nhttps://go.insforge.dev/abhishekveeramallar3\n\nInsforge is an opensource AWS alternative cloud platform that is Agent native. You can configure Insforge with your agents like cursor, claude, codex in just 4 simple steps and build production ready applications with...",
-      "published": "2026-07-21T15:53:05+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/ELcdCnGN54o/mqdefault.jpg"
-    },
-    {
-      "title": "Google ships 3 new Gemini models. Just not the one everyone’s waiting for.",
-      "link": "https://thenewstack.io/google-ships-3-new-gemini-models-just-not-the-one-everyones-waiting-for",
-      "summary": "Google on Tuesday launched three new Gemini models: Gemini 3.6 Flash, a cheaper and faster 3.5 Flash-Lite, and 3.5 Flash The post Google ships 3 new Gemini models. Just not the one everyone’s waiting for. appeared first on The New Stack .",
-      "published": "2026-07-21T15:00:52+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kubernetes made deploying easy. Nobody warned you about the databases.",
-      "link": "https://thenewstack.io/kubernetes-database-operations-platform",
-      "summary": "The DevOps movement, set in motion nearly 20 years ago, broke down the traditional divide between software developers and IT The post Kubernetes made deploying easy. Nobody warned you about the databases. appeared first on The New Stack .",
-      "published": "2026-07-21T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Oliver Wolf",
-      "categories": [
-        "Databases",
-        "Kubernetes",
-        "Platform Engineering",
-        "sponsor-anynines",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The Ultimate Guide to AI in DevOps",
-      "link": "https://kodekloud.com/blog/ai-in-devops-guide",
-      "summary": "The complete map of AI in DevOps: copilots, AIOps, agents, and CI/CD assist. What works today, what's hype, and where to actually start.",
-      "published": "2026-07-21T14:51:28+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "AI",
-        "DevOps"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Is retrieval engineering becoming AI’s next bottleneck?",
-      "link": "https://thenewstack.io/ai-retrieval-engineering-bottleneck",
-      "summary": "Public AI assistants have become so commonplace that software vendors are increasingly adding AI search, conversational experiences, and AI agents The post Is retrieval engineering becoming AI’s next bottleneck? appeared first on The New Stack .",
-      "published": "2026-07-21T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Tim Young",
-      "categories": [
-        "AI Engineering",
-        "AI Infrastructure",
-        "AI Strategy",
-        "sponsor-vespa-ai",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The rise of the agent runtime: The compute platform behind production agents",
-      "link": "https://thenewstack.io/agent-runtime-application-server",
-      "summary": "The fast pace of AI research means organizations now have a wide range of models to choose from that can The post The rise of the agent runtime: The compute platform behind production agents appeared first on The New Stack .",
-      "published": "2026-07-21T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Mary Branscombe",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Cloud Services",
-        "sponsor-microsoft-azure",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "In a world of AI agents, where do we fit in?",
-      "link": "https://thenewstack.io/human-purpose-ai-agents",
-      "summary": "For more than a decade, leaders have used the phrase “Future of Work” to describe how technology is transforming business. The post In a world of AI agents, where do we fit in? appeared first on The New Stack .",
-      "published": "2026-07-21T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Manu Narayan",
-      "categories": [
-        "AI Agents",
-        "AI Strategy",
-        "Tech Culture",
-        "sponsor-gitlab",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“Second only to Fable 5:” Alibaba talks the talk with Qwen3.8 without providing any real data",
-      "link": "https://thenewstack.io/alibaba-qwen-anthropic-fable",
-      "summary": "Alibaba has revealed Qwen 3.8, its latest, greatest large language model (LLM) which, it says, is among the most powerful The post “Second only to Fable 5:” Alibaba talks the talk with Qwen3.8 without providing any real data appeared first on The New Stack .",
-      "published": "2026-07-21T12:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Models",
-        "Large Language Models",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Container Apps Serverless GPU with Gemma4 31B LLM",
-      "link": "https://www.youtube.com/watch?v=UnVSJaAXJXk",
-      "summary": "This video is part of my Azure Container Apps course on Udemy (Bestseller): https://www.udemy.com/course/azure-container-apps/\n\nIn this video, I show how to deploy large language models on Azure Container Apps Serverless GPU using vLLM for production-grade inference.\nWe’ll cover GPU workload...",
-      "published": "2026-07-21T11:44:16+00:00",
-      "source": "Houssem Dellai",
-      "type": "video",
-      "author": "Houssem Dellai",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/UnVSJaAXJXk/mqdefault.jpg"
-    },
-    {
-      "title": "Platform engineering for the agentic enterprise: Managing applications, resources, and AI agents",
-      "link": "https://www.cncf.io/blog/2026/07/21/platform-engineering-for-the-agentic-enterprise-managing-applications-resources-and-ai-agents",
-      "summary": "Platform engineering is evolving Platform engineering has become one of the defining disciplines of the cloud native era. As organizations embraced Kubernetes, microservices, GitOps, and distributed architectures, the complexity of building and operating software grew beyond...",
-      "published": "2026-07-21T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Lakmal Warusawithana, WSO2",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why your agent needs access to your documentation",
-      "link": "https://www.cncf.io/blog/2026/07/21/why-your-agent-needs-access-to-your-documentation",
-      "summary": "What 1,192 agent conversations taught us about knowledge base search A few months ago we shipped an agent inside our own product. It lives in our web app and lets users ask questions about their deployment,...",
-      "published": "2026-07-21T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Finn Bauer, kapa.ai",
       "categories": [
         "Blog"
       ],
