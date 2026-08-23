@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-08-22T06:23:27.738164+00:00",
-    "total_items": 300,
+    "generated_at": "2026-08-23T06:25:02.251320+00:00",
+    "total_items": 302,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -12,11 +12,92 @@
       "John Savill",
       "KodeKloud",
       "Kubernetes Blog",
+      "Kubesimplify",
       "Piyush Sachdeva",
       "The New Stack"
     ]
   },
   "items": [
+    {
+      "title": "How to Schedule a Reboot in Linux (Even 3 Days From Now)",
+      "link": "https://kodekloud.com/blog/schedule-a-reboot-in-linux",
+      "summary": "Schedule a reboot in Linux with the shutdown command: an exact time within 24 hours, +minutes for days ahead, and -c to cancel. Real outputs.",
+      "published": "2026-08-23T04:38:37+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "Linux"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Build Your First Neural Network in PyTorch to Classify Handwritten Digits",
+      "link": "https://kodekloud.com/blog/build-your-first-neural-network-in-pytorch-to-classify-handwritten-digits",
+      "summary": "Everyone tells you to start with PyTorch, then hands you a wall of theory. This walkthrough skips it. In about twenty minutes you train a real network to read handwritten digits, and every number you see was measured, not estimated.",
+      "published": "2026-08-22T18:00:06+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "pytorch",
+        "AI",
+        "Machine Learning",
+        "Python"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The open mainframe: the keystone of the end-to-end digital enterprise",
+      "link": "https://thenewstack.io/open-mainframe-keystone-enterprise",
+      "summary": "In the first article in this series, I discussed how the Open Mainframe Project (OMP) and its open-source framework, Zowe, The post The open mainframe: the keystone of the end-to-end digital enterprise appeared first on The New Stack .",
+      "published": "2026-08-22T17:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jason Bloomberg",
+      "categories": [
+        "DevOps",
+        "Open Source",
+        "Platform Engineering",
+        "sponsor-broadcom",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Securing sandboxes: What happens when AI agents escape containment?",
+      "link": "https://thenewstack.io/securing-ai-agent-sandboxes",
+      "summary": "On July 16, the team at Hugging Face noticed something weird moving through their production systems: An intruder that was The post Securing sandboxes: What happens when AI agents escape containment? appeared first on The New Stack .",
+      "published": "2026-08-22T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Zeen Rachidi",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Security",
+        "sponsor-env-zero",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Six identity capabilities for securing autonomous AI agents",
+      "link": "https://thenewstack.io/securing-autonomous-ai-agents",
+      "summary": "The artificial intelligence landscape has reached a pivotal inflection point. Over the past several years, the paradigm has shifted from The post Six identity capabilities for securing autonomous AI agents appeared first on The New Stack .",
+      "published": "2026-08-22T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Ory Team",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Security",
+        "sponsor-ory",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Spline rebuilt its entire 3D editor. Then it handed the keys to Claude Code.",
       "link": "https://thenewstack.io/spline-v2-mcp-agents",
@@ -72,6 +153,28 @@
       "author": "sanchitmehta",
       "categories": [],
       "thumbnail": ""
+    },
+    {
+      "title": "Azure Update 21st August 2026",
+      "link": "https://www.youtube.com/watch?v=OLfRPH319IQ",
+      "summary": "Nice selection of updates this week and little over a week till our next Ask Me Anything!!!\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read...",
+      "published": "2026-08-21T15:10:33+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/OLfRPH319IQ/mqdefault.jpg"
+    },
+    {
+      "title": "MVP Spotlight: Tobias Fenster on AKS Windows Containers and AI Runway",
+      "link": "https://www.youtube.com/watch?v=prAIrM-0KZw",
+      "summary": "Join Jorge Arteiro talks to Tobias Fenster about Azure Kubernetes Service (AKS) Windows Containers and AI Runway. \nThey talk about working with windows containers, cost management and AI runway.",
+      "published": "2026-08-21T15:00:17+00:00",
+      "source": "AKS (Official)",
+      "type": "video",
+      "author": "Azure Kubernetes Service (AKS)",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/prAIrM-0KZw/mqdefault.jpg"
     },
     {
       "title": "Forget the model wars, Stripe and Ramp just started the router wars",
@@ -516,6 +619,28 @@
       "thumbnail": ""
     },
     {
+      "title": "Tech in Five - What is a Harness",
+      "link": "https://www.youtube.com/watch?v=HVF9I25WyVY",
+      "summary": "An overview of what exactly a harness and why you care.\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the...",
+      "published": "2026-08-19T14:50:10+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/HVF9I25WyVY/mqdefault.jpg"
+    },
+    {
+      "title": "The end of coding Agents | Deepseek Harness is Here",
+      "link": "https://www.youtube.com/watch?v=R2HVlXweJbw",
+      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nGitHub repo link:\nhttps://github.com/iam-veeramalla/RAG-crash-course\n\nThis video covers RAG from Zero to Hero. This is a complete practical guide using jupyter notebooks. The GitHub repository helps you go through every...",
+      "published": "2026-08-19T14:28:14+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/R2HVlXweJbw/mqdefault.jpg"
+    },
+    {
       "title": "Kyverno is a platform primitive, not a security tool",
       "link": "https://www.cncf.io/blog/2026/08/19/kyverno-is-a-platform-primitive-not-a-security-tool",
       "summary": "Where does Kyverno live in your organization? I don’t mean which cluster! On which team’s slide deck does it show up? Whose budget line?  For most companies I’ve talked to, the answer is security. Kyverno is...",
@@ -699,6 +824,17 @@
       "thumbnail": ""
     },
     {
+      "title": "I Let an AI Agent Deploy & Debug an App on K8s Using Coder Agents | Realtime DevOps AI Project",
+      "link": "https://www.youtube.com/watch?v=UdwVmmuUAG0",
+      "summary": "What if you could hand an AI agent the keys to a Kubernetes cluster and let it deploy an app, debug a live crash, and convert it into Helm, completely on its own? \nIn this video, I build a secure, governed cloud workspace where Coder Agents gets real kubectl and Helm access but stays locked inside...",
+      "published": "2026-08-18T10:00:06+00:00",
+      "source": "Piyush Sachdeva",
+      "type": "video",
+      "author": "Tech Tutorials with Piyush",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/UdwVmmuUAG0/mqdefault.jpg"
+    },
+    {
       "title": "How Does ChatGPT Search the Web? (The Model Never Touches the Internet)",
       "link": "https://kodekloud.com/blog/how-does-chatgpt-search-the-web",
       "summary": "How does ChatGPT search the web when the model can't open a connection? Tool calling explained: the model asks, the application runs the search.",
@@ -766,6 +902,17 @@
       "thumbnail": ""
     },
     {
+      "title": "RAG Zero to Hero in 40 minutes | Practical Guide",
+      "link": "https://www.youtube.com/watch?v=uRwSQdMMyGY",
+      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nGitHub repo link:\nhttps://github.com/iam-veeramalla/RAG-crash-course\n\nThis video covers RAG from Zero to Hero. This is a complete practical guide using jupyter notebooks. The GitHub repository helps you go through every...",
+      "published": "2026-08-17T17:35:29+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/uRwSQdMMyGY/mqdefault.jpg"
+    },
+    {
       "title": "Understanding Load Balancing for Beginners",
       "link": "https://kodekloud.com/blog/understanding-load-balancing-for-beginners",
       "summary": "Spreading traffic is the easy half of load balancing. The half that decides whether an outage lasts ten seconds or ten minutes is noticing that a backend has stopped working, and most health checks cannot.",
@@ -828,6 +975,39 @@
         "Tech Culture"
       ],
       "thumbnail": ""
+    },
+    {
+      "title": "Troubleshoot Outbound connectivity Issues with Ping He: AKS Troubleshooting Series: Azure Kubernetes",
+      "link": "https://www.youtube.com/watch?v=CWnQ-nNi9Yw",
+      "summary": "In today's episode, we talk to Ping He to understand how we can troubleshoot scaling issues with Azure Kubernetes Service (AKS) clusters. \n\nPing He helps you learn why understanding outbound traffic, firewalls, and network security groups is crucial for AKS cluster admins, developers, and platform...",
+      "published": "2026-08-17T15:00:17+00:00",
+      "source": "AKS (Official)",
+      "type": "video",
+      "author": "Azure Kubernetes Service (AKS)",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/CWnQ-nNi9Yw/mqdefault.jpg"
+    },
+    {
+      "title": "AI-103 Develop AI Apps and Agents on Azure Study Cram",
+      "link": "https://www.youtube.com/watch?v=WK2BvjOYTCQ",
+      "summary": "Study cram for the AI-103 Microsoft exam.\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:24 - Microsoft learning resources\n01:17 - What are core AI terms\n02:59 - Responsible AI\n06:55 - Foundry resource and project\n14:35 - Models\n25:15 - Model deployment options\n29:44 - Using playgrounds...",
+      "published": "2026-08-17T10:25:27+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/WK2BvjOYTCQ/mqdefault.jpg"
+    },
+    {
+      "title": "500K Ask Me Anything YouTube Live Stream",
+      "link": "https://www.youtube.com/watch?v=hXRPm7r4Q14",
+      "summary": "An AMA to celebrate hitting 500,000 subscribers. A great 60 minutes of interactive Q&A!",
+      "published": "2026-08-16T18:54:36+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/hXRPm7r4Q14/mqdefault.jpg"
     },
     {
       "title": "What Is MCP and Why It Matters for AI Tooling",
@@ -1833,6 +2013,17 @@
         "Large Language Models"
       ],
       "thumbnail": ""
+    },
+    {
+      "title": "Service Mesh 101 with Istio | Complete Hands-On Workshop for Beginners",
+      "link": "https://www.youtube.com/watch?v=FwXF-ICECLc",
+      "summary": "Want to understand Service Mesh and Istio through real hands-on demos instead of just theory?\n\nIn this Kubesimplify workshop, we take a deep dive into Istio Service Mesh on Kubernetes  starting from the fundamentals and moving into practical traffic management, security, multi-cluster networking,...",
+      "published": "2026-08-10T14:21:34+00:00",
+      "source": "Kubesimplify",
+      "type": "video",
+      "author": "Kubesimplify",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/FwXF-ICECLc/mqdefault.jpg"
     },
     {
       "title": "V4-Flash vs. V4-Pro: DeepSeek promised better and cheaper. It’s true,  but not how I expected.",
@@ -4295,202 +4486,6 @@
       "source": "CNCF Blog",
       "type": "article",
       "author": "Adriana Villela (Dynatrace LLC) and Reese Lee (New Relic)",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Launch of the AI Infra SIG under the CNCF Japan chapter: First meetup and call for speakers",
-      "link": "https://www.cncf.io/blog/2026/07/23/launch-of-the-ai-infra-sig-under-the-cncf-japan-chapter-first-meetup-and-call-for-speakers",
-      "summary": "Japanese article follows English one. As we all know, AI is advancing from generative AI to agents, driving growing demand for scalable, efficient infrastructure. Kubernetes and the broader Cloud Native ecosystem are becoming increasingly critical foundations...",
-      "published": "2026-07-24T00:05:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Shingo Omura (Principal Architect of AI Infrastructure at LY Corporation) and Sunyanan Choochotkaew (CNCF Ambassador and Senior Research Scientist at IBM Research, Tokyo)",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI and Anthropic both speak at once with dueling voice updates",
-      "link": "https://thenewstack.io/voice-ai-openai-anthropic",
-      "summary": "OpenAI and Anthropic both rolled out major voice updates on Thursday afternoon, but the frontier AI labs seem to be The post OpenAI and Anthropic both speak at once with dueling voice updates appeared first on The New Stack .",
-      "published": "2026-07-23T19:57:50+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Nvidia’s new DNA model learns what token prediction misses",
-      "link": "https://thenewstack.io/nvidia-jepa-dna-genomics",
-      "summary": "The AI industry has largely focused on language-based approaches, using transformers trained on massive datasets to predict words or fill The post Nvidia’s new DNA model learns what token prediction misses appeared first on The New Stack .",
-      "published": "2026-07-23T18:44:01+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Infrastructure",
-        "AI Models",
-        "Science"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“We love the world where we can use both”: How Nvidia thinks about local and frontier models",
-      "link": "https://thenewstack.io/nvidia-local-frontier-models",
-      "summary": "The models small enough to run on the box on your desk are getting good enough that the interesting question The post “We love the world where we can use both”: How Nvidia thinks about local and frontier models appeared first on The New Stack .",
-      "published": "2026-07-23T18:12:41+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Infrastructure"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Cursor, Ramp, and Meta are all building model routers — but two have major model ambitions themselves",
-      "link": "https://thenewstack.io/cursor-ramp-meta-model-router",
-      "summary": "Cursor, the AI coding tool recently acquired by Elon Musk’s SpaceX in a $60 billion all-stock deal, has launched a The post Cursor, Ramp, and Meta are all building model routers — but two have major model ambitions themselves appeared first on The New Stack .",
-      "published": "2026-07-23T17:12:57+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Infrastructure",
-        "AI Models",
-        "AI Strategy",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Personalization is a ranking problem — architecture makes it work",
-      "link": "https://thenewstack.io/vespa-realtime-personalization-ranking",
-      "summary": "Every product team is chasing the same moment: The user opens a page and thinks, this understands me. A shopper The post Personalization is a ranking problem — architecture makes it work appeared first on The New Stack .",
-      "published": "2026-07-23T16:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jenny Morris",
-      "categories": [
-        "AI Engineering",
-        "AI Infrastructure",
-        "Backend development",
-        "sponsor-vespa-ai",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Quick Introduction to Windows Sandbox",
-      "link": "https://www.youtube.com/watch?v=v7crnKhSLws",
-      "summary": "Run to run some app or process in an isolated environment fast, Windows Sandbox could be your best friend!\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:25 - Windows Sandbox (WSB)\n01:17 - Installing\n01:39 - Architecture\n02:47 - Customizing the environment\n04:36 - Documentation and...",
-      "published": "2026-07-23T15:38:26+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/v7crnKhSLws/mqdefault.jpg"
-    },
-    {
-      "title": "Event Driven AI Agents with Prometheus Alerts, From Page to Root Cause",
-      "link": "https://kodekloud.com/blog/event-driven-ai-agents-prometheus-alerts",
-      "summary": "Every page interrupts a human, yet most alerts end in the same ten investigation steps. Here is how event driven AI agents catch Prometheus alerts and do that first pass before you even look at your phone.",
-      "published": "2026-07-23T15:00:31+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "Prometheus",
-        "AI Agents",
-        "AIOps",
-        "DevAIOps",
-        "Kubernetes",
-        "Alert Manager",
-        "SRE",
-        "Automation"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How regulated organizations can increase AI code velocity safely",
-      "link": "https://thenewstack.io/regulated-ai-continuous-verification",
-      "summary": "Many industries are excited about the possibilities AI opens up for software development. Still, for regulated industries, there’s something extra The post How regulated organizations can increase AI code velocity safely appeared first on The New Stack .",
-      "published": "2026-07-23T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Ekaterina Okuneva",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Compliance",
-        "sponsor-sonarsource",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Sustaining OpenTelemetry: What a 10-week contributor cohort actually looks like",
-      "link": "https://www.cncf.io/blog/2026/07/23/sustaining-opentelemetry-what-a-10-week-contributor-cohort-actually-looks-like",
-      "summary": "A follow-up to our earlier post: “Sustaining OpenTelemetry: Moving from Dependency Management to Stewardship” *** In April 2026, the Cloud Native Computing Foundation (CNCF), the OpenTelemetry (OTel) project, and Bloomberg’s Open Source Program Office came together...",
-      "published": "2026-07-23T13:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Alyssa Wright, Bloomberg's Open Source Program Office",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Can prompt caching tame RAG costs without sacrificing accuracy?",
-      "link": "https://thenewstack.io/production-rag-architecture-fixes",
-      "summary": "The AI ecosystem is drowning in tutorials on how to build a retrieval-augmented generation (RAG) app in five minutes. The The post Can prompt caching tame RAG costs without sacrificing accuracy? appeared first on The New Stack .",
-      "published": "2026-07-23T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Emmanuel Akita",
-      "categories": [
-        "AI Engineering",
-        "AI Infrastructure",
-        "Backend development",
-        "sponsor-andela",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "When Kubeflow meets Cilium: Debugging 60% idle GPUs in Kubernetes",
-      "link": "https://www.cncf.io/blog/2026/07/23/when-kubeflow-meets-cilium-debugging-60-idle-gpus-in-kubernetes",
-      "summary": "The symptom that made no sense The first time we saw it, we didn’t trust the dashboard. A distributed training job was scheduled and healthy — every pod was running, no crashes, no OOMKills, nothing in...",
-      "published": "2026-07-23T11:33:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Ramkumar Nagaraj (Golden Kubestronaut, Adobe) and Bingi Narasimha Karthik (Golden Kubestronaut, Adobe)",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The future of AI is community driven and open",
-      "link": "https://www.cncf.io/blog/2026/07/23/the-future-of-ai-is-community-driven-and-open",
-      "summary": "Kubernetes has become the de facto operating system for AI. In CNCF’s 2025 Annual Cloud Native Survey, 82% of container users now run Kubernetes in production, and 66% of organizations hosting generative AI use it to...",
-      "published": "2026-07-23T08:56:53+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Erin A. Boyd, Senior Director at NVIDIA and CNCF Governing Board Member",
       "categories": [
         "Blog"
       ],
