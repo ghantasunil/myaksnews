@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-08-23T06:25:02.251320+00:00",
-    "total_items": 302,
+    "generated_at": "2026-08-24T06:38:08.110692+00:00",
+    "total_items": 293,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -18,6 +18,40 @@
     ]
   },
   "items": [
+    {
+      "title": "Why real-time AI at scale is so hard",
+      "link": "https://thenewstack.io/real-time-ai-scale",
+      "summary": "Real-time AI at scale is harder than it looks. Pipelines that hum along in development routinely hit problems in production. The post Why real-time AI at scale is so hard appeared first on The New Stack .",
+      "published": "2026-08-23T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Felipe Cardeneti Mendes",
+      "categories": [
+        "AI Infrastructure",
+        "AI Operations",
+        "Databases",
+        "sponsor-scylladb",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "One pull to wipe them all",
+      "link": "https://thenewstack.io/ai-coding-agent-security",
+      "summary": "Q Developer is a free extension that lets a coding agent read a project, propose changes, and run commands on The post One pull to wipe them all appeared first on The New Stack .",
+      "published": "2026-08-23T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Zeen Rachidi",
+      "categories": [
+        "AI Agents",
+        "DevOps",
+        "Security",
+        "sponsor-env-zero",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "How to Schedule a Reboot in Linux (Even 3 Days From Now)",
       "link": "https://kodekloud.com/blog/schedule-a-reboot-in-linux",
@@ -4326,168 +4360,6 @@
       "author": "Matthew Burns",
       "categories": [
         "AI"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Opus 5 costs a third of the price — and that’s actually the problem",
-      "link": "https://thenewstack.io/opus-5-agentic-coding-cost",
-      "summary": "On Friday, Anthropic launched Opus 5, the latest iteration of its heavyweight model. Arriving just two months after Opus 4.8 The post Opus 5 costs a third of the price — and that’s actually the problem appeared first on The New Stack .",
-      "published": "2026-07-24T19:06:23+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Jensen Huang made his first X post. He used it to lobby Washington about open-weight AI.",
-      "link": "https://thenewstack.io/nvidia-open-weight-letter",
-      "summary": "Nvidia CEO Jensen Huang used his first post on X to share a public letter backing frontier open-weight models. Signed The post Jensen Huang made his first X post. He used it to lobby Washington about open-weight AI. appeared first on The New Stack .",
-      "published": "2026-07-24T18:26:50+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Infrastructure",
-        "AI Models",
-        "AI Strategy"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Building an AI Agent for Automated API Security Testing Using Python",
-      "link": "https://kodekloud.com/blog/ai-agent-api-security-testing-python",
-      "summary": "Scanners find misconfigurations but miss the vulnerability that tops the OWASP API list, because catching it requires knowing who should own which record. Here is how to build an agent in Python that does understand.",
-      "published": "2026-07-24T18:04:25+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "Security",
-        "Python",
-        "API Security",
-        "DevSecOps",
-        "OWASP",
-        "Automation",
-        "CI/CD",
-        "Security Testing"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic’s Opus 5 is almost Fable 5",
-      "link": "https://thenewstack.io/anthropics-opus-5-almost-fable-5",
-      "summary": "Anthropic launched Opus 5 on Friday, the latest version of what used to be the company’s flagship model (before the The post Anthropic’s Opus 5 is almost Fable 5 appeared first on The New Stack .",
-      "published": "2026-07-24T17:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "What really happened in the Hugging Face breach",
-      "link": "https://thenewstack.io/openai-huggingface-sandbox-breach",
-      "summary": "According to OpenAI, the Hugging Face security breach was an “unprecedented cyber incident, involving state-of-the-art cyber capabilities.” Critics may disagree. Back The post What really happened in the Hugging Face breach appeared first on The New Stack .",
-      "published": "2026-07-24T16:20:24+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Steven J. Vaughan-Nichols",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AWS, Google Cloud, Microsoft Azure, and Cloudflare now all offer agent sandboxes. None built them the same way.",
-      "link": "https://thenewstack.io/cloud-agent-code-sandboxes",
-      "summary": "Google Cloud announced it had put Cloud Run sandboxes into public preview earlier this month at WeAreDevelopers World Congress in The post AWS, Google Cloud, Microsoft Azure, and Cloudflare now all offer agent sandboxes. None built them the same way. appeared first on The New Stack .",
-      "published": "2026-07-24T16:04:54+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Janakiram MSV",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Cloud Services"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Azure Update 24th July 2026",
-      "link": "https://www.youtube.com/watch?v=fv-2mxaU8sw",
-      "summary": "Small number of updates this week but some really nice ones.\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay...",
-      "published": "2026-07-24T15:13:00+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/fv-2mxaU8sw/mqdefault.jpg"
-    },
-    {
-      "title": "Alert fatigue is breaking SOCs. Sumo Logic says it has a way out.",
-      "link": "https://thenewstack.io/sumo-logic-ai-security-alerts",
-      "summary": "The instinct is almost universal: When something goes wrong, security teams reach for more data. The belief is that if The post Alert fatigue is breaking SOCs. Sumo Logic says it has a way out. appeared first on The New Stack .",
-      "published": "2026-07-24T14:07:44+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Carly Page",
-      "categories": [
-        "AI Agents",
-        "Observability",
-        "Security",
-        "sponsored-webinar"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Test data wait times are slowing AI adoption more than code ever did",
-      "link": "https://thenewstack.io/test-data-ai-bottleneck",
-      "summary": "We removed friction from code delivery and exposed a bigger one: test data delays. For years, the software delivery conversation The post Test data wait times are slowing AI adoption more than code ever did appeared first on The New Stack .",
-      "published": "2026-07-24T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Woody Evans",
-      "categories": [
-        "AI Operations",
-        "DevOps",
-        "Software Testing",
-        "sponsor-perforce",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "My LFX mentorship journey with kgateway",
-      "link": "https://www.cncf.io/blog/2026/07/24/my-lfx-mentorship-journey-with-kgateway",
-      "summary": "Open source has been a defining part of my career for many years. As an engineer working in the cloud native ecosystem, I have spent the last five years building and contributing to technologies around Kubernetes,...",
-      "published": "2026-07-24T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Lahiru De Silva",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenTelemetry has graduated… Now what?",
-      "link": "https://www.cncf.io/blog/2026/07/24/opentelemetry-has-graduated-now-what",
-      "summary": "In case you missed it: OpenTelemetry (OTel) has officially achieved CNCF graduated status! It now stands proudly alongside amazing open source projects such as Kubernetes and Prometheus, to name just a few. It’s been a long journey, and we’re very...",
-      "published": "2026-07-24T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Adriana Villela (Dynatrace LLC) and Reese Lee (New Relic)",
-      "categories": [
-        "Blog"
       ],
       "thumbnail": ""
     }
