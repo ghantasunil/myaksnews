@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-08-24T06:38:08.110692+00:00",
-    "total_items": 293,
+    "generated_at": "2026-08-25T06:30:30.704054+00:00",
+    "total_items": 296,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -18,6 +18,142 @@
     ]
   },
   "items": [
+    {
+      "title": "How to actually practise for a Claude certification",
+      "link": "https://kodekloud.com/blog/how-to-actually-practise-for-a-claude-certification",
+      "summary": "Reading won't pass the Claude certification exams. Here's a three-move study loop you can run on any syllabus topic - in about an hour.",
+      "published": "2026-08-25T04:52:35+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "Claude AI",
+        "claude certified",
+        "KodeKey"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How to Use htop to Find What's Slowing Your Linux Server",
+      "link": "https://kodekloud.com/blog/how-to-use-htop",
+      "summary": "How to use htop to find the process eating your CPU, RAM, or disk: install it, read the sort, and kill with SIGTERM before SIGKILL. Real steps.",
+      "published": "2026-08-25T03:46:34+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "Linux"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "JetBrains’ Junie now runs entirely offline. Can you spare a 64 GB M5 Mac?",
+      "link": "https://thenewstack.io/jetbrains-junie-local-agent",
+      "summary": "While most AI coding tools default to cloud-hosted models, local model runtimes have become a viable alternative for developers who The post JetBrains’ Junie now runs entirely offline. Can you spare a 64 GB M5 Mac? appeared first on The New Stack .",
+      "published": "2026-08-24T20:56:41+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Models",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Ox Alpha’s real mystery isn’t who built it",
+      "link": "https://thenewstack.io/ox-alpha-privacy-terms",
+      "summary": "Everybody wants to know who built Ox Alpha. But developers using the anonymous coding model with their own private code The post Ox Alpha’s real mystery isn’t who built it appeared first on The New Stack .",
+      "published": "2026-08-24T19:55:47+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Janakiram MSV",
+      "categories": [
+        "AI Models",
+        "Compliance",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic’s Playground vs. OpenAI’s: The week-old tool beat the six-year incumbent",
+      "link": "https://thenewstack.io/anthropic-openai-playground-comparison",
+      "summary": "On August 18, Anthropic replaced its Workbench, the prompt-testing tool in its developer Console, with Playground. Anthropic did more than The post Anthropic’s Playground vs. OpenAI’s: The week-old tool beat the six-year incumbent appeared first on The New Stack .",
+      "published": "2026-08-24T19:30:57+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jessica Wachtel",
+      "categories": [
+        "AI Engineering",
+        "AI Models",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Grok Bot vs. Hermes: Where each draws the security boundary",
+      "link": "https://thenewstack.io/ai-agent-security-boundaries",
+      "summary": "Put several AI bots to work, and a mistake by one may not stay within its assigned task. For example, The post Grok Bot vs. Hermes: Where each draws the security boundary appeared first on The New Stack .",
+      "published": "2026-08-24T17:39:15+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Janakiram MSV",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How to Build Linear Regression From Scratch Using PyTorch Tensors",
+      "link": "https://kodekloud.com/blog/how-to-build-linear-regression-from-scratch-using-pytorch-tensors",
+      "summary": "Most PyTorch tutorials hand you nn.Linear and move on, which hides the part that actually matters. Here you build regression with nothing but raw tensors, and you meet the silent broadcasting bug that makes a model quietly learn the wrong thing.",
+      "published": "2026-08-24T17:30:18+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "pytorch",
+        "Machine Learning",
+        "Deep Learning",
+        "Tensors",
+        "Linear Regression",
+        "Gradient Descent",
+        "Python"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Thomson Reuters trained its own AI model. Then it kept using Anthropic’s anyway.",
+      "link": "https://thenewstack.io/thomson-reuters-ai-model",
+      "summary": "Thomson Reuters has developed its own AI model for legal, tax and compliance work, trained on the company’s proprietary professional The post Thomson Reuters trained its own AI model. Then it kept using Anthropic’s anyway. appeared first on The New Stack .",
+      "published": "2026-08-24T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Engineering",
+        "AI Models",
+        "AI Strategy"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Automating root cause analysis at scale: Multi-signal correlation for cloud native incident response",
+      "link": "https://www.cncf.io/blog/2026/08/24/automating-root-cause-analysis-at-scale-multi-signal-correlation-for-cloud-native-incident-response",
+      "summary": "The problem: Humans shouldn’t be correlation engines At Atlassian’s scale, hundreds of interconnected microservices distributed across multiple regions mean a production incident generates an overwhelming volume of telemetry. The problem is that finding the causal factor...",
+      "published": "2026-08-24T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Santosh Balaranganathan, Michael Yoo, James Moessis, James Kieltyka, Jason Lee, Lavender Neesham - Atlassian",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Why real-time AI at scale is so hard",
       "link": "https://thenewstack.io/real-time-ai-scale",
@@ -4266,100 +4402,6 @@
         "DevOps",
         "sponsor-pagerduty",
         "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Stop correcting AI code. Build the system agents need.",
-      "link": "https://thenewstack.io/stop-correcting-ai-code-build-the-system-agents-need",
-      "summary": "If software engineers are no longer writing code, what are they doing? That’s the question on millions of minds.  AI The post Stop correcting AI code. Build the system agents need. appeared first on The New Stack .",
-      "published": "2026-07-25T17:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jennifer Riggins",
-      "categories": [
-        "AI"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Azure OpenAI Security: Networking, Identity, and Compliance Controls",
-      "link": "https://kodekloud.com/blog/azure-openai-security-networking-identity-compliance",
-      "summary": "Every new Azure OpenAI resource ships with API keys enabled and a public endpoint. This tutorial walks the four layers that close that gap, then hands you an audit script that proves each control is actually on.",
-      "published": "2026-07-25T16:00:49+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "OpenAI",
-        "Azure",
-        "Private Endpoint",
-        "AI Security",
-        "DevSecOps",
-        "Azure Cloud",
-        "Azure OpenAI",
-        "Cloud security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "5 steps to build great service architecture and operational resilience",
-      "link": "https://thenewstack.io/build-resilient-service-architecture",
-      "summary": "When operations teams get an alert, three questions need to be answered before any action can take place:  Without a The post 5 steps to build great service architecture and operational resilience appeared first on The New Stack .",
-      "published": "2026-07-25T16:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Debora Cambe",
-      "categories": [
-        "AI Operations",
-        "DevOps",
-        "Operations",
-        "sponsor-pagerduty",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Helm Interview Questions 2026: Real Answers and Commands",
-      "link": "https://kodekloud.com/blog/helm-interview-questions",
-      "summary": "30 real Helm interview questions with senior-level answers, real helm command output, and the Tiller, storage, and Helm 4 traps explained.",
-      "published": "2026-07-25T15:06:07+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "Helm",
-        "interview questions"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How routing keys isolate Kafka consumer tests on a shared broker",
-      "link": "https://thenewstack.io/isolate-kafka-consumer-tests",
-      "summary": "A change to a service that consumes from Kafka is not validated until it has run against the real system: The post How routing keys isolate Kafka consumer tests on a shared broker appeared first on The New Stack .",
-      "published": "2026-07-25T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Arjun Iyer",
-      "categories": [
-        "Data Streaming",
-        "Developer tools",
-        "Software Testing",
-        "sponsor-signadot",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Microsoft, Nvidia, Meta and 22 others defended open weights. Anthropic and OpenAI didn’t sign.",
-      "link": "https://thenewstack.io/microsoft-nvidia-meta-and-open-weights",
-      "summary": "The fight over open-weight AI entered a new round over the last week. On July 22, White House officials accused The post Microsoft, Nvidia, Meta and 22 others defended open weights. Anthropic and OpenAI didn’t sign. appeared first on The New Stack .",
-      "published": "2026-07-25T10:30:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Matthew Burns",
-      "categories": [
-        "AI"
       ],
       "thumbnail": ""
     }
