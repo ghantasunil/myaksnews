@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-08-25T06:30:30.704054+00:00",
-    "total_items": 296,
+    "generated_at": "2026-08-26T06:32:15.723910+00:00",
+    "total_items": 304,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -18,6 +18,211 @@
     ]
   },
   "items": [
+    {
+      "title": "Shopify’s CEO threatened to ban Claude Code. Anthropic had already closed the feature request.",
+      "link": "https://thenewstack.io/shopify-claude-code-agentsmd",
+      "summary": "Shopify CEO Tobi Lütke is considering banning Claude Code at the company, but not because he thinks Anthropic’s coding agent The post Shopify’s CEO threatened to ban Claude Code. Anthropic had already closed the feature request. appeared first on The New Stack .",
+      "published": "2026-08-25T19:39:17+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Engineering",
+        "Developer tools",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "IBM’s new Granite 4.2 models add reasoning and stay dense",
+      "link": "https://thenewstack.io/ibm-granite-reasoning-models",
+      "summary": "On Tuesday, IBM launched the latest family of its open-weight Granite large language models (LLMs). Weighing in at 3 billion, The post IBM’s new Granite 4.2 models add reasoning and stay dense appeared first on The New Stack .",
+      "published": "2026-08-25T19:13:45+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How telemetry pipelines keep AI agent costs under control",
+      "link": "https://thenewstack.io/agentic-ai-telemetry-costs",
+      "summary": "As enterprises move from experimenting with AI to running autonomous agents in production, an infrastructure problem is emerging: rising telemetry The post How telemetry pipelines keep AI agent costs under control appeared first on The New Stack .",
+      "published": "2026-08-25T19:01:28+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Megan Carnegie",
+      "categories": [
+        "AI Agents",
+        "FinOps",
+        "Observability",
+        "sponsor-apica",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic gives chat and Cowork one memory",
+      "link": "https://thenewstack.io/claude-memory-chat-cowork",
+      "summary": "On Tuesday, Anthropic launched a major update to how Claude remembers things. The new system combines Claude’s memory in Cowork The post Anthropic gives chat and Cowork one memory appeared first on The New Stack .",
+      "published": "2026-08-25T17:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Tokenmaxxing is out. How to minimize AI spend without sacrificing security capability.",
+      "link": "https://thenewstack.io/minimize-ai-security-spend",
+      "summary": "Security teams are discovering that the most capable AI models cost too much to run on routine, high-volume work, and The post Tokenmaxxing is out. How to minimize AI spend without sacrificing security capability. appeared first on The New Stack .",
+      "published": "2026-08-25T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Matt Coons",
+      "categories": [
+        "AI Operations",
+        "AI Strategy",
+        "Security",
+        "sponsor-gitlab",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Perplexity’s Computer agent can now run locally — if you can afford it",
+      "link": "https://thenewstack.io/perplexity-portable-computer-nvidia",
+      "summary": "Perplexity, in partnership with Nvidia, has taken Computer, its agentic AI assistant, and brought it to the desktop as Portable The post Perplexity’s Computer agent can now run locally — if you can afford it appeared first on The New Stack .",
+      "published": "2026-08-25T15:34:14+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure SRE Agent: Introducing Live Reports",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-sre-agent-introducing-live-reports/ba-p/4549732",
+      "summary": "Today we're introducing Live Reports in Azure SRE Agent, now in public preview. You describe a dashboard in chat; the agent builds it, and it refreshes every time you open it. Ops teams ask the same handful of questions every morning: What's burning right now? What landed overnight? Who's on call?...",
+      "published": "2026-08-25T15:00:00+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "yashnisar",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure SRE Agent VNet integration is now generally available",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-sre-agent-vnet-integration-is-now-generally-available/ba-p/4549774",
+      "summary": "VNet integration for Azure SRE Agent is now generally available. You can route outbound agent traffic through your virtual network to access resources behind private endpoints, including databases, Azure Container Apps, Azure Kubernetes Service (AKS) API servers, and more. Traffic routed through...",
+      "published": "2026-08-25T15:00:00+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Cary_Chai",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI’s Jalapeño chip tackles a problem AI agents make worse",
+      "link": "https://thenewstack.io/openai-jalapeno-inference-chip",
+      "summary": "When OpenAI unveiled Jalapeño, its first custom inference chip, in June, the company made some big promises. The chip, developed The post OpenAI’s Jalapeño chip tackles a problem AI agents make worse appeared first on The New Stack .",
+      "published": "2026-08-25T14:00:12+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Engineering",
+        "AI Infrastructure",
+        "Hardware"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "CLI or IDE? Build in verification first.",
+      "link": "https://thenewstack.io/cli-ide-ai-verification",
+      "summary": "The ongoing debate over where AI coding agents belong, in an integrated development environment (IDE) or at the command line The post CLI or IDE? Build in verification first. appeared first on The New Stack .",
+      "published": "2026-08-25T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Taylor Luttrell-Williams",
+      "categories": [
+        "AI Agents",
+        "Developer tools",
+        "Software Development",
+        "sponsor-sonarsource",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI agents are spreading fast. Their rules are still catching up.",
+      "link": "https://thenewstack.io/enterprise-ai-agent-governance",
+      "summary": "AI agents are already inside the enterprise, but the rules for controlling them haven’t caught up yet. Some 86% of The post AI agents are spreading fast. Their rules are still catching up. appeared first on The New Stack .",
+      "published": "2026-08-25T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Strategy",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“You can rent a feature, but you can’t rent a foundation”: why MotherDuck bought the startup already powering its data pipelines",
+      "link": "https://thenewstack.io/motherduck-tower-acquisition-python",
+      "summary": "What do you do when a technology you’ve become dependent on belongs to someone else? You buy the startup behind The post “You can rent a feature, but you can’t rent a foundation”: why MotherDuck bought the startup already powering its data pipelines appeared first on The New Stack .",
+      "published": "2026-08-25T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "Databases"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The lazy developer’s guide to observing your own code",
+      "link": "https://www.cncf.io/blog/2026/08/25/the-lazy-developers-guide-to-observing-your-own-code",
+      "summary": "It’s no secret that developers are increasingly being asked to shift left. It seems there’s always something new to shift left on. And now developers are being asked to shift left on observability. This means that...",
+      "published": "2026-08-25T11:34:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Adriana Villela | OTel Community Manager & CNCF Ambassador) and Diana Todea | OTel Docs Approver & CNCF Ambassador",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Stop trying to learn all of Kubernetes at once",
+      "link": "https://www.cncf.io/blog/2026/08/25/stop-trying-to-learn-all-of-kubernetes-at-once",
+      "summary": "As a recovering VMware architect, it took me a little while to grasp Kubernetes. And I noticed I’m not alone in this.. From developers on our own team who need to get fluent in Kubernetes fast...",
+      "published": "2026-08-25T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Joep Piscaer, Portainer.io",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "How to actually practise for a Claude certification",
       "link": "https://kodekloud.com/blog/how-to-actually-practise-for-a-claude-certification",
@@ -4310,98 +4515,6 @@
         "AI Infrastructure",
         "Open Source",
         "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Building AI Agents That Manage Kubernetes",
-      "link": "https://kodekloud.com/blog/building-ai-agents-that-manage-kubernetes",
-      "summary": "Build a supervised AI agent that manages Kubernetes: an LLM in a kubectl tool loop with real guardrails. Full hands-on tutorial, live output.",
-      "published": "2026-07-27T05:00:53+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "AI",
-        "Kubernetes"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Multi Agent Systems for Platform Engineering, Patterns and Architecture",
-      "link": "https://kodekloud.com/blog/multi-agent-systems-platform-engineering-patterns",
-      "summary": "Studies of real agent systems put failure rates between 41 and 86 percent, and almost none of it is the model's fault. Here are the patterns that hold up for platform work, and the discipline that decides whether yours does.",
-      "published": "2026-07-26T16:16:42+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "AI Agents",
-        "Platform Engineering",
-        "Multi Agent Systems",
-        "DevOps",
-        "Langgraph",
-        "Kubernetes",
-        "Automation",
-        "mcp"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "MCP’s biggest update removes the machinery many servers were built around",
-      "link": "https://thenewstack.io/mcp-release-candidate-rewrite",
-      "summary": "The biggest update to the Model Context Protocol (MCP) since its launch is almost here. Lead maintainers froze the release The post MCP’s biggest update removes the machinery many servers were built around appeared first on The New Stack .",
-      "published": "2026-07-26T16:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Janakiram MSV",
-      "categories": [
-        "API Management",
-        "Developer tools",
-        "Model Context Protocol"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "This is how I learned AI as a DevOps Engineer | Step by Step Guide",
-      "link": "https://www.youtube.com/watch?v=ltDlAgEn59U",
-      "summary": "Join our Discord for Career...",
-      "published": "2026-07-26T15:30:09+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/ltDlAgEn59U/mqdefault.jpg"
-    },
-    {
-      "title": "Microsoft and Google DeepMind agree on AI control — but not on who holds it",
-      "link": "https://thenewstack.io/nadella-hassabis-ai-frameworks",
-      "summary": "Over two days this month, two of the most credible people in the industry published framework manifestos on X. Microsoft The post Microsoft and Google DeepMind agree on AI control — but not on who holds it appeared first on The New Stack .",
-      "published": "2026-07-26T15:30:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Janakiram MSV",
-      "categories": [
-        "AI Infrastructure",
-        "AI Strategy",
-        "Compliance"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "5 ways SRE AI agents are set to augment human capabilities",
-      "link": "https://thenewstack.io/sre-ai-agents-capabilities",
-      "summary": "In digital operations management, AI agents give organizations a competitive edge by reducing incident volume and accelerating recovery. The potential The post 5 ways SRE AI agents are set to augment human capabilities appeared first on The New Stack .",
-      "published": "2026-07-26T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Mandi Walls",
-      "categories": [
-        "AI Agents",
-        "AI Operations",
-        "DevOps",
-        "sponsor-pagerduty",
-        "sponsored-post-contributed"
       ],
       "thumbnail": ""
     }
