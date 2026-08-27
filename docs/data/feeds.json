@@ -1,10 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-08-26T06:32:15.723910+00:00",
-    "total_items": 304,
+    "generated_at": "2026-08-27T17:08:52.809617+00:00",
+    "total_items": 311,
     "sources": [
       "AKS (Official)",
-      "AKS Newsletter",
       "Abhishek Veeramalla",
       "Apps on Azure",
       "CNCF Blog",
@@ -18,6 +17,357 @@
     ]
   },
   "items": [
+    {
+      "title": "Top 15 DevOps tools for 2026 and Beyond ...",
+      "link": "https://www.youtube.com/watch?v=YRYhFIC2qJw",
+      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nThis video covers Top 15 DevOps tools that can emerge as Future of DevOps. \n\nFree Course on the channel\n==============================\n- Free DevOps Playlist:...",
+      "published": "2026-08-27T16:57:45+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/YRYhFIC2qJw/mqdefault.jpg"
+    },
+    {
+      "title": "This duck will teach you reinforcement learning — and pick up your socks",
+      "link": "https://thenewstack.io/hugging-face-microduck-robot",
+      "summary": "You could have a mechanical duck waddling through your home before Christmas.  Hugging Face‘s Pollen Robotics on Thursday opened pre-orders The post This duck will teach you reinforcement learning — and pick up your socks appeared first on The New Stack .",
+      "published": "2026-08-27T16:20:38+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Engineering",
+        "Hardware",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Replit’s new default: Auto mode picks the best model for each task",
+      "link": "https://thenewstack.io/replit-model-routing-default",
+      "summary": "AI coding company Replit is throwing its weight behind the model-routing trend by making its “intelligent model routing” system the The post Replit’s new default: Auto mode picks the best model for each task appeared first on The New Stack .",
+      "published": "2026-08-27T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "Vibe Coding"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Nvidia’s $12.9B Hugging Face deal has an open-source problem",
+      "link": "https://thenewstack.io/nvidia-hugging-face-acquisition-neutrality",
+      "summary": "Nvidia has reportedly agreed to buy Hugging Face for $12.9 billion, putting one of the biggest names in AI hardware The post Nvidia’s $12.9B Hugging Face deal has an open-source problem appeared first on The New Stack .",
+      "published": "2026-08-27T15:35:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Infrastructure",
+        "Hardware",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“Posterity will find it ludicrous”: Sai agent hits 73% on OSWorld 2.0 performing routine (but necessary) work",
+      "link": "https://thenewstack.io/sai-agent-osworld-benchmark",
+      "summary": "Sai, a computer agent built by Simular, has achieved a 73% success rate on OSWorld 2.0, in a benchmark update The post “Posterity will find it ludicrous”: Sai agent hits 73% on OSWorld 2.0 performing routine (but necessary) work appeared first on The New Stack .",
+      "published": "2026-08-27T15:34:11+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Engineering",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why basic RAG fails at multi-hop reasoning (and how GraphRAG fixes it)",
+      "link": "https://thenewstack.io/graphrag-multi-hop-reasoning-python",
+      "summary": "The current approach to designing LLMs within AI engineering is oversimplified. According to the echo chamber’s view, solving LLM hallucinations The post Why basic RAG fails at multi-hop reasoning (and how GraphRAG fixes it) appeared first on The New Stack .",
+      "published": "2026-08-27T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Emmanuel Akita",
+      "categories": [
+        "AI Engineering",
+        "Large Language Models",
+        "Python",
+        "sponsor-andela",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic’s new Files API vs. pasting: It will save you time, but it won’t save you money.",
+      "link": "https://thenewstack.io/anthropic-files-api-costs",
+      "summary": "Anthropic moved the Files API and computer-use toolset out of beta on August 19 and launched a browser-use toolset. It The post Anthropic’s new Files API vs. pasting: It will save you time, but it won’t save you money. appeared first on The New Stack .",
+      "published": "2026-08-27T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jessica Wachtel",
+      "categories": [
+        "AI Engineering",
+        "API Management",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Building an AI factory on Kubernetes",
+      "link": "https://www.cncf.io/blog/2026/08/27/building-an-ai-factory-on-kubernetes",
+      "summary": "An AI factory is not just a model or a cluster. It is a pool of GPUs that many teams draw from at once: one team fine-tuning, another serving inference, a third running evaluations, all on...",
+      "published": "2026-08-27T11:30:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Hrittik Roy | CNCF Ambassador and Platform Advocate at vCluster",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenChoreo: The Open Source Internal Developer Platform for Kubernetes",
+      "link": "https://www.youtube.com/watch?v=lNi7gXxAbtw",
+      "summary": "Kubernetes won the infrastructure abstraction. It never won the developer one. OpenChoreo is a CNCF Sandbox internal developer platform (IDP) that fixes exactly that - and in this video I install the whole thing on my Mac and prove it live.\n\nA developer who just wants to ship an HTTP service ends...",
+      "published": "2026-08-27T11:28:27+00:00",
+      "source": "Kubesimplify",
+      "type": "video",
+      "author": "Kubesimplify",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/lNi7gXxAbtw/mqdefault.jpg"
+    },
+    {
+      "title": "Manage and retrieve credentials securely inside Browser Automation Tool (BAT) using Azure Key Vault",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/manage-and-retrieve-credentials-securely-inside-browser/ba-p/4550858",
+      "summary": "When do AI agents need a browser Enterprise AI agents are becoming increasingly capable of reasoning over data, calling APIs, and orchestrating workflows. Yet many business-critical systems still expose functionality only through a web interface. ERP systems, supplier portals, internal...",
+      "published": "2026-08-27T11:27:16+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "AbhinavPremsekhar",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic’s Claude now has a browser of its own",
+      "link": "https://thenewstack.io/claude-built-in-browser-cowork",
+      "summary": "Anthropic is giving Claude its own browser. As the company announced on Wednesday, Claude on the desktop (Mac, Windows, and The post Anthropic’s Claude now has a browser of its own appeared first on The New Stack .",
+      "published": "2026-08-26T22:05:58+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "X sent Nitter a cease-and-desist. Then it went after the source code.",
+      "link": "https://thenewstack.io/x-nitter-open-source-takedown",
+      "summary": "When Elon Musk’s X sent cease-and-desist letters demanding that Nitter — an open-source alternative front end for the social media The post X sent Nitter a cease-and-desist. Then it went after the source code. appeared first on The New Stack .",
+      "published": "2026-08-26T21:04:31+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "Open Source",
+        "Security",
+        "Tech Culture"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI’s Astra can do a researcher’s week of work. That’s the problem.",
+      "link": "https://thenewstack.io/openai-astra-persistent-agents",
+      "summary": "OpenAI’s unreleased foundation model, codenamed Astra, is already working directly inside the company’s internal codebase, taking on experimental work that The post OpenAI’s Astra can do a researcher’s week of work. That’s the problem. appeared first on The New Stack .",
+      "published": "2026-08-26T20:24:20+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Observability has a data problem. AI is about to make it worse.",
+      "link": "https://thenewstack.io/opentelemetry-observability-telemetry-storage",
+      "summary": "Observability is entering a new phase now that OpenTelemetry has standardized instrumentation for data collection. Unfortunately, the observability industry still The post Observability has a data problem. AI is about to make it worse. appeared first on The New Stack .",
+      "published": "2026-08-26T20:08:10+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Will Kelly",
+      "categories": [
+        "AI Operations",
+        "Data",
+        "Observability",
+        "sponsor-bronto",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Understanding PyTorch Autograd by Writing a Custom Training Loop",
+      "link": "https://kodekloud.com/blog/pytorch-autograd-explained",
+      "summary": "You have been calling loss.backward() without knowing what it does, and that is why gradient bugs feel like magic. This walkthrough opens up autograd with real printed output, so the rules stop being things you memorise and start being things you can reason about.",
+      "published": "2026-08-26T18:02:07+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "pytorch",
+        "Autograd",
+        "Machine Learning",
+        "Deep Learning",
+        "Neural Networks",
+        "Python"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Claude Desktop can now easily run Qwen, DeepSeek and Kimi models — after Ollama’s first effort stalled",
+      "link": "https://thenewstack.io/ollama-claude-desktop-integration",
+      "summary": "Open-weight model runner Ollama has reintroduced an integration with Claude Desktop that lets users connect Anthropic’s app to models served The post Claude Desktop can now easily run Qwen, DeepSeek and Kimi models — after Ollama’s first effort stalled appeared first on The New Stack .",
+      "published": "2026-08-26T16:59:39+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Models",
+        "Developer tools",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Google’s new legal AI exposes a bigger battle over the enterprise stack",
+      "link": "https://thenewstack.io/google-thomson-specialized-ai",
+      "summary": "Google Cloud launched Gemini Enterprise for Legal this week, a purpose-built agentic AI solution to automate legal workflows, including contract The post Google’s new legal AI exposes a bigger battle over the enterprise stack appeared first on The New Stack .",
+      "published": "2026-08-26T16:33:23+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI Agents",
+        "AI Models",
+        "AI Strategy"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Z.ai’s GLM-5.3-Flash is cheap, good, and served on Chinese chips",
+      "link": "https://thenewstack.io/glm-5-3-flash-chinese-chips",
+      "summary": "Ox-alpha, the stealth model that quickly became the most popular model on OpenRouter in the last few days, is actually The post Z.ai’s GLM-5.3-Flash is cheap, good, and served on Chinese chips appeared first on The New Stack .",
+      "published": "2026-08-26T16:26:03+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Perplexity just separated reasoning from authority. Here’s why it matters for enterprises.",
+      "link": "https://thenewstack.io/perplexity-agent-harness-security",
+      "summary": "Perplexity shipped Portable Computer this week, the local-first version of its Computer agent running on an Nvidia DGX Spark workstation, The post Perplexity just separated reasoning from authority. Here’s why it matters for enterprises. appeared first on The New Stack .",
+      "published": "2026-08-26T16:18:18+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Janakiram MSV",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "When AI agent traces become application data",
+      "link": "https://thenewstack.io/agent-traces-application-data",
+      "summary": "Say a test starts failing and a developer hands it to a coding agent. It digs into the relevant files, The post When AI agent traces become application data appeared first on The New Stack .",
+      "published": "2026-08-26T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Manveer Chawla",
+      "categories": [
+        "AI Engineering",
+        "Databases",
+        "Storage",
+        "sponsor-clickhouse",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Microsoft just released Agent Lightning v1.0. Here’s why it matters for platform engineers.",
+      "link": "https://thenewstack.io/microsoft-agent-lightning-harness",
+      "summary": "Agentic reinforcement learning has been suffering from a disconnect, an uncoupling, and a misarticulation. The polarity arises from how a The post Microsoft just released Agent Lightning v1.0. Here’s why it matters for platform engineers. appeared first on The New Stack .",
+      "published": "2026-08-26T12:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Platform Engineering"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Governance guidance for CNCF projects: Choosing the right structure for your project’s size and stage",
+      "link": "https://www.cncf.io/blog/2026/08/26/governance-guidance-for-cncf-projects-choosing-the-right-structure-for-your-projects-size-and-stage",
+      "summary": "Clear patterns have emerged from governance reviews across 72 CNCF projects, distinguishing between what the CNCF requires at each maturity level versus what the data recommends for long-term project health. This post captures those patterns as...",
+      "published": "2026-08-26T11:30:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "CNCF Technical Oversight Committee",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Vertical Scaling vs Horizontal Scaling: Don't Answer Until You've Run top",
+      "link": "https://kodekloud.com/blog/vertical-scaling-vs-horizontal-scaling",
+      "summary": "Vertical scaling vs horizontal scaling is a trap until you diagnose. Why adding RAM hides bugs, and the three-step answer interviewers want.",
+      "published": "2026-08-26T10:07:18+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "DevOps"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes v1.37: Garhwal",
+      "link": "https://kubernetes.io/blog/2026/08/26/kubernetes-v1-37-release",
+      "summary": "Editors: Arsh Sharma, Christopher Tineo, Kirti Goyal, Sophia Ugochukwu, Swathi Rao, Troy Connor Similar to previous releases, the release of Kubernetes v1.37 introduces new Stable, Beta, and Alpha features. The consistent delivery of high-quality releases underscores the strength of our development...",
+      "published": "2026-08-26T00:00:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
     {
       "title": "Shopify’s CEO threatened to ban Claude Code. Anthropic had already closed the feature request.",
       "link": "https://thenewstack.io/shopify-claude-code-agentsmd",
@@ -330,6 +680,39 @@
         "Python"
       ],
       "thumbnail": ""
+    },
+    {
+      "title": "Microsoft launched 7 AI models that are smaller and faster",
+      "link": "https://www.youtube.com/watch?v=GRMV4UOvvQw",
+      "summary": "Getting started with MAI Models:\nhttps://fandf.co/4hEEYFM \n\nMicrosoft’s new MAI models are built with a clear focus: lighter, faster, and more efficient AI.\n\nInstead of simply chasing bigger models, Microsoft is exploring AI that can deliver strong performance with a smaller footprint. This could...",
+      "published": "2026-08-24T16:13:32+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/GRMV4UOvvQw/mqdefault.jpg"
+    },
+    {
+      "title": "MVP Spotlight: Richard Hooper on AKS Service mesh, Multi-cluster management and Open source",
+      "link": "https://www.youtube.com/watch?v=a2AGre13fkY",
+      "summary": "Join Jorge Arteiro as he talks to Richard Hooper about Azure Kubernetes Service (AKS). They discuss various topics such as Service Mesh, multi-cluster management & open source projects and community contributions.\nRichard is commonly known by his handle @pixel_robots and has authored AKS books and...",
+      "published": "2026-08-24T15:00:17+00:00",
+      "source": "AKS (Official)",
+      "type": "video",
+      "author": "Azure Kubernetes Service (AKS)",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/a2AGre13fkY/mqdefault.jpg"
+    },
+    {
+      "title": "Project Perception - Cybersecurity at the speed of AI",
+      "link": "https://www.youtube.com/watch?v=hYjgSu-77pA",
+      "summary": "Overview and demo of Project Perception!\n\nWhiteboard at https://github.com/johnthebrit/RandomStuff/raw/master/Whiteboards/Perception.png\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 -...",
+      "published": "2026-08-24T14:40:44+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/hYjgSu-77pA/mqdefault.jpg"
     },
     {
       "title": "Thomson Reuters trained its own AI model. Then it kept using Anthropic’s anyway.",
@@ -4222,298 +4605,6 @@
       "categories": [
         "AI",
         "Large Language Models",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kimi K3 just shocked the AI world | Better than Fable and 4 times Cheaper",
-      "link": "https://www.youtube.com/watch?v=8I3yFto_9Uo",
-      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nKimi K3 Explained – Complete Guide\n\nIn this video, you'll learn everything about Kimi K3, including what it is, why it's trending, and whether the hype is justified. I compare Kimi K3 vs Claude Opus 5 vs Fable, analyze...",
-      "published": "2026-07-28T17:04:43+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/8I3yFto_9Uo/mqdefault.jpg"
-    },
-    {
-      "title": "CNCF Announces Schedule for Debut Observability Summit Europe",
-      "link": "https://www.cncf.io/announcements/2026/07/28/cncf-announces-schedule-for-debut-observability-summit-europe",
-      "summary": "Summit gathers practitioners, contributors and engineers to advance open observability standards and practices Key Highlights SAN FRANCISCO, July 28, 2026—The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for cloud native software, today announced the...",
-      "published": "2026-07-28T16:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "kthornhill",
-      "categories": [
-        "Announcements"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Mate Security bets a context-first AI architecture can reinvent the SOC as it lands $35M Series A",
-      "link": "https://thenewstack.io/mate-security-context-graph",
-      "summary": "Every major security vendor now has an AI copilot, but Mate Security thinks they’re solving the wrong problem. The Tel The post Mate Security bets a context-first AI architecture can reinvent the SOC as it lands $35M Series A appeared first on The New Stack .",
-      "published": "2026-07-28T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Carly Page",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Diagrid gives failed AI agents a way to resume",
-      "link": "https://thenewstack.io/diagrid-catalyst-agent-recovery",
-      "summary": "AI agents can impress in a demo and still fumble in production. Diagrid’s Catalyst 2.0 aims to make them more The post Diagrid gives failed AI agents a way to resume appeared first on The New Stack .",
-      "published": "2026-07-28T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Infrastructure",
-        "Compliance"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "When vendor-supplied support matters: How AI is changing the open source security equation",
-      "link": "https://thenewstack.io/ai-open-source-security",
-      "summary": "Every enterprise runs on open source, but keeping it secure has become significantly harder. Frontier AI models are uncovering vulnerabilities The post When vendor-supplied support matters: How AI is changing the open source security equation appeared first on The New Stack .",
-      "published": "2026-07-28T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Carly Page",
-      "categories": [
-        "DevOps",
-        "Open Source",
-        "Security",
-        "sponsor-vmware-tanzu",
-        "Sponsored",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“There is a sell-by date on low-code, no-code”: What Tines thinks comes next",
-      "link": "https://thenewstack.io/tines-ai-workflow-governance",
-      "summary": "After eight years of building a no-code automation platform, Tines launched 3B Tuesday, a new platform that uses AI to The post “There is a sell-by date on low-code, no-code”: What Tines thinks comes next appeared first on The New Stack .",
-      "published": "2026-07-28T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Low Code / No Code",
-        "Vibe Coding"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Best AI Tools for DevOps Engineers in 2026",
-      "link": "https://kodekloud.com/blog/best-ai-tools-for-devops-engineers",
-      "summary": "AI tools worth a DevOps engineer's time, grouped by job: coding, Kubernetes diagnostics, incident response, and the terminal, plus the limits.",
-      "published": "2026-07-28T08:11:17+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "AI",
-        "DevOps"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic wants tests, not bans, as OpenAI and Google back open weights",
-      "link": "https://thenewstack.io/anthropic-wants-tests-not-bans-as-openai-and-google-back-open-weights",
-      "summary": "Anthropic does not want open-weight AI models banned. CEO Dario Amodei said so plainly today after a week of criticism. The post Anthropic wants tests, not bans, as OpenAI and Google back open weights appeared first on The New Stack .",
-      "published": "2026-07-28T00:02:25+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Matthew Burns",
-      "categories": [
-        "AI",
-        "AI Models",
-        "AI Strategy"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AKS Newsletter – July 2026",
-      "link": "https://aksnewsletter.com/2026/2026-07.html",
-      "summary": "47 curated items covering documentation updates, feature announcements, community blogs, and more.",
-      "published": "2026-07-28T00:00:00+00:00",
-      "source": "AKS Newsletter",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "The 24-hour experiment that helped Anthropic find its identity",
-      "link": "https://thenewstack.io/anthropic-evals-replace-prds",
-      "summary": "If you’re building traditional software, you write the product requirements document. If you’re building frontier AI, you run an evaluation. The post The 24-hour experiment that helped Anthropic find its identity appeared first on The New Stack .",
-      "published": "2026-07-27T19:14:57+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Strategy",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Moonshot opens Kimi K3 weights — but few can run it",
-      "link": "https://thenewstack.io/kimi-k3-open-weights",
-      "summary": "Moonshot AI has released the open weights for Kimi K3 on Hugging Face, giving developers access to one of the The post Moonshot opens Kimi K3 weights — but few can run it appeared first on The New Stack .",
-      "published": "2026-07-27T19:10:17+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Infrastructure",
-        "AI Models",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to Build a Kubernetes Troubleshooting AI Agent with LangChain and kubectl",
-      "link": "https://kodekloud.com/blog/kubernetes-troubleshooting-ai-agent-langchain-kubectl",
-      "summary": "Most pod failures resolve into six root causes, and the investigation is identical every time. Here is how to build an agent that runs that investigation for you, with a hard boundary between reading a cluster and changing one.",
-      "published": "2026-07-27T17:26:08+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "Kubernetes",
-        "AI",
-        "Python",
-        "Langgraph",
-        "Automation",
-        "AI Agents",
-        "Kubectl",
-        "DevOps"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Rayfin and Fabric Apps Overview",
-      "link": "https://www.youtube.com/watch?v=TEKN0gcH9Gg",
-      "summary": "Quick overview of Rayfin and Fabric Apps.\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:10 - The challenge today\n03:12 - Rayfin\n05:09 - Data model\n10:05 - App hosting\n14:57 - Demo\n19:28 - Key focus points\n20:07 - PowerBI and vibe coding\n21:25 - Summary\n21:49 - Close\n\n▬▬▬▬▬▬  K E Y   L...",
-      "published": "2026-07-27T17:22:54+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/TEKN0gcH9Gg/mqdefault.jpg"
-    },
-    {
-      "title": "Microsoft is racing to make OpenAI optional",
-      "link": "https://thenewstack.io/microsoft-homegrown-ai-models",
-      "summary": "AI is changing the technology game so quickly that Microsoft CEO Satya Nadella can’t stop long-posting on Twitter. Microsoft has The post Microsoft is racing to make OpenAI optional appeared first on The New Stack .",
-      "published": "2026-07-27T16:24:08+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Alex Wilhelm",
-      "categories": [
-        "AI Models",
-        "AI Strategy",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“Developers see this as the future”:  Pilot Protocol launches to power the agent economy",
-      "link": "https://thenewstack.io/pilot-protocol-agent-economy",
-      "summary": "When we created software agents, we built them in the shape of humans, as solitary individuals.  Today, agents created by The post “Developers see this as the future”:  Pilot Protocol launches to power the agent economy appeared first on The New Stack .",
-      "published": "2026-07-27T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Infrastructure",
-        "Emerging technologies"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Cloudflare open-sources a debugger for privacy protocols used by Apple and Microsoft, with AI agents in mind",
-      "link": "https://thenewstack.io/cloudflare-pvcli-privacy-debugger-agents",
-      "summary": "Every time you use a privacy service like Apple’s iCloud Private Relay, you’re trusting a system designed so that no The post Cloudflare open-sources a debugger for privacy protocols used by Apple and Microsoft, with AI agents in mind appeared first on The New Stack .",
-      "published": "2026-07-27T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Open Source",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Dynatrace’s new agents can reveal the single hardest part of AI operations",
-      "link": "https://thenewstack.io/dynatrace-autonomous-sre-agents",
-      "summary": "Observability platform company Dynatrace announced a set of advancements to its Dynatrace Intelligence service on Monday that aim to take The post Dynatrace’s new agents can reveal the single hardest part of AI operations appeared first on The New Stack .",
-      "published": "2026-07-27T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Operations",
-        "Observability"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Federating clusters for zero-downtime Kubernetes",
-      "link": "https://www.cncf.io/blog/2026/07/27/federating-clusters-for-zero-downtime-kubernetes",
-      "summary": "Every multi-region setup eventually meets the same awkward moment: a whole cluster goes away, and the identical copy of your service running two regions over might as well not exist, because nothing is wired to treat...",
-      "published": "2026-07-27T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Dominik Táskai, CNCF Ambassador and Linkerd Contributor",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to Learn AWS, GCP & Azure for FREE Without Getting a Surprise Bill in 2026",
-      "link": "https://www.youtube.com/watch?v=qY_fSbScFOs",
-      "summary": "An empty S3 bucket cost one developer $1,300 in 2 days. A startup was billed $72,000 overnight from an infinite loop. The problem isn't that cloud computing is expensive—it’s that nobody shows you the BRAKES before handing you the car.\n\nIn this video, I break down how to learn AWS, Google Cloud,...",
-      "published": "2026-07-27T10:57:41+00:00",
-      "source": "Piyush Sachdeva",
-      "type": "video",
-      "author": "Tech Tutorials with Piyush",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/qY_fSbScFOs/mqdefault.jpg"
-    },
-    {
-      "title": "Nvidia, Palantir, Hugging Face join 30 others in race to defend open-weight AI from cyber threats",
-      "link": "https://thenewstack.io/open-secure-ai-alliance",
-      "summary": "The current maelstrom of discussion surrounding the use of open-source software and open-weight AI models appears to be splitting opinion The post Nvidia, Palantir, Hugging Face join 30 others in race to defend open-weight AI from cyber threats appeared first on The New Stack .",
-      "published": "2026-07-27T09:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI",
-        "AI Infrastructure",
-        "Open Source",
         "Security"
       ],
       "thumbnail": ""
