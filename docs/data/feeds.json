@@ -1,9 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-08-27T17:08:52.809617+00:00",
-    "total_items": 311,
+    "generated_at": "2026-08-28T17:55:36.348145+00:00",
+    "total_items": 303,
     "sources": [
       "AKS (Official)",
+      "AKS Newsletter",
       "Abhishek Veeramalla",
       "Apps on Azure",
       "CNCF Blog",
@@ -17,6 +18,148 @@
     ]
   },
   "items": [
+    {
+      "title": "Z.ai’s GLM-5.3 goes open weight, but its new license aims at hyperscalers",
+      "link": "https://thenewstack.io/zai-glm-weights-license",
+      "summary": "Earlier in August, Z.ai, the Chinese AI lab behind the viral ox-alpha model that turned out to be GLM-5.3-Flash, launched The post Z.ai’s GLM-5.3 goes open weight, but its new license aims at hyperscalers appeared first on The New Stack .",
+      "published": "2026-08-28T17:42:54+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why Is My SQL Query Slow? It's Almost Never the Hardware",
+      "link": "https://kodekloud.com/blog/why-is-my-sql-query-slow",
+      "summary": "Why is my SQL query slow? Watch EXPLAIN ANALYZE turn a million-row scan into ten block reads with one index, and count an N+1 loop in the act.",
+      "published": "2026-08-28T16:36:51+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "database"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Nvidia is paying $12.9 billion to keep open models on its chips",
+      "link": "https://thenewstack.io/nvidia-open-models-chips",
+      "summary": "I’m Matt Burns, Chief Content Officer at Insight Media Group. Each week, I round up the most important AI developments, The post Nvidia is paying $12.9 billion to keep open models on its chips appeared first on The New Stack .",
+      "published": "2026-08-28T15:43:25+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Matthew Burns",
+      "categories": [
+        "AI Engineering",
+        "AI Models",
+        "AI Strategy"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Learn DevOps in the most easiest way.",
+      "link": "https://www.youtube.com/watch?v=hBlg11aH2fY",
+      "summary": "Create an account with Esc Bash using escbash.com\n\nEsc Bash is the best platform to learn DevOps, Cloud and AI practically.\nSee more at escbash.com\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist:...",
+      "published": "2026-08-28T14:58:14+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/hBlg11aH2fY/mqdefault.jpg"
+    },
+    {
+      "title": "Scale before the spike: Predictive autoscaling for GPU workloads on Kubernetes",
+      "link": "https://www.cncf.io/blog/2026/08/28/scale-before-the-spike-predictive-autoscaling-for-gpu-workloads-on-kubernetes",
+      "summary": "The 3 AM Call We got paged one Tuesday morning. A critical production service had crashed under traffic—not gradually degraded, but crashed. Hundreds of pending pods. Users were seeing 15–20% error rates. The incident postmortem was...",
+      "published": "2026-08-28T11:30:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Ramkumar Nagaraj (Golden Kubestronaut, Adobe) and Bingi Narasimha Karthik (Golden Kubestronaut, Adobe)",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Your Kubernetes platform is ready for containers. Is it ready for AI?",
+      "link": "https://www.cncf.io/blog/2026/08/28/your-kubernetes-platform-is-ready-for-containers-is-it-ready-for-ai",
+      "summary": "Kubernetes has given platform teams a consistent way to deploy, scale, and operate containerized applications. Now, many of those same teams are being asked to support AI. The transition is already underway. According to the CNCF...",
+      "published": "2026-08-28T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Kasia Hilborne, Vultr",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure Update 28th August 2026",
+      "link": "https://www.youtube.com/watch?v=TYGdwts3ILc",
+      "summary": "Quick update from Argentina!\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation queue never to...",
+      "published": "2026-08-28T08:04:56+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/TYGdwts3ILc/mqdefault.jpg"
+    },
+    {
+      "title": "AKS Newsletter – August 2026",
+      "link": "https://aksnewsletter.com/2026/2026-08.html",
+      "summary": "54 curated items covering documentation updates, feature announcements, community blogs, and more.",
+      "published": "2026-08-28T00:00:00+00:00",
+      "source": "AKS Newsletter",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Google found a way to test Gemini without seeing the questions",
+      "link": "https://thenewstack.io/google-double-blind-evaluation",
+      "summary": "Growing datasets and public benchmarks are making it harder to tell whether a model is being tested on something it The post Google found a way to test Gemini without seeing the questions appeared first on The New Stack .",
+      "published": "2026-08-27T20:49:52+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Infrastructure",
+        "AI Models",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes v1.37: Metrics API graduates to stable",
+      "link": "https://kubernetes.io/blog/2026/08/27/kubernetes-v1-37-metrics-api-ga",
+      "summary": "Kubernetes v1.37 promotes the metrics.k8s.io API to stable ( v1 ). This\nAPI provides CPU and memory usage for nodes and Pods, and is the API behind\ncommands such as kubectl top and resource-metrics-based autoscaling. For cluster operators and application developers, this graduation means that\nthe...",
+      "published": "2026-08-27T18:30:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Aider, Claude Code, and OpenClaw ran an identical model. Token use varied 70-fold.",
+      "link": "https://thenewstack.io/agent-harness-token-costs",
+      "summary": "When teams price an AI coding agent, they tend to scrutinize the model. But three recent benchmarking efforts suggest the The post Aider, Claude Code, and OpenClaw ran an identical model. Token use varied 70-fold. appeared first on The New Stack .",
+      "published": "2026-08-27T17:54:40+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Janakiram MSV",
+      "categories": [
+        "AI Agents",
+        "Developer tools",
+        "FinOps"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Top 15 DevOps tools for 2026 and Beyond ...",
       "link": "https://www.youtube.com/watch?v=YRYhFIC2qJw",
@@ -4321,292 +4464,6 @@
       "type": "article",
       "author": "",
       "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Bring Your Own Orchestrator to Azure Container Apps Jobs",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/bring-your-own-orchestrator-to-azure-container-apps-jobs/ba-p/4541275",
-      "summary": "Azure Container Apps Jobs are a good fit for batch processing, ETL, machine learning, reports, and other tasks that run to completion. But when those tasks have dependencies, retries, or fan-out, you still need an orchestrator. Many teams already have one. The community-maintained Bring Your Own...",
-      "published": "2026-07-29T17:49:33+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "hetvip",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Observability for AI Agents, Building Dashboards with Prometheus and Grafana",
-      "link": "https://kodekloud.com/blog/observability-ai-agents-prometheus-grafana",
-      "summary": "An agent can return HTTP 200, respond in 300 milliseconds, throw zero exceptions, and still be completely wrong. Here are the metrics and dashboards that catch that, and the label mistake that will destroy your Prometheus.",
-      "published": "2026-07-29T17:00:49+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "Prometheus",
-        "Grafana",
-        "Grafana Loki",
-        "Observability",
-        "AI Agents",
-        "Monitoring",
-        "DevOps",
-        "PromQL",
-        "OpenTelemetry"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The AI “vibe shift”: Why NanoClaw and Echo have teamed up to stop the next Hugging Face Breach",
-      "link": "https://thenewstack.io/nanoclaw-echo-agent-runtime",
-      "summary": "When he’s asked about the intensifying contest between rapidly advancing AI attackers and the software defenses meant to contain them, The post The AI “vibe shift”: Why NanoClaw and Echo have teamed up to stop the next Hugging Face Breach appeared first on The New Stack .",
-      "published": "2026-07-29T16:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "David Eastman",
-      "categories": [
-        "AI Agents",
-        "Open Source",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“Stateful systems are incredibly hard to build”: How Perplexity thinks about AI agent sandboxes",
-      "link": "https://thenewstack.io/perplexity-space-agent-sandboxes",
-      "summary": "Sandboxes for AI agents may feel like a solved problem. After all, projects like Firecracker, the open-source microVM technology AWS built The post “Stateful systems are incredibly hard to build”: How Perplexity thinks about AI agent sandboxes appeared first on The New Stack .",
-      "published": "2026-07-29T15:30:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Your team isn’t “ignoring security.” They’re just underwater.",
-      "link": "https://thenewstack.io/cloud-security-triage-cadence",
-      "summary": "A cloud security finding becomes useful only when someone decides what matters, assigns an owner, and follows it through. For The post Your team isn’t “ignoring security.” They’re just underwater. appeared first on The New Stack .",
-      "published": "2026-07-29T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Megan Carnegie",
-      "categories": [
-        "Cloud Services",
-        "DevOps",
-        "Security",
-        "sponsor-i-o-mergent",
-        "Sponsored",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Turning 10x developers into 10x value",
-      "link": "https://thenewstack.io/building-the-10x-organization",
-      "summary": "When I sit down with leaders and ask why they’re investing in AI, the answer almost always comes back to The post Turning 10x developers into 10x value appeared first on The New Stack .",
-      "published": "2026-07-29T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Bryan Ross",
-      "categories": [
-        "AI Strategy",
-        "DevOps",
-        "Software Development",
-        "sponsor-gitlab",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kernel of truth: GPT-5.6 Sol can cut its own costs, says OpenAI",
-      "link": "https://thenewstack.io/gpt-5-6-serving-efficiency",
-      "summary": "OpenAI has detailed, in a new engineering blog post, how the GPT-5.6 model family balances capability and cost across its The post Kernel of truth: GPT-5.6 Sol can cut its own costs, says OpenAI appeared first on The New Stack .",
-      "published": "2026-07-29T13:04:39+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Janakiram MSV",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "AI Infrastructure"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Modus’s operandi: To give AI agents just the right amount of context",
-      "link": "https://thenewstack.io/modus-enterprise-context-warehouse",
-      "summary": "As more companies plug AI agents into the deepest depths of their internal data banks, how can they be sure The post Modus’s operandi: To give AI agents just the right amount of context appeared first on The New Stack .",
-      "published": "2026-07-29T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Infrastructure",
-        "Data"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Shipping code without human verification",
-      "link": "https://thenewstack.io/ship-code-without-verification",
-      "summary": "Agents are writing code faster than humans can review it. The answer is not “review faster”; that would be like The post Shipping code without human verification appeared first on The New Stack .",
-      "published": "2026-07-29T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jade Rubick",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Software Testing",
-        "sponsor-aviator",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Your Kubernetes health checks are accidentally waking your services. Here’s the fix.",
-      "link": "https://www.cncf.io/blog/2026/07/29/your-kubernetes-health-checks-are-accidentally-waking-your-services-heres-the-fix",
-      "summary": "Scale-to-zero breaks when health checks scale you back up. Learn how KubeElasti’s ProbeResponse lets Kubernetes services stay genuinely idle — while keeping load balancers and uptime monitors happy. Scale-to-zero sounds perfect on paper. Idle service. No...",
-      "published": "2026-07-29T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "KubeElasti Maintainers",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "CNCF and SlashData Report Finds Japan’s Cloud Native Community Reaches Nearly 1 Million Developers",
-      "link": "https://www.cncf.io/announcements/2026/07/28/cncf-and-slashdata-report-finds-japans-cloud-native-community-reaches-nearly-1-million-developers",
-      "summary": "New research finds 100,000 of Japan’s AI developers now leverage cloud native technologies Key Highlights: YOKOHAMA – KubeCon + CloudNativeCon Japan —July 29, 2026— The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for cloud...",
-      "published": "2026-07-29T00:30:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Haley White",
-      "categories": [
-        "Announcements"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Subaru Wins CNCF End User Case Study Contest for Accelerating AI Development with Cloud Native Infrastructure",
-      "link": "https://www.cncf.io/announcements/2026/07/28/subaru-wins-cncf-end-user-case-study-contest-for-accelerating-ai-development-with-cloud-native-infrastructure",
-      "summary": "New architecture reduced AI container image pull times by 60x while automating workflows for next-generation driver assistance systems Key Highlights YOKOHAMA – KUBECON + CLOUDNATIVECON JAPAN — July 29, 2026 — The Cloud Native Computing Foundation®...",
-      "published": "2026-07-29T00:30:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Haley White",
-      "categories": [
-        "Announcements"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Lima v2.2: Windows guests and TPM 2.0 emulation",
-      "link": "https://www.cncf.io/blog/2026/07/28/lima-v2-2-windows-guests-and-tpm-2-0-emulation",
-      "summary": "Following macOS and FreeBSD guests in v2.1, Lima v2.2 takes the next big step: Windows guest support. With this release, a single `limactl` workflow can now boot Linux, macOS, FreeBSD  and Windows virtual machines. Lima v2.2...",
-      "published": "2026-07-29T00:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Ansuman Sahoo, Lima Project Maintainer",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Welcome CoHDI to the CNCF: Evolving Kubernetes into composable disaggregated infrastructures",
-      "link": "https://www.cncf.io/blog/2026/07/28/welcome-cohdi-to-the-cncf-evolving-kubernetes-into-composable-disaggregated-infrastructures",
-      "summary": "We are thrilled to announce that CoHDI has officially been accepted as a Cloud Native Computing Foundation (CNCF) Sandbox project! This acceptance into the CNCF Sandbox marks an important milestone in CoHDI’s journey. We would like...",
-      "published": "2026-07-29T00:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Hyde Sugiyama (Red Hat), Naoki Oguchi (FSAS Technology), Jin Hase (Fujitsu), Michele Gazzetti (IBM Research), Masaharu Kanda (NTT)",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How Japan’s 250% Training Surge is Shaping Global AI Talent",
-      "link": "https://www.cncf.io/blog/2026/07/28/how-japans-250-training-surge-is-shaping-global-ai-talent",
-      "summary": "The first KubeCon + CloudNativeCon Japan took place in Tokyo in June 2025 and kicked off a cloud native skills boom in the region. In the twelve months since the conference, Kubernetes exams taken in Japan...",
-      "published": "2026-07-28T23:28:55+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Christophe Sauthier, CNCF",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kubeflow unveils new cloud native innovations to supercharge AI",
-      "link": "https://www.cncf.io/blog/2026/07/28/kubeflow-unveils-new-cloud-native-innovations-to-supercharge-ai",
-      "summary": "The Kubeflow news coming out of Kubecon + CloudNativeCon Japan 2026 highlights several significant advancements and community initiatives.  The Kubeflow project is rapidly advancing toward CNCF Graduation, emphasizing its evolution into a mature, production-ready ML ecosystem....",
-      "published": "2026-07-28T23:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Kubeflow",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Jensen Huang says AI agents could drive a 5-10x computing boom: “100 billion agents and billions of robots”",
-      "link": "https://thenewstack.io/huang-semiconductor-tenfold-ai-agents",
-      "summary": "This week during an interview with Bloomberg, Jensen Huang made quite the prediction. The Nvidia CEO said the semiconductor industry The post Jensen Huang says AI agents could drive a 5-10x computing boom: “100 billion agents and billions of robots” appeared first on The New Stack .",
-      "published": "2026-07-28T19:46:50+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Hardware"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Using ArgoCD to Manage AI Model Deployments with GitOps",
-      "link": "https://kodekloud.com/blog/argocd-gitops-ai-model-deployments",
-      "summary": "Your microservices deploy through pull requests with full audit trails. Your models deploy because someone ran a script. Here is how to close that gap with ArgoCD, and what changes when the artifact weighs four gigabytes.",
-      "published": "2026-07-28T18:24:57+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "ArgoCD",
-        "GitOps",
-        "MLOps",
-        "AI Models",
-        "KServe",
-        "DevOps",
-        "CI/CD",
-        "ML Model Deployment",
-        "Automation",
-        "Kubernetes"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Sam Altman on model distillation: “This is not in my top ten list of worries”",
-      "link": "https://thenewstack.io/altman-security-distillation-scale",
-      "summary": "Sam Altman’s latest appearance on Patrick O’Shaughnessy’s Invest Like the Best podcast covered everything from AGI and robotics to the The post Sam Altman on model distillation: “This is not in my top ten list of worries” appeared first on The New Stack .",
-      "published": "2026-07-28T18:15:57+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI",
-        "Large Language Models",
-        "Security"
-      ],
       "thumbnail": ""
     }
   ]
