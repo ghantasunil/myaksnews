@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-08-28T17:55:36.348145+00:00",
-    "total_items": 303,
+    "generated_at": "2026-08-29T12:00:09.634736+00:00",
+    "total_items": 299,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -18,6 +18,63 @@
     ]
   },
   "items": [
+    {
+      "title": "JetBrains told everyone to patch. It didn’t patch itself.",
+      "link": "https://thenewstack.io/jetbrains-told-everyone-to-patch-it-didnt-patch-itself",
+      "summary": "JetBrains is urging users of its Cadence cloud development service to rotate credentials and treat previous executions and their outputs The post JetBrains told everyone to patch. It didn’t patch itself. appeared first on The New Stack .",
+      "published": "2026-08-28T20:51:48+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "CI/CD",
+        "Cloud Services",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "LM Studio built a judge for AI commands. Then the judge started agreeing with the defendant.",
+      "link": "https://thenewstack.io/bionic-shell-command-safety",
+      "summary": "A command as ordinary as git diff can become a problem for an AI coding agent once a variable gets The post LM Studio built a judge for AI commands. Then the judge started agreeing with the defendant. appeared first on The New Stack .",
+      "published": "2026-08-28T18:31:38+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "Developer tools",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes v1.37: Pod Certificates and Cluster Trust Bundles",
+      "link": "https://kubernetes.io/blog/2026/08/28/kubernetes-v1-37-pod-certificates-and-cluster-trust-bundles",
+      "summary": "Pod Certificate / Cluster Trust Bundles Blog Post Kubernetes brings a wealth of features that make it easy to run your production\nworkloads securely and reliably. While aspects like scheduling, health checks\nand resource limits are probably at the front of your mind, one other important\nfeature of...",
+      "published": "2026-08-28T18:30:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Alibaba just released Qwen3.8-Flash: “An early preview of the architecture in Qwen4”",
+      "link": "https://thenewstack.io/qwen38-flash-previews-qwen4",
+      "summary": "Alibaba this week unveiled Qwen3.8-Flash, an open-weight, multimodal Mixture-of-Experts (MoE) model.  Hot on the heels of Qwen 3.8 Max, which The post Alibaba just released Qwen3.8-Flash: “An early preview of the architecture in Qwen4” appeared first on The New Stack .",
+      "published": "2026-08-28T18:27:06+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI",
+        "AI Infrastructure",
+        "AI Models",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Z.ai’s GLM-5.3 goes open weight, but its new license aims at hyperscalers",
       "link": "https://thenewstack.io/zai-glm-weights-license",
@@ -4352,118 +4409,6 @@
         "sponsor-andela",
         "sponsored-post-contributed"
       ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Runtime Supply Chain Verification using the Node Resource Interface (NRI)",
-      "link": "https://www.cncf.io/blog/2026/07/30/runtime-supply-chain-verification-using-the-node-resource-interface-nri",
-      "summary": "The widely used container supply chain verification tools today operate at the Kubernetes API layer as admission webhooks (such as Kyverno, OPA Gatekeeper, and Sigstore Policy Controller). They intercept pod creation, check signatures and attestations, and...",
-      "published": "2026-07-30T11:09:11+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Sascha Grunert",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "IBM says quantum computers are getting harder to verify. That’s progress.",
-      "link": "https://thenewstack.io/ibm-quantum-advantage-verification",
-      "summary": "IBM and its partners say quantum computers are now getting to the point where they can run calculations that can’t The post IBM says quantum computers are getting harder to verify. That’s progress. appeared first on The New Stack .",
-      "published": "2026-07-30T10:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "Emerging technologies",
-        "Science"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI fixed GPT-5.6 Sol’s most frustrating flaw: Burning limits while it waits",
-      "link": "https://thenewstack.io/sol-usage-limits-reset",
-      "summary": "OpenAI introduced GPT-5.6 Sol earlier this month as a model built for more demanding coding tasks. But it didn’t take The post OpenAI fixed GPT-5.6 Sol’s most frustrating flaw: Burning limits while it waits appeared first on The New Stack .",
-      "published": "2026-07-29T18:44:41+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "AI Models",
-        "AI Operations"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic backs urgent call for the most powerful AI labs to hit the brakes",
-      "link": "https://thenewstack.io/ai-pause-framework-letter",
-      "summary": "Less than a week after OpenAI disclosed that two experimental AI models escaped their testing environment during a cybersecurity exercise The post Anthropic backs urgent call for the most powerful AI labs to hit the brakes appeared first on The New Stack .",
-      "published": "2026-07-29T18:41:26+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“The beast needs a cage”: Why PortSwigger’s agentic pentesting is kept safe behind bars",
-      "link": "https://thenewstack.io/burp-agentic-pentesting-control-layer",
-      "summary": "As agentic services diversify across the entire enterprise technology stack, the rise of agentic coding tools is being challenged by The post “The beast needs a cage”: Why PortSwigger’s agentic pentesting is kept safe behind bars appeared first on The New Stack .",
-      "published": "2026-07-29T18:34:54+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI Agents",
-        "Security",
-        "Software Testing"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI, Anthropic, and Cursor all localized pricing for India. Only two focused on value.",
-      "link": "https://thenewstack.io/cursor-anthropic-openai-india-pricing",
-      "summary": "Cursor is the latest AI company to target India with localized pricing, announcing on Tuesday a dedicated plan that sits The post OpenAI, Anthropic, and Cursor all localized pricing for India. Only two focused on value. appeared first on The New Stack .",
-      "published": "2026-07-29T18:30:55+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Strategy",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Opus 5 vs. Fable 5: What does half the price buy?",
-      "link": "https://thenewstack.io/opus-5-vs-fable-5",
-      "summary": "Anthropic released Claude Opus 5 last week, with this pitch: It comes “close to the frontier intelligence of Claude Fable The post Opus 5 vs. Fable 5: What does half the price buy? appeared first on The New Stack .",
-      "published": "2026-07-29T18:24:08+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jessica Wachtel",
-      "categories": [
-        "AI Engineering",
-        "AI Models",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API Server",
-      "link": "https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained",
-      "summary": "Kubernetes has long been the default platform for distributed workloads, and writing your own\ncontroller for it is now a matter of a few hours. The common path — Golang, using kubebuilder on top of controller-runtime — gives you a project scaffold, types, and a reconciler. For typical\nscenarios...",
-      "published": "2026-07-29T18:00:00+00:00",
-      "source": "Kubernetes Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
       "thumbnail": ""
     }
   ]
