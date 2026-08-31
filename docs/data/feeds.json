@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-08-30T10:57:01.504979+00:00",
-    "total_items": 292,
+    "generated_at": "2026-08-31T12:14:02.551080+00:00",
+    "total_items": 290,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -18,6 +18,120 @@
     ]
   },
   "items": [
+    {
+      "title": "DeepSeek’s first vision model vs. Gemini 3.7 Flash: It comes down to spend vs. speed",
+      "link": "https://thenewstack.io/deepseek-gemini-vision-comparison",
+      "summary": "DeepSeek released V4 Flash Vision Exp on August 21, its first model that accepts image input. Image input means a The post DeepSeek’s first vision model vs. Gemini 3.7 Flash: It comes down to spend vs. speed appeared first on The New Stack .",
+      "published": "2026-08-31T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jessica Wachtel",
+      "categories": [
+        "AI Engineering",
+        "AI Models",
+        "Software Testing"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenTelemetry has graduated… now what?",
+      "link": "https://www.cncf.io/blog/2026/08/31/opentelemetry-has-graduated-now-what-2",
+      "summary": "In case you missed it: OpenTelemetry (OTel) has officially achieved CNCF graduated status! It now stands proudly alongside amazing open source projects such as Kubernetes and Prometheus, to name just a few. It’s been a long...",
+      "published": "2026-08-31T11:30:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Adriana Villela (OTel Community Manager | OTel End User SIG Maintainer | CNCF Ambassador) and Reese Lee (OTel Community Manager | OTel End User SIG Maintainer)",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure Linux 4.0 Overview",
+      "link": "https://www.youtube.com/watch?v=_9C1d4PZ2Lc",
+      "summary": "A look at Azure Linux 4.0 and Azure Container Host!\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:12 - History\n02:42 - Why Azure Linux?\n05:28 - Architecture\n08:24 - Where can be used\n09:01 - Lifecycle\n09:19 - Looking at Azure Linux\n11:41 - Using with WSL\n13:10 - Azure Container...",
+      "published": "2026-08-31T10:43:19+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/_9C1d4PZ2Lc/mqdefault.jpg"
+    },
+    {
+      "title": "Tide launched Raziel for AI security. It assumes hackers are inside.",
+      "link": "https://thenewstack.io/tide-raziel-emergent-authority",
+      "summary": "Michael Loewy, co-founder of the Tide Foundation, says the security industry was already losing ground to hackers before AI. Everything The post Tide launched Raziel for AI security. It assumes hackers are inside. appeared first on The New Stack .",
+      "published": "2026-08-31T10:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jennifer Riggins",
+      "categories": [
+        "AI Agents",
+        "Model Context Protocol (MCP)",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI leaving Cursor: “Developers have to be prepared to adapt when it happens.”",
+      "link": "https://thenewstack.io/openai-cuts-cursor-spacex",
+      "summary": "OpenAI stated on Friday that it has notified SpaceX that it intends to wind down its contract providing OpenAI models The post OpenAI leaving Cursor: “Developers have to be prepared to adapt when it happens.” appeared first on The New Stack .",
+      "published": "2026-08-30T17:03:49+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Models",
+        "Developer tools",
+        "Tech Culture"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI agents are making retrieval engineering a core engineering discipline",
+      "link": "https://thenewstack.io/ai-agents-retrieval-engineering",
+      "summary": "AI agents are changing retrieval requirements. As organizations move from chatbots to AI systems that investigate, reason, and act on The post AI agents are making retrieval engineering a core engineering discipline appeared first on The New Stack .",
+      "published": "2026-08-30T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Tim Young",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "AI Strategy",
+        "sponsor-vespa-ai",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Your AI agent is only as good as the harness around it",
+      "link": "https://thenewstack.io/building-ai-agent-harness",
+      "summary": "An agent can give a convincing answer in a demo. Especially when the question is clear, the documents are up The post Your AI agent is only as good as the harness around it appeared first on The New Stack .",
+      "published": "2026-08-30T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jeremy Daly",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Software Development",
+        "sponsor-oracle",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "DevOps Intern with no previous experience | Power of Manifestation",
+      "link": "https://www.youtube.com/watch?v=9TVrT0JFSYg",
+      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
+      "published": "2026-08-30T14:22:14+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/9TVrT0JFSYg/mqdefault.jpg"
+    },
     {
       "title": "Build a Custom PyTorch Dataset and DataLoader for Your Own Image Folder",
       "link": "https://kodekloud.com/blog/pytorch-custom-dataset-dataloader",
@@ -4150,152 +4264,6 @@
         "AI Models",
         "AI Operations",
         "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Temporal 5x’d AI spend and doubled revenue. CEO Samar Abbas says he can’t prove they’re connected.",
-      "link": "https://thenewstack.io/temporal-ai-adoption-durable-execution",
-      "summary": "For the final two weeks of the year, Temporal clears its calendars. The company calls it a reading period: no The post Temporal 5x’d AI spend and doubled revenue. CEO Samar Abbas says he can’t prove they’re connected. appeared first on The New Stack .",
-      "published": "2026-08-01T10:30:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Matthew Burns",
-      "categories": [
-        "AI",
-        "AI Operations",
-        "AI Strategy"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Forget humans “in” the loop. Harness engineering puts humans “on” the loop.",
-      "link": "https://thenewstack.io/ai-agents-harness-engineering",
-      "summary": "AI has us quickly forgetting humans as the software delivery loop. Now, forget humans in the loop. For Thoughtworks’ distinguished The post Forget humans “in” the loop. Harness engineering puts humans “on” the loop. appeared first on The New Stack .",
-      "published": "2026-07-31T17:18:13+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jennifer Riggins",
-      "categories": [
-        "AI Agents",
-        "CI/CD",
-        "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Nscale just bought Anyscale. Here’s why it matters for multi-cloud neutrality.",
-      "link": "https://thenewstack.io/nscale-anyscale-acquisition-neocloud-lockin",
-      "summary": "Cloud platform company Nscale announced this week a definitive agreement to acquire AI workload scaling specialist Anyscale, in a move The post Nscale just bought Anyscale. Here’s why it matters for multi-cloud neutrality. appeared first on The New Stack .",
-      "published": "2026-07-31T17:04:23+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI",
-        "AI Infrastructure",
-        "AI Operations",
-        "Cloud Services"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How DNS Works for DevOps Engineers",
-      "link": "https://kodekloud.com/blog/how-dns-works-for-devops-engineers",
-      "summary": "Almost every engineer uses DNS a hundred times a day and has never been taught how it works. This guide follows a single lookup from your laptop to the answer, then shows you exactly where it breaks in production.",
-      "published": "2026-07-31T17:00:06+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "Networking",
-        "DNS",
-        "DevOps",
-        "Kubernetes",
-        "Infrastructure",
-        "Linux",
-        "Troubleshooting"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "I created a practical learning platform for DevOps and AI",
-      "link": "https://www.youtube.com/watch?v=SzlRf0o9-hI",
-      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nTry Esc Bash at https://escbash.com\n\nEsc Bash is a practical DevOps and AI learning platform that is one of its kind. Every minute that you spend on the platform is only for practical learning. \n\nFree Course on the...",
-      "published": "2026-07-31T16:35:15+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/SzlRf0o9-hI/mqdefault.jpg"
-    },
-    {
-      "title": "Kubernetes v1.37 Sneak Peek",
-      "link": "https://kubernetes.io/blog/2026/07/31/kubernetes-v1-37-sneak-peek",
-      "summary": "As we get closer to the release date for Kubernetes v1.37, the project develops and matures,\nfeatures may be deprecated, removed, or replaced with better ones for the project's overall\nhealth. This blog outlines some of the planned changes for the Kubernetes v1.37 release that the\nrelease team...",
-      "published": "2026-07-31T16:00:00+00:00",
-      "source": "Kubernetes Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Gemini Robotics 2 brings us one step closer to physical AGI",
-      "link": "https://thenewstack.io/gemini-robotics-2",
-      "summary": "This week, Google DeepMind revealed Gemini Robotics 2, an intelligence layer comprising three new models to power more adaptable physical The post Gemini Robotics 2 brings us one step closer to physical AGI appeared first on The New Stack .",
-      "published": "2026-07-31T15:56:51+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "AI Engineering",
-        "AI Models",
-        "Hardware"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Azure Update 31st July 2026",
-      "link": "https://www.youtube.com/watch?v=565Oh4RH_Nc",
-      "summary": "Nice selection of updates this week.\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation queue...",
-      "published": "2026-07-31T15:26:22+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/565Oh4RH_Nc/mqdefault.jpg"
-    },
-    {
-      "title": "Cost Control and Security for AI Workloads on AWS, Budgets and IAM Guardrails",
-      "link": "https://kodekloud.com/blog/aws-ai-workloads-cost-control-security-guardrails",
-      "summary": "AWS gives you excellent visibility into AI spend and almost no ability to stop it. Budgets alert, they do not block, and cost data arrives up to two days late. Here is the guardrail stack that actually enforces a limit.",
-      "published": "2026-07-31T12:40:08+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "Cloud",
-        "AWS",
-        "Guardrails",
-        "AI Security",
-        "FinOps",
-        "AWS Budgets",
-        "IAM",
-        "Governance"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Scaling Kubernetes pods with KEDA based on Amazon SQS queue depth",
-      "link": "https://www.cncf.io/blog/2026/07/31/scaling-kubernetes-pods-with-keda-based-on-amazon-sqs-queue-depth",
-      "summary": "In event-driven Kubernetes architectures, CPU and memory utilization often fail to reflect real system pressure. A worker pod may sit idle from a CPU perspective while thousands of messages pile up in an Amazon SQS queue....",
-      "published": "2026-07-31T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Albena Galabova, Itgix",
-      "categories": [
-        "Blog"
       ],
       "thumbnail": ""
     }
