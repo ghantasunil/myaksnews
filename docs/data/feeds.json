@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-01T10:49:54.961303+00:00",
-    "total_items": 301,
+    "generated_at": "2026-09-02T10:14:33.093456+00:00",
+    "total_items": 312,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -19,6 +19,167 @@
     ]
   },
   "items": [
+    {
+      "title": "Claude Fable 5.1 watermark: It has a blind spot developers can’t ignore",
+      "link": "https://thenewstack.io/fable-5-1-watermark",
+      "summary": "Anthropic launched Claude Fable 5.1 on Tuesday with a statistical signature embedded in its generated text, but developers shouldn’t expect The post Claude Fable 5.1 watermark: It has a blind spot developers can’t ignore appeared first on The New Stack .",
+      "published": "2026-09-01T20:59:09+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Runway wants to generate software as you use it. Solaris is its first step.",
+      "link": "https://thenewstack.io/runway-solaris-generated-interfaces",
+      "summary": "Runway introduced Solaris on Monday, the first model of a new class of AI systems it calls Interface World Models, The post Runway wants to generate software as you use it. Solaris is its first step. appeared first on The New Stack .",
+      "published": "2026-09-01T19:44:41+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI Models",
+        "Frontend Development",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic’s Fable 5.1 is a bit cheaper, a bit smarter, and refuses a lot less",
+      "link": "https://thenewstack.io/anthropic-fable-5-1-launch",
+      "summary": "On Tuesday, Anthropic launched the latest versions of its flagship Fable and Mythos models. Anthropic promises that the updated models The post Anthropic’s Fable 5.1 is a bit cheaper, a bit smarter, and refuses a lot less appeared first on The New Stack .",
+      "published": "2026-09-01T19:38:32+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Your Mac is now part of Perplexity’s AI infrastructure",
+      "link": "https://thenewstack.io/perplexity-hybrid-compute-mac",
+      "summary": "Perplexity wants its AI agents to use more of the computing power already sitting inside a Mac. The company launched The post Your Mac is now part of Perplexity’s AI infrastructure appeared first on The New Stack .",
+      "published": "2026-09-01T19:21:51+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Hardware"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "GLM-5.3-Flash vs. GLM-5.3: Time and money, not the spec sheet",
+      "link": "https://thenewstack.io/glm-flash-flagship-benchmark",
+      "summary": "I always wonder about the end goal when companies launch products so close together and undercut each other by claiming The post GLM-5.3-Flash vs. GLM-5.3: Time and money, not the spec sheet appeared first on The New Stack .",
+      "published": "2026-09-01T18:51:56+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jessica Wachtel",
+      "categories": [
+        "AI Engineering",
+        "AI Models",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes v1.37: etcd RangeStream Cuts Memory Use on Large List Reads",
+      "link": "https://kubernetes.io/blog/2026/09/01/kubernetes-v1-37-etcd-range-stream",
+      "summary": "I am excited to announce that etcd RangeStream is graduating to beta in\nKubernetes v1.37. Paired with etcd v3.7, it reduces the memory the API server and\netcd need to read a large collection, and makes peak usage more predictable. The cost of large reads The API server serves most list and watch...",
+      "published": "2026-09-01T18:30:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Meta just beat OpenAI and Google at real-time transcription",
+      "link": "https://thenewstack.io/meta-muse-voice-transcribe",
+      "summary": "Meta’s Superintelligence Labs on Tuesday launched Muse Voice Transcribe, a new real-time speech recognition model that, on some benchmarks, outperforms The post Meta just beat OpenAI and Google at real-time transcription appeared first on The New Stack .",
+      "published": "2026-09-01T17:06:57+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Engineering",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Vibe-coded apps are the new shadow IT",
+      "link": "https://thenewstack.io/vibe-coded-shadow-it",
+      "summary": "Shadow IT used to be a SaaS problem. Someone on the marketing team signed up for a tool, connected it The post Vibe-coded apps are the new shadow IT appeared first on The New Stack .",
+      "published": "2026-09-01T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Andy Gombar",
+      "categories": [
+        "AI Agents",
+        "Security",
+        "Vibe Coding",
+        "sponsor-webflow",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Meta’s Claude Code rival exits beta with three new subscription tiers — and it’s pushing hard on price",
+      "link": "https://thenewstack.io/muse-code-sdk-pricing",
+      "summary": "Meta has formally launched Muse Code out of beta, less than a month after first debuting the coding agent. Alongside The post Meta’s Claude Code rival exits beta with three new subscription tiers — and it’s pushing hard on price appeared first on The New Stack .",
+      "published": "2026-09-01T14:55:30+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Engineering",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "When agents build, deploy, and maintain, persistence becomes the hard problem",
+      "link": "https://thenewstack.io/agent-scale-database-persistence",
+      "summary": "Every application has always needed a place to keep its state. That is not new. What is new is who The post When agents build, deploy, and maintain, persistence becomes the hard problem appeared first on The New Stack .",
+      "published": "2026-09-01T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Max Liu",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Databases",
+        "sponsor-pingcap",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Platform engineering maturity: From toolchain to self-service",
+      "link": "https://www.cncf.io/blog/2026/09/01/platform-engineering-maturity-from-toolchain-to-self-service",
+      "summary": "Most platform engineering conversations tend to split into two rooms pretty quickly. The first room is full of teams who don’t have a platform yet. Scattered scripts, tribal knowledge, and every team is doing the same...",
+      "published": "2026-09-01T11:35:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Atulpriya Sharma | CNCF Ambassador and Platform Engineering TCG Organizer",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Kueue on Kubernetes: GPU Job Queueing and Fair-Share Quotas for AI Workloads",
       "link": "https://collabnix.com/kueue-on-kubernetes-gpu-job-queueing-and-fair-share-quotas-for-ai-workloads",
@@ -271,6 +432,19 @@
       "source": "CNCF Blog",
       "type": "article",
       "author": "Adriana Villela (OTel Community Manager | OTel End User SIG Maintainer | CNCF Ambassador) and Reese Lee (OTel Community Manager | OTel End User SIG Maintainer)",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Observability in Kubernetes: From metrics to meaning",
+      "link": "https://www.cncf.io/blog/2026/08/31/observability-in-kubernetes-from-metrics-to-meaning",
+      "summary": "Kubernetes made infrastructure more programmable, scalable, and resilient. It also made production systems harder to reason about. Workloads move, replicas churn, dependencies multiply, and a single user request can cross ingress, services, queues, storage, and background...",
+      "published": "2026-08-31T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Neel Shah, Stackgen",
       "categories": [
         "Blog"
       ],
@@ -4417,26 +4591,6 @@
       "author": "Daniel Blando | Cortex Maintainer",
       "categories": [
         "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "What Is an AI Agent and How Does It Work",
-      "link": "https://kodekloud.com/blog/what-is-an-ai-agent-and-how-does-it-work",
-      "summary": "An agent is not a smarter chatbot. It is a loop, a toolbox, and one surprising rule about who is actually allowed to run anything. Watch a real task go through it, step by step.",
-      "published": "2026-08-02T14:54:50+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "AI Agents",
-        "Automation",
-        "DevOps",
-        "Agentic AI",
-        "Cloud",
-        "A2A",
-        "LLM",
-        "Tool Calling"
       ],
       "thumbnail": ""
     }
