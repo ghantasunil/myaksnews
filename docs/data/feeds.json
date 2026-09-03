@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-02T10:14:33.093456+00:00",
-    "total_items": 312,
+    "generated_at": "2026-09-03T10:25:57.952245+00:00",
+    "total_items": 311,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -19,6 +19,161 @@
     ]
   },
   "items": [
+    {
+      "title": "Multiverse says its 438B model is fast enough for AI agents. The benchmarks tell a more complicated story.",
+      "link": "https://thenewstack.io/quasar-438b-agent-compression",
+      "summary": "A 438-billion-parameter reasoning model isn’t an obvious choice when speed is a priority. Multiverse Computing is betting that compression can The post Multiverse says its 438B model is fast enough for AI agents. The benchmarks tell a more complicated story. appeared first on The New Stack .",
+      "published": "2026-09-02T20:14:53+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Your next OpenAI API timeout might not be a timeout at all",
+      "link": "https://thenewstack.io/astra-api-safety-stops",
+      "summary": "OpenAI said Tuesday that its upcoming Astra model is the company’s first to reach the Critical cybersecurity threshold in its The post Your next OpenAI API timeout might not be a timeout at all appeared first on The New Stack .",
+      "published": "2026-09-02T20:13:54+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic’s Claude failures have made agent observability a security priority",
+      "link": "https://thenewstack.io/anthropic-claude-agent-security",
+      "summary": "Anthropic aimed to steer its ship into safer, more carefully charted waters this week. The company announced it was improving The post Anthropic’s Claude failures have made agent observability a security priority appeared first on The New Stack .",
+      "published": "2026-09-02T20:12:50+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Agents",
+        "Observability",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes v1.37: Scale Workloads to Zero with HorizontalPodAutoscaler",
+      "link": "https://kubernetes.io/blog/2026/09/02/kubernetes-v1-37-hpa-scale-to-zero-beta",
+      "summary": "Kubernetes v1.37 includes API support for horizontal autoscaling of workloads down\nto zero replicas. This feature is now Beta and enabled by default. A HorizontalPodAutoscaler (HPA) that uses a suitable object metric or external metric can now scale a\nworkload to zero replicas, then bring it back...",
+      "published": "2026-09-02T18:30:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "How to Use Function Calling to Let an LLM Run Your Python Code",
+      "link": "https://kodekloud.com/blog/how-to-use-function-calling-with-python",
+      "summary": "A language model cannot check your disk usage or query your database on its own. Function calling is the mechanism that changes that, and it takes about forty lines of Python to build.",
+      "published": "2026-09-02T18:16:10+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "AI",
+        "LLM",
+        "Tool Calling",
+        "AI Agents",
+        "API",
+        "Python"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Esc Bash Q&A with Abhishek | 5 days to go",
+      "link": "https://www.youtube.com/watch?v=_9NzTdRoLTE",
+      "summary": "Try the platform - escbash.com\n\nJoin our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
+      "published": "2026-09-02T17:08:13+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/_9NzTdRoLTE/mqdefault.jpg"
+    },
+    {
+      "title": "Google ships its third Gemini Flash model in six weeks",
+      "link": "https://thenewstack.io/google-ships-its-third-gemini-flash-model-in-six-weeks",
+      "summary": "Google hasn’t released a Gemini Pro model in a while, but on Wednesday, the company launched yet another set of The post Google ships its third Gemini Flash model in six weeks appeared first on The New Stack .",
+      "published": "2026-09-02T16:56:52+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Vercel built a feedback loop that treats agent instructions like software",
+      "link": "https://thenewstack.io/vercel-agent-design-guidance",
+      "summary": "Vercel ran more than 200 agent runs to build design.md, a new public prompt file designed to help agents create The post Vercel built a feedback loop that treats agent instructions like software appeared first on The New Stack .",
+      "published": "2026-09-02T15:29:58+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI Agents",
+        "Developer tools",
+        "Software Testing"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Your organization prioritized AI adoption, but you actually need AI fluency.",
+      "link": "https://thenewstack.io/ai-fluency-operating-model",
+      "summary": "Thanks to increasingly capable models, some parts of your business are getting faster, more capable, and more productive every month. The post Your organization prioritized AI adoption, but you actually need AI fluency. appeared first on The New Stack .",
+      "published": "2026-09-02T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Manu Narayan",
+      "categories": [
+        "AI Infrastructure",
+        "AI Operations",
+        "AI Strategy",
+        "sponsor-gitlab",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Metal3 meets KubeVirtBMC: Provisioning KubeVirt VMs like bare metal",
+      "link": "https://www.cncf.io/blog/2026/09/02/metal3-meets-kubevirtbmc-provisioning-kubevirt-vms-like-bare-metal",
+      "summary": "In the previous post , we introduced KubeVirtBMC and showed how it provides virtual BMC endpoints for KubeVirt VMs. We tested it with raw IPMI and Redfish commands. That was fun, but the real power of...",
+      "published": "2026-09-02T11:31:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Anish Bista (CNCF Kubestronaut) and Zespre Chang (Creator of KubeVirtBMC)",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Tech in Five - Why does AI Hallucinate?",
+      "link": "https://www.youtube.com/watch?v=KJzAfLRf8oc",
+      "summary": "An overview of why AI will sometimes make things up and what you can do to minimize!\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions...",
+      "published": "2026-09-02T10:41:27+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/KJzAfLRf8oc/mqdefault.jpg"
+    },
     {
       "title": "Claude Fable 5.1 watermark: It has a blind spot developers can’t ignore",
       "link": "https://thenewstack.io/fable-5-1-watermark",
@@ -4432,163 +4587,6 @@
       "source": "CNCF Blog",
       "type": "article",
       "author": "epower",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Built-In Observability for Serverless AI Agents on Azure Functions",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/built-in-observability-for-serverless-ai-agents-on-azure/ba-p/4542087",
-      "summary": "Azure Functions Agents - the markdown-first runtime that turns a folder of *.agent.md files into a serverless Azure Functions app - now ships with OpenTelemetry tracing built into the runtime itself. Every agent run becomes a real, structured trace in Application Insights: the model used, the...",
-      "published": "2026-08-03T22:29:13+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "larohra",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Apple and Bynario agree GPT-5.5 found a real macOS bug. They disagree on the report cap.",
-      "link": "https://thenewstack.io/apple-ai-bug-report-caps",
-      "summary": "Apple now caps how many security reports some researchers can have open at once. And once they hit that cap, The post Apple and Bynario agree GPT-5.5 found a real macOS bug. They disagree on the report cap. appeared first on The New Stack .",
-      "published": "2026-08-03T21:19:12+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI",
-        "Security",
-        "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kubeflow SDK evolution- One million downloads and counting",
-      "link": "https://www.cncf.io/blog/2026/08/03/kubeflow-sdk-evolution-one-million-downloads-and-counting",
-      "summary": "The unified kubeflow-sdk  has officially crossed 1 million downloads on PyPI! This milestone reflects the rapid adoption of this streamlined interface. In this post, we celebrate this community milestone and highlight the core concepts driving the...",
-      "published": "2026-08-03T20:25:24+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Kubeflow Contributors",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Announcing public preview: Markdown for Agents in Azure App Service",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-public-preview-markdown-for-agents-in-azure-app/ba-p/4537023",
-      "summary": "Why Markdown for Agents? Web pages often contain scripts, styles, and HTML markup that are useful to browsers but add noise when the content is sent to an AI model. Markdown for Agents removes that extra markup and returns a smaller, text-focused response that is easier for agents to process and...",
-      "published": "2026-08-03T19:46:29+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "jordanselig",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Alibaba’s AI coded for 16 days straight and every commit is on GitHub",
-      "link": "https://thenewstack.io/qwen-autonomous-coding-audit",
-      "summary": "Alibaba has launched Qwen3.8-Max, a multimodal model with 2.4 trillion parameters and built for complicated tasks that may take several The post Alibaba’s AI coded for 16 days straight and every commit is on GitHub appeared first on The New Stack .",
-      "published": "2026-08-03T19:23:47+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Microsoft Foundry Now Has an AI Gateway Control Plane — What Changes for App Service",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/microsoft-foundry-now-has-an-ai-gateway-control-plane-what/ba-p/4538320",
-      "summary": "In May, I published a runnable sample that put Azure API Management in front of an AI agent on Azure App Service . APIM handled token limits, semantic caching, token metrics, and access to the model. The point was simple: keep the agent framework interchangeable and put the production controls at...",
-      "published": "2026-08-03T18:24:20+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "jordanselig",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "What Is a Reverse Proxy and Why DevOps Teams Use One",
-      "link": "https://kodekloud.com/blog/what-is-a-reverse-proxy-devops",
-      "summary": "Forward proxy, reverse proxy, load balancer, API gateway, ingress. They sound like five products fighting for one slot. One question separates them, and it takes about a minute to learn.",
-      "published": "2026-08-03T17:16:59+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "Networking",
-        "Proxy",
-        "Reverse Proxy",
-        "NGINX",
-        "Load Balancing",
-        "Ingress",
-        "TLS",
-        "DevOps"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The state of DevOps in 2026 and the future | The real truth",
-      "link": "https://www.youtube.com/watch?v=52IQXQ9XK1k",
-      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nThe state of DevOps 2026 \nhttps://www.perforce.com/resources/state-of-devops\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist:...",
-      "published": "2026-08-03T16:56:51+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/52IQXQ9XK1k/mqdefault.jpg"
-    },
-    {
-      "title": "Gateway API v1.6: TCPRoute and UDPRoute Graduate to Standard",
-      "link": "https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release",
-      "summary": "The Kubernetes SIG Network community is thrilled to share the release of Gateway API v1.6.0 , which was released on June 30th of this year! Gateway API has become the standard for modern, role-oriented,\nand expressive service networking in Kubernetes.\nIn previous releases, Gateway API established a...",
-      "published": "2026-08-03T16:00:00+00:00",
-      "source": "Kubernetes Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Standard Service Endpoint Overview",
-      "link": "https://www.youtube.com/watch?v=HK6irXQNv2o",
-      "summary": "A look at the Standard version of Service Endpoints.\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:19 - Compute and PaaS\n02:18 - VNet to PaaS communication\n03:04 - Service endpoints\n06:16 - Scale and complexity issues\n06:57 - Standard service endpoints\n07:12 - Network Identifier\n08:26...",
-      "published": "2026-08-03T14:39:58+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/HK6irXQNv2o/mqdefault.jpg"
-    },
-    {
-      "title": "DeepSeek’s smaller model just outperformed its own flagship",
-      "link": "https://thenewstack.io/deepseek-v4-flash-open-weights",
-      "summary": "DeepSeek has launched DeepSeek-V4-Flash-0731, delivering a significant boost in agent performance without changing the model’s core architecture. Following an announcement The post DeepSeek’s smaller model just outperformed its own flagship appeared first on The New Stack .",
-      "published": "2026-08-03T13:32:15+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Infrastructure",
-        "AI Models",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Cortex completes OSTIF security audit",
-      "link": "https://www.cncf.io/blog/2026/08/03/cortex-completes-ostif-security-audit",
-      "summary": "The Open Source Technology Improvement Fund is proud to share the results of our security audit of Cortex. Cortex functions as a long-term, multi-tenant scalable open source storage for Prometheus and OpenTelemetry. Thanks to Quarkslab and...",
-      "published": "2026-08-03T11:30:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Daniel Blando | Cortex Maintainer",
       "categories": [
         "Blog"
       ],
