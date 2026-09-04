@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-03T10:25:57.952245+00:00",
-    "total_items": 311,
+    "generated_at": "2026-09-04T10:12:50.763571+00:00",
+    "total_items": 319,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -19,6 +19,255 @@
     ]
   },
   "items": [
+    {
+      "title": "Kubesimplify Book Club - session 1 - Inference Engineering",
+      "link": "https://www.youtube.com/watch?v=sgVR6K3Fvos",
+      "summary": "Session 1 of the KubeSimplify Book Club! Season 1: Inference Engineering by Philip Kiely, published FREE by Baseten.\n\nThis session covers the Preface, Chapter 0, and Chapter 1:\n- Why inference is the most valuable category in the AI industry, and why platform engineers are the natural people to...",
+      "published": "2026-09-04T07:40:24+00:00",
+      "source": "Kubesimplify",
+      "type": "video",
+      "author": "Kubesimplify",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/sgVR6K3Fvos/mqdefault.jpg"
+    },
+    {
+      "title": "OpenAI spends $1 billion to expand Daybreak to defend power, water, and banking",
+      "link": "https://thenewstack.io/openai-daybreak-frontline-defenders",
+      "summary": "In a livestreamed keynote on Thursday, OpenAI president Greg Brockman announced Daybreak for Frontline Defenders, a new global initiative to The post OpenAI spends $1 billion to expand Daybreak to defend power, water, and banking appeared first on The New Stack .",
+      "published": "2026-09-03T21:22:31+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI Models",
+        "AI Strategy",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How to find failures without drowning in tracing data",
+      "link": "https://thenewstack.io/tracing-data-overload-sampling",
+      "summary": "A metrics dashboard can tell you a system’s health with ease. A log can help you understand a discrete failure. The post How to find failures without drowning in tracing data appeared first on The New Stack .",
+      "published": "2026-09-03T20:17:25+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Alex Wilhelm",
+      "categories": [
+        "Observability",
+        "Operations",
+        "Podcast",
+        "sponsor-chronosphere",
+        "Sponsored",
+        "sponsored-podcast",
+        "sponsored-post",
+        "Video"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Esc Bash Q&A with Abhishek | 4 days to go",
+      "link": "https://www.youtube.com/watch?v=thAcEkfjGRg",
+      "summary": "Try the platform - escbash.com\n\nJoin our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
+      "published": "2026-09-03T19:58:09+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/thAcEkfjGRg/mqdefault.jpg"
+    },
+    {
+      "title": "GPT-6 Astra aced the hardest AI benchmark. The asterisk matters more than the score.",
+      "link": "https://thenewstack.io/astra-arc-agi-benchmark",
+      "summary": "There was no mistaking the divide in March with the release of ARC-AGI-3. While frontier AI models could do little The post GPT-6 Astra aced the hardest AI benchmark. The asterisk matters more than the score. appeared first on The New Stack .",
+      "published": "2026-09-03T19:05:24+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Models",
+        "AI Strategy",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes v1.37: DRA Updates",
+      "link": "https://kubernetes.io/blog/2026/09/03/kubernetes-v1-37-dra-updates",
+      "summary": "Kubernetes 1.37 is here and Dynamic Resource Allocation (DRA) keeps pushing past where it started! This release brings DRA Extended Resource support to GA, a milestone the team has been building toward for three straight releases. Several more features graduate to Beta or GA. A fresh batch of alpha...",
+      "published": "2026-09-03T18:30:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "The systems guide to production token optimization",
+      "link": "https://thenewstack.io/production-token-optimization-guide",
+      "summary": "When enterprise AI applications scale, they inevitably hit a wall. For many engineering teams, this wall is initially diagnosed as The post The systems guide to production token optimization appeared first on The New Stack .",
+      "published": "2026-09-03T18:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Boris Chabeda",
+      "categories": [
+        "AI Engineering",
+        "AI Infrastructure",
+        "AI Operations",
+        "sponsor-andela",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Cut GPU inference cold start from 8 minutes to less than a minute",
+      "link": "https://thenewstack.io/cut-gpu-cold-starts",
+      "summary": "We instrumented the full path from pod creation to first inference response on a GPU node running a 70B-class model. The post Cut GPU inference cold start from 8 minutes to less than a minute appeared first on The New Stack .",
+      "published": "2026-09-03T18:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Sajjan Gundapuneedi",
+      "categories": [
+        "AI Infrastructure",
+        "Kubernetes",
+        "Large Language Models",
+        "sponsor-aws-marketplace",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI launches GPT-6 Astra and says welcome to the “AGI era”",
+      "link": "https://thenewstack.io/openai-gpt6-astra-benchmarks",
+      "summary": "OpenAI on Thursday launched GPT-6 Astra, its newest flagship model. The company describes it as “the world’s most intelligent and The post OpenAI launches GPT-6 Astra and says welcome to the “AGI era” appeared first on The New Stack .",
+      "published": "2026-09-03T18:02:40+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“Hugging Face will remain an open platform”: Nvidia strikes $12.9B deal for the ‘GitHub of AI’",
+      "link": "https://thenewstack.io/nvidia-acquires-hugging-face",
+      "summary": "Nvidia has confirmed that it’s agreed to acquire Hugging Face in a mammoth $12.9 billion deal that will bring one The post “Hugging Face will remain an open platform”: Nvidia strikes $12.9B deal for the ‘GitHub of AI’ appeared first on The New Stack .",
+      "published": "2026-09-03T17:52:31+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Infrastructure",
+        "AI Models",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "It cost $33 to build a virtual Union Square. Here’s what the agents got wrong.",
+      "link": "https://thenewstack.io/ai-agents-3d-playwright",
+      "summary": "PhiloLabs wanted to see how far a group of AI coding agents could get building something where working code wasn’t The post It cost $33 to build a virtual Union Square. Here’s what the agents got wrong. appeared first on The New Stack .",
+      "published": "2026-09-03T17:34:31+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Software Testing"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Nvidia PAIR lets you put your idle Macs and PCs to work for AI agents",
+      "link": "https://thenewstack.io/nvidia-pair-local-inference",
+      "summary": "Nvidia’s bet on open models and local AI has been taking shape for a while now. Its acquisition of Hugging The post Nvidia PAIR lets you put your idle Macs and PCs to work for AI agents appeared first on The New Stack .",
+      "published": "2026-09-03T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Models",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Want to scale AI agents without breaking anything? Retrieval engineering is the answer.",
+      "link": "https://thenewstack.io/ai-agent-retrieval-infrastructure",
+      "summary": "AI agents are multiplying as corporations adopt the technology in record numbers. Smarter underlying models, better tool use, and improved The post Want to scale AI agents without breaking anything? Retrieval engineering is the answer. appeared first on The New Stack .",
+      "published": "2026-09-03T15:38:20+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Alex Wilhelm",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Databases",
+        "Large Language Models",
+        "sponsor-vespa-ai",
+        "sponsored-webinar"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“Google was ahead only a few hours”: Muse Spark 1.3 edges out Gemini as Meta claims its biggest coding leap yet",
+      "link": "https://thenewstack.io/muse-spark-1-3-gemini",
+      "summary": "It has been a big week for Meta in the AI sphere, formally launching its Muse Code coding agent out The post “Google was ahead only a few hours”: Muse Spark 1.3 edges out Gemini as Meta claims its biggest coding leap yet appeared first on The New Stack .",
+      "published": "2026-09-03T15:37:07+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Models",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Build Advanced ServiceNow Response Plans in Azure SRE Agent",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/build-advanced-servicenow-response-plans-in-azure-sre-agent/ba-p/4553059",
+      "summary": "A ServiceNow connection tells Azure SRE Agent which incidents it can see. Advanced filtering narrows that further, so each response plan handles only the incidents it should. Advanced filters let a plan express the rule your on-call team already follows: Send High-priority production network...",
+      "published": "2026-09-03T14:07:15+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Dalibor_Kovacevic",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Join OSPOlogy + OSPO Summit China 2026 in Shanghai",
+      "link": "https://www.cncf.io/blog/2026/09/03/join-ospology-ospo-summit-china-2026-in-shanghai",
+      "summary": "There’s still time to join OSPOlogy + OSPO Summit China 2026, taking place on September 7, 2026, in Shanghai, China as part of KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China. This event will...",
+      "published": "2026-09-03T12:32:33+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "OSPOlogy + OSPO Summit China 2026",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Migrating a critical Kubernetes deployment from the default namespace without any downtime",
+      "link": "https://www.cncf.io/blog/2026/09/03/migrating-a-critical-kubernetes-deployment-from-the-default-namespace-without-any-downtime",
+      "summary": "Somewhere in your cluster there’s probably a deployment sitting in the default namespace that everyone knows shouldn’t be there. Nobody put it there maliciously, it just happened, early on, before anyone had opinions about namespace hygiene,...",
+      "published": "2026-09-03T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "George Sims, Downtherabbithole.dev",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Multiverse says its 438B model is fast enough for AI agents. The benchmarks tell a more complicated story.",
       "link": "https://thenewstack.io/quasar-438b-agent-compression",
@@ -2350,6 +2599,17 @@
       "thumbnail": "https://i.ytimg.com/vi/R2HVlXweJbw/mqdefault.jpg"
     },
     {
+      "title": "Announcing public preview: Markdown for Agents in Azure App Service",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-public-preview-markdown-for-agents-in-azure-app/ba-p/4537023",
+      "summary": "Why Markdown for Agents? Web pages often contain scripts, styles, and HTML markup that are useful to browsers but add noise when the content is sent to an AI model. Markdown for Agents removes that extra markup and returns a smaller, text-focused response that is easier for agents to process and...",
+      "published": "2026-08-19T13:57:13+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "jordanselig",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
       "title": "Kyverno is a platform primitive, not a security tool",
       "link": "https://www.cncf.io/blog/2026/08/19/kyverno-is-a-platform-primitive-not-a-security-tool",
       "summary": "Where does Kyverno live in your organization? I don’t mean which cluster! On which team’s slide deck does it show up? Whose budget line?  For most companies I’ve talked to, the answer is security. Kyverno is...",
@@ -4432,161 +4692,6 @@
       "source": "CNCF Blog",
       "type": "article",
       "author": "Sima Nadler Senior Program Manager, IBM Research and Alex Meijer OpenCost Maintainer",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Today’s Codex will feel “primitive” by fall — and its own team’s roadmap backs it up",
-      "link": "https://thenewstack.io/openai-codex-cloud-evolution",
-      "summary": "Thibault Sottiaux, who leads core products at OpenAI, believes that today’s version of Codex will seem outdated before the year The post Today’s Codex will feel “primitive” by fall — and its own team’s roadmap backs it up appeared first on The New Stack .",
-      "published": "2026-08-04T18:30:37+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Cloud Services"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI’s Astra just proved 10 long-standing math and science theorems. The tokens cost $2,000.",
-      "link": "https://thenewstack.io/openai-astra-math-cost",
-      "summary": "OpenAI shared a big research update this week, announcing that an internal version of Astra, its next frontier model, created The post OpenAI’s Astra just proved 10 long-standing math and science theorems. The tokens cost $2,000. appeared first on The New Stack .",
-      "published": "2026-08-04T17:57:06+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Models",
-        "AI Strategy",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "What Is Retrieval Augmented Generation and Why It Matters",
-      "link": "https://kodekloud.com/blog/what-is-retrieval-augmented-generation",
-      "summary": "RAG does not teach a model anything. It finds the right passages and pastes them into the prompt, which means the search is doing the work. That is why most RAG systems fail at retrieval rather than generation.",
-      "published": "2026-08-04T17:16:54+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "RAG",
-        "LLM",
-        "Vector Database",
-        "Embeddings",
-        "DevOps",
-        "Cloud",
-        "search",
-        "Machine Learning"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Claude, Gemini, and GPT-5 can handle every SDLC task. Almost none of them should.",
-      "link": "https://thenewstack.io/ai-software-delivery-architecture",
-      "summary": "For the past two years, most of the conversations about AI and software development have centered on security: How do The post Claude, Gemini, and GPT-5 can handle every SDLC task. Almost none of them should. appeared first on The New Stack .",
-      "published": "2026-08-04T16:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jeff Michael",
-      "categories": [
-        "AI Operations",
-        "AI Strategy",
-        "Software Development",
-        "sponsor-perforce",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Alibaba Qwen3.8-Max reactions: “An API business model wearing an open source jacket”",
-      "link": "https://thenewstack.io/alibaba-qwen3-8-max-reactions",
-      "summary": "Alibaba this week announced the launch of Qwen3.8-Max. The most powerful model in the Qwen series to date, this multimodal The post Alibaba Qwen3.8-Max reactions: “An API business model wearing an open source jacket” appeared first on The New Stack .",
-      "published": "2026-08-04T14:47:35+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI Agents",
-        "AI Models",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Microsoft AI Update July 2026",
-      "link": "https://www.youtube.com/watch?v=2GpTcz6JVhQ",
-      "summary": "Major Microsoft AI updates in July 2026.\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation...",
-      "published": "2026-08-04T14:31:12+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/2GpTcz6JVhQ/mqdefault.jpg"
-    },
-    {
-      "title": "Nvidia’s NOOA makes an agent one Python class",
-      "link": "https://thenewstack.io/nvidia-nooa-agent-framework",
-      "summary": "When Nvidia announced NOOA (Object-Oriented Agents) last week, it signaled a broader shift in agent development: The harness around a The post Nvidia’s NOOA makes an agent one Python class appeared first on The New Stack .",
-      "published": "2026-08-04T14:02:35+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Python"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AI agents can create database sprawl issues. YugabyteDB’s solution is more agents!",
-      "link": "https://thenewstack.io/yugabytedb-agentic-postgres-scaling",
-      "summary": "The next database scaling problem may not be how big a database gets, but how many databases an enterprise suddenly The post AI agents can create database sprawl issues. YugabyteDB’s solution is more agents! appeared first on The New Stack .",
-      "published": "2026-08-04T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Carly Page",
-      "categories": [
-        "AI Agents",
-        "Cloud Services",
-        "Databases",
-        "sponsor-yugabyte",
-        "Sponsored",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Astro’s GitHub issue backlog is heading to zero for the first time in 5 years. Now Cloudflare is open-sourcing the tool that did it.",
-      "link": "https://thenewstack.io/cloudflare-astro-triage-bot",
-      "summary": "Most open source maintainers will know the feeling of opening GitHub to a growing pile of issues that can’t feasibly The post Astro’s GitHub issue backlog is heading to zero for the first time in 5 years. Now Cloudflare is open-sourcing the tool that did it. appeared first on The New Stack .",
-      "published": "2026-08-04T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Frontend Development",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "You can’t debug what you can’t see — Observability for AI Agents",
-      "link": "https://www.cncf.io/blog/2026/08/04/you-cant-debug-what-you-cant-see-observability-for-ai-agents",
-      "summary": "Traditional APM can’t tell you why your agent spent far more than usual asking the same question three times. We’ve been running AI agents in production for months. The hardest part isn’t building them, it’s understanding...",
-      "published": "2026-08-04T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "epower",
       "categories": [
         "Blog"
       ],
