@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-04T10:12:50.763571+00:00",
-    "total_items": 319,
+    "generated_at": "2026-09-05T09:41:43.092025+00:00",
+    "total_items": 323,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -19,6 +19,160 @@
     ]
   },
   "items": [
+    {
+      "title": "“Sorry for the messy rollout”: OpenAI launches GPT-6 Astra to most paying users a day after its unveiling",
+      "link": "https://thenewstack.io/gpt6-astra-developer-access-delayed",
+      "summary": "Update: As of 6:30 p.m. Eastern on Friday, September 4, GPT-6 Astra was available on ChatGPT for all paying users The post “Sorry for the messy rollout”: OpenAI launches GPT-6 Astra to most paying users a day after its unveiling appeared first on The New Stack .",
+      "published": "2026-09-04T23:42:24+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Infrastructure",
+        "AI Models",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Microsoft built a prompt injection detector. Then it caught a phishing campaign instead.",
+      "link": "https://thenewstack.io/unicode-ascii-smuggling-ai-pipelines",
+      "summary": "Microsoft flagged a phishing campaign last week that exploits a gap in how machines read text. Attackers are slipping invisible The post Microsoft built a prompt injection detector. Then it caught a phishing campaign instead. appeared first on The New Stack .",
+      "published": "2026-09-04T21:08:36+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Engineering",
+        "Large Language Models",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure Weekly Update - 4th September 2026",
+      "link": "https://www.youtube.com/watch?v=HxalS8yjSyk",
+      "summary": "And we are in the last 1/3 of the year!\n\nCharity event URL at https://give.curechildhoodcancer.org/fundraiser/7465401\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer...",
+      "published": "2026-09-04T21:03:25+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/HxalS8yjSyk/mqdefault.jpg"
+    },
+    {
+      "title": "Kubernetes v1.37: KubeletInUserNamespace (aka Rootless mode) Graduates to Beta",
+      "link": "https://kubernetes.io/blog/2026/09/04/kubernetes-v1-37-rootless-beta",
+      "summary": "Kubernetes v1.37 promotes the KubeletInUserNamespace feature gate to beta.\nWith this feature enabled, all of the node components (kubelet, CRI and OCI runtimes,\nCNI plugins, and kube-proxy) can run as a non-root user on the host, using a Linux user namespace .\nThis technique is also known as...",
+      "published": "2026-09-04T18:30:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "How to Get Reliable JSON Out of an LLM With Structured Outputs",
+      "link": "https://kodekloud.com/blog/how-to-get-reliable-json-with-structured-outputs",
+      "summary": "Everyone starts by asking the model nicely for JSON and wrapping it in try except. There is a field for this now, and it does not ask the model at all. It constrains what the model can produce.",
+      "published": "2026-09-04T17:58:11+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "AI",
+        "LLM",
+        "KodeKey",
+        "Python",
+        "JSON"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Lets talk about Esc Bash pricing",
+      "link": "https://www.youtube.com/watch?v=eYnFlUGw7WQ",
+      "summary": "Try the platform - escbash.com\n\nJoin our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
+      "published": "2026-09-04T17:55:32+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/eYnFlUGw7WQ/mqdefault.jpg"
+    },
+    {
+      "title": "OpenAI will sell you Astra, but not the system that scored 98.6% on ARC-AGI-3",
+      "link": "https://thenewstack.io/openai-astra-harness-arc-agi-3",
+      "summary": "Investor Matt Turck, whose fantastic podcast has hosted the people who built ARC-AGI, summed up Astra’s blockbuster benchmarks with three The post OpenAI will sell you Astra, but not the system that scored 98.6% on ARC-AGI-3 appeared first on The New Stack .",
+      "published": "2026-09-04T15:25:17+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Matthew Burns",
+      "categories": [
+        "AI Engineering",
+        "AI Models",
+        "AI Strategy"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI agent evaluations are part of the product",
+      "link": "https://thenewstack.io/ai-agent-evaluation-gates",
+      "summary": "A team builds an agent, gives it a few representative questions in a test chat, and watches it produce useful The post AI agent evaluations are part of the product appeared first on The New Stack .",
+      "published": "2026-09-04T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jeremy Daly",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Software Testing",
+        "sponsor-oracle",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“1% of my engineers are responsible for 40% of token spend”: Why Coder and SpaceXAI want to give developers nice things",
+      "link": "https://thenewstack.io/coder-cursor-agent-relay",
+      "summary": "Coder announced its Coder Agent Relay service this week, with SpaceXAI as its launch partner. The service lets software engineering The post “1% of my engineers are responsible for 40% of token spend”: Why Coder and SpaceXAI want to give developers nice things appeared first on The New Stack .",
+      "published": "2026-09-04T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Developer tools",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "CPU + GPU: Why AI platform engineering is a heterogeneous infrastructure problem",
+      "link": "https://www.cncf.io/blog/2026/09/04/cpu-gpu-why-ai-platform-engineering-is-a-heterogeneous-infrastructure-problem",
+      "summary": "AI infrastructure conversations often start with GPUs. Accelerators provide much of the compute behind model training and inference, so the focus is understandable. But a production AI workload rarely starts and ends on a GPU. Data...",
+      "published": "2026-09-04T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Kasia Hilborne, Vultr",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes isn’t new, but AI makes It scary again",
+      "link": "https://www.cncf.io/blog/2026/09/04/kubernetes-isnt-new-but-ai-makes-it-scary-again",
+      "summary": "Kubernetes isn’t brand new anymore. Yet, for many teams, adopting it still feels intimidating. Even if you’ve watched Kubernetes become the default foundation for production software and AI workloads, it can still feel like a big...",
+      "published": "2026-09-04T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Andy Suderman, CTO Fairwinds",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Kubesimplify Book Club - session 1 - Inference Engineering",
       "link": "https://www.youtube.com/watch?v=sgVR6K3Fvos",
@@ -4589,109 +4743,6 @@
       "source": "CNCF Blog",
       "type": "article",
       "author": "Pritesh Kiri",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Stop telling freshers AI can't do DevOps. It can. Learn it anyways and here's WHY!",
-      "link": "https://www.youtube.com/watch?v=U3HkadhpaIc",
-      "summary": "DevOps is Dead, Cloud is Dead, Webdev , DSA everything is Dead and everything is being by AI! Is that just a hook or there's some reality to it?\n\nin my opinion, there is no black and white in this, there's good, there's bad and there's ugly. it doesn't matter what i feel or think, we need to focus...",
-      "published": "2026-08-05T19:41:50+00:00",
-      "source": "Piyush Sachdeva",
-      "type": "video",
-      "author": "Tech Tutorials with Piyush",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/U3HkadhpaIc/mqdefault.jpg"
-    },
-    {
-      "title": "Google’s four AI departures: “We wanted to build something differently”",
-      "link": "https://thenewstack.io/deepmind-discovery-loop-departures",
-      "summary": "At the start of 2025, investors wondered whether Google could keep pace with OpenAI. By December, Alphabet was completing its The post Google’s four AI departures: “We wanted to build something differently” appeared first on The New Stack .",
-      "published": "2026-08-05T18:44:10+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Infrastructure",
-        "AI Models",
-        "AI Strategy"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The 800 mistakes that could reshape Meta’s AI coding strategy",
-      "link": "https://thenewstack.io/meta-metacode-engineer-training",
-      "summary": "Meta is asking thousands of its software engineers to help train its internal AI coding tools by simply fixing code, The post The 800 mistakes that could reshape Meta’s AI coding strategy appeared first on The New Stack .",
-      "published": "2026-08-05T18:06:05+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Engineering",
-        "AI Models",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Git Branching Strategies Explained for Beginners",
-      "link": "https://kodekloud.com/blog/git-branching-strategies-explained-for-beginners",
-      "summary": "Every argument about branching strategy is really one argument about how long code sits unmerged. Once you see that, choosing between trunk based and GitFlow stops being a matter of taste.",
-      "published": "2026-08-05T18:02:15+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "Git",
-        "DevOps",
-        "GitHub",
-        "CI/CD",
-        "Branching",
-        "Version Control",
-        "Git Workflow"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "K8gb becomes a CNCF incubating project",
-      "link": "https://www.cncf.io/announcements/2026/08/05/k8gb-becomes-a-cncf-incubating-project",
-      "summary": "The CNCF Technical Oversight Committee (TOC) has voted to accept Kubernetes Global Balancer (K8gb) as a CNCF incubating project.  About K8gb K8gb is an open source, cloud native Global Server Load Balancing (GSLB) solution designed specifically...",
-      "published": "2026-08-05T16:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Haley White",
-      "categories": [
-        "Announcements"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Every software company will become a dev tools company",
-      "link": "https://thenewstack.io/platform-engineering-ai-harness",
-      "summary": "If most software will soon be built by machines, the job of software engineers will change: from writing software to The post Every software company will become a dev tools company appeared first on The New Stack .",
-      "published": "2026-08-05T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Ankit Jain",
-      "categories": [
-        "AI Engineering",
-        "AI Strategy",
-        "Platform Engineering",
-        "sponsor-aviator",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenCost 1.121.0: First-of-a-kind Kubernetes inference cost tracking",
-      "link": "https://www.cncf.io/blog/2026/08/05/opencost-1-121-0-first-of-a-kind-kubernetes-inference-cost-tracking",
-      "summary": "Your GPU bill is rising. Your models are serving billions of tokens. Yet one question remains unanswered: what does each token actually cost? This is not a hypothetical problem. Platform teams today operate in a fog...",
-      "published": "2026-08-05T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Sima Nadler Senior Program Manager, IBM Research and Alex Meijer OpenCost Maintainer",
       "categories": [
         "Blog"
       ],
