@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-05T09:41:43.092025+00:00",
-    "total_items": 323,
+    "generated_at": "2026-09-06T09:57:07.464531+00:00",
+    "total_items": 313,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -19,6 +19,58 @@
     ]
   },
   "items": [
+    {
+      "title": "How to Generate and Compare Text Embeddings With Ollama",
+      "link": "https://kodekloud.com/blog/generate-and-compare-text-embeddings-with-ollama",
+      "summary": "An embedding is a list of numbers where similar meaning gives similar numbers. Run one locally with Ollama, compare two, and semantic search stops being a buzzword and becomes arithmetic you can read.",
+      "published": "2026-09-05T17:30:26+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "AI",
+        "RAG",
+        "Vector Database",
+        "Embeddings",
+        "Semantic Search",
+        "LLM",
+        "Ollama",
+        "Python"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Claude Fable 5.1 vs. Fable 5: On real work, I couldn’t tell them apart.",
+      "link": "https://thenewstack.io/claude-fable-upgrade-tested",
+      "summary": "Anthropic launched Claude Fable 5.1 this week, calling it “our most advanced model for coding and knowledge work.”  There was The post Claude Fable 5.1 vs. Fable 5: On real work, I couldn’t tell them apart. appeared first on The New Stack .",
+      "published": "2026-09-05T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jessica Wachtel",
+      "categories": [
+        "AI Agents",
+        "AI Models",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Building trust in agentic RAG starts with evidence",
+      "link": "https://thenewstack.io/building-trust-agentic-rag",
+      "summary": "Basic retrieval-augmented generation (RAG) follows a straightforward pattern. A user asks a question, the system finds relevant content in a The post Building trust in agentic RAG starts with evidence appeared first on The New Stack .",
+      "published": "2026-09-05T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jeremy Daly",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Large Language Models",
+        "sponsor-oracle",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "“Sorry for the messy rollout”: OpenAI launches GPT-6 Astra to most paying users a day after its unveiling",
       "link": "https://thenewstack.io/gpt6-astra-developer-access-delayed",
@@ -4543,206 +4595,6 @@
       "source": "CNCF Blog",
       "type": "article",
       "author": "Matteo Bisi, ReeVo SpA",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "What Actually Happens When Your Code Talks to an AI Model",
-      "link": "https://kodekloud.com/blog/how-llm-apis-work",
-      "summary": "How LLM APIs work, with real receipts: what an API key spends, how tokens are billed, context window limits, and what temperature changes.",
-      "published": "2026-08-07T09:32:56+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "KodeKey",
-        "LLM",
-        "AI"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "GPT-5.6 Sol just got better in one place and stayed the same everywhere else",
-      "link": "https://thenewstack.io/gpt-sol-chatgpt-split",
-      "summary": "Teams testing prompts in ChatGPT before moving them to Codex or Work may notice the difference on longer tasks. OpenAI The post GPT-5.6 Sol just got better in one place and stayed the same everywhere else appeared first on The New Stack .",
-      "published": "2026-08-06T19:33:02+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Engineering",
-        "AI Models",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why AI tools know nothing about your company — until now",
-      "link": "https://thenewstack.io/cloudflare-os-agentic-workspace-security",
-      "summary": "Cloudflare launched its CloudflareOS open-source AI workspace platform this week, promising every employee a secure workspace equipped with AI tools The post Why AI tools know nothing about your company — until now appeared first on The New Stack .",
-      "published": "2026-08-06T19:30:08+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Your AI agent’s next tool call may be valid but wrong. AWS’s Dogwood promises to fix that.",
-      "link": "https://thenewstack.io/aws-dogwood-agent-policies",
-      "summary": "AWS on Thursday launched Dogwood, an open-source policy language and reference interpreter that lets developers govern sequences of AI agent The post Your AI agent’s next tool call may be valid but wrong. AWS’s Dogwood promises to fix that. appeared first on The New Stack .",
-      "published": "2026-08-06T19:11:55+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Open Source",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Free agents: How AWS Kiro could untie agents from editors",
-      "link": "https://thenewstack.io/kiro-agent-client-protocol",
-      "summary": "Choosing a coding agent may soon no longer mean having to pick a new editor or terminal, too. That scenario The post Free agents: How AWS Kiro could untie agents from editors appeared first on The New Stack .",
-      "published": "2026-08-06T17:50:35+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Janakiram MSV",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The blank-check AI coding era is dead. Here’s what comes next.",
-      "link": "https://thenewstack.io/microsoft-copilot-token-budgets",
-      "summary": "Microsoft spent the first phase of the AI coding boom pushing its engineers to use the tools. Now it wants The post The blank-check AI coding era is dead. Here’s what comes next. appeared first on The New Stack .",
-      "published": "2026-08-06T17:29:08+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Operations",
-        "AI Strategy",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "YAML for DevOps Beginners, Syntax, Rules and Common Mistakes",
-      "link": "https://kodekloud.com/blog/yaml-for-devops-beginners-syntax-rules-mistakes",
-      "summary": "YAML tries to guess what you meant, and that is the entire problem. Once you know which values it silently reinterprets and why, the manifests that mysteriously break stop being mysterious.",
-      "published": "2026-08-06T17:16:19+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "yaml",
-        "json",
-        "DevOps",
-        "Cloud",
-        "Kubernetes",
-        "Configuration",
-        "CI/CD"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why Todoist says less AI can deliver more",
-      "link": "https://thenewstack.io/doist-ai-automation-code",
-      "summary": "Doist CTO Gonçalo Silva doesn’t pretend to know where AI is headed. The pace of change has made it harder The post Why Todoist says less AI can deliver more appeared first on The New Stack .",
-      "published": "2026-08-06T17:05:57+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Strategy"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“Just rewrite it”: What platform teams really think about modernization",
-      "link": "https://thenewstack.io/nutanix-dual-native-architecture",
-      "summary": "Mergers, acquisitions, and the steady churn of business and technology initiatives are creating something nobody asked for: Duplicate infrastructure and The post “Just rewrite it”: What platform teams really think about modernization appeared first on The New Stack .",
-      "published": "2026-08-06T16:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Aarthi Mahesh",
-      "categories": [
-        "AI Infrastructure",
-        "Kubernetes",
-        "Platform Engineering",
-        "sponsor-nutanix",
-        "Sponsored",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Say goodbye to K8s GPU pain: How DRA changes everything",
-      "link": "https://thenewstack.io/kubernetes-dra-gpu-scheduling",
-      "summary": "Consider a platform team managing a shared GPU cluster with a mix of B200s, H100s, and recently added B300s. Every The post Say goodbye to K8s GPU pain: How DRA changes everything appeared first on The New Stack .",
-      "published": "2026-08-06T16:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Dawood Abbas",
-      "categories": [
-        "AI Infrastructure",
-        "Kubernetes",
-        "Platform Engineering",
-        "sponsor-andela",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Claude Code Zero to Hero in 60 Minutes",
-      "link": "https://www.youtube.com/watch?v=GQ1SJf67nKw",
-      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nThis tutorial covers Claude Code Zero to Hero in 60 Minutes. The following concepts are covered in the same order.\n\n01    What is Claude Code  \n02  Installation and setup  \n03  Your first session  \n04  Built-in slash...",
-      "published": "2026-08-06T15:36:29+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/GQ1SJf67nKw/mqdefault.jpg"
-    },
-    {
-      "title": "Anthropic recommends a git worktree per agent. Your runtime infra makes that a problem.",
-      "link": "https://thenewstack.io/agent-native-runtime-branching",
-      "summary": "A developer supervising four coding agents has four changes in flight at once, each in its own git worktree. That The post Anthropic recommends a git worktree per agent. Your runtime infra makes that a problem. appeared first on The New Stack .",
-      "published": "2026-08-06T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Arjun Iyer",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Developer tools",
-        "sponsor-signadot",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "LitmusChaos Q1-Q2 2026 update: community, contributions, and project progress",
-      "link": "https://www.cncf.io/blog/2026/08/06/litmuschaos-q1-q2-2026-update-community-contributions-and-project-progress",
-      "summary": "About LitmusChaos LitmusChaos is an open source chaos engineering platform that helps teams identify weaknesses and potential outages in their infrastructure by running controlled chaos experiments. Built on cloud native principles, LitmusChaos enables teams to validate...",
-      "published": "2026-08-06T11:30:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Pritesh Kiri",
       "categories": [
         "Blog"
       ],
