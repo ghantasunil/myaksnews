@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-06T09:57:07.464531+00:00",
-    "total_items": 313,
+    "generated_at": "2026-09-07T11:06:59.054620+00:00",
+    "total_items": 301,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -19,6 +19,56 @@
     ]
   },
   "items": [
+    {
+      "title": "Permissions belong in the assembly context",
+      "link": "https://thenewstack.io/enterprise-rag-permission-assembly",
+      "summary": "Someone moves off the finance team at 9 a.m. on a Monday. Your sync runs nightly at 2 a.m. For The post Permissions belong in the assembly context appeared first on The New Stack .",
+      "published": "2026-09-07T03:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Daniel Shimoni",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How to Build Your First RAG Pipeline Over Your Own PDF Documents",
+      "link": "https://kodekloud.com/blog/build-your-first-rag-pipeline-over-pdf-documents",
+      "summary": "A model that has never seen your documents will answer questions about them anyway, confidently and wrongly. RAG fixes that by finding the right page first and handing it over with the question.",
+      "published": "2026-09-06T18:10:16+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "AI",
+        "RAG",
+        "Embeddings",
+        "Semantic Search",
+        "Vector Database",
+        "LLM",
+        "Ollama",
+        "Python"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Polars 2.0 pre-release comes with a 5x speed boost — but it could change row order",
+      "link": "https://thenewstack.io/polars-streaming-row-order",
+      "summary": "Working with large datasets can lead to slow queries and out-of-memory errors. Polars, an open-source library that developers and data The post Polars 2.0 pre-release comes with a 5x speed boost — but it could change row order appeared first on The New Stack .",
+      "published": "2026-09-06T13:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "Data",
+        "Data Streaming",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "How to Generate and Compare Text Embeddings With Ollama",
       "link": "https://kodekloud.com/blog/generate-and-compare-text-embeddings-with-ollama",
@@ -4392,211 +4442,6 @@
         "AI Agents",
         "Developer tools",
         "Observability"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Announcing Grafana 13 Support in Azure Managed Grafana",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-grafana-13-support-in-azure-managed-grafana/ba-p/4545199",
-      "summary": "Enhanced Dashboarding and Visualization Experience Grafana 13 introduces a number of improvements that make dashboards easier to build, reuse, and manage at scale. Teams can create richer observability experiences while reducing duplication and improving consistency across environments. These...",
-      "published": "2026-08-07T22:24:56+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "nuzhat-minhaz",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Auto Mode will soon be the default in Claude Code — because humans can’t be trusted",
-      "link": "https://thenewstack.io/claude-code-auto-mode",
-      "summary": "In the early days of Claude Code, it felt like you either had to approve everything the coding agent did The post Auto Mode will soon be the default in Claude Code — because humans can’t be trusted appeared first on The New Stack .",
-      "published": "2026-08-07T21:42:44+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The AI model OpenAI won’t release yet — and what it found in testing",
-      "link": "https://thenewstack.io/openai-astra-cybersecurity-delay",
-      "summary": "OpenAI is reducing work on Astra after internal testing indicated the upcoming model may have reached a cybersecurity limit that no The post The AI model OpenAI won’t release yet — and what it found in testing appeared first on The New Stack .",
-      "published": "2026-08-07T20:56:38+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Models",
-        "AI Strategy",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Build Durable, Long-Running MCP Tasks on Azure App Service",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/build-durable-long-running-mcp-tasks-on-azure-app-service/ba-p/4545170",
-      "summary": "Not every tool call finishes in a few seconds. A compliance scan might inspect hundreds of resources. A deployment might wait for an approval. A batch import might run for an hour. Holding an HTTP connection open for that entire operation is fragile: clients restart, proxies time out, networks...",
-      "published": "2026-08-07T19:40:32+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "jordanselig",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Zero Ops: Agents Operate, Humans Govern",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/zero-ops-agents-operate-humans-govern/ba-p/4545151",
-      "summary": "A note on scope: the patterns in this guide apply to any agentic operations platform. The specifics — the pricing model, the built-in capabilities, the primitives named throughout — are Azure SRE Agent . Where something is a property of the product rather than a universal truth, it’s called out....",
-      "published": "2026-08-07T19:18:40+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "Shamir_AbdulAziz",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "The npm attack that turned provenance attestations into camouflage",
-      "link": "https://thenewstack.io/npm-supply-chain-worm-attack",
-      "summary": "⁠Security researchers this week disclosed an npm supply-chain attack affecting more than 400 packages, including projects connected to Keyv and The post The npm attack that turned provenance attestations into camouflage appeared first on The New Stack .",
-      "published": "2026-08-07T18:31:59+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "CI/CD",
-        "DevOps",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Meta’s new coding agent is cheap (but it’ll cost you your data).",
-      "link": "https://thenewstack.io/meta-muse-code",
-      "summary": "Meta this week announced Muse Code, its first coding agent designed to tackle complex software engineering tasks, like planning changes, The post Meta’s new coding agent is cheap (but it’ll cost you your data). appeared first on The New Stack .",
-      "published": "2026-08-07T18:17:56+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "AI Agents",
-        "AI Models",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Coinbase, Shopify and Ramp all built their own coding agents. All three still pay Anthropic.",
-      "link": "https://thenewstack.io/enterprise-ai-agent-harness",
-      "summary": "Enterprise engineering teams are converging on a common architecture for AI-assisted software development. Coinbase, Shopify, and Ramp have each built The post Coinbase, Shopify and Ramp all built their own coding agents. All three still pay Anthropic. appeared first on The New Stack .",
-      "published": "2026-08-07T18:16:03+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Janakiram MSV",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Platform Engineering"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Understanding LLMs for DevOps Beginners",
-      "link": "https://kodekloud.com/blog/understanding-llms-for-devops-beginners",
-      "summary": "A language model cannot see the letters in a word, which explains almost everything odd about how it behaves. Start there, and the rest of it stops being mysterious.",
-      "published": "2026-08-07T17:00:08+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "LLM",
-        "AI Agents",
-        "AI",
-        "OpenAI",
-        "DevOps",
-        "Automation",
-        "Cloud",
-        "Machine Learning"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Azure Update 7th August 2026",
-      "link": "https://www.youtube.com/watch?v=nys8Uj16gbI",
-      "summary": "Yay, Friday!\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation queue never to be seen so...",
-      "published": "2026-08-07T15:21:36+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/nys8Uj16gbI/mqdefault.jpg"
-    },
-    {
-      "title": "The “AI kill switch” assumes you know what you are trying to shut down",
-      "link": "https://thenewstack.io/ai-kill-switch-infrastructure",
-      "summary": "“AI kill switch” entered the public conversation because it gives people a simple way to talk about a complex fear. The post The “AI kill switch” assumes you know what you are trying to shut down appeared first on The New Stack .",
-      "published": "2026-08-07T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Robin Tatam",
-      "categories": [
-        "AI Infrastructure",
-        "AI Operations",
-        "AI Strategy",
-        "sponsor-perforce",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Claude Code + Open Router + Deep Seek V4 Flash (Complete setup)",
-      "link": "https://www.youtube.com/watch?v=1CShnHMx0Uk",
-      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nGitHub repo link:\nhttps://gist.github.com/iam-veeramalla/11dc1508f1557a0d6b6d59702b83c0ee\n\nLearn how to configure Claude Code with OpenRouter and use DeepSeek V4 Flash as your coding model in this complete...",
-      "published": "2026-08-07T12:43:11+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/1CShnHMx0Uk/mqdefault.jpg"
-    },
-    {
-      "title": "Getting Started With Kubernetes",
-      "link": "https://collabnix.com/__trashed",
-      "summary": "Kubernetes conversations this week span everything from managed-service comparisons and storage volumes to scheduler research and key-management integrations. With so much happening in the ecosystem, it is easy to forget that most engineers are still climbing the same first hill: getting a working...",
-      "published": "2026-08-07T12:20:52+00:00",
-      "source": "Collabnix",
-      "type": "article",
-      "author": "Tanvir Kour",
-      "categories": [
-        "Kubernetes"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Does Kubernetes DRA Replace HAMi?",
-      "link": "https://www.cncf.io/blog/2026/08/07/does-kubernetes-dra-replace-hami",
-      "summary": "Projects that want to share a GPU on Kubernetes have to work around an API instead of with it. The device plugin interface could count devices, and that was the whole vocabulary: nvidia.com/gpu: 1. It meant one...",
-      "published": "2026-08-07T11:30:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Mesut Oezdil",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Shadow AI in CI/CD: Threat-modeling the path from developer laptop to Kubernetes",
-      "link": "https://www.cncf.io/blog/2026/08/07/shadow-ai-in-ci-cd-threat-modeling-the-path-from-developer-laptop-to-kubernetes",
-      "summary": "Artificial intelligence is becoming part of daily software delivery, often before it becomes part of the security architecture. That gap has a name: Shadow AI. It is any AI tool, model, agent, extension, or integration used...",
-      "published": "2026-08-07T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Matteo Bisi, ReeVo SpA",
-      "categories": [
-        "Blog"
       ],
       "thumbnail": ""
     }
