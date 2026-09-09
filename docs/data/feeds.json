@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-08T10:19:40.843915+00:00",
-    "total_items": 309,
+    "generated_at": "2026-09-09T10:27:16.940343+00:00",
+    "total_items": 315,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -19,6 +19,171 @@
     ]
   },
   "items": [
+    {
+      "title": "How cloud native goes AI native",
+      "link": "https://www.cncf.io/blog/2026/09/09/how-cloud-native-goes-ai-native",
+      "summary": "“A sales guy writing code” used to be the lead-up to a joke. But now no one’s laughing. Designers used to sit meekly waiting for the high priests of code to make their designs real. Now...",
+      "published": "2026-09-09T08:13:23+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Doron Grinstein, CEO of Control Plane",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Esc Bash - complete walkthrough | Best practical learning platform",
+      "link": "https://www.youtube.com/watch?v=HHDrwgh_wTA",
+      "summary": "Try the platform - escbash.com\n\nJoin our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
+      "published": "2026-09-09T05:05:47+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/HHDrwgh_wTA/mqdefault.jpg"
+    },
+    {
+      "title": "How Azure uses AI to turn feedback into improved customer experiences",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/how-azure-uses-ai-to-turn-feedback-into-improved-customer/ba-p/4552810",
+      "summary": "The Challenge: Synthesizing fragmented feedback signals, to improve Azure's experience quality at scale Customers experience products and services end to end, but product experiences are often structured around individual service. One team may only know its top issues, while another may see only...",
+      "published": "2026-09-08T22:51:21+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "bharadwajr",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic promised 20x more usage. Then developers hit a weekly ceiling.",
+      "link": "https://thenewstack.io/anthropic-claude-max-lawsuit",
+      "summary": "Anthropic sells its top-tier Claude Max subscription with the promise of 20 times more usage than its $20-a-month Pro plan. The post Anthropic promised 20x more usage. Then developers hit a weekly ceiling. appeared first on The New Stack .",
+      "published": "2026-09-08T22:16:28+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI",
+        "AI Strategy",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "DeepSeek is hiring 150 engineers, and none of them will touch a model",
+      "link": "https://thenewstack.io/deepseek-dsec-agent-hiring",
+      "summary": "Hundreds of thousands of AI agent sandboxes can already run concurrently on a single DeepSeek cluster. Now the company is The post DeepSeek is hiring 150 engineers, and none of them will touch a model appeared first on The New Stack .",
+      "published": "2026-09-08T19:01:08+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Operations"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes v1.37: Advancing Workload-Aware Scheduling",
+      "link": "https://kubernetes.io/blog/2026/09/08/kubernetes-v1-37-advancing-workload-aware-scheduling",
+      "summary": "AI/ML and complex batch workloads continue to push the boundaries of Kubernetes scheduling. Following the foundational workload-centric enhancements introduced in previous releases, Kubernetes v1.37 delivers the next major milestone in the Workload-Aware Scheduling (WAS) journey. In this release,...",
+      "published": "2026-09-08T18:30:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "How to Count Tokens and Estimate Your LLM API Costs Before You Ship",
+      "link": "https://kodekloud.com/blog/count-tokens-and-estimate-llm-api-costs",
+      "summary": "Your bill is decided by two numbers you can measure before shipping anything. Most cost surprises come from the second one, and from text you send over and over without noticing.",
+      "published": "2026-09-08T18:00:28+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "Tokens",
+        "LLM",
+        "AI",
+        "Tiktoken",
+        "Cost Optimization",
+        "Python"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Wiring Azure DevOps Pipeline Templates Without the Parameter Sprawl: The Manifest Facade Pattern",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/wiring-azure-devops-pipeline-templates-without-the-parameter/ba-p/4554182",
+      "summary": "Where reusable pipelines start to hurt Who this is for: Platform and DevOps engineers who build shared Azure DevOps Pipeline Templates and want other teams to adopt them consistently. If you have ever built a set of shared Azure DevOps Pipeline Templates, you probably know how this goes. You write...",
+      "published": "2026-09-08T17:28:12+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "pratikpanda",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI broke code review. Two experts disagree on what replaces it.",
+      "link": "https://thenewstack.io/ai-code-review-pipelines",
+      "summary": "Ask two experienced engineers about how to handle the flood of AI-generated code in their review queues, and you’ll get The post AI broke code review. Two experts disagree on what replaces it. appeared first on The New Stack .",
+      "published": "2026-09-08T15:35:42+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "TNS Staff",
+      "categories": [
+        "AI Engineering",
+        "CI/CD",
+        "DevOps",
+        "Software Testing",
+        "sponsor-octopus-deploy",
+        "sponsored-webinar"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "After nine years as HashiCorp CEO, Dave McJannet now wants to “unblock” enterprise AI agents",
+      "link": "https://thenewstack.io/hashicorp-mcjannet-dome-agents",
+      "summary": "Ask a traditional enterprise application for a customer address or today’s revenue figures and, broadly speaking, it follows a predictable The post After nine years as HashiCorp CEO, Dave McJannet now wants to “unblock” enterprise AI agents appeared first on The New Stack .",
+      "published": "2026-09-08T12:59:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "Platform Engineering"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes access via an identity provider: Public client, not confidential",
+      "link": "https://www.cncf.io/blog/2026/09/08/kubernetes-access-via-an-identity-provider-public-client-not-confidential",
+      "summary": "Access control belongs on the same day-zero checklist as networking and storage. On most on-prem clusters, it never makes the list. The Identity Gap Managed cloud Kubernetes ships IAM or SSO integration out of the box....",
+      "published": "2026-09-08T11:30:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Kolawole Olowoporoku | CNCF Ambassador and Senior Platform Engineer",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Distributed tracing for CI pipelines without touching a single workflow file",
+      "link": "https://www.cncf.io/blog/2026/09/08/distributed-tracing-for-ci-pipelines-without-touching-a-single-workflow-file",
+      "summary": "You’ve probably felt this one: GitHub Actions usage creeps up across your org, and your actual visibility into it doesn’t keep pace. Which workflows are slow? Which are flaky? How long are jobs sitting queued for...",
+      "published": "2026-09-08T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "George Sims, downtherabbithole.dev",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Why You Don't Need To Be a Developer for DevOps (the truth)",
       "link": "https://www.youtube.com/watch?v=78iD2BTRlcA",
@@ -4442,102 +4607,6 @@
         "AI Engineering",
         "AI Models",
         "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "A simpler way to deploy ZIP packages to Azure App Service from the Azure portal",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/a-simpler-way-to-deploy-zip-packages-to-azure-app-service-from/ba-p/4545430",
-      "summary": "We recently introduced a simpler way to deploy applications to Azure App Service for Linux by uploading a ZIP package through Kudu. The experience lets you review the package contents, choose whether to run a server-side build, and follow the deployment through its different stages. This capability...",
-      "published": "2026-08-10T06:42:46+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "TulikaC",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Blue Green and Canary Deployments Explained",
-      "link": "https://kodekloud.com/blog/blue-green-and-canary-deployments-explained",
-      "summary": "Both strategies buy you the same thing, which is a cheap way to be wrong. The mechanism is the easy part, and the two hard parts are noticing you are wrong and dealing with the database.",
-      "published": "2026-08-09T16:30:08+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "Deployment Strategies",
-        "CI/CD",
-        "CI/CD Pipeline",
-        "SRE",
-        "Release Management",
-        "Automation",
-        "DevOps",
-        "Cloud",
-        "Kubernetes"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Platform Engineering ROI: What it costs to build your own platform",
-      "link": "https://thenewstack.io/real-cost-diy-platform",
-      "summary": "What it actually costs to build your own internal developer platform over five years, and why most “we’ll just build The post Platform Engineering ROI: What it costs to build your own platform appeared first on The New Stack .",
-      "published": "2026-08-09T16:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Michael Coté",
-      "categories": [
-        "DevOps",
-        "Platform Engineering",
-        "Software Development",
-        "sponsor-vmware-tanzu",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why Every AI Project Ends With Five Logins and Three Credit Cards",
-      "link": "https://kodekloud.com/blog/one-api-key-multiple-llms",
-      "summary": "Why AI projects end up with five logins and three invoices, and how one API key for multiple LLMs turns switching models into a one word change.",
-      "published": "2026-08-09T15:43:24+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "AI",
-        "KodeKey",
-        "LLM"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Coding agents can be evaluated. We just have to evaluate the work.",
-      "link": "https://thenewstack.io/evaluating-coding-agents-framework",
-      "summary": "I recently argued with a software factory provider, whose position was that coding agents cannot be evaluated. Their reasoning was The post Coding agents can be evaluated. We just have to evaluate the work. appeared first on The New Stack .",
-      "published": "2026-08-09T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Pete Hampton",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Software Testing",
-        "sponsor-clickhouse",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AI coding got faster. Why didn’t engineering?",
-      "link": "https://thenewstack.io/ai-productivity-measurement-gap",
-      "summary": "AI is great at making individuals faster, but the surrounding systems are then slowing everything right back down. This result The post AI coding got faster. Why didn’t engineering? appeared first on The New Stack .",
-      "published": "2026-08-09T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jennifer Riggins",
-      "categories": [
-        "AI Engineering",
-        "AI Strategy",
-        "Software Development"
       ],
       "thumbnail": ""
     }
