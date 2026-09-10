@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-09T10:27:16.940343+00:00",
-    "total_items": 315,
+    "generated_at": "2026-09-10T10:17:58.070209+00:00",
+    "total_items": 313,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -19,6 +19,173 @@
     ]
   },
   "items": [
+    {
+      "title": "“AI factories are among the most complex systems ever built”: Nvidia and Palantir turn Nvidia’s supply chain into a proving ground for sovereign AI",
+      "link": "https://thenewstack.io/ai-factories-are-among-the-most-complex-systems-ever-built-nvidia-and-palantir-turn-nvidias-supply-chain-into-a-proving-ground-for-sovereign-ai",
+      "summary": "Nvidia and Palantir announced on Thursday that they’re working together to bring “sovereign AI to critical supply chains,” kicking off The post “AI factories are among the most complex systems ever built”: Nvidia and Palantir turn Nvidia’s supply chain into a proving ground for sovereign AI...",
+      "published": "2026-09-10T09:00:43+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Infrastructure",
+        "AI Models",
+        "AI Operations"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Claude performed best on a new benchmark for ‘agents that build agents’. But it passed fewer than a quarter of the tests.",
+      "link": "https://thenewstack.io/claude-build-agents-benchmark",
+      "summary": "AI models now power all manner of agents, from coding assistants that write and debug software to customer service systems The post Claude performed best on a new benchmark for ‘agents that build agents’. But it passed fewer than a quarter of the tests. appeared first on The New Stack .",
+      "published": "2026-09-09T20:14:09+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Engineering",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI gave an AI the power to block its own engineers’ code",
+      "link": "https://thenewstack.io/openai-ai-code-review",
+      "summary": "Every pull request submitted by an OpenAI engineer now goes through an automated security review, and the AI model can The post OpenAI gave an AI the power to block its own engineers’ code appeared first on The New Stack .",
+      "published": "2026-09-09T19:53:08+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Engineering",
+        "Security",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“It could kill us all”: what Anthropic’s own researchers really think about superintelligence",
+      "link": "https://thenewstack.io/anthropic-alignment-superintelligence-warnings",
+      "summary": "On Tuesday evening, Anthropic pretraining researcher Jacob Coxon announced on X that he’d resigned. Within hours, two of his colleagues The post “It could kill us all”: what Anthropic’s own researchers really think about superintelligence appeared first on The New Stack .",
+      "published": "2026-09-09T19:51:46+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI",
+        "AI Models",
+        "Tech Culture"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes v1.37: Introducing Node Lifecycle Conditions",
+      "link": "https://kubernetes.io/blog/2026/09/09/kubernetes-v1-37-node-lifecycle-conditions",
+      "summary": "Kubernetes has many ways to describe what is happening on a Node. Readiness,\ntaints, Pod state, labels, annotations, and provider-specific APIs each expose\npart of the picture. What has been missing is a shared, Kubernetes-owned way to\nsay that a Node is draining ,\nundergoing maintenance, or...",
+      "published": "2026-09-09T18:30:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "How to Run an Open Source LLM Locally With Ollama",
+      "link": "https://kodekloud.com/blog/how-to-run-an-open-source-llm-locally-with-ollama",
+      "summary": "Every guide gives you a table of speeds from hardware you do not own. This one builds a small tool that measures your own machine instead, then explains what the numbers mean.",
+      "published": "2026-09-09T18:00:33+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "LLM",
+        "AI",
+        "Ollama",
+        "Local LLM",
+        "Python",
+        "Linux",
+        "GPU",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How much control should AI get? A CISO roundtable takes on SOC autonomy",
+      "link": "https://thenewstack.io/ai-agents-soc-autonomy",
+      "summary": "Security operations centers have struggled with alerts for years, and AI agents offer a new way to tackle it: Enable The post How much control should AI get? A CISO roundtable takes on SOC autonomy appeared first on The New Stack .",
+      "published": "2026-09-09T15:38:58+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Carly Page",
+      "categories": [
+        "AI Agents",
+        "AI Operations",
+        "Security",
+        "sponsored-webinar"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure Copilot announces general availability of the Troubleshooting Agent",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-copilot-announces-general-availability-of-the/ba-p/4554549",
+      "summary": "Cloud operations are most effective when teams can turn insights into understanding and understanding into action. Whether you’re deploying new services, troubleshooting an issue, assessing resource health, or managing change, you need operational intelligence that helps you make faster, more...",
+      "published": "2026-09-09T15:00:00+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "christinchen",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "K2 Horizon just shipped as six new fully open models — developers aren’t fully convinced",
+      "link": "https://thenewstack.io/k2-horizon-fully-open",
+      "summary": "Based in the Emirati capital, Abu Dhabi, the Institute of Foundation Models (IFM) introduced K2 Horizon last week. This group The post K2 Horizon just shipped as six new fully open models — developers aren’t fully convinced appeared first on The New Stack .",
+      "published": "2026-09-09T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI",
+        "AI Models",
+        "Developer tools",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Whose GPUs are these, anyway? Secure, self-service metrics for multi-tenant Kubernetes",
+      "link": "https://www.cncf.io/blog/2026/09/09/whose-gpus-are-these-anyway-secure-self-service-metrics-for-multi-tenant-kubernetes",
+      "summary": "The question that stopped the meeting It was a routine cost review. The slide showed the month’s GPU spend, the biggest line on the whole infrastructure bill, and someone asked a five-word question: “Are we using...",
+      "published": "2026-09-09T11:27:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Bingi Narasimha Karthik (Golden Kubestronaut, Adobe) and Ramkumar Nagaraj (Golden Kubestronaut, Adobe)",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Harness rebuilt its Git repository for nonstop AI agent traffic",
+      "link": "https://thenewstack.io/harness-ai-code-review",
+      "summary": "As one of Harness’s field CTOs, Martin Reynolds spends much of his time asking engineering leaders one question with no The post Harness rebuilt its Git repository for nonstop AI agent traffic appeared first on The New Stack .",
+      "published": "2026-09-09T11:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Developer tools",
+        "DevOps",
+        "Podcast",
+        "Video"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "How cloud native goes AI native",
       "link": "https://www.cncf.io/blog/2026/09/09/how-cloud-native-goes-ai-native",
@@ -4419,194 +4586,6 @@
       "author": "Israel Blancas, Software Engineer at Coralogix and Jose Gomez-Selles, Product Lead at VictoriaMetrics",
       "categories": [
         "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AI for Cloud Infrastructure Management",
-      "link": "https://kodekloud.com/blog/ai-for-cloud-infrastructure-management",
-      "summary": "How AI actually helps manage AWS, Azure, and GCP: cost anomaly detection, rightsizing, IaC generation, and the honest limits. A grounded guide.",
-      "published": "2026-08-11T08:28:32+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "AI",
-        "Cloud"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Learning Cloud-Native Engineering Beyond Tutorials Through LFX",
-      "link": "https://www.cncf.io/blog/2026/08/10/learning-cloud-native-engineering-beyond-tutorials-through-lfx",
-      "summary": "I joined the LFX mentorship expecting to spend three months writing documentation. A few weeks later, I was deploying OpenTelemetry Collectors across AWS EC2 instances, debugging networking problems between machines, and trying to understand why a...",
-      "published": "2026-08-10T23:43:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Uzochukwu Nweneary | LFX Mentee",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI built a model it doesn’t want most people to use",
-      "link": "https://thenewstack.io/openai-gpt56-cyber-daybreak",
-      "summary": "OpenAI on Monday released GPT-5.6 Cyber, a model trained for security work that general-purpose models routinely block. It’s now available The post OpenAI built a model it doesn’t want most people to use appeared first on The New Stack .",
-      "published": "2026-08-10T21:15:15+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Models",
-        "Large Language Models",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "What Is a Container Registry and How to Use One",
-      "link": "https://kodekloud.com/blog/what-is-a-container-registry-and-how-to-use-one",
-      "summary": "A tag is a bookmark somebody else can move. A digest is the image itself. Once that distinction lands, reproducible builds, supply chain security, and every it worked yesterday mystery make sense.",
-      "published": "2026-08-10T17:48:35+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "Docker",
-        "Containers",
-        "Container Registry",
-        "Kubernetes",
-        "DevOps",
-        "Cloud",
-        "Harbor",
-        "CI/CD",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Meta’s Muse Glimmer fits on a laptop",
-      "link": "https://thenewstack.io/meta-glimmer-distillation-agents",
-      "summary": "Meta released Muse Glimmer on Monday, a 30-billion-parameter open-weight model designed to run agentic workflows on local hardware. It’s available The post Meta’s Muse Glimmer fits on a laptop appeared first on The New Stack .",
-      "published": "2026-08-10T17:16:20+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Engineering",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AKS desktop: Deploy, Manage, & Scale Apps on Kubernetes in Minutes",
-      "link": "https://www.youtube.com/watch?v=IHfGwlsMw60",
-      "summary": "Try AKS desktop: http://aka.ms/aks/desktop\n\nDeploy, manage, secure, and scale applications on Azure Kubernetes Service using AKS desktop - a developer-friendly GUI built on Headlamp.\n\nIn this tutorial, I walk through the full day-one and day-two developer experience:\n\n🚀 Day 1 — Deploying an...",
-      "published": "2026-08-10T17:01:21+00:00",
-      "source": "AKS (Official)",
-      "type": "video",
-      "author": "Azure Kubernetes Service (AKS)",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/IHfGwlsMw60/mqdefault.jpg"
-    },
-    {
-      "title": "CNCF Reveals KubeCon + CloudNativeCon North America 2026 Schedule, Adds New AI Inference + Agentic Track",
-      "link": "https://www.cncf.io/announcements/2026/08/10/cncf-reveals-kubecon-cloudnativecon-north-america-2026-schedule-adds-new-ai-inference-agentic-track",
-      "summary": "Flagship event returns November 9–12 with sessions on production AI, platform engineering and cloud native security Key Highlights SAN FRANCISCO, Aug. 7, 2026 – The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for cloud...",
-      "published": "2026-08-10T16:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "kthornhill",
-      "categories": [
-        "Announcements"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Pulling multi-gigabyte container images in seconds on Amazon EKS",
-      "link": "https://thenewstack.io/accelerating-eks-image-pulls",
-      "summary": "When the image is the bottleneck: Machine learning changed what a container image looks like. A typical application ships in The post Pulling multi-gigabyte container images in seconds on Amazon EKS appeared first on The New Stack .",
-      "published": "2026-08-10T16:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Sri Saran Balaji Vellore Rajakumar",
-      "categories": [
-        "AI Infrastructure",
-        "Containers",
-        "Kubernetes",
-        "sponsor-aws-marketplace",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Tech in Five - AI & Friends",
-      "link": "https://www.youtube.com/watch?v=lpO-yxlVkiw",
-      "summary": "First in a new series explaining a technology concept in five minutes. The first is explaining AI, machine learning, deep learning and generative AI.\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of...",
-      "published": "2026-08-10T15:17:16+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/lpO-yxlVkiw/mqdefault.jpg"
-    },
-    {
-      "title": "Meta Muse Code vs. Fable 5: Meta Muse is cheaper, but at what cost?",
-      "link": "https://thenewstack.io/meta-muse-claude-code",
-      "summary": "Meta released Muse Code on August 5, its first AI coding agent, built on the new Muse Spark 1.2 model. The post Meta Muse Code vs. Fable 5: Meta Muse is cheaper, but at what cost? appeared first on The New Stack .",
-      "published": "2026-08-10T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jessica Wachtel",
-      "categories": [
-        "AI Agents",
-        "Developer tools",
-        "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“It blows my mind”-“It has a tendency to overengineer things a little”: Developers react to road-testing OpenAI GPT‑5.6 Sol",
-      "link": "https://thenewstack.io/developers-review-gpt-56-sol",
-      "summary": "OpenAI made its family of GPT-5.6 models available to its app and API users globally at the start of July. The post “It blows my mind”-“It has a tendency to overengineer things a little”: Developers react to road-testing OpenAI GPT‑5.6 Sol appeared first on The New Stack .",
-      "published": "2026-08-10T14:28:08+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI",
-        "AI Models",
-        "Developer tools",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Service Mesh 101 with Istio | Complete Hands-On Workshop for Beginners",
-      "link": "https://www.youtube.com/watch?v=FwXF-ICECLc",
-      "summary": "Want to understand Service Mesh and Istio through real hands-on demos instead of just theory?\n\nIn this Kubesimplify workshop, we take a deep dive into Istio Service Mesh on Kubernetes  starting from the fundamentals and moving into practical traffic management, security, multi-cluster networking,...",
-      "published": "2026-08-10T14:21:34+00:00",
-      "source": "Kubesimplify",
-      "type": "video",
-      "author": "Kubesimplify",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/FwXF-ICECLc/mqdefault.jpg"
-    },
-    {
-      "title": "V4-Flash vs. V4-Pro: DeepSeek promised better and cheaper. It’s true,  but not how I expected.",
-      "link": "https://thenewstack.io/deepseek-flash-pro-benchmark",
-      "summary": "DeepSeek, the Chinese AI lab that’s been undercutting OpenAI and Anthropic on price since it arrived, recently refreshed V4-Flash, moving The post V4-Flash vs. V4-Pro: DeepSeek promised better and cheaper. It’s true,  but not how I expected. appeared first on The New Stack .",
-      "published": "2026-08-10T12:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jessica Wachtel",
-      "categories": [
-        "AI Engineering",
-        "AI Models",
-        "Developer tools"
       ],
       "thumbnail": ""
     }
