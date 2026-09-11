@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-09-10T10:17:58.070209+00:00",
+    "generated_at": "2026-09-11T10:17:12.968569+00:00",
     "total_items": 313,
     "sources": [
       "AKS (Official)",
@@ -19,6 +19,252 @@
     ]
   },
   "items": [
+    {
+      "title": "AWS open-sources Pizza Bot: email-style inbox for background AI agents",
+      "link": "https://thenewstack.io/aws-pizza-bot-agent-inbox",
+      "summary": "Amazon Web Services (AWS) has released a new open-source application dubbed Pizza Bot, which gives developers an email-style inbox for The post AWS open-sources Pizza Bot: email-style inbox for background AI agents appeared first on The New Stack .",
+      "published": "2026-09-10T22:54:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Model Context Protocol",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI split a voice model’s brain. Then one team deleted 23,000 lines of code.",
+      "link": "https://thenewstack.io/gpt-live-1-voice-api",
+      "summary": "Building an AI voice agent has always been clunkier than it seems. Most voice agents are really a chain of The post OpenAI split a voice model’s brain. Then one team deleted 23,000 lines of code. appeared first on The New Stack .",
+      "published": "2026-09-10T20:08:18+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“Six tools, one harness”: Salesforce loops together a six-pack of favorites",
+      "link": "https://thenewstack.io/salesforce-enterprise-ai-harness",
+      "summary": "Salesforce introduced its Salesforce Enterprise AI Harness on Thursday as a formalized amalgamation of the AI harness concepts and infrastructure The post “Six tools, one harness”: Salesforce loops together a six-pack of favorites appeared first on The New Stack .",
+      "published": "2026-09-10T20:03:25+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Data"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“Valuable warning shots”: How Anthropic now views Claude’s cyber incidents",
+      "link": "https://thenewstack.io/anthropic-claude-cyber-alignment",
+      "summary": "This week, Anthropic acknowledged that the three cyber incidents it disclosed this summer weren’t just the result of a misconfigured The post “Valuable warning shots”: How Anthropic now views Claude’s cyber incidents appeared first on The New Stack .",
+      "published": "2026-09-10T19:54:35+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI Models",
+        "Security",
+        "Software Testing"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Shopify spent years on React Native — then rebuilt everything in 12 weeks",
+      "link": "https://thenewstack.io/shopify-native-ai-agents",
+      "summary": "In 2020, Shopify made a bet that resonated across the developer world by writing mobile code once in React Native The post Shopify spent years on React Native — then rebuilt everything in 12 weeks appeared first on The New Stack .",
+      "published": "2026-09-10T19:46:50+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "GPT Images 2.5 promises edits that leave the rest of your image alone",
+      "link": "https://thenewstack.io/gpt-images-2-5-sunburst-flare",
+      "summary": "When OpenAI launched GPT Images 2.5 this week, the company promised better results for a common editing task: changing one The post GPT Images 2.5 promises edits that leave the rest of your image alone appeared first on The New Stack .",
+      "published": "2026-09-10T19:46:32+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Mistral wants open-weight AI to compete at the frontier. It just raised $3.5 billion to do it.",
+      "link": "https://thenewstack.io/mistral-funding-open-infrastructure",
+      "summary": "This week, Mistral announced it raised €3 billion in a Series D funding round, pushing its post-money valuation past €21 The post Mistral wants open-weight AI to compete at the frontier. It just raised $3.5 billion to do it. appeared first on The New Stack .",
+      "published": "2026-09-10T19:37:30+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes v1.37: Scheduler Preemption for In-Place Pod Resize (Alpha)",
+      "link": "https://kubernetes.io/blog/2026/09/10/kubernetes-v1-37-scheduler-preemption-for-in-place-pod-resize-alpha",
+      "summary": "In Kubernetes, resource allocation has historically been a static decision made during a Pod's initial scheduling and placement. With the graduation of the core in-Place Pod resize feature to General Availability in v1.35, application developers and cluster operators gained the powerful ability to...",
+      "published": "2026-09-10T18:30:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "How to Stream LLM Responses Token by Token With Server Sent Events",
+      "link": "https://kodekloud.com/blog/stream-llm-responses-with-server-sent-events",
+      "summary": "Streaming does not speed anything up. The same request takes the same time either way. What changes is when the reader stops staring at nothing, and that turns out to be most of the experience.",
+      "published": "2026-09-10T17:30:46+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "AI",
+        "LLM",
+        "Ollama",
+        "Streaming",
+        "Server Events",
+        "Python",
+        "API",
+        "Cloud"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Red Hat AI 3.5 tackles the GPU queue that can stall AI pilots",
+      "link": "https://thenewstack.io/red-hat-ai-multitenancy",
+      "summary": "Red Hat released Red Hat AI 3.5 this week, a move designed to let software engineering teams run AI with The post Red Hat AI 3.5 tackles the GPU queue that can stall AI pilots appeared first on The New Stack .",
+      "published": "2026-09-10T17:01:36+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI",
+        "AI Operations",
+        "Platform Engineering"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Researchers found that 1 in 5 MCP access policies came back broken or missing",
+      "link": "https://thenewstack.io/mcp-vibe-coding-security",
+      "summary": "Bob from finance built a scheduling tool last month. He described it to an AI assistant on a Sunday afternoon, The post Researchers found that 1 in 5 MCP access policies came back broken or missing appeared first on The New Stack .",
+      "published": "2026-09-10T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Yasmin Rajabi",
+      "categories": [
+        "Model Context Protocol (MCP)",
+        "Security",
+        "Vibe Coding",
+        "contributed-cloudbolt"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Fable 5.1 vs. Fable 5: Results on a real-world budget, not the spec sheet",
+      "link": "https://thenewstack.io/claude-fable-benchmark-budget",
+      "summary": "When Anthropic launched Claude Fable 5.1 this month, it centered the announcement around one benchmark result: its Terminal-Bench-Science score. In The post Fable 5.1 vs. Fable 5: Results on a real-world budget, not the spec sheet appeared first on The New Stack .",
+      "published": "2026-09-10T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jessica Wachtel",
+      "categories": [
+        "AI Engineering",
+        "AI Models",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "47,000 job listings reveal the engineering roles that AI is creating",
+      "link": "https://thenewstack.io/ai-engineering-roles-emerging",
+      "summary": "Every major transformation in tech has led to roles merging, then new ones emerging. Friction between developers and operations drove The post 47,000 job listings reveal the engineering roles that AI is creating appeared first on The New Stack .",
+      "published": "2026-09-10T13:09:28+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jennifer Riggins",
+      "categories": [
+        "AI",
+        "AI Engineering",
+        "AI Strategy",
+        "Tech Careers",
+        "sponsor-andela",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Stop AI code sprawl before it destroys your software design",
+      "link": "https://thenewstack.io/stop-ai-code-sprawl",
+      "summary": "While AI code generators help teams ship faster than ever, that speed brings a hidden killer: Comprehension Debt. As soon The post Stop AI code sprawl before it destroys your software design appeared first on The New Stack .",
+      "published": "2026-09-10T12:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Emmanuel Akita",
+      "categories": [
+        "AI Engineering",
+        "CI/CD",
+        "Python",
+        "sponsor-andela",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI floods security teams with flaws — business context sets priorities",
+      "link": "https://thenewstack.io/vulnerability-prioritization-business-context",
+      "summary": "A security researcher testing a 300-person B2B company with a global footprint discovered an internet-exposed database with weak authentication during The post AI floods security teams with flaws — business context sets priorities appeared first on The New Stack .",
+      "published": "2026-09-10T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Megan Carnegie",
+      "categories": [
+        "AI",
+        "Cloud Services",
+        "Security",
+        "sponsor-i-o-mergent",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes disaster recovery: Guidance from three reproducible failure scenarios",
+      "link": "https://www.cncf.io/blog/2026/09/10/kubernetes-disaster-recovery-guidance-from-three-reproducible-failure-scenarios",
+      "summary": "Scope This document describes three failure scenarios that separate having backups from being able to recover, and the guidance that follows from each. Every scenario is reproducible on a laptop from the lab repository above, and...",
+      "published": "2026-09-10T11:37:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Saiyam Pathak, Saloni Narang | CNCF Ambassadors",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "“AI factories are among the most complex systems ever built”: Nvidia and Palantir turn Nvidia’s supply chain into a proving ground for sovereign AI",
       "link": "https://thenewstack.io/ai-factories-are-among-the-most-complex-systems-ever-built-nvidia-and-palantir-turn-nvidias-supply-chain-into-a-proving-ground-for-sovereign-ai",
@@ -4351,239 +4597,6 @@
       "source": "CNCF Blog",
       "type": "article",
       "author": "Andrew Block, Red Hat",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Build Your Own Private Chat App With a Model Dropdown",
-      "link": "https://kodekloud.com/blog/multi-model-chat-app-streamlit",
-      "summary": "Build a Streamlit multi model chatbot with a dropdown of every model and switch models mid conversation without losing history, in 20 minutes.",
-      "published": "2026-08-12T05:16:46+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "AI",
-        "KodeKey",
-        "LLM"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Your AI agent remembers everything. Here’s what happens when its owner changes.",
-      "link": "https://thenewstack.io/manus-meta-data-deletion",
-      "summary": "Manus is becoming an independent company again after Chinese regulators ordered Meta to unwind its roughly $2 billion acquisition of The post Your AI agent remembers everything. Here’s what happens when its owner changes. appeared first on The New Stack .",
-      "published": "2026-08-11T21:46:49+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "AI Strategy",
-        "Cloud Services"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why CPUs still matter in the age of AI agents",
-      "link": "https://thenewstack.io/cpus-matter-ai-agents",
-      "summary": "When the conversation turns to AI infrastructure, it almost always lands on GPUs and TPUs. The New Stack sat down The post Why CPUs still matter in the age of AI agents appeared first on The New Stack .",
-      "published": "2026-08-11T20:44:26+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "Cloud Services",
-        "Hardware",
-        "Podcast",
-        "sponsor-google",
-        "sponsored-video",
-        "Video"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How I learned to stop worrying and love hyperscaler capex",
-      "link": "https://thenewstack.io/stop-worrying-hyperscaler-capex",
-      "summary": "The AI boom is an oddly miserable bubble. Despite interesting tech, huge new companies, and products with global reach, AI The post How I learned to stop worrying and love hyperscaler capex appeared first on The New Stack .",
-      "published": "2026-08-11T20:30:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Alex Wilhelm",
-      "categories": [
-        "AI",
-        "AI Infrastructure",
-        "Cloud Services"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic’s watermark survives copy-paste, but not the real dev workflow",
-      "link": "https://thenewstack.io/anthropic-claude-text-watermark",
-      "summary": "Anthropic announced it will embed invisible watermarks into text generated by new Claude models, including output produced through its API, The post Anthropic’s watermark survives copy-paste, but not the real dev workflow appeared first on The New Stack .",
-      "published": "2026-08-11T19:29:48+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Infrastructure",
-        "AI Models",
-        "Compliance"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why CPUs still matter in the age of AI agents",
-      "link": "https://thenewstack.io/why-cpus-still-matter-in-the-age-of-ai-agents",
-      "summary": "When the conversation turns to AI infrastructure, it almost always lands on GPUs and TPUs. The New Stack sat down The post Why CPUs still matter in the age of AI agents appeared first on The New Stack .",
-      "published": "2026-08-11T18:54:02+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "Cloud Services",
-        "Hardware",
-        "Podcast",
-        "sponsor-google-amd",
-        "sponsored-video",
-        "Video"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to Pretty-Print Your Kubernetes YAML as KYAML and Why You'd Want To",
-      "link": "https://kubernetes.io/blog/2026/08/11/how-to-pretty-print-kubernetes-yaml-as-kyaml",
-      "summary": "YAML has been the standard way to write Kubernetes manifests for years. Every example, tutorial, and configuration file you come across is written in it. The problem isn't that YAML is a bad format. It's that YAML gives you a lot of choices, and not all of them are equally good for writing...",
-      "published": "2026-08-11T18:00:00+00:00",
-      "source": "Kubernetes Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Score It Before You Script It, a Framework for What to Automate",
-      "link": "https://kodekloud.com/blog/score-it-before-you-script-it-automation-framework",
-      "summary": "Three engineers, three automation candidates, three different right answers. The scoring sheet that separates them takes ten minutes and will disagree with your instinct at least once.",
-      "published": "2026-08-11T17:56:14+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "Automation",
-        "DevOps",
-        "SRE",
-        "Platform Engineering",
-        "Cloud",
-        "Shell"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI’s ChatGPT/Codex desktop app is now on Linux",
-      "link": "https://thenewstack.io/openais-chatgpt-desktop-linux",
-      "summary": "On Tuesday, OpenAI launched its ChatGPT desktop for Linux. Now in preview, the app, which combines ChatGPT, ChatGPT Work, and The post OpenAI’s ChatGPT/Codex desktop app is now on Linux appeared first on The New Stack .",
-      "published": "2026-08-11T17:53:59+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Linux"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "1 Billion Free Tokens with Claude using OmniRoute",
-      "link": "https://www.youtube.com/watch?v=__sLj9RAxmI",
-      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nIn this video, I will show you how to configure OmniRoute with Claude Code for 1.5 Billion Free tokens. This video covers end to end steps that you need.\n\nFree Course on the channel\n==============================\n- Free...",
-      "published": "2026-08-11T17:18:04+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/__sLj9RAxmI/mqdefault.jpg"
-    },
-    {
-      "title": "Databricks acquires Electric to give every AI agent its own Postgres database",
-      "link": "https://thenewstack.io/databricks-electric-wasm-agentic-postgres",
-      "summary": "Databricks on Tuesday announced that it’s acquiring Electric, the startup behind the WASM-based Postgres project PGlite and the Electric sync engine, as The post Databricks acquires Electric to give every AI agent its own Postgres database appeared first on The New Stack .",
-      "published": "2026-08-11T16:44:15+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Engineering",
-        "AI Infrastructure"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "What the New API Management AI Gateway Tier Changes for App Service-Hosted Agents",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/what-the-new-api-management-ai-gateway-tier-changes-for-app/ba-p/4543974",
-      "summary": "In May, I published a runnable sample that put Azure API Management in front of an AI agent on Azure App Service . The agent framework was replaceable; the gateway was the contribution. APIM handled model access, token limits, semantic caching, token metrics, and the MCP traffic contract. I...",
-      "published": "2026-08-11T16:39:41+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "jordanselig",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Azure Container Apps Sandboxes (Preview): Giving AI Agents a Safe Place to Work",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-container-apps-sandboxes-preview-giving-ai-agents-a-safe/ba-p/4545975",
-      "summary": "Co-written by Nikoloz Buligini , Front End Developer at Templafy , and Jan Kalis , Azure Container Apps Sandboxes, Core AI, Microsoft Every team building with multi-tenant AI agent platforms hits the same wall. The agent is smart enough to read your code, reason about a bug, and propose a fix. But...",
-      "published": "2026-08-11T16:05:08+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "Jan-Kalis",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "CNCF Announces Graduation of Cloud Native Buildpacks, Advancing the Standard for Container Builds",
-      "link": "https://www.cncf.io/announcements/2026/08/11/cncf-announces-graduation-of-cloud-native-buildpacks-advancing-the-standard-for-container-builds",
-      "summary": "Project reaches broad production adoption for transforming application source code into OCI-compliant container images across cloud environments Key Highlights: SAN FRANCISCO — Aug. 11, 2026 — The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems...",
-      "published": "2026-08-11T16:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "kthornhill",
-      "categories": [
-        "Announcements"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Nvidia launches a smaller, faster Nemotron model and a router to put it to work",
-      "link": "https://thenewstack.io/nvidia-nemotron-lightning-switchyard",
-      "summary": "Nvidia on Tuesday launched Nemotron 3.5 Lightning, the newest member of its Nemotron 3 family of open models. In addition, The post Nvidia launches a smaller, faster Nemotron model and a router to put it to work appeared first on The New Stack .",
-      "published": "2026-08-11T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Models",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "A practical guide to solving when zero+zero=two in mesh observability",
-      "link": "https://www.cncf.io/blog/2026/08/11/a-practical-guide-to-solving-when-zerozerotwo-in-mesh-observability",
-      "summary": "A Service Mesh like Istio, together with Kiali gives you a lot on day one. You install the mesh, point Prometheus at it, and suddenly you have request rate, latency, error rate, and a fairly good...",
-      "published": "2026-08-11T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Israel Blancas, Software Engineer at Coralogix and Jose Gomez-Selles, Product Lead at VictoriaMetrics",
       "categories": [
         "Blog"
       ],
