@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-11T10:17:12.968569+00:00",
-    "total_items": 313,
+    "generated_at": "2026-09-12T09:50:06.863632+00:00",
+    "total_items": 310,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -19,6 +19,152 @@
     ]
   },
   "items": [
+    {
+      "title": "OpenAI’s researchers burned $7,000 a day on AI agents — now it’s opening the floodgates",
+      "link": "https://thenewstack.io/openai-agents-api-compute",
+      "summary": "OpenAI rolled out its Agents API in public beta Thursday, opening the backend behind Codex to developers looking to run The post OpenAI’s researchers burned $7,000 a day on AI agents — now it’s opening the floodgates appeared first on The New Stack .",
+      "published": "2026-09-11T21:27:42+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Cloud Services"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure App Service is now a trigger destination for Azure Managed Connectors",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-app-service-is-now-a-trigger-destination-for-azure-managed/ba-p/4555785",
+      "summary": "Azure Managed Connectors, currently in public preview, now lets you choose Azure App Service as a trigger destination . Connector events can be delivered directly to applications running on App Service, including ASP.NET Core, Java, Node.js, and Python applications. This is a new capability in the...",
+      "published": "2026-09-11T18:41:02+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "jordanselig",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes v1.37: Native Histograms Graduates to Beta",
+      "link": "https://kubernetes.io/blog/2026/09/11/kubernetes-v1-37-native-histograms-beta",
+      "summary": "I'm excited to announce that native histogram support for Kubernetes metrics is graduating to Beta and is enabled by default in Kubernetes v1.37! Native histograms (previously introduced as Alpha in Kubernetes v1.36 under KEP-5808 )\nbring high-resolution, low-cardinality observability to Kubernetes...",
+      "published": "2026-09-11T18:30:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI’s safety system is already cutting off API responses mid-task",
+      "link": "https://thenewstack.io/openai-slowing-ai-development",
+      "summary": "AI companies have spent the last few years competing to build the best models, faster than the other, with each The post OpenAI’s safety system is already cutting off API responses mid-task appeared first on The New Stack .",
+      "published": "2026-09-11T17:52:56+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Models",
+        "AI Strategy",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Cohere’s new translation model is open weights — but not for commercial use",
+      "link": "https://thenewstack.io/cohere-translation-commercial-licensing",
+      "summary": "This week, Cohere released North Small Translate 1.0 under a CC BY-NC 4.0 license: the weights are there to download, The post Cohere’s new translation model is open weights — but not for commercial use appeared first on The New Stack .",
+      "published": "2026-09-11T17:50:11+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI Infrastructure",
+        "AI Models",
+        "AI Strategy"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes v1.37 brings 67 enhancements. Which matter for operators?",
+      "link": "https://thenewstack.io/kubecon-kubernetes-updates-security",
+      "summary": "Welcome to the first edition of Road to KubeCon, where we’ll track the world of Kubernetes as we approach KubeCon The post Kubernetes v1.37 brings 67 enhancements. Which matter for operators? appeared first on The New Stack .",
+      "published": "2026-09-11T17:40:04+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Bill Doerrfeld",
+      "categories": [
+        "AI Infrastructure",
+        "Cloud Native Ecosystem",
+        "Kubecon Cloudnativecon NA 2026",
+        "Kubernetes",
+        "Road to KubeCon",
+        "sponsor-hpe",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How to Build a Simple Evaluation Harness for Your LLM Prompts",
+      "link": "https://kodekloud.com/blog/build-a-simple-evaluation-harness-for-llm-prompts",
+      "summary": "You changed a prompt and the outputs look different. Better or worse? Without a way to check, that question gets answered by whoever argues hardest, and this builds the thing that answers it instead.",
+      "published": "2026-09-11T17:00:37+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "Evaluation",
+        "AI",
+        "LLM",
+        "Prompt Engineering",
+        "Ollama",
+        "KodeKey",
+        "Python"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure Weekly Update - 11th September 2026",
+      "link": "https://www.youtube.com/watch?v=C6CkxsjjEas",
+      "summary": "Really quick update!\n\nCharity event URL at https://give.curechildhoodcancer.org/fundraiser/7465401\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even...",
+      "published": "2026-09-11T15:03:02+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/C6CkxsjjEas/mqdefault.jpg"
+    },
+    {
+      "title": "How AWS Lambda logs every flow across thousands of microVMs per host with eBPF and Rust",
+      "link": "https://thenewstack.io/aws-lambda-ebpf-rust",
+      "summary": "On any compute platform, when a security alert fires, the question is always the same. Which workload talked to that The post How AWS Lambda logs every flow across thousands of microVMs per host with eBPF and Rust appeared first on The New Stack .",
+      "published": "2026-09-11T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Prashant Kumar Singh",
+      "categories": [
+        "eBPF",
+        "Rust",
+        "Serverless",
+        "sponsor-aws-marketplace",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Building a reliable cloud native foundation for distributed AI training",
+      "link": "https://www.cncf.io/blog/2026/09/11/building-a-reliable-cloud-native-foundation-for-distributed-ai-training",
+      "summary": "AI workloads are changing what platform teams need from infrastructure. Provisioning GPUs and standing up a cluster no longer makes a platform “AI-ready.” Once training spans more than one node, the bottlenecks show up in places...",
+      "published": "2026-09-11T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Abhi Kulkarni and Shishir Jindal, Atlassian",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "AWS open-sources Pizza Bot: email-style inbox for background AI agents",
       "link": "https://thenewstack.io/aws-pizza-bot-agent-inbox",
@@ -3624,6 +3770,17 @@
       "thumbnail": ""
     },
     {
+      "title": "What the New API Management AI Gateway Tier Changes for App Service-Hosted Agents",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/what-the-new-api-management-ai-gateway-tier-changes-for-app/ba-p/4543974",
+      "summary": "In May, I published a runnable sample that put Azure API Management in front of an AI agent on Azure App Service . The agent framework was replaceable; the gateway was the contribution. APIM handled model access, token limits, semantic caching, token metrics, and the MCP traffic contract. I...",
+      "published": "2026-08-19T13:54:21+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "jordanselig",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
       "title": "Kyverno is a platform primitive, not a security tool",
       "link": "https://www.cncf.io/blog/2026/08/19/kyverno-is-a-platform-primitive-not-a-security-tool",
       "summary": "Where does Kyverno live in your organization? I don’t mean which cluster! On which team’s slide deck does it show up? Whose budget line?  For most companies I’ve talked to, the answer is security. Kyverno is...",
@@ -4393,210 +4550,6 @@
       "source": "CNCF Blog",
       "type": "article",
       "author": "Daniel Bryant, Syntasso",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Two Models, Two Jobs: Meeting Notes That Keep the Action Items",
-      "link": "https://kodekloud.com/blog/extract-action-items-meeting-transcript",
-      "summary": "Extract action items from a meeting transcript with two models, and see measured recall showing why chaining on the summary loses 29% of them.",
-      "published": "2026-08-13T05:30:27+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "AI",
-        "KodeKey",
-        "LLM"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Add AI to the workflows you already have using Serverless Agents in Azure Functions",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/add-ai-to-the-workflows-you-already-have-using-serverless-agents/ba-p/4544824",
-      "summary": "There are a lot of ways to build with AI right now: chat frontends, copilots, greenfield agent apps, orchestration frameworks. All of them have their place, and some customers are building entirely new applications this way. But across customer engagements, a consistent pattern has emerged: the...",
-      "published": "2026-08-12T22:51:34+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "Anirudh Garg",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "“Issue tracking is dead”; How the pull request became the last chokepoint in the SDLC bottleneck",
-      "link": "https://thenewstack.io/coderabbit-agentic-change-management-review",
-      "summary": "AI code review specialist CodeRabbit announced its Agentic Change Management control layer on Wednesday. The service is intended to help The post “Issue tracking is dead”; How the pull request became the last chokepoint in the SDLC bottleneck appeared first on The New Stack .",
-      "published": "2026-08-12T22:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Engineering",
-        "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic’s Chrome extension is now a Cowork session",
-      "link": "https://thenewstack.io/claude-chrome-cowork-sessions",
-      "summary": "Anthropic announced a major update to its Chrome extension on Wednesday that turns Claude in Chrome from a useful but The post Anthropic’s Chrome extension is now a Cowork session appeared first on The New Stack .",
-      "published": "2026-08-12T21:39:38+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Governing a Risk Operations Agent with the Microsoft Agent Framework Harness and AGT",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/governing-a-risk-operations-agent-with-the-microsoft-agent/ba-p/4546425",
-      "summary": "Introduction I hope you have already found Auditing and Telemetry for the Agent Governance Toolkit - Getting Started with .NET Core . This article demonstrates how you can leverage the Agent Governance Toolkit practically. This time, I'll take it a step further and combine the Microsoft Agent...",
-      "published": "2026-08-12T21:00:13+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "daisami",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why space is actually a terrible place to cool a data center",
-      "link": "https://thenewstack.io/spacex-and-nvidias-orbital-ai-datacenter-fantasy",
-      "summary": "AI data centers in space sound great, but practically speaking, they may be next to impossible. For tech bros, it The post Why space is actually a terrible place to cool a data center appeared first on The New Stack .",
-      "published": "2026-08-12T21:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Steven J. Vaughan-Nichols",
-      "categories": [
-        "AI",
-        "AI Infrastructure",
-        "Emerging technologies",
-        "Hardware"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "SpaceXAI trained Grok 4.6 on something most AI labs throw away",
-      "link": "https://thenewstack.io/grok-4-6-agent-training",
-      "summary": "SpaceXAI released Grok 4.6 on Wednesday, less than a month after Grok 4.5. The company says Grok 4.6 can research The post SpaceXAI trained Grok 4.6 on something most AI labs throw away appeared first on The New Stack .",
-      "published": "2026-08-12T20:07:54+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Engineering",
-        "AI Models",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Most AI Agent Ideas Are Cron Jobs in Disguise",
-      "link": "https://kodekloud.com/blog/most-ai-agent-ideas-are-cron-jobs-in-disguise",
-      "summary": "Three candidates from three roles. Two are genuine agent work and one is a search query that has been wearing a costume for six weeks. Here is the question that tells them apart.",
-      "published": "2026-08-12T17:02:12+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "AI Agents",
-        "AI",
-        "DevOps",
-        "Platform Engineering",
-        "Cloud",
-        "Automation",
-        "LLM",
-        "KodeKey"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Code that passes every test can still break the next AI agent that touches it",
-      "link": "https://thenewstack.io/go-language-ai-agents",
-      "summary": "Originally designed to make software predictable for humans, Google Go is now positioning itself as a language tailored for machine The post Code that passes every test can still break the next AI agent that touches it appeared first on The New Stack .",
-      "published": "2026-08-12T17:00:12+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "Go",
-        "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic gave agents the ability to dream. Then developers woke up.",
-      "link": "https://thenewstack.io/anthropic-agent-memory-dreaming",
-      "summary": "During AI DevCon in London this summer, Lamis Mukta, member of technical staff at Anthropic, hosted a stage presentation session The post Anthropic gave agents the ability to dream. Then developers woke up. appeared first on The New Stack .",
-      "published": "2026-08-12T16:51:19+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "AI Infrastructure"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Meta stopped worrying about distillation and just shipped the pipeline",
-      "link": "https://thenewstack.io/meta-glimmer-distillation-enterprise",
-      "summary": "Meta released Muse Glimmer on Monday, a 30-billion-parameter open-weight model distilled from Muse Spark and licensed under Apache 2.0. The The post Meta stopped worrying about distillation and just shipped the pipeline appeared first on The New Stack .",
-      "published": "2026-08-12T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Janakiram MSV",
-      "categories": [
-        "AI Models",
-        "AI Operations",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Coding agents ignore open source contribution guidelines, researchers find.",
-      "link": "https://thenewstack.io/coding-agents-ignore-guidelines",
-      "summary": "Autonomous coding agents ignore contribution rules in open source communities, finds a new study from researchers at Peking University.  That’s The post Coding agents ignore open source contribution guidelines, researchers find. appeared first on The New Stack .",
-      "published": "2026-08-12T11:48:08+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "AI Agents",
-        "Open Source",
-        "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Good apps aren’t born, they’re guided: Building observable policy as code",
-      "link": "https://www.cncf.io/blog/2026/08/12/good-apps-arent-born-theyre-guided-building-observable-policy-as-code",
-      "summary": "As parents in tech, we’ve learned that neither children nor applications thrive without clear boundaries. There are no “good” or “bad” kids, just as there are no inherently “good” or “bad” applications, only behaviors shaped by...",
-      "published": "2026-08-12T11:16:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Diana Todea (Head of Developer Relations Engineering, VictoriaMetrics) & Cortney Nickerson (Community at Kyverno)",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Advancing AI model interoperability with Docker and ModelPack",
-      "link": "https://www.cncf.io/blog/2026/08/12/advancing-ai-model-interoperability-with-docker-and-modelpack",
-      "summary": "The rise in the number of tools available for creating and running AI content has lowered the barrier of entry and offered the flexibility of choice when choosing the appropriate solution for a given use case....",
-      "published": "2026-08-12T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Andrew Block, Red Hat",
       "categories": [
         "Blog"
       ],
