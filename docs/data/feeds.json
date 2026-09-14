@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-13T10:50:05.703713+00:00",
-    "total_items": 302,
+    "generated_at": "2026-09-14T11:18:24.292601+00:00",
+    "total_items": 299,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -19,6 +19,118 @@
     ]
   },
   "items": [
+    {
+      "title": "Why an old caching trick is your secret to lower LLM costs",
+      "link": "https://thenewstack.io/llm-response-caching-costs",
+      "summary": "An LLM can answer the same question a thousand times and charge you each time. Before paying for another answer, The post Why an old caching trick is your secret to lower LLM costs appeared first on The New Stack .",
+      "published": "2026-09-14T11:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Abhilash Rao Mesala",
+      "categories": [
+        "AI Engineering",
+        "AI Infrastructure",
+        "FinOps",
+        "Contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Cilium 1.20: Gateway API ExternalAuth, TCPRoute/UDPRoute, ENI IPAM for IPv6, and more",
+      "link": "https://www.cncf.io/blog/2026/09/14/cilium-1-20-gateway-api-externalauth-tcproute-udproute-eni-ipam-for-ipv6-and-more",
+      "summary": "Cilium 1.20, the second major open source Cilium release of 2026 after Cilium 1.19, is finally here. Three themes stand out in this release: Thank you to every contributor, reviewer and maintainer who made Cilium 1.20...",
+      "published": "2026-09-14T10:45:49+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Nico Vibert and Donia Chaiehloudj, Cilium",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How to Ground LLM Answers With Citations and Cut Hallucinations",
+      "link": "https://kodekloud.com/blog/ground-llm-answers-with-citations",
+      "summary": "One sentence in a prompt stopped a model inventing answers entirely. Adding citations on top made it slightly worse, and the citations it did produce could not be trusted without checking them.",
+      "published": "2026-09-13T17:30:03+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "AI",
+        "LLM",
+        "RAG",
+        "Hallucination",
+        "Citations",
+        "Grounding",
+        "Python",
+        "Evaluation"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "End of DevOps Jobs with GPT-6 Astra?",
+      "link": "https://www.youtube.com/watch?v=mD2u8oN9PP8",
+      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
+      "published": "2026-09-13T17:07:13+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/mD2u8oN9PP8/mqdefault.jpg"
+    },
+    {
+      "title": "Chip Huyen explains how to cut inference costs without new hardware",
+      "link": "https://thenewstack.io/pg-99-conf-2026-inference-costs",
+      "summary": "Last October, the P99 conference — the online gathering for developers focused on high-performance, low-latency applications — featured a cracking The post Chip Huyen explains how to cut inference costs without new hardware appeared first on The New Stack .",
+      "published": "2026-09-13T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Tim Koopmans",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "AI Infrastructure",
+        "sponsor-scylladb",
+        "Sponsored",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“Machine translation is still broken for most of the world’s languages”: Cohere builds non-reasoning for a reason",
+      "link": "https://thenewstack.io/cohere-north-translate-sovereignty",
+      "summary": "Enterprise AI company Cohere announced North Small Translate last week, a mixture-of-experts (MOE) open-weight machine translation model that works across The post “Machine translation is still broken for most of the world’s languages”: Cohere builds non-reasoning for a reason appeared first on The...",
+      "published": "2026-09-13T14:21:46+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI",
+        "AI Infrastructure",
+        "AI Models",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "It passed CI. It passed your evals. The customer still got the wrong answer.",
+      "link": "https://thenewstack.io/ai-agent-trace-debugging",
+      "summary": "A diff is not evidence. It’s a statement of intent. The tests passed. The review’s done. The change is live. The post It passed CI. It passed your evals. The customer still got the wrong answer. appeared first on The New Stack .",
+      "published": "2026-09-13T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Sean O’Dell",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Observability",
+        "sponsor-dynatrace",
+        "Sponsored",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Why MCP security is about permissions overhaul",
       "link": "https://thenewstack.io/mcp-security-permissions-overhaul",
@@ -4296,151 +4408,6 @@
         "Platform Engineering",
         "sponsor-signadot",
         "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Grok 4.6 matched Fable 5 Max at an 85% discount. Downloadable models set that price.",
-      "link": "https://thenewstack.io/grok-4-6-matched-fable-5-max",
-      "summary": "I’m Matt Burns, Chief Content Officer at Insight Media Group. Each week, I round up the most important AI developments, The post Grok 4.6 matched Fable 5 Max at an 85% discount. Downloadable models set that price. appeared first on The New Stack .",
-      "published": "2026-08-15T03:56:28+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Matthew Burns",
-      "categories": [
-        "AI",
-        "AI Models",
-        "AI Strategy"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Apple’s new AI split means your iOS app could behave differently in China",
-      "link": "https://thenewstack.io/apple-china-ai-model",
-      "summary": "Apple is splitting up its AI stack. Instead of rolling out the same system worldwide, the company reportedly built a The post Apple’s new AI split means your iOS app could behave differently in China appeared first on The New Stack .",
-      "published": "2026-08-14T19:21:28+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Models",
-        "AI Strategy",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Alibaba’s new model promises Opus 4.6-level performance on your laptop",
-      "link": "https://thenewstack.io/qwen38-27b-local-inference",
-      "summary": "Alibaba recently made the open weights of its 2.4 trillion parameter Qwen3.8 model available. That’s a massive model, and its The post Alibaba’s new model promises Opus 4.6-level performance on your laptop appeared first on The New Stack .",
-      "published": "2026-08-14T18:10:58+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Models",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AKS Community Calls - August 2026",
-      "link": "https://www.youtube.com/watch?v=X3sG0w8L3iM",
-      "summary": "Agenda - August 2026\n - Welcome & Announcements\n - Feature Deepdive: Kubernetes Center in Azure\n - Feature Deepdive: Azure Kubernetes Fleet Manager Workload Placement\n - Feature Roadmap\n - Q&A Session",
-      "published": "2026-08-14T18:09:18+00:00",
-      "source": "AKS (Official)",
-      "type": "video",
-      "author": "Azure Kubernetes Service (AKS)",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/X3sG0w8L3iM/mqdefault.jpg"
-    },
-    {
-      "title": "Networking Concepts Every DevOps Engineer Needs to Know",
-      "link": "https://kodekloud.com/blog/networking-concepts-every-devops-engineer-needs",
-      "summary": "Follow one request from a browser to a container and back. Every networking concept you actually need shows up on that path, in order, and so does every place it breaks.",
-      "published": "2026-08-14T17:14:08+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "Networking",
-        "DevOps",
-        "Linux",
-        "Kubernetes",
-        "Cloud",
-        "Platform Engineering",
-        "TCP",
-        "DNS"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "What Does 2>/dev/null Mean in Linux?",
-      "link": "https://kodekloud.com/blog/what-does-2-dev-null-mean",
-      "summary": "2>/dev/null sends a command's error stream into the Linux black hole. What the 2, the >, and /dev/null each do, shown on a real find command.",
-      "published": "2026-08-14T15:42:34+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "Linux"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "GLM-5.3 didn’t change the base model — where did its coding gains come from?",
-      "link": "https://thenewstack.io/glm-5-3-post-training-coding",
-      "summary": "Z.ai released GLM-5.3 on Friday, a coding and agent model built from the same base model as GLM-5.2. Developers can The post GLM-5.3 didn’t change the base model — where did its coding gains come from? appeared first on The New Stack .",
-      "published": "2026-08-14T15:20:24+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Engineering",
-        "AI Models",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Azure Update 14th August 2026",
-      "link": "https://www.youtube.com/watch?v=KPNPsO-72Kw",
-      "summary": "Quick update but nice milestone hit this week. Thank you for all the support.\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they...",
-      "published": "2026-08-14T15:17:52+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/KPNPsO-72Kw/mqdefault.jpg"
-    },
-    {
-      "title": "Your container images are unsigned. In the AI era, that’s a ticking time bomb.",
-      "link": "https://thenewstack.io/unsigned-container-images-ai",
-      "summary": "Most organizations that know they should sign their images still don’t. Not because they disagree, but because the path to The post Your container images are unsigned. In the AI era, that’s a ticking time bomb. appeared first on The New Stack .",
-      "published": "2026-08-14T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Uma Sridharan",
-      "categories": [
-        "AI Infrastructure",
-        "Containers",
-        "Security",
-        "sponsor-aws-marketplace",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Eleven minutes, zero humans: Building a self-healing Kubernetes upgrade pipeline on Kairos",
-      "link": "https://www.cncf.io/blog/2026/08/14/eleven-minutes-zero-humans-building-a-self-healing-kubernetes-upgrade-pipeline-on-kairos",
-      "summary": "Once upon a time, upgrading a Kubernetes control plane meant staying awake for it. SSH into every node. Run the upgrade by hand. Watch etcd health the whole time, hoping quorum holds through every reboot. This...",
-      "published": "2026-08-14T11:14:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Olivier Calzi | CNCF Golden Kubestronaut",
-      "categories": [
-        "Blog"
       ],
       "thumbnail": ""
     }
