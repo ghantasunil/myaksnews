@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-14T11:18:24.292601+00:00",
-    "total_items": 299,
+    "generated_at": "2026-09-15T10:43:45.235334+00:00",
+    "total_items": 307,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -19,6 +19,145 @@
     ]
   },
   "items": [
+    {
+      "title": "AI’s best coding agent fails 60% of the time — and the data backs it up",
+      "link": "https://thenewstack.io/real-swe-coding-benchmark",
+      "summary": "Claude Fable 5.1 just won a new coding benchmark despite failing more than six out of 10 times. Its 38.8% The post AI’s best coding agent fails 60% of the time — and the data backs it up appeared first on The New Stack .",
+      "published": "2026-09-14T22:22:27+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Engineering",
+        "AI Models",
+        "Software Testing"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "SSL/TLS certificates and end-to-end encryption for Azure Functions Flex Consumption",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/ssl-tls-certificates-and-end-to-end-encryption-for-azure/ba-p/4556425",
+      "summary": "Last week we announced the general availability of TLS/SSL certificate support and end-to-end TLS encryption for Azure Functions Flex Consumption. Flex Consumption is the recommended serverless hosting plan for Azure Functions. It combines event-driven scale-to-zero and execution-based billing with...",
+      "published": "2026-09-14T21:01:36+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "nzthiago",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Dashboards are for AI agents too, not just humans",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/dashboards-are-for-ai-agents-too-not-just-humans/ba-p/4556383",
+      "summary": "A few days ago I opened Azure SRE Agent and typed four prompts. None of them was careful: find grafana dashboard for: GitHub Copilot run the panels queries. list top 3 very long sessions in the past 3 days what session 1 was doing? what was session 2 doing? No KQL. No table names. I didn't say what...",
+      "published": "2026-09-14T20:25:20+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Wuyi_Weng",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Docker Interview: What Happens on Docker Run",
+      "link": "https://kodekloud.com/blog/what-happens-when-you-type-docker-run",
+      "summary": "Learn what happens when you run a Docker container. Understand image layers, namespaces, cgroups, and networking to prepare for Docker interviews",
+      "published": "2026-09-14T19:59:28+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "Docker",
+        "Containers",
+        "DevOps Interview"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes Changed Block Tracking API - Beta Differences",
+      "link": "https://kubernetes.io/blog/2026/09/14/csi-changed-block-tracking-beta",
+      "summary": "Changed Block Tracking (CBT) support for CSI drivers shipped as Alpha in\nSeptember 2025. With the March 2026 v1.0.0 release of the external-snapshot-metadata project, the feature moved to Beta . If you aren't yet familiar with changed block tracking for storage in\nKubernetes, the Alpha announcement...",
+      "published": "2026-09-14T18:30:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes v1.37: Memory QoS Graduates to Beta",
+      "link": "https://kubernetes.io/blog/2026/09/14/kubernetes-v1-37-memory-qos-graduates-to-beta",
+      "summary": "Memory QoS has graduated to Beta in Kubernetes v1.37 and is now enabled by\ndefault. On Linux nodes running cgroup v2, the feature uses the memory controller\nto give the kernel better guidance on how to treat container memory. It was first introduced as\nAlpha in v1.22, and expanded in v1.36 with...",
+      "published": "2026-09-14T18:30:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Perplexity’s new agent runs entirely on your GPU — with one expensive catch",
+      "link": "https://thenewstack.io/perplexity-portable-computer-windows",
+      "summary": "Running an LLM on your PC is easy enough, but putting an agent to work there is a different story. The post Perplexity’s new agent runs entirely on your GPU — with one expensive catch appeared first on The New Stack .",
+      "published": "2026-09-14T18:21:44+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Hardware"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How to Add Guardrails That Validate LLM Input and Output",
+      "link": "https://kodekloud.com/blog/add-guardrails-to-validate-llm-input-and-output",
+      "summary": "Telling a model to stay on topic works most of the time, which is the problem. Here is what got through, what the usual blocklist fixed, and what it broke in the process.",
+      "published": "2026-09-14T18:00:09+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "AI",
+        "LLM",
+        "Guardrails",
+        "Prompt Injection",
+        "AI Security",
+        "Security",
+        "Python"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Your AI coding spend bought 25% more output. Duplication rose 81%.",
+      "link": "https://thenewstack.io/ai-coding-duplication-rose",
+      "summary": "Since they arrived on the scene, a great swathe of the software industry has pinned its hopes on AI tools, The post Your AI coding spend bought 25% more output. Duplication rose 81%. appeared first on The New Stack .",
+      "published": "2026-09-14T14:39:14+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Steve Fenton",
+      "categories": [
+        "AI Operations",
+        "AI Strategy",
+        "Software Development",
+        "contributed-octopus-deploy"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Chinese AI models dominate OpenRouter’s US token consumption. It can now guarantee that traffic stays entirely in the US.",
+      "link": "https://thenewstack.io/openrouter-us-region-routing",
+      "summary": "Everyone knows the open-weight model pitch by now: companies can download the weights, customize them, run them on infrastructure of The post Chinese AI models dominate OpenRouter’s US token consumption. It can now guarantee that traffic stays entirely in the US. appeared first on The New Stack .",
+      "published": "2026-09-14T13:59:33+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI Infrastructure",
+        "AI Models",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Why an old caching trick is your secret to lower LLM costs",
       "link": "https://thenewstack.io/llm-response-caching-costs",
@@ -3800,6 +3939,17 @@
       "thumbnail": ""
     },
     {
+      "title": "AKS Community Calls - August 2026",
+      "link": "https://www.youtube.com/watch?v=X3sG0w8L3iM",
+      "summary": "Agenda - August 2026\n - Welcome & Announcements\n - Feature Deepdive: Kubernetes Center in Azure\n - Feature Deepdive: Azure Kubernetes Fleet Manager Workload Placement\n - Feature Roadmap\n - Q&A Session",
+      "published": "2026-08-20T03:46:00+00:00",
+      "source": "AKS (Official)",
+      "type": "video",
+      "author": "Azure Kubernetes Service (AKS)",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/X3sG0w8L3iM/mqdefault.jpg"
+    },
+    {
       "title": "“The opening stages of OpenAI’s unraveling”: OpenAI slows model training — not everyone is buying the explanation",
       "link": "https://thenewstack.io/openai-training-pause-cybersecurity",
       "summary": "Something of a trend has emerged this year, with the major AI labs going all-out to tell the world how The post “The opening stages of OpenAI’s unraveling”: OpenAI slows model training — not everyone is buying the explanation appeared first on The New Stack .",
@@ -4358,56 +4508,6 @@
       "author": "Nimesha Jinarajadasa",
       "categories": [
         "Linux"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to Find Large Files in Linux (and the Directories Hiding Them)",
-      "link": "https://kodekloud.com/blog/find-large-files-in-linux",
-      "summary": "Find large files in Linux fast: rank every directory with du and sort, then name the files over 100MB with find. Real commands, real output.",
-      "published": "2026-08-15T16:54:04+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "Linux"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "A Beginner's Guide to Vector Databases",
-      "link": "https://kodekloud.com/blog/a-beginners-guide-to-vector-databases",
-      "summary": "A vector database searches by meaning instead of by words. Once you see how that works, you will also spot why you might already own one without knowing it.",
-      "published": "2026-08-15T16:30:20+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "Vector Database",
-        "AI",
-        "Embeddings",
-        "RAG",
-        "Postgres",
-        "Machine Learning",
-        "DevOps",
-        "Cloud"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Per-developer environments were the goal. Agents moved the goalposts.",
-      "link": "https://thenewstack.io/new-tenant-is-change",
-      "summary": "Multi-tenancy has moved in one direction for 60 years: the tenant keeps getting smaller. Mainframe time-sharing carved a single machine The post Per-developer environments were the goal. Agents moved the goalposts. appeared first on The New Stack .",
-      "published": "2026-08-15T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Arjun Iyer",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Platform Engineering",
-        "sponsor-signadot",
-        "sponsored-post-contributed"
       ],
       "thumbnail": ""
     }
