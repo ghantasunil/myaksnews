@@ -1,11 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-09-15T10:43:45.235334+00:00",
-    "total_items": 307,
+    "generated_at": "2026-09-16T10:32:09.962023+00:00",
+    "total_items": 317,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
       "Abhishek Veeramalla",
+      "Alex Ellis",
       "Apps on Azure",
       "CNCF Blog",
       "Collabnix",
@@ -19,6 +20,215 @@
     ]
   },
   "items": [
+    {
+      "title": "OpenAI president: “The computer should be there to empower you.” So stop retooling software for AI agents",
+      "link": "https://thenewstack.io/computer-use-agent-connectors",
+      "summary": "This week on the a16z show, Greg Brockman, president and co-founder of OpenAI, made the point that developers have been The post OpenAI president: “The computer should be there to empower you.” So stop retooling software for AI agents appeared first on The New Stack .",
+      "published": "2026-09-15T23:41:22+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI Agents",
+        "Developer tools",
+        "Model Context Protocol"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Meta lets Claude and Codex configure WhatsApp Business via MCP. But the agents don’t get their own identity.",
+      "link": "https://thenewstack.io/meta-mcp-whatsapp-business-claude",
+      "summary": "Any business worth its salt in 2026 needs to be embracing the right tools to reach its customers, and few The post Meta lets Claude and Codex configure WhatsApp Business via MCP. But the agents don’t get their own identity. appeared first on The New Stack .",
+      "published": "2026-09-15T22:08:56+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Developer tools",
+        "Model Context Protocol"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI’s voice model doesn’t think. That’s the point.",
+      "link": "https://thenewstack.io/voice-agent-latency-architectures",
+      "summary": "Voice agents have a latency problem that shows up as soon as they have to do real work. Within five The post OpenAI’s voice model doesn’t think. That’s the point. appeared first on The New Stack .",
+      "published": "2026-09-15T21:50:15+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AWS agents will suggest your new flights. Code decides what gets booked.",
+      "link": "https://thenewstack.io/aws-agents-deterministic-validation",
+      "summary": "AWS published a new Step Functions pattern this week that gives AI agents a role in airline rebooking while keeping The post AWS agents will suggest your new flights. Code decides what gets booked. appeared first on The New Stack .",
+      "published": "2026-09-15T21:27:21+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Cloud Services"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Bolt is giving developers 50x more compute. But there’s a catch.",
+      "link": "https://thenewstack.io/bolt-forge-training-data",
+      "summary": "Bolt.new, StackBlitz’s browser-based AI development platform, is testing a new trade with developers: more coding-model usage in exchange for training The post Bolt is giving developers 50x more compute. But there’s a catch. appeared first on The New Stack .",
+      "published": "2026-09-15T18:47:23+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Engineering",
+        "AI Models",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes v1.37: Pod-Level Resource Managers graduated to Beta",
+      "link": "https://kubernetes.io/blog/2026/09/15/kubernetes-v1-37-pod-level-resource-managers-beta",
+      "summary": "With the release of Kubernetes v1.37, the Pod-Level Resource Managers feature has graduated to Beta status (disabled by default)! First introduced as an Alpha feature in Kubernetes v1.36 ,\nthis enhancement builds on Pod-Level Resources by\nequipping Kubelet's Topology Manager, CPU Manager, and...",
+      "published": "2026-09-15T18:30:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "How to Handle Rate Limits, Retries, and Timeouts When Calling LLM APIs",
+      "link": "https://kodekloud.com/blog/handle-rate-limits-retries-and-timeouts-llm-apis",
+      "summary": "Retrying a failed call sounds simple until you retry the wrong error, or every client retries at the same moment. Both cost more than the original failure did.",
+      "published": "2026-09-15T18:00:39+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "AI",
+        "LLM",
+        "Rate Limiting",
+        "Retries",
+        "API",
+        "Reliability"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure Red Hat OpenShift with hosted control planes now available in public preview",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-red-hat-openshift-with-hosted-control-planes-now-available/ba-p/4555997",
+      "summary": "Red Hat OpenShift momentum on Azure keeps building, driven by teams standardizing on Kubernetes for application modernization and, increasingly, by AI-enabled applications that need a consistent platform for the services around them. Azure Red Hat OpenShift gives those teams a jointly engineered,...",
+      "published": "2026-09-15T17:10:06+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Mayuri_Gupta",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "What I learned organizing KCD Lima 2026",
+      "link": "https://www.cncf.io/blog/2026/09/15/what-i-learned-organizing-kcd-lima-2026",
+      "summary": "On July 18, 2026, we held the third edition of Kubernetes Community Days Lima at UTEC in Barranco. By now, we have already sent the Transparency Report to the CNCF, thanked our sponsors, and processed the...",
+      "published": "2026-09-15T16:24:05+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Ronald Requena | CNCF Ambassador",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Agents operate, humans govern: Scale your operations and reduce toil with Azure SRE Agent",
+      "link": "https://thenewstack.io/azure-sre-agent-operations",
+      "summary": "What if engineers could spend their time building and optimizing systems rather than maintaining them? It’s 3 a.m., and the The post Agents operate, humans govern: Scale your operations and reduce toil with Azure SRE Agent appeared first on The New Stack .",
+      "published": "2026-09-15T16:21:45+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "TNS Staff",
+      "categories": [
+        "AI Agents",
+        "AI Operations",
+        "DevOps",
+        "sponsor-microsoft-azure",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Secure AI Workloads on AKS with Chainguard Container Images: CN Partner Showcase: Azure Kubernetes",
+      "link": "https://www.youtube.com/watch?v=-dMyVMPeUug",
+      "summary": "In this Cloud Native Partner Showcase episode, Microsoft and Chainguard discuss how Chainguard is the trusted source for open source. David Giard talks to Hannah Hawken & Manfred Moser from Chainguard to explore how secure-by-default container images and software supply chain practices can help...",
+      "published": "2026-09-15T14:30:26+00:00",
+      "source": "AKS (Official)",
+      "type": "video",
+      "author": "Azure Kubernetes Service (AKS)",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/-dMyVMPeUug/mqdefault.jpg"
+    },
+    {
+      "title": "How to attach an owner to every cloud resource you find",
+      "link": "https://thenewstack.io/attach-owner-cloud-resources",
+      "summary": "The engineer who knew why that cloud instance existed has left the company. The instance is still running, the bill The post How to attach an owner to every cloud resource you find appeared first on The New Stack .",
+      "published": "2026-09-15T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Zeen Rachidi",
+      "categories": [
+        "Cloud Services",
+        "DevOps",
+        "Platform Engineering",
+        "sponsor-env-zero",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes 1.36 restores a lost guarantee for database backups",
+      "link": "https://thenewstack.io/kubernetes-volume-group-snapshots",
+      "summary": "It’s 2 a.m., and you’re restoring a PostgreSQL cluster from last night’s backup. Its data directory lives on one PersistentVolumeClaim The post Kubernetes 1.36 restores a lost guarantee for database backups appeared first on The New Stack .",
+      "published": "2026-09-15T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Shubham Pampattiwar",
+      "categories": [
+        "Databases",
+        "Kubernetes",
+        "Storage",
+        "sponsor-cncf",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How and Why We Bought 4x DGX Sparks",
+      "link": "https://blog.alexellis.io/how-and-why-we-bought-4-dgx-sparks",
+      "summary": "In June we deployed an RTX 6000 Pro into production, a few weeks later, we're now operating DGX Sparks for the team. Learn how and why.",
+      "published": "2026-09-15T00:00:00+00:00",
+      "source": "Alex Ellis",
+      "type": "article",
+      "author": "Alex Ellis",
+      "categories": [
+        "llm",
+        "localai",
+        "agents",
+        "security",
+        "red-teaming"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "AI’s best coding agent fails 60% of the time — and the data backs it up",
       "link": "https://thenewstack.io/real-swe-coding-benchmark",
@@ -4455,61 +4665,6 @@
       "author": "Azure Kubernetes Service (AKS)",
       "categories": [],
       "thumbnail": "https://i.ytimg.com/vi/CWnQ-nNi9Yw/mqdefault.jpg"
-    },
-    {
-      "title": "AI-103 Develop AI Apps and Agents on Azure Study Cram",
-      "link": "https://www.youtube.com/watch?v=WK2BvjOYTCQ",
-      "summary": "Study cram for the AI-103 Microsoft exam.\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:24 - Microsoft learning resources\n01:17 - What are core AI terms\n02:59 - Responsible AI\n06:55 - Foundry resource and project\n14:35 - Models\n25:15 - Model deployment options\n29:44 - Using playgrounds...",
-      "published": "2026-08-17T10:25:27+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/WK2BvjOYTCQ/mqdefault.jpg"
-    },
-    {
-      "title": "500K Ask Me Anything YouTube Live Stream",
-      "link": "https://www.youtube.com/watch?v=hXRPm7r4Q14",
-      "summary": "An AMA to celebrate hitting 500,000 subscribers. A great 60 minutes of interactive Q&A!",
-      "published": "2026-08-16T18:54:36+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/hXRPm7r4Q14/mqdefault.jpg"
-    },
-    {
-      "title": "What Is MCP and Why It Matters for AI Tooling",
-      "link": "https://kodekloud.com/blog/what-is-mcp-and-why-it-matters-for-ai-tooling",
-      "summary": "MCP solved a maths problem. Build each tool once instead of once per app. That one idea explains why it spread everywhere, and why the security work caught everyone out.",
-      "published": "2026-08-16T16:30:58+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "mcp",
-        "AI",
-        "LLM",
-        "DevOps",
-        "Security",
-        "Platform Engineering",
-        "AI Agents",
-        "Cloud"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to Point a Domain to Localhost with the Hosts File",
-      "link": "https://kodekloud.com/blog/point-domain-to-localhost",
-      "summary": "Point a domain to localhost with one line in your hosts file and test cookies, auth and redirects against a real domain name, on your machine.",
-      "published": "2026-08-16T15:49:57+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "Linux"
-      ],
-      "thumbnail": ""
     }
   ]
 }
