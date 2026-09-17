@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-16T10:32:09.962023+00:00",
-    "total_items": 317,
+    "generated_at": "2026-09-17T10:41:48.452673+00:00",
+    "total_items": 318,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,175 @@
     ]
   },
   "items": [
+    {
+      "title": "What Is Kubernetes",
+      "link": "https://kodekloud.com/blog/kubernetes-basics-architecture-pods-services",
+      "summary": "Learn how Kubernetes works, from the control plane and scheduler to kubelet, pods, and Services, with simple answers to interview questions.",
+      "published": "2026-09-17T06:25:02+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "Kubernetes",
+        "Kubernetes architecture",
+        "Kubernetes Networking"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AKS Community Calls - September 2026",
+      "link": "https://www.youtube.com/watch?v=zb3wp6DI3VM",
+      "summary": "Agenda - August 2026\n - Welcome & Announcements\n - Feature Deepdive: Node Disruption Policy\n - Feature Deepdive: Prepared Image Specification\n - Feature Roadmap\n - Q&A Session",
+      "published": "2026-09-17T04:06:02+00:00",
+      "source": "AKS (Official)",
+      "type": "video",
+      "author": "Azure Kubernetes Service (AKS)",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/zb3wp6DI3VM/mqdefault.jpg"
+    },
+    {
+      "title": "Perplexity’s AI agents helped build a database. They weren’t allowed to run it.",
+      "link": "https://thenewstack.io/perplexity-cobbledb-ai-database",
+      "summary": "Perplexity decided it was paying too much for DynamoDB and wasn’t getting the control it wanted over read performance. So The post Perplexity’s AI agents helped build a database. They weren’t allowed to run it. appeared first on The New Stack .",
+      "published": "2026-09-16T21:51:15+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "Databases"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Automattic says CEO Mullenweg was gone and back inside 33 hours. What happened between?",
+      "link": "https://thenewstack.io/automattic-mullenweg-boardroom-reversal",
+      "summary": "There were unusual goings-on this month at Automattic, a company known for its free and open-source app for building WordPress The post Automattic says CEO Mullenweg was gone and back inside 33 hours. What happened between? appeared first on The New Stack .",
+      "published": "2026-09-16T20:39:42+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "Cloud Services",
+        "Developer tools",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“Everyone’s in a race to replace GitHub”: Zed launches Delta because agents made pull requests obsolete",
+      "link": "https://thenewstack.io/zed-delta-github-alternative",
+      "summary": "Something of a consensus has emerged from the developer fraternity in 2026 — GitHub, a platform built substantively for human The post “Everyone’s in a race to replace GitHub”: Zed launches Delta because agents made pull requests obsolete appeared first on The New Stack .",
+      "published": "2026-09-16T19:45:30+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Developer tools",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes v1.37: Hardening Container Storage with Bind Mount Options and EmptyDir Permissions",
+      "link": "https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage",
+      "summary": "Kubernetes v1.37 brings important storage security features: emptyDir permission modes and bind mount options. They help application programmers and security professionals implement rigorous security policies, for example, prohibiting deletion of files across containers or execution of arbitrary...",
+      "published": "2026-09-16T18:30:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "How to Turn Plain English Questions Into SQL Queries With an LLM",
+      "link": "https://kodekloud.com/blog/turn-plain-english-questions-into-sql-with-an-llm",
+      "summary": "Generated SQL that runs looks like generated SQL that works. In this test every query executed cleanly and fewer than four in ten returned the right number.",
+      "published": "2026-09-16T18:00:40+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "AI",
+        "Gen AI",
+        "LLM",
+        "SQL",
+        "database",
+        "SQLite",
+        "Evaluation"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "New Zero to Hero series - AI Agents Zero to Hero | Beginner Level",
+      "link": "https://www.youtube.com/watch?v=59M8WMdK7NQ",
+      "summary": "Create your FREE account:\nhttps://fandf.co/46pq5QJ\n\nJoin our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to...",
+      "published": "2026-09-16T17:13:14+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/59M8WMdK7NQ/mqdefault.jpg"
+    },
+    {
+      "title": "Anthropic bet users were choosing wrong. So it removed the choice.",
+      "link": "https://thenewstack.io/anthropic-claude-unified-interface",
+      "summary": "Using Claude for anything beyond a quick question has always started with a routing decision to use Chat or Cowork? The post Anthropic bet users were choosing wrong. So it removed the choice. appeared first on The New Stack .",
+      "published": "2026-09-16T16:46:36+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI evaluator: The most important AI job in history? How developers might fill the proposed new job",
+      "link": "https://thenewstack.io/ai-embedded-evaluator-jobs",
+      "summary": "The pace of frontier AI model development spurred Anthropic CEO Dario Amodei to publish an essay last weekend, calling for The post AI evaluator: The most important AI job in history? How developers might fill the proposed new job appeared first on The New Stack .",
+      "published": "2026-09-16T15:58:41+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI",
+        "AI Infrastructure",
+        "AI Strategy",
+        "Tech Careers"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Introducing a Guided Copilot Experience for Building Azure Apps in VS Code",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/introducing-a-guided-copilot-experience-for-building-azure-apps/ba-p/4557120",
+      "summary": "Today we're previewing a new way to build cloud apps with GitHub Copilot in VS Code: a guided Copilot experience that takes you from idea to a deployed Azure app through a structured, predictable workflow instead of a free-form chat session that may or may not land where you need it to. The...",
+      "published": "2026-09-16T13:59:47+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "fiveisprime",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Running OpenBao on Kubernetes with a CloudNativePG PostgreSQL backend",
+      "link": "https://www.cncf.io/blog/2026/09/16/running-openbao-on-kubernetes-with-a-cloudnativepg-postgresql-backend",
+      "summary": "Managing infrastructure secrets on Kubernetes needs a backend that is self-healing and free of vendor lock-in, and that is exactly what OpenBao (the Linux Foundation’s open-source fork of HashiCorp Vault) and CloudNativePG give you: an entirely...",
+      "published": "2026-09-16T11:30:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Gabriele Bartolini (EnterpriseDB) and CNCF Ambassador, Rob Kenefeck (ControlPlane)",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "OpenAI president: “The computer should be there to empower you.” So stop retooling software for AI agents",
       "link": "https://thenewstack.io/computer-use-agent-connectors",
@@ -2273,6 +2442,17 @@
       "thumbnail": ""
     },
     {
+      "title": "500K Ask Me Anything YouTube Live Stream",
+      "link": "https://www.youtube.com/watch?v=hXRPm7r4Q14",
+      "summary": "An AMA to celebrate hitting 500,000 subscribers. A great 60 minutes of interactive Q&A!",
+      "published": "2026-09-01T06:07:28+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/hXRPm7r4Q14/mqdefault.jpg"
+    },
+    {
       "title": "Kueue on Kubernetes: GPU Job Queueing and Fair-Share Quotas for AI Workloads",
       "link": "https://collabnix.com/kueue-on-kubernetes-gpu-job-queueing-and-fair-share-quotas-for-ai-workloads",
       "summary": "The default Kubernetes scheduler has no idea your GPUs are shared between teams. This hands-on lab uses Kueue to add job level admission, per team quotas, cohort borrowing and reclaim preemption, and runs on a laptop with no GPUs required.",
@@ -4501,170 +4681,6 @@
         "Blog"
       ],
       "thumbnail": ""
-    },
-    {
-      "title": "I Let an AI Agent Deploy & Debug an App on K8s Using Coder Agents | Realtime DevOps AI Project",
-      "link": "https://www.youtube.com/watch?v=UdwVmmuUAG0",
-      "summary": "What if you could hand an AI agent the keys to a Kubernetes cluster and let it deploy an app, debug a live crash, and convert it into Helm, completely on its own? \nIn this video, I build a secure, governed cloud workspace where Coder Agents gets real kubectl and Helm access but stays locked inside...",
-      "published": "2026-08-18T10:00:06+00:00",
-      "source": "Piyush Sachdeva",
-      "type": "video",
-      "author": "Tech Tutorials with Piyush",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/UdwVmmuUAG0/mqdefault.jpg"
-    },
-    {
-      "title": "How Does ChatGPT Search the Web? (The Model Never Touches the Internet)",
-      "link": "https://kodekloud.com/blog/how-does-chatgpt-search-the-web",
-      "summary": "How does ChatGPT search the web when the model can't open a connection? Tool calling explained: the model asks, the application runs the search.",
-      "published": "2026-08-18T07:20:45+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "AI"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why Cloud Browsers Are Becoming Enterprise Infrastructure for AI Agents and Automation",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/why-cloud-browsers-are-becoming-enterprise-infrastructure-for-ai/ba-p/4547583",
-      "summary": "The browser is becoming a new execution environment Over the last decade, enterprises moved compute from desktops to the cloud. Applications that once depended on individual machines now run on scalable, managed infrastructure. A similar shift is beginning to happen with browser automation....",
-      "published": "2026-08-18T04:30:35+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "AbhinavPremsekhar",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Claude can now delete your production voice agent from a chat window",
-      "link": "https://thenewstack.io/elevenlabs-mcp-voice-agents",
-      "summary": "Developers can now ask Claude to inspect a production voice agent, revise its system prompt, change the voice entirely, or The post Claude can now delete your production voice agent from a chat window appeared first on The New Stack .",
-      "published": "2026-08-17T19:51:01+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "AI Operations",
-        "Model Context Protocol"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic defined the standards inside Agent Plugins. So why isn’t it helping govern the format?",
-      "link": "https://thenewstack.io/agent-plugins-portability-gaps",
-      "summary": "Earlier this month, Vercel released Agent Plugins 1.0.0 with core maintainers from AWS, Cursor, Microsoft, and OpenAI. Google announced the The post Anthropic defined the standards inside Agent Plugins. So why isn’t it helping govern the format? appeared first on The New Stack .",
-      "published": "2026-08-17T19:27:20+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Janakiram MSV",
-      "categories": [
-        "AI Agents",
-        "Developer tools",
-        "Model Context Protocol (MCP)"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Welcome Falkey the Falco and Ky the Kyverno Pyrenees",
-      "link": "https://www.cncf.io/blog/2026/08/17/welcome-falkey-the-falco-and-ky-the-kyverno-pyrenees",
-      "summary": "If you have yet to meet Phippy, she’s a friendly PHP app exploring the cloud native world with her pals. Over the last decade, Phippy’s circle has grown to include eighteen friends, with the newest members...",
-      "published": "2026-08-17T17:50:06+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "CNCF Staff",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "RAG Zero to Hero in 40 minutes | Practical Guide",
-      "link": "https://www.youtube.com/watch?v=uRwSQdMMyGY",
-      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nGitHub repo link:\nhttps://github.com/iam-veeramalla/RAG-crash-course\n\nThis video covers RAG from Zero to Hero. This is a complete practical guide using jupyter notebooks. The GitHub repository helps you go through every...",
-      "published": "2026-08-17T17:35:29+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/uRwSQdMMyGY/mqdefault.jpg"
-    },
-    {
-      "title": "Understanding Load Balancing for Beginners",
-      "link": "https://kodekloud.com/blog/understanding-load-balancing-for-beginners",
-      "summary": "Spreading traffic is the easy half of load balancing. The half that decides whether an outage lasts ten seconds or ten minutes is noticing that a backend has stopped working, and most health checks cannot.",
-      "published": "2026-08-17T17:00:34+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "Load Balancing",
-        "Networking",
-        "DevOps",
-        "Kubernetes",
-        "NGINX",
-        "Cloud",
-        "Traffic Management",
-        "SRE",
-        "High Availability"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“Open weights are nowhere near a sufficient solution”: Dario Amodei fires back on AI power",
-      "link": "https://thenewstack.io/amodei-open-weights-compute-regulation",
-      "summary": "The independence developers gain from open weights comes with a hard infrastructure ceiling, according to Anthropic CEO Dario Amodei. “AI The post “Open weights are nowhere near a sufficient solution”: Dario Amodei fires back on AI power appeared first on The New Stack .",
-      "published": "2026-08-17T16:58:51+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI",
-        "AI Models",
-        "AI Strategy",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "CNCF Announces Kubeflow’s Graduation, Solidifying a Standard for Cloud Native AI Operations",
-      "link": "https://www.cncf.io/announcements/2026/08/17/cncf-announces-kubeflows-graduation-solidifying-the-standard-for-cloud-native-ai-operations",
-      "summary": "Milestone marks widespread enterprise adoption for automating end-to-end AI and machine learning lifecycles on Kubernetes Key Highlights SAN FRANCISCO — August 17, 2026 — The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for cloud...",
-      "published": "2026-08-17T16:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "kthornhill",
-      "categories": [
-        "Announcements"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "TNS journalist Darryl K. Taft leaves a legacy of respected work and quiet integrity",
-      "link": "https://thenewstack.io/darryl-taft-technology-journalist",
-      "summary": "Technology journalist Darryl K. Taft led a long and successful career at several first-rank tech publications and was a highly The post TNS journalist Darryl K. Taft leaves a legacy of respected work and quiet integrity appeared first on The New Stack .",
-      "published": "2026-08-17T15:43:18+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Chris J. Preimesberger",
-      "categories": [
-        "Tech Careers",
-        "Tech Culture"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Troubleshoot Outbound connectivity Issues with Ping He: AKS Troubleshooting Series: Azure Kubernetes",
-      "link": "https://www.youtube.com/watch?v=CWnQ-nNi9Yw",
-      "summary": "In today's episode, we talk to Ping He to understand how we can troubleshoot scaling issues with Azure Kubernetes Service (AKS) clusters. \n\nPing He helps you learn why understanding outbound traffic, firewalls, and network security groups is crucial for AKS cluster admins, developers, and platform...",
-      "published": "2026-08-17T15:00:17+00:00",
-      "source": "AKS (Official)",
-      "type": "video",
-      "author": "Azure Kubernetes Service (AKS)",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/CWnQ-nNi9Yw/mqdefault.jpg"
     }
   ]
 }
