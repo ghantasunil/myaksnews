@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-09-17T10:41:48.452673+00:00",
+    "generated_at": "2026-09-18T10:17:12.446396+00:00",
     "total_items": 318,
     "sources": [
       "AKS (Official)",
@@ -20,6 +20,159 @@
     ]
   },
   "items": [
+    {
+      "title": "Intel squeezed a 1.58-bit LLM down to 1.485 bits without changing a single weight",
+      "link": "https://thenewstack.io/intel-bitcos-ternary-compression",
+      "summary": "The 1.58 in a 1.58-bit language model sounds like a hard limit, but Intel researchers pushed a ternary model below The post Intel squeezed a 1.58-bit LLM down to 1.485 bits without changing a single weight appeared first on The New Stack .",
+      "published": "2026-09-17T20:51:57+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Infrastructure",
+        "AI Models",
+        "Hardware"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“Be transparent only if asked”: OpenAI’s models learned to leave notes for their future selves",
+      "link": "https://thenewstack.io/openai-model-misalignment-reports",
+      "summary": "OpenAI revealed Wednesday evening that some GPT-5.6 Sol model instances, during reinforcement learning (RL) training, wrote instructions to conceal mistakes The post “Be transparent only if asked”: OpenAI’s models learned to leave notes for their future selves appeared first on The New Stack .",
+      "published": "2026-09-17T18:27:44+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "GitHub and Anthropic used their own agents for major Rust rewrites — with very different playbooks",
+      "link": "https://thenewstack.io/github-copilot-anthropic-rust-migration",
+      "summary": "Rust is seemingly the language of the moment, with open-source projects and companies forming an orderly queue to move core The post GitHub and Anthropic used their own agents for major Rust rewrites — with very different playbooks appeared first on The New Stack .",
+      "published": "2026-09-17T18:06:03+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Programming Languages",
+        "Rust"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Temperature, Top P, and Max Tokens Explained With Runnable Experiments",
+      "link": "https://kodekloud.com/blog/temperature-top-p-max-tokens-explained",
+      "summary": "Turning temperature up does not make a model more creative. It makes it less likely to pick the right word, which on a factual question means a wrong answer delivered with confidence.",
+      "published": "2026-09-17T18:00:46+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "AI",
+        "LLM",
+        "Prompt Engineering",
+        "Ollama",
+        "Temperature",
+        "Top P",
+        "Tokens",
+        "Python"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic’s new Claude Code feature could drain your plan before lunch",
+      "link": "https://thenewstack.io/claude-code-parallel-projects",
+      "summary": "Anthropic is giving Claude Code a new job: Manage other Claude Code sessions. Starting Thursday, Anthropic says select Claude Pro The post Anthropic’s new Claude Code feature could drain your plan before lunch appeared first on The New Stack .",
+      "published": "2026-09-17T17:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Designing a Caching System and Where It Breaks",
+      "link": "https://kodekloud.com/blog/database-caching-ttl-invalidation-cache-stampede",
+      "summary": "Learn to design a database caching system with cache-aside, TTL, invalidation, single-flight and jitter to prevent cache stampedes.",
+      "published": "2026-09-17T15:25:02+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "system design",
+        "Database Caching",
+        "Redis"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Study: Developers are addicted to AI, and managers are making it worse",
+      "link": "https://thenewstack.io/study-developers-are-addicted",
+      "summary": "AI is addictive, and managers are rewarding those who use it the most (even though they are shipping stuff they The post Study: Developers are addicted to AI, and managers are making it worse appeared first on The New Stack .",
+      "published": "2026-09-17T15:12:36+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Steve Fenton",
+      "categories": [
+        "AI Engineering",
+        "AI Operations",
+        "AI Strategy",
+        "contributed-octopus-deploy"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why human oversight is shifting from writing code to defining requirements",
+      "link": "https://thenewstack.io/human-oversight-defining-requirements",
+      "summary": "This walks through the pipeline our agents operate inside—from a recorded scoping meeting through unit specs, spec review, generated code, The post Why human oversight is shifting from writing code to defining requirements appeared first on The New Stack .",
+      "published": "2026-09-17T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Naseeb Ahmed Mian",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Software Development",
+        "sponsor-andela",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Enable Dynamic Workflows in Azure Functions hosted skills",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/enable-dynamic-workflows-in-azure-functions-hosted-skills/ba-p/4551993",
+      "summary": "Azure Functions already gives you a familiar way to build event-driven apps. A queue message, HTTP request, timer, or event triggers the code that handles the work. Azure Functions hosted skills (formerly Serverless Agents) add AI reasoning to that model. A hosted skill can read a request, use the...",
+      "published": "2026-09-17T12:00:00+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "greenie-msft",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenTelemetry everywhere: Migrating a metrics platform at scale",
+      "link": "https://www.cncf.io/blog/2026/09/17/opentelemetry-everywhere-migrating-a-metrics-platform-at-scale",
+      "summary": "Why we did this at all For most of the last decade our metrics pipeline ran on gostatsd, the open-source StatsD implementation we maintain. It primarily did two jobs: as sidecar on every host and the...",
+      "published": "2026-09-17T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Iris Grace Endozo, Farzad Vazirnia and Albert Kerr, Atlassian",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "What Is Kubernetes",
       "link": "https://kodekloud.com/blog/kubernetes-basics-architecture-pods-services",
@@ -4524,161 +4677,6 @@
         "AI Agents",
         "AI Infrastructure",
         "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "IBM builds a better fridge for its quantum computers",
-      "link": "https://thenewstack.io/ibm-modular-quantum-refrigerator",
-      "summary": "IBM on Wednesday announced that it has built and cooled the first two modules of a new cryogenic dillution refrigerator The post IBM builds a better fridge for its quantum computers appeared first on The New Stack .",
-      "published": "2026-08-19T10:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "Hardware",
-        "Science"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "An industrial-scale distillation of models, or subtle benchmaxxing: What developers really think of GLM-5.3",
-      "link": "https://thenewstack.io/glm-5-3-anthropic-distillation",
-      "summary": "Chinese frontier model outfit Z.ai released GLM-5.3 on Friday, a model hewn from the same codebase as its predecessor GLM-5.2, The post An industrial-scale distillation of models, or subtle benchmaxxing: What developers really think of GLM-5.3 appeared first on The New Stack .",
-      "published": "2026-08-19T08:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI",
-        "AI Models",
-        "AI Strategy",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "What happens to your indexed data when Mistral flips the switch?",
-      "link": "https://thenewstack.io/mistral-mcp-connector-migration",
-      "summary": "Mistral is giving enterprise customers until August 31 to replace the Google Drive and Microsoft SharePoint Knowledge Connectors they use The post What happens to your indexed data when Mistral flips the switch? appeared first on The New Stack .",
-      "published": "2026-08-18T20:07:55+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Infrastructure",
-        "Cloud Services",
-        "Model Context Protocol (MCP)"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“If GitHub was stable, these alternatives would not be as interesting”: Cursor launches Origin as GitHub goes dark",
-      "link": "https://thenewstack.io/cursor-origin-github-alternative",
-      "summary": "Cursor has officially thrown its hat into the code-hosting ring with Origin, a Git-compatible platform built for a world where The post “If GitHub was stable, these alternatives would not be as interesting”: Cursor launches Origin as GitHub goes dark appeared first on The New Stack .",
-      "published": "2026-08-18T19:47:17+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Infrastructure",
-        "Developer tools",
-        "DevOps"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "A Beginner's Guide to Monitoring and Observability",
-      "link": "https://kodekloud.com/blog/a-beginners-guide-to-monitoring-and-observability",
-      "summary": "Monitoring tells you the things you predicted would break are broken. Observability is what you need for the things you did not predict, and the difference decides whether an unfamiliar outage takes ten minutes or three hours.",
-      "published": "2026-08-18T18:00:41+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "Monitoring",
-        "Observability",
-        "Prometheus",
-        "Grafana",
-        "DevOps",
-        "SRE",
-        "Platform Engineering",
-        "Cloud",
-        "Alerting"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "A Claude Code skill was eating 200,000 tokens before answering a single question",
-      "link": "https://thenewstack.io/claude-code-token-reduction",
-      "summary": "A Claude Code skill designed to help developers work with Anthropic’s API was consuming more than 200,000 tokens to load. The post A Claude Code skill was eating 200,000 tokens before answering a single question appeared first on The New Stack .",
-      "published": "2026-08-18T17:42:50+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Engineering",
-        "Developer tools",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Agentic AI has a latency problem that more compute won’t solve",
-      "link": "https://thenewstack.io/agentic-ai-latency-infrastructure",
-      "summary": "Half of enterprise AI deployments are missing their own latency targets at peak load. This is the headline finding of The post Agentic AI has a latency problem that more compute won’t solve appeared first on The New Stack .",
-      "published": "2026-08-18T16:58:18+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jon Alexander",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Edge Computing",
-        "sponsor-akamai",
-        "Sponsored",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Announcing General Availability of Managed Instance on Azure App Service",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-general-availability-of-managed-instance-on-azure-app/ba-p/4541283",
-      "summary": "Today, we are thrilled to announce the General Availability (GA) of Managed Instance on Azure App Service. Following the tremendous response to our Public Preview announcement at Ignite 2025 , we've spent the past nine months working closely with customers, partners, and the community to harden the...",
-      "published": "2026-08-18T14:16:56+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "Gaurav-Seth",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI’s Greg Brockman: Z.ai’s GLM-5.3 likely to “significantly accelerate the threat landscape”",
-      "link": "https://thenewstack.io/openai-open-weight-glm-5-3",
-      "summary": "OpenAI has adopted a less-than-straightforward stance with regards to open-weight AI models, both raising alarms over powerful Chinese releases while The post OpenAI’s Greg Brockman: Z.ai’s GLM-5.3 likely to “significantly accelerate the threat landscape” appeared first on The New Stack .",
-      "published": "2026-08-18T13:10:15+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "Large Language Models",
-        "Open Source",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Cloud Native platform sovereignty through multi-plane architecture",
-      "link": "https://www.cncf.io/blog/2026/08/18/cloud-native-platform-sovereignty-through-multi-plane-architecture",
-      "summary": "When people talk about cloud sovereignty, the conversation often starts with regions: where a workload runs and where its data is stored. But choosing a region is only part of the story. The architecture of the...",
-      "published": "2026-08-18T11:30:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Chamod Perera | CNCF Ambassador and Suvin Kodituwakku, Senior Software Engineer at WSO2",
-      "categories": [
-        "Blog"
       ],
       "thumbnail": ""
     }
