@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-18T10:17:12.446396+00:00",
-    "total_items": 318,
+    "generated_at": "2026-09-19T10:00:16.123760+00:00",
+    "total_items": 313,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,137 @@
     ]
   },
   "items": [
+    {
+      "title": "Claude couldn’t hack OpenAI. Then Anthropic shipped Opus 5.",
+      "link": "https://thenewstack.io/claude-exploits-openai-forum",
+      "summary": "Three security researchers at Hacktron AI found a memory-corruption bug in a widely used image library. Finding it was the The post Claude couldn’t hack OpenAI. Then Anthropic shipped Opus 5. appeared first on The New Stack .",
+      "published": "2026-09-18T18:57:14+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI",
+        "AI Models",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How to Build a Command Line Tool Powered by an LLM",
+      "link": "https://kodekloud.com/blog/build-a-command-line-tool-powered-by-an-llm",
+      "summary": "Calling a model from a script is the easy part. The difference between a script and a tool you reach for every day is a handful of conventions nobody explains until you break one.",
+      "published": "2026-09-18T18:08:50+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "AI",
+        "LLM",
+        "CLI",
+        "Ollama",
+        "Python",
+        "Automation",
+        "Unix",
+        "Automation in DevOps"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes can run AI inference. But can it count the real cost?",
+      "link": "https://thenewstack.io/kubernetes-ai-inference-costs",
+      "summary": "Welcome to another edition of Road to KubeCon, where we’re tracking the Kubernetes and cloud-native ecosystem on the way into The post Kubernetes can run AI inference. But can it count the real cost? appeared first on The New Stack .",
+      "published": "2026-09-18T15:53:21+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Bill Doerrfeld",
+      "categories": [
+        "AI Infrastructure",
+        "Kubecon Cloudnativecon NA 2026",
+        "Kubernetes",
+        "Platform Engineering",
+        "Road to KubeCon",
+        "sponsor-hpe",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure Weekly Update - 18th September 2026",
+      "link": "https://www.youtube.com/watch?v=I8RSgmRlNMg",
+      "summary": "Really quick update!\n\nCharity event URL at https://give.curechildhoodcancer.org/fundraiser/7465401\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even...",
+      "published": "2026-09-18T15:08:36+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/I8RSgmRlNMg/mqdefault.jpg"
+    },
+    {
+      "title": "How buildpacks help enterprises finally operate container security controls at scale",
+      "link": "https://thenewstack.io/buildpacks-container-security-scale",
+      "summary": "Container security controls often fail less because organizations lack standards, scanners, or best practices, and more. After all, every service The post How buildpacks help enterprises finally operate container security controls at scale appeared first on The New Stack .",
+      "published": "2026-09-18T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Catherine Edelveis",
+      "categories": [
+        "Containers",
+        "Platform Engineering",
+        "Security",
+        "sponsor-cncf",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Your agent is only as good as your infrastructure",
+      "link": "https://thenewstack.io/ai-agent-infrastructure-performance",
+      "summary": "You built a great agent, but something happened when it moved into production. In testing, your agent reviewed pull requests The post Your agent is only as good as your infrastructure appeared first on The New Stack .",
+      "published": "2026-09-18T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Selene Cecchinel",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Operations",
+        "sponsor-coreweave",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Open-weight models now handle a majority of tokens on Vercel’s AI Gateway. But Anthropic still takes 64% of the spend.",
+      "link": "https://thenewstack.io/open-weight-anthropic-spend",
+      "summary": "The trend is clear: open-weight models are taking an increasingly large bite out of production AI usage. On Monday, The The post Open-weight models now handle a majority of tokens on Vercel’s AI Gateway. But Anthropic still takes 64% of the spend. appeared first on The New Stack .",
+      "published": "2026-09-18T12:42:58+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Infrastructure",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Code review is burning out your best engineers",
+      "link": "https://thenewstack.io/ai-code-review-burnout",
+      "summary": "Every team I talk to has the same problem. Their best engineers, the ones who care most about code quality, The post Code review is burning out your best engineers appeared first on The New Stack .",
+      "published": "2026-09-18T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Ankit Jain",
+      "categories": [
+        "AI Engineering",
+        "Developer tools",
+        "Software Development",
+        "sponsor-aviator",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Intel squeezed a 1.58-bit LLM down to 1.485 bits without changing a single weight",
       "link": "https://thenewstack.io/intel-bitcos-ternary-compression",
@@ -984,6 +1115,19 @@
       "author": "John Savill's Technical Training",
       "categories": [],
       "thumbnail": "https://i.ytimg.com/vi/C6CkxsjjEas/mqdefault.jpg"
+    },
+    {
+      "title": "KubeCon + CloudNativeCon North America 2026: Your Week in Salt Lake City",
+      "link": "https://www.cncf.io/blog/2026/09/11/kubecon-cloudnativecon-north-america-2026-your-week-in-salt-lake-city",
+      "summary": "This November, the cloud native community is heading to Salt Lake City. From November 9–12, 2026, KubeCon + CloudNativeCon North America will bring together adopters and technologists from across open source and cloud native communities for...",
+      "published": "2026-09-11T12:29:33+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "epower",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
     },
     {
       "title": "How AWS Lambda logs every flow across thousands of microVMs per host with eBPF and Rust",
@@ -4478,205 +4622,6 @@
         "sponsor-nutanix",
         "Sponsored",
         "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AKS Community Calls - August 2026",
-      "link": "https://www.youtube.com/watch?v=X3sG0w8L3iM",
-      "summary": "Agenda - August 2026\n - Welcome & Announcements\n - Feature Deepdive: Kubernetes Center in Azure\n - Feature Deepdive: Azure Kubernetes Fleet Manager Workload Placement\n - Feature Roadmap\n - Q&A Session",
-      "published": "2026-08-20T03:46:00+00:00",
-      "source": "AKS (Official)",
-      "type": "video",
-      "author": "Azure Kubernetes Service (AKS)",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/X3sG0w8L3iM/mqdefault.jpg"
-    },
-    {
-      "title": "“The opening stages of OpenAI’s unraveling”: OpenAI slows model training — not everyone is buying the explanation",
-      "link": "https://thenewstack.io/openai-training-pause-cybersecurity",
-      "summary": "Something of a trend has emerged this year, with the major AI labs going all-out to tell the world how The post “The opening stages of OpenAI’s unraveling”: OpenAI slows model training — not everyone is buying the explanation appeared first on The New Stack .",
-      "published": "2026-08-19T21:53:30+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Models",
-        "AI Strategy",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AI-generated Rust compiles perfectly. That’s the scary part.",
-      "link": "https://thenewstack.io/canonical-c-rust-apparmor",
-      "summary": "Canonical wants to know whether automated tools can finally rewrite legacy C code in safe, maintainable Rust without altering the The post AI-generated Rust compiles perfectly. That’s the scary part. appeared first on The New Stack .",
-      "published": "2026-08-19T19:30:42+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI",
-        "Rust",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AWS deprecated this EKS auth method. 81% of clusters still run it.",
-      "link": "https://thenewstack.io/kubernetes-fleet-security-management",
-      "summary": "The migration to Kubernetes and cloud native infrastructure has been one of the defining IT trends of the past decade. The post AWS deprecated this EKS auth method. 81% of clusters still run it. appeared first on The New Stack .",
-      "published": "2026-08-19T18:59:54+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Yannick Struyf",
-      "categories": [
-        "Kubernetes",
-        "Platform Engineering",
-        "Security",
-        "sponsor-nutanix",
-        "Sponsored",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Codex can now keep coding while it waits for your answer",
-      "link": "https://thenewstack.io/codex-async-developer-messaging",
-      "summary": "Long-running coding agents face an awkward choice when they need a developer’s input. They can stop and wait or make The post Codex can now keep coding while it waits for your answer appeared first on The New Stack .",
-      "published": "2026-08-19T17:44:59+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How AI Chatbots Are Built",
-      "link": "https://kodekloud.com/blog/how-ai-chatbots-are-built",
-      "summary": "A chatbot is a loop that resends the entire conversation on every turn. Build one in stages and every design decision, every cost, and every strange behaviour you have met makes immediate sense.",
-      "published": "2026-08-19T17:30:37+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "AI",
-        "Chatbot",
-        "LLM",
-        "Python",
-        "KodeKey",
-        "API",
-        "DevOps",
-        "Cloud"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Your coding agent got the onboarding your developers never did",
-      "link": "https://thenewstack.io/coding-agents-developer-neglect",
-      "summary": "Steve Yegge thinks your AI has feelings. His new two-part essay, “The Shape of Things to Come,” argues that agentic The post Your coding agent got the onboarding your developers never did appeared first on The New Stack .",
-      "published": "2026-08-19T17:04:22+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Steve Fenton",
-      "categories": [
-        "AI Agents",
-        "Software Development",
-        "Tech Culture"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AI broke code review. What about knowledge sharing?",
-      "link": "https://thenewstack.io/ai-code-review-cognitive-debt",
-      "summary": "The volume of AI-generated code has broken code review. Engineers are reviewing 500-line diffs they didn’t write, generated by models The post AI broke code review. What about knowledge sharing? appeared first on The New Stack .",
-      "published": "2026-08-19T17:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Ankit Jain",
-      "categories": [
-        "AI Engineering",
-        "AI Strategy",
-        "Software Development",
-        "sponsor-aviator",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Tech in Five - What is a Harness",
-      "link": "https://www.youtube.com/watch?v=HVF9I25WyVY",
-      "summary": "An overview of what exactly a harness and why you care.\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the...",
-      "published": "2026-08-19T14:50:10+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/HVF9I25WyVY/mqdefault.jpg"
-    },
-    {
-      "title": "The end of coding Agents | Deepseek Harness is Here",
-      "link": "https://www.youtube.com/watch?v=R2HVlXweJbw",
-      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nGitHub repo link:\nhttps://github.com/iam-veeramalla/RAG-crash-course\n\nThis video covers RAG from Zero to Hero. This is a complete practical guide using jupyter notebooks. The GitHub repository helps you go through every...",
-      "published": "2026-08-19T14:28:14+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/R2HVlXweJbw/mqdefault.jpg"
-    },
-    {
-      "title": "Announcing public preview: Markdown for Agents in Azure App Service",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-public-preview-markdown-for-agents-in-azure-app/ba-p/4537023",
-      "summary": "Why Markdown for Agents? Web pages often contain scripts, styles, and HTML markup that are useful to browsers but add noise when the content is sent to an AI model. Markdown for Agents removes that extra markup and returns a smaller, text-focused response that is easier for agents to process and...",
-      "published": "2026-08-19T13:57:13+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "jordanselig",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "What the New API Management AI Gateway Tier Changes for App Service-Hosted Agents",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/what-the-new-api-management-ai-gateway-tier-changes-for-app/ba-p/4543974",
-      "summary": "In May, I published a runnable sample that put Azure API Management in front of an AI agent on Azure App Service . The agent framework was replaceable; the gateway was the contribution. APIM handled model access, token limits, semantic caching, token metrics, and the MCP traffic contract. I...",
-      "published": "2026-08-19T13:54:21+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "jordanselig",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kyverno is a platform primitive, not a security tool",
-      "link": "https://www.cncf.io/blog/2026/08/19/kyverno-is-a-platform-primitive-not-a-security-tool",
-      "summary": "Where does Kyverno live in your organization? I don’t mean which cluster! On which team’s slide deck does it show up? Whose budget line?  For most companies I’ve talked to, the answer is security. Kyverno is...",
-      "published": "2026-08-19T11:21:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Koray Oksay | CNCF Ambassador",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "An open source rival to Claude Managed Agents just launched",
-      "link": "https://thenewstack.io/truefoundry-trueforge-claude-managed-agents",
-      "summary": "AI infrastructure platform company TrueFoundry has launched its open-source agent harness, TrueForge. The technology, announced Wednesday, is directly billed as The post An open source rival to Claude Managed Agents just launched appeared first on The New Stack .",
-      "published": "2026-08-19T11:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Open Source"
       ],
       "thumbnail": ""
     }
