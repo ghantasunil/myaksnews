@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-19T10:00:16.123760+00:00",
-    "total_items": 313,
+    "generated_at": "2026-09-20T10:19:51.358828+00:00",
+    "total_items": 300,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,73 @@
     ]
   },
   "items": [
+    {
+      "title": "How to Cut LLM Costs and Latency With Prompt and Response Caching",
+      "link": "https://kodekloud.com/blog/cut-llm-costs-and-latency-with-caching",
+      "summary": "Most people cache the whole prompt, which catches almost nothing because real prompts carry timestamps and request IDs. The fix is four lines, and the clever upgrade after it is a trap.",
+      "published": "2026-09-19T18:10:29+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "AI",
+        "LLM",
+        "Caching",
+        "Cost Optimization",
+        "Latency",
+        "Embeddings",
+        "Python"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "One engineer shipped 2,000 PRs a month to production. Verification is the key.",
+      "link": "https://thenewstack.io/agentic-verification-distributed-systems",
+      "summary": "Lauren Tan, an engineer on the Grok team at SpaceXAI, who previously worked at Cursor and Meta, recently published a The post One engineer shipped 2,000 PRs a month to production. Verification is the key. appeared first on The New Stack .",
+      "published": "2026-09-19T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Arjun Iyer",
+      "categories": [
+        "AI Agents",
+        "Platform Engineering",
+        "Software Testing",
+        "sponsor-signadot",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“Dormant deployments were quietly consuming storage”: Why Vercel tightened its free-tier rules",
+      "link": "https://thenewstack.io/vercel-hobby-deployment-retention",
+      "summary": "Vercel announced this week that teams on its free Hobby plan will now have older, unprotected deployments deleted immediately if The post “Dormant deployments were quietly consuming storage”: Why Vercel tightened its free-tier rules appeared first on The New Stack .",
+      "published": "2026-09-19T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI",
+        "CI/CD",
+        "Cloud Services",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "This week’s news from Zed, Anthropic, and OpenRouter shows why better harnesses matter more than better models",
+      "link": "https://thenewstack.io/ai-agent-harness-economics",
+      "summary": "Our five most-read stories this week covered code collaboration, a model router, a UI change, a benchmark, and a caching The post This week’s news from Zed, Anthropic, and OpenRouter shows why better harnesses matter more than better models appeared first on The New Stack .",
+      "published": "2026-09-19T10:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Matthew Burns",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Claude couldn’t hack OpenAI. Then Anthropic shipped Opus 5.",
       "link": "https://thenewstack.io/claude-exploits-openai-forum",
@@ -4367,261 +4434,6 @@
       "author": "Severin Neumann, Causely",
       "categories": [
         "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Announcing Azure Web PubSub chat in public preview",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-azure-web-pubsub-chat-in-public-preview/ba-p/4548907",
-      "summary": "Chat is becoming a standard interaction model across customer support, collaboration, gaming, marketplaces, healthcare, financial services, and AI-powered applications. But building a production-ready chat system involves much more than opening a WebSocket connection. Teams also need to manage...",
-      "published": "2026-08-21T09:31:22+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "kevinguo",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Learning is different now, and most of us haven't caught up",
-      "link": "https://kodekloud.com/blog/learning-is-different-now-and-most-of-us-havent-caught-up",
-      "summary": "Asking beats searching. What's newly possible when learning tech with AI, what hasn't changed, and how to send your first prompt fast.",
-      "published": "2026-08-21T06:33:35+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "AI",
-        "AI Literacy",
-        "KodeKey"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "GitHub now sees 2.9 billion commits a month — and it can’t keep up",
-      "link": "https://thenewstack.io/github-2-9b-monthly-commits",
-      "summary": "Per month, GitHub now sees 2.9 billion commits, 130 million merged pull requests, and 24 million new repos. Back in The post GitHub now sees 2.9 billion commits a month — and it can’t keep up appeared first on The New Stack .",
-      "published": "2026-08-20T21:37:37+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Operations"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Google’s AI coding agent just escaped its own IDE",
-      "link": "https://thenewstack.io/google-antigravity-ide-extensions",
-      "summary": "When Google launched Antigravity in November 2025, it was on the premise that developers could hand an entire coding task The post Google’s AI coding agent just escaped its own IDE appeared first on The New Stack .",
-      "published": "2026-08-20T20:17:54+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "AI Operations",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Debian just proposed banning AI code. Here’s why it matters for open source developers & maintainers.",
-      "link": "https://thenewstack.io/debian-ai-contribution-ban-debate",
-      "summary": "The board behind open source operating system Debian has tabled proposals for and against the use of LLM-assisted contributions in The post Debian just proposed banning AI code. Here’s why it matters for open source developers & maintainers. appeared first on The New Stack .",
-      "published": "2026-08-20T18:49:42+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI",
-        "Open Source",
-        "Tech Culture"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Slack makes it easier to install agents built with third-party tools",
-      "link": "https://thenewstack.io/add-to-slack-agents",
-      "summary": "Slack on Thursday rolled out Add to Slack, which lets users more easily bring the agents they’ve built with ten The post Slack makes it easier to install agents built with third-party tools appeared first on The New Stack .",
-      "published": "2026-08-20T18:30:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "What Is an AI Copilot and How It Fits Your Workflow",
-      "link": "https://kodekloud.com/blog/what-is-an-ai-copilot-and-how-it-fits-your-workflow",
-      "summary": "Adoption of AI copilots climbed while trust in their output fell, and both numbers are correct. Understanding why explains exactly where a copilot earns its keep and where it quietly costs you time.",
-      "published": "2026-08-20T18:08:35+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "AI",
-        "Agentic AI",
-        "AI-Driven Code",
-        "Copilot",
-        "DevOps",
-        "Cloud",
-        "DORA"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Warp wants to make it easier to build your software factory",
-      "link": "https://thenewstack.io/warp-software-factory-infrastructure",
-      "summary": "On Tuesday, Warp introduced Warp Factories, open infrastructure for building cloud software factories, agentic systems that automate work across the The post Warp wants to make it easier to build your software factory appeared first on The New Stack .",
-      "published": "2026-08-20T17:52:29+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to build smarter OpenSearch alerts: Join our live conversation",
-      "link": "https://thenewstack.io/opensearch-ppl-unified-alerting",
-      "summary": "OpenSearch is a top-level open-source project under the Linux Foundation, backed by Amazon Web Services and other prominent players. The The post How to build smarter OpenSearch alerts: Join our live conversation appeared first on The New Stack .",
-      "published": "2026-08-20T17:40:44+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Charles Humble",
-      "categories": [
-        "Observability",
-        "Open Source",
-        "Platform Engineering",
-        "sponsored-webinar"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenRouter called itself the “Stripe for LLMs” — now Stripe’s swooped in to buy it",
-      "link": "https://thenewstack.io/stripe-acquires-openrouter-tokens",
-      "summary": "After weeks of speculation, fintech giant Stripe has confirmed that it’s tabled a bid for AI model gateway platform OpenRouter, The post OpenRouter called itself the “Stripe for LLMs” — now Stripe’s swooped in to buy it appeared first on The New Stack .",
-      "published": "2026-08-20T17:20:31+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Infrastructure",
-        "FinOps"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Researchers hid an attack inside AES encryption. The AI model cracked it open willingly.",
-      "link": "https://thenewstack.io/encrypted-prompt-injection-grok",
-      "summary": "Security filters are designed to catch malicious instructions before an AI model can act on them. Researchers at AI security The post Researchers hid an attack inside AES encryption. The AI model cracked it open willingly. appeared first on The New Stack .",
-      "published": "2026-08-20T17:15:21+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "AI Models",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Slack has a new channel type — but only agents can create one",
-      "link": "https://thenewstack.io/slack-code-agent-channels",
-      "summary": "Slack on Thursday launched Slack Code, a new kind of Slack channel that’s built for coding agents and the developers The post Slack has a new channel type — but only agents can create one appeared first on The New Stack .",
-      "published": "2026-08-20T16:50:07+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI Agents",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Announcing H1 2027 KCDs",
-      "link": "https://www.cncf.io/blog/2026/08/20/announcing-h1-2027-kcds",
-      "summary": "Get ready to connect, learn, and innovate right in your backyard. Kubernetes Community Days (KCDs) are officially kicking off for H1! Supported by the Cloud Native Computing Foundation (CNCF), these community-organized events bring open source adopters...",
-      "published": "2026-08-20T16:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Helena Spease | Community & Outreach, CNCF",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Stop the token bleed: building token-efficient multi-agent systems",
-      "link": "https://thenewstack.io/building-token-efficient-agents",
-      "summary": "Every engineering team deploying AI agents eventually discovers an uncomfortable truth: the model isn’t the biggest expense. The hidden cost The post Stop the token bleed: building token-efficient multi-agent systems appeared first on The New Stack .",
-      "published": "2026-08-20T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Oladimeji Sowole",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "AI Infrastructure",
-        "sponsor-andela",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“Save frontier models for frontier problems”: Why Korea’s Solar Pro 4 is a workhorse agent reliability play",
-      "link": "https://thenewstack.io/upstage-solar-pro-4",
-      "summary": "South Korean AI model company Upstage AI officially announced the launch of its Solar Pro 4 closed commercial LLM last The post “Save frontier models for frontier problems”: Why Korea’s Solar Pro 4 is a workhorse agent reliability play appeared first on The New Stack .",
-      "published": "2026-08-20T13:11:35+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI Agents",
-        "AI Models",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "German ciphers, telegrams, and cloud native data sovereignty",
-      "link": "https://www.cncf.io/blog/2026/08/20/german-ciphers-telegrams-and-cloud-native-data-sovereignty",
-      "summary": "A lesson from 1917 In January 1917, Germany sent a secret telegram. It went to Mexico. The offer: join the war against the United States, and you can have Texas, Arizona and New Mexico back. The...",
-      "published": "2026-08-20T13:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "James Hirst and Budhaditya Bhattacharya, Tyk",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kubernetes at the edge has hit a wall. Fleet management is the way through.",
-      "link": "https://thenewstack.io/edge-kubernetes-fleet-management",
-      "summary": "Not too long ago, edge computing was seen as a niche use case, limited to telcos, manufacturing plants, and large The post Kubernetes at the edge has hit a wall. Fleet management is the way through. appeared first on The New Stack .",
-      "published": "2026-08-20T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Arvind Bhoj",
-      "categories": [
-        "Edge Computing",
-        "Kubernetes",
-        "Operations",
-        "sponsor-nutanix",
-        "Sponsored",
-        "sponsored-post"
       ],
       "thumbnail": ""
     }
