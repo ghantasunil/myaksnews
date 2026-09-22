@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-21T11:31:46.911763+00:00",
-    "total_items": 294,
+    "generated_at": "2026-09-22T10:38:12.294944+00:00",
+    "total_items": 305,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -21,6 +21,193 @@
   },
   "items": [
     {
+      "title": "What Happens on Terraform Apply",
+      "link": "https://kodekloud.com/blog/what-happens-on-terraform-apply",
+      "summary": "Learn what happens when you run terraform apply: the state file, terraform plan, providers, state locking and drift, explained for interviews.",
+      "published": "2026-09-22T04:56:54+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "Terraform",
+        "Infrastructure as Code",
+        "DevOps Interview"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Scheduling this video for 7 months in the future, 21 Sept 2026 - 1 May 2027",
+      "link": "https://www.youtube.com/watch?v=utqAfjdAy64",
+      "summary": "Raw, unfiltered, unedited version of my next 6 months plan\n\n\n𝗖𝗢𝗠𝗣𝗟𝗘𝗧𝗘 COURSES  👌 It’s   🅵🆁🅴🅴 ⛳\n✅ Terraform Full Course For Beginners - #28daysofAZTerraform\nhttps://www.youtube.com/playlist?list=PLl4APkPHzsUUHlbhuq9V02n9AMLPySoEQ\n\n✅ Certified Kubernetes Administrator (CKA)...",
+      "published": "2026-09-22T02:10:20+00:00",
+      "source": "Piyush Sachdeva",
+      "type": "video",
+      "author": "Tech Tutorials with Piyush",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/utqAfjdAy64/mqdefault.jpg"
+    },
+    {
+      "title": "Grok Build vs. Claude Code: I tested which one has the better memory",
+      "link": "https://thenewstack.io/grok-build-vs-claude-code-memory",
+      "summary": "On September 16, xAI announced memory in Grok Build, its terminal coding agent. The pitch was that Grok “keeps notes The post Grok Build vs. Claude Code: I tested which one has the better memory appeared first on The New Stack .",
+      "published": "2026-09-21T20:04:18+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jessica Wachtel",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "TypeSafe launched Jev because sequential LLMs are “totally useless for computers”",
+      "link": "https://thenewstack.io/typesafe-jev-system-one",
+      "summary": "When TypeSafe emerged last week after two years in stealth, backed by $40 million in seed funding led by DCVC, The post TypeSafe launched Jev because sequential LLMs are “totally useless for computers” appeared first on The New Stack .",
+      "published": "2026-09-21T19:36:29+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Models",
+        "Developer tools",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Your AI agent is burning tokens on choices that don’t need words",
+      "link": "https://thenewstack.io/kev-skips-text-generation",
+      "summary": "AI agents spend a ridiculous amount of compute generating text nobody actually needs. The decisions an agent makes along the The post Your AI agent is burning tokens on choices that don’t need words appeared first on The New Stack .",
+      "published": "2026-09-21T19:13:46+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Grok 4.7 was built to work for hours. It still fails most of the time.",
+      "link": "https://thenewstack.io/grok-4-7-agent-stamina",
+      "summary": "A coding agent running for hours can make dozens of decisions as it edits files, runs tests, and works through The post Grok 4.7 was built to work for hours. It still fails most of the time. appeared first on The New Stack .",
+      "published": "2026-09-21T19:13:23+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Models",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AWS open-sources an AI agent it says is 45% cheaper than Claude Code and Codex",
+      "link": "https://thenewstack.io/aws-strands-harness-agent",
+      "summary": "Amazon Web Services (AWS) is lifting the lid on a new open source, general-purpose AI agent, designed to give developers The post AWS open-sources an AI agent it says is 45% cheaper than Claude Code and Codex appeared first on The New Stack .",
+      "published": "2026-09-21T18:30:16+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Cloud Services",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta)",
+      "link": "https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time",
+      "summary": "Kubernetes v1.37 promotes the PersistentVolumeClaimUnusedSinceTime feature gate to Beta (enabled by\ndefault). With this feature, the PersistentVolumeClaim (PVC) protection controller adds an Unused condition to each PVC, telling you whether any running pod currently references it — no...",
+      "published": "2026-09-21T18:30:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenObserve 1.0 tutorial: Kubernetes Observability + AI",
+      "link": "https://www.youtube.com/watch?v=FHp8dbUcu0A",
+      "summary": "Learn OpenObserve 1.0 hands-on: Kubernetes observability, logs, metrics, traces, dashboards, and AI-assisted troubleshooting with Claude Code.\n\nI start with a single binary on my Mac, collect macOS telemetry with the OpenTelemetry Collector, and connect a three-node Kubernetes cluster to the same...",
+      "published": "2026-09-21T17:26:22+00:00",
+      "source": "Kubesimplify",
+      "type": "video",
+      "author": "Kubesimplify",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/FHp8dbUcu0A/mqdefault.jpg"
+    },
+    {
+      "title": "Virtual nodes on Azure Container Instances: a new compute layer for AKS",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/virtual-nodes-on-azure-container-instances-a-new-compute-layer/ba-p/4558080",
+      "summary": "Meet virtual nodes on ACI Azure Kubernetes Service (AKS) gives you managed Kubernetes: the full Kubernetes API without operating the control plane yourself. Virtual nodes on Azure Container Instances go a step further, letting your pods run directly on Azure's serverless container platform, with...",
+      "published": "2026-09-21T16:44:41+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "hailukassa",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Day-1 | AI Agent Zero to Hero | Getting started",
+      "link": "https://www.youtube.com/watch?v=QE-jDKvh4yU",
+      "summary": "Create your FREE account:\nhttps://fandf.co/46pq5QJ\n\nThis is the very first episode of Building an AI Agent Zero to Hero using Gemini Enterprise Agent Platform, In this video you will learn the real challenges with moving a prototype or an AI Agent running on your local machine to production.\n\nYou...",
+      "published": "2026-09-21T16:15:56+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/QE-jDKvh4yU/mqdefault.jpg"
+    },
+    {
+      "title": "How Kafka Works",
+      "link": "https://kodekloud.com/blog/how-kafka-works-topics-partitions-offsets",
+      "summary": "Learn how Kafka works and why every backend uses it: producers, consumers, topics, partitions and offsets explained with a checkout example.",
+      "published": "2026-09-21T16:14:32+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "Kafka",
+        "Event Streaming",
+        "system design"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Elasticsearch Vector Database on Azure: semantic search and RAG without managing a cluster",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/elasticsearch-vector-database-on-azure-semantic-search-and-rag/ba-p/4558647",
+      "summary": "With Elasticsearch Vector Database , Elastic's new serverless offering for vector workloads, Azure customers can build semantic search, retrieval-augmented generation (RAG), and agent-powered experiences. Azure Native Integrations make it easy to discover, deploy, and manage the resource through...",
+      "published": "2026-09-21T13:34:07+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "piyush05",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "What Happens If the Kubernetes API Server Goes Down",
+      "link": "https://kodekloud.com/blog/kubernetes-api-server-failure",
+      "summary": "Learn what happens when the Kubernetes API server goes down: why pods keep serving traffic and how the control plane and data plane differ.",
+      "published": "2026-09-21T12:52:02+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "Kubernetes",
+        "Kubernetes architecture",
+        "Control Plane"
+      ],
+      "thumbnail": ""
+    },
+    {
       "title": "Succeeding with AI",
       "link": "https://www.youtube.com/watch?v=uZXLN2Nx94w",
       "summary": "What I've learnt over a lot of customer and Microsoft's own AI ambition.\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:23 - AI adoption\n01:32 - Where can AI drive benefit\n08:49 - What makes a good AI initiative\n17:47 - Human and AI\n18:44 - Where do we get stuck\n22:21 - Rethinking our...",
@@ -30,6 +217,17 @@
       "author": "John Savill's Technical Training",
       "categories": [],
       "thumbnail": "https://i.ytimg.com/vi/uZXLN2Nx94w/mqdefault.jpg"
+    },
+    {
+      "title": "Free Claude Code Alternative That Cuts Your AI Coding Costs (kimchi.dev)",
+      "link": "https://www.youtube.com/watch?v=WsSwYz4_PJU",
+      "summary": "Kimchi is an AI coding agent that cuts what you spend on AI coding every day, and you can start on the free tier without a card. For developers who already pay for Claude Code, Codex or Cursor and are tired of paying frontier model prices for boilerplate.\n\nThis video is sponsored by Kimchi....",
+      "published": "2026-09-21T09:43:02+00:00",
+      "source": "Piyush Sachdeva",
+      "type": "video",
+      "author": "Tech Tutorials with Piyush",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/WsSwYz4_PJU/mqdefault.jpg"
     },
     {
       "title": "Incident Management in DevOps: The Hardest Part Is Not the Fix",
@@ -3720,6 +3918,17 @@
       "thumbnail": ""
     },
     {
+      "title": "Stop restricting the agent. Start restricting its environment.",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/stop-restricting-the-agent-start-restricting-its-environment/ba-p/4548726",
+      "summary": "Thanks to visagarwal​ for co-authoring this post. Cross-posted from: https://commandline.microsoft.com/azure-sre-agent-restricting-environment-ai-safety/ Azure SRE Agent gives an LLM tools, a code execution environment, and access to production resources. The first question most people ask is: “How...",
+      "published": "2026-08-26T18:48:33+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "sanchitmehta",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
       "title": "Understanding PyTorch Autograd by Writing a Custom Training Loop",
       "link": "https://kodekloud.com/blog/pytorch-autograd-explained",
       "summary": "You have been calling loss.backward() without knowing what it does, and that is why gradient bugs feel like magic. This walkthrough opens up autograd with real printed output, so the rules stop being things you memorise and start being things you can reason about.",
@@ -4270,86 +4479,6 @@
         "DevOps",
         "Security",
         "sponsor-env-zero",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to Schedule a Reboot in Linux (Even 3 Days From Now)",
-      "link": "https://kodekloud.com/blog/schedule-a-reboot-in-linux",
-      "summary": "Schedule a reboot in Linux with the shutdown command: an exact time within 24 hours, +minutes for days ahead, and -c to cancel. Real outputs.",
-      "published": "2026-08-23T04:38:37+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "Linux"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Build Your First Neural Network in PyTorch to Classify Handwritten Digits",
-      "link": "https://kodekloud.com/blog/build-your-first-neural-network-in-pytorch-to-classify-handwritten-digits",
-      "summary": "Everyone tells you to start with PyTorch, then hands you a wall of theory. This walkthrough skips it. In about twenty minutes you train a real network to read handwritten digits, and every number you see was measured, not estimated.",
-      "published": "2026-08-22T18:00:06+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "pytorch",
-        "AI",
-        "Machine Learning",
-        "Python"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The open mainframe: the keystone of the end-to-end digital enterprise",
-      "link": "https://thenewstack.io/open-mainframe-keystone-enterprise",
-      "summary": "In the first article in this series, I discussed how the Open Mainframe Project (OMP) and its open-source framework, Zowe, The post The open mainframe: the keystone of the end-to-end digital enterprise appeared first on The New Stack .",
-      "published": "2026-08-22T17:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jason Bloomberg",
-      "categories": [
-        "DevOps",
-        "Open Source",
-        "Platform Engineering",
-        "sponsor-broadcom",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Securing sandboxes: What happens when AI agents escape containment?",
-      "link": "https://thenewstack.io/securing-ai-agent-sandboxes",
-      "summary": "On July 16, the team at Hugging Face noticed something weird moving through their production systems: An intruder that was The post Securing sandboxes: What happens when AI agents escape containment? appeared first on The New Stack .",
-      "published": "2026-08-22T16:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Zeen Rachidi",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Security",
-        "sponsor-env-zero",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Six identity capabilities for securing autonomous AI agents",
-      "link": "https://thenewstack.io/securing-autonomous-ai-agents",
-      "summary": "The artificial intelligence landscape has reached a pivotal inflection point. Over the past several years, the paradigm has shifted from The post Six identity capabilities for securing autonomous AI agents appeared first on The New Stack .",
-      "published": "2026-08-22T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Ory Team",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Security",
-        "sponsor-ory",
         "sponsored-post-contributed"
       ],
       "thumbnail": ""
