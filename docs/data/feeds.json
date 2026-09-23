@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-22T10:38:12.294944+00:00",
-    "total_items": 305,
+    "generated_at": "2026-09-23T10:31:07.169891+00:00",
+    "total_items": 316,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,197 @@
     ]
   },
   "items": [
+    {
+      "title": "Run and scale AI applications on AKS – the latest product innovations",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/run-and-scale-ai-applications-on-aks-the-latest-product/ba-p/4559103",
+      "summary": "AI changed what teams ask of Kubernetes. Workloads today are more than a stateless web tier, they are an inference service with an expensive GPU behind it, an agent that behaves unpredictably, and a data path that shifts from dataset throughput to checkpoint durability to serving latency as the...",
+      "published": "2026-09-22T20:17:22+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Nate_Waters",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Connect Azure Functions to more services with managed connectors",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/connect-azure-functions-to-more-services-with-managed-connectors/ba-p/4558711",
+      "summary": "Azure Functions can already connect to many Azure services through triggers and bindings. With managed connectors, your functions can access about 1,700 connectors across services such as Microsoft 365, Microsoft Teams, Dataverse, SharePoint, OneDrive , and third-party systems. Connector triggers...",
+      "published": "2026-09-22T19:51:43+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "lily-ma",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Claude Opus 5.5 wants to finish your coding tasks, not just start them",
+      "link": "https://thenewstack.io/claude-opus-5-5-lifecycle",
+      "summary": "Anthropic wants developers to use Claude and its family of tools to handle complete coding tasks. The company introduced Claude The post Claude Opus 5.5 wants to finish your coding tasks, not just start them appeared first on The New Stack .",
+      "published": "2026-09-22T19:49:55+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Infrastructure",
+        "AI Models",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "GPT-6 Sol closes most of the alignment gap with Astra. It’s one-fifth the price.",
+      "link": "https://thenewstack.io/gpt-sol-alignment-gaps",
+      "summary": "On Tuesday, OpenAI released GPT-6 Sol and Luna, an expansion of the GPT-6 line-up that aims to make GPT-6 Astra’s The post GPT-6 Sol closes most of the alignment gap with Astra. It’s one-fifth the price. appeared first on The New Stack .",
+      "published": "2026-09-22T19:28:42+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“One of the most significant steps in our 26-year history”: JetBrains goes big on agentic development — and bets the IDE still matters",
+      "link": "https://thenewstack.io/jetbrains-air-agents-ide",
+      "summary": "There’s little question that AI coding agents have changed where software development work happens. Developers can increasingly delegate work from The post “One of the most significant steps in our 26-year history”: JetBrains goes big on agentic development — and bets the IDE still matters appeared...",
+      "published": "2026-09-22T18:27:37+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Strategy",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How to Summarize a Document That Is Longer Than the Context Window",
+      "link": "https://kodekloud.com/blog/summarize-document-longer-than-context-window",
+      "summary": "A model can only summarize what it can see, and a long document is often cut short before the model ever reads it. Here is how to notice that, and three ways to summarize the whole thing.",
+      "published": "2026-09-22T18:00:43+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "AI",
+        "LLM",
+        "Summarization",
+        "Context Window",
+        "Ollama",
+        "Context Engineering",
+        "RAG"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI releases GPT-6 Sol and Luna — and cuts token prices in half",
+      "link": "https://thenewstack.io/openai-gpt-6-sol-luna-release",
+      "summary": "OpenAI on Tuesday released GPT-6 Sol and Luna, which will complement the flagship GPT-6 Astra model in OpenAI’s lineup. As The post OpenAI releases GPT-6 Sol and Luna — and cuts token prices in half appeared first on The New Stack .",
+      "published": "2026-09-22T18:00:02+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Engineering",
+        "AI Models",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Spotlight on SIG Apps",
+      "link": "https://kubernetes.io/blog/2026/09/22/sig-apps-spotlight",
+      "summary": "As Kubernetes adoption has grown, the conversation has shifted beyond running containers to managing increasingly complex application lifecycles. Modern platforms support stateless web services, stateful databases, batch processing, AI workloads, and platform services. At the same time, they must...",
+      "published": "2026-09-22T18:00:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Claude’s merged chat and Cowork vs. ChatGPT’s Work mode: ChatGPT is faster, Claude is more thorough",
+      "link": "https://thenewstack.io/claude-cowork-vs-chatgpt-work-benchmark",
+      "summary": "When Anthropic merged Claude chat and Cowork into a single interface last week, it removed an increasingly irrelevant decision users The post Claude’s merged chat and Cowork vs. ChatGPT’s Work mode: ChatGPT is faster, Claude is more thorough appeared first on The New Stack .",
+      "published": "2026-09-22T17:45:46+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jessica Wachtel",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic releases Opus 5.5 and cuts pricing by 20%. Your agent calls might secretly get routed to an older model.",
+      "link": "https://thenewstack.io/claude-opus-5-5-release",
+      "summary": "Claude Opus 5.5 is here, and Anthropic has lowered the price. The new model, released on Tuesday, costs $4 per The post Anthropic releases Opus 5.5 and cuts pricing by 20%. Your agent calls might secretly get routed to an older model. appeared first on The New Stack .",
+      "published": "2026-09-22T16:30:15+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The cloud reduced operational complexity. But many teams need someone to own it completely.",
+      "link": "https://thenewstack.io/elastic-beanstalk-operational-ownership",
+      "summary": "For companies running serious production workloads with lean engineering teams, the real test of operational ownership comes at 3 a.m. The post The cloud reduced operational complexity. But many teams need someone to own it completely. appeared first on The New Stack .",
+      "published": "2026-09-22T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Sabari Sawant",
+      "categories": [
+        "Cloud Services",
+        "Operations",
+        "Platform Engineering",
+        "sponsor-aws-marketplace",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "From attendee badge to speaker badge: My first KubeCon at KubeCon + CloudNativeCon India 2026",
+      "link": "https://www.cncf.io/blog/2026/09/22/from-attendee-badge-to-speaker-badge-my-first-kubecon-at-kubecon-cloudnativecon-india-2026",
+      "summary": "There is something surreal about your first KubeCon being one where you walk onto the stage as a speaker. Most people ease into this community by attending a few conferences, lurking in hallway tracks, and working...",
+      "published": "2026-09-22T13:34:05+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Shreyas Mocherl, CNCF Kubestronaut and Software Engineer at Nirmata",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI coding agents need a secrets-safe context boundary",
+      "link": "https://thenewstack.io/ai-agent-context-boundary",
+      "summary": "AI coding agents play a major role in software development and delivery, and for good reason. They can investigate bugs, The post AI coding agents need a secrets-safe context boundary appeared first on The New Stack .",
+      "published": "2026-09-22T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Taylor Luttrell-Williams",
+      "categories": [
+        "AI Agents",
+        "Developer tools",
+        "Security",
+        "sponsor-sonarsource",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "What Happens on Terraform Apply",
       "link": "https://kodekloud.com/blog/what-happens-on-terraform-apply",
@@ -4446,40 +4637,6 @@
       "author": "Santosh Balaranganathan, Michael Yoo, James Moessis, James Kieltyka, Jason Lee, Lavender Neesham - Atlassian",
       "categories": [
         "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why real-time AI at scale is so hard",
-      "link": "https://thenewstack.io/real-time-ai-scale",
-      "summary": "Real-time AI at scale is harder than it looks. Pipelines that hum along in development routinely hit problems in production. The post Why real-time AI at scale is so hard appeared first on The New Stack .",
-      "published": "2026-08-23T16:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Felipe Cardeneti Mendes",
-      "categories": [
-        "AI Infrastructure",
-        "AI Operations",
-        "Databases",
-        "sponsor-scylladb",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "One pull to wipe them all",
-      "link": "https://thenewstack.io/ai-coding-agent-security",
-      "summary": "Q Developer is a free extension that lets a coding agent read a project, propose changes, and run commands on The post One pull to wipe them all appeared first on The New Stack .",
-      "published": "2026-08-23T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Zeen Rachidi",
-      "categories": [
-        "AI Agents",
-        "DevOps",
-        "Security",
-        "sponsor-env-zero",
-        "sponsored-post-contributed"
       ],
       "thumbnail": ""
     }
