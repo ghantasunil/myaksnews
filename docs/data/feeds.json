@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-23T10:31:07.169891+00:00",
-    "total_items": 316,
+    "generated_at": "2026-09-24T10:48:23.925568+00:00",
+    "total_items": 321,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,268 @@
     ]
   },
   "items": [
+    {
+      "title": "Designing a Background Job Processing System, And Where It Breaks",
+      "link": "https://kodekloud.com/blog/build-background-job-queue",
+      "summary": "Build a reliable background job queue using transactional outboxes, visibility timeouts, idempotent workers, retries, and dead letter queues.",
+      "published": "2026-09-24T09:55:39+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "system design",
+        "Message Queues",
+        "Background Jobs"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure Container Apps Sandboxes, Now Generally Available",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-container-apps-sandboxes-now-generally-available/ba-p/4559125",
+      "summary": "Agents Act. You Set the Limits. Your platform needs to run untrusted code. Agents choose actions at runtime, from installing packages to calling APIs. In a multi-tenant service, you have to support both without letting one customer's code reach another customer's data. That requires an execution...",
+      "published": "2026-09-23T23:33:57+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Jan-Kalis",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Q.ANT gives away the software for its light-powered AI chips in a CUDA-style bet on developers",
+      "link": "https://thenewstack.io/q-ant-open-sources-cuda",
+      "summary": "Q.ANT, a startup out of Stuttgart, Germany, builds processors that use light instead of electricity to do some of the The post Q.ANT gives away the software for its light-powered AI chips in a CUDA-style bet on developers appeared first on The New Stack .",
+      "published": "2026-09-23T22:23:45+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Matthew Burns",
+      "categories": [
+        "AI Infrastructure",
+        "Hardware"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“Impressive level of openness”: Xiaomi goes way beyond the usual open-weight playbook with MiMo-V2.6",
+      "link": "https://thenewstack.io/xiaomi-mimo-vs-6-open-source",
+      "summary": "New models are coming out thick and fast, almost on a weekly cadence, ranging from the powerful proprietary systems coming The post “Impressive level of openness”: Xiaomi goes way beyond the usual open-weight playbook with MiMo-V2.6 appeared first on The New Stack .",
+      "published": "2026-09-23T20:00:12+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Models",
+        "Large Language Models",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "A third option is emerging in the fight over AI and your data",
+      "link": "https://thenewstack.io/vast-dataenclave-confidential-computing",
+      "summary": "Not your keys, not your coins. Not your model, not your data? Over the summer, the tech industry was consumed The post A third option is emerging in the fight over AI and your data appeared first on The New Stack .",
+      "published": "2026-09-23T19:31:42+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Alex Wilhelm",
+      "categories": [
+        "AI Infrastructure",
+        "Large Language Models",
+        "Security",
+        "Podcast",
+        "sponsor-vast-data",
+        "Sponsored",
+        "sponsored-podcast",
+        "Video"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Hermes Agent for DevOps, the Open Source Agent That Lives on Your Server",
+      "link": "https://kodekloud.com/blog/hermes-agent-for-devops-self-hosted-ai-agent",
+      "summary": "An AI agent that runs on your server, remembers past actions, and executes scheduled jobs unattended can be incredibly useful. It can also introduce real risks. Here’s how to build one that delivers the benefits without giving up control.",
+      "published": "2026-09-23T18:00:27+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "Hermes",
+        "Hermes Agent",
+        "AI Agents",
+        "DevOps AI Agent",
+        "DevOps",
+        "AI",
+        "Platform Engineering",
+        "Automation",
+        "Open Source",
+        "AI Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Jensen Huang says the junior developer problem ends in two years. Here’s his math.",
+      "link": "https://thenewstack.io/huang-ai-agents-engineers",
+      "summary": "Nvidia CEO Jensen Huang has heard the forecast that agents would write 90% of all software by now, and he The post Jensen Huang says the junior developer problem ends in two years. Here’s his math. appeared first on The New Stack .",
+      "published": "2026-09-23T16:55:30+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Tech Careers"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Amazon blocked Meta’s Muse. Then Shopify wired it into every store.",
+      "link": "https://thenewstack.io/amazon-meta-muse-block",
+      "summary": "Amazon started blocking Meta’s Muse from browsing and buying on Amazon.com on Sunday, roughly two weeks after the personal agent The post Amazon blocked Meta’s Muse. Then Shopify wired it into every store. appeared first on The New Stack .",
+      "published": "2026-09-23T16:39:15+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Janakiram MSV",
+      "categories": [
+        "AI Agents",
+        "API Management",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Day-2 | AI Agent Zero to Hero | Building the Agent",
+      "link": "https://www.youtube.com/watch?v=xl4C7pQHgJE",
+      "summary": "Create your FREE account:\nhttps://fandf.co/46pq5QJ\n\nThis is the very second episode of Building an AI Agent Zero to Hero using Gemini Enterprise Agent Platform, In this video you will learn how to build an AI Agent using Agents CLI and Google ADK.\n\nFollow the complete series in...",
+      "published": "2026-09-23T16:31:05+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/xl4C7pQHgJE/mqdefault.jpg"
+    },
+    {
+      "title": "How confidential AI splits control between data and model owners — and opens new opportunities for both",
+      "link": "https://thenewstack.io/confidential-ai-sensitive-enterprise-data",
+      "summary": "Most people already understand what generative AI can do. But enterprises run into problems when they need to give a The post How confidential AI splits control between data and model owners — and opens new opportunities for both appeared first on The New Stack .",
+      "published": "2026-09-23T16:15:17+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Megan Carnegie",
+      "categories": [
+        "AI Infrastructure",
+        "Data",
+        "Security",
+        "sponsor-vast-data",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure Container Apps Express is now Generally Available",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-container-apps-express-is-now-generally-available/ba-p/4559101",
+      "summary": "For many web apps and APIs, a container image should be enough to get started. Developers should not have to choose and configure an environment before the first deployment. Today, Azure Container Apps Express reaches general availability. It is the fastest way to go from a container image to a...",
+      "published": "2026-09-23T15:33:53+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "simonjj",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Which hat am I wearing right now?",
+      "link": "https://www.cncf.io/blog/2026/09/23/which-hat-am-i-wearing-right-now",
+      "summary": "Neutrality is quietly the hardest part of open source. It gets tricky the moment someone pays your salary — and staying honest about it takes more effort than anyone admits. Here’s something we don’t say out...",
+      "published": "2026-09-23T14:47:15+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Mario Fahlandt, CNCF Ambassador",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The software supply chain is the new battlefield. AI just changed the rules.",
+      "link": "https://thenewstack.io/ai-supply-chain-security",
+      "summary": "AI coding tools have seriously accelerated developer speed, but AI has also done the same for attackers — and the The post The software supply chain is the new battlefield. AI just changed the rules. appeared first on The New Stack .",
+      "published": "2026-09-23T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Carly Page",
+      "categories": [
+        "AI Agents",
+        "Open Source",
+        "Security",
+        "sponsor-chainguard",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Vulnerability alert fatigue nearly swamped WHOOP. But its fix still keeps a human in charge.",
+      "link": "https://thenewstack.io/whoop-automated-vulnerability-response-workflow",
+      "summary": "With often hundreds of thousands of alerts a day, many tech organizations are buried in vulnerabilities and worn down by The post Vulnerability alert fatigue nearly swamped WHOOP. But its fix still keeps a human in charge. appeared first on The New Stack .",
+      "published": "2026-09-23T13:23:43+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jennifer Riggins",
+      "categories": [
+        "AI Engineering",
+        "AI Operations",
+        "DevOps",
+        "Platform Engineering",
+        "sponsor-datadog",
+        "sponsored-webinar"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI spending can run negative. Qodo’s CEO built an ROI equation to fix it.",
+      "link": "https://thenewstack.io/qodo-ai-roi-equation",
+      "summary": "Flush with the proceeds of a $70 million Series B raised earlier this year, you might expect Qodo to spend The post AI spending can run negative. Qodo’s CEO built an ROI equation to fix it. appeared first on The New Stack .",
+      "published": "2026-09-23T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Alex Wilhelm",
+      "categories": [
+        "AI Engineering",
+        "AI Strategy",
+        "FinOps"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic made Opus 5.5 cheaper. Then it broke four things your agent depends on.",
+      "link": "https://thenewstack.io/claude-opus-agent-migration",
+      "summary": "Anthropic made Claude Opus 5.5, released on Tuesday, cheaper than its predecessor, cutting the price from $5 to $4 per The post Anthropic made Opus 5.5 cheaper. Then it broke four things your agent depends on. appeared first on The New Stack .",
+      "published": "2026-09-23T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI cut GPT-6 token prices in half. The bigger lever may be the cache.",
+      "link": "https://thenewstack.io/openai-prompt-caching-costs",
+      "summary": "OpenAI released GPT-6 Sol and Luna on Tuesday, essentially more affordable versions of GPT-6 Astra that come closer to Astra The post OpenAI cut GPT-6 token prices in half. The bigger lever may be the cache. appeared first on The New Stack .",
+      "published": "2026-09-23T11:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "FinOps"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Run and scale AI applications on AKS – the latest product innovations",
       "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/run-and-scale-ai-applications-on-aks-the-latest-product/ba-p/4559103",
@@ -4466,175 +4728,6 @@
       "source": "CNCF Blog",
       "type": "article",
       "author": "Joep Piscaer, Portainer.io",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to actually practise for a Claude certification",
-      "link": "https://kodekloud.com/blog/how-to-actually-practise-for-a-claude-certification",
-      "summary": "Reading won't pass the Claude certification exams. Here's a three-move study loop you can run on any syllabus topic - in about an hour.",
-      "published": "2026-08-25T04:52:35+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "Claude AI",
-        "claude certified",
-        "KodeKey"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to Use htop to Find What's Slowing Your Linux Server",
-      "link": "https://kodekloud.com/blog/how-to-use-htop",
-      "summary": "How to use htop to find the process eating your CPU, RAM, or disk: install it, read the sort, and kill with SIGTERM before SIGKILL. Real steps.",
-      "published": "2026-08-25T03:46:34+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "Linux"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "JetBrains’ Junie now runs entirely offline. Can you spare a 64 GB M5 Mac?",
-      "link": "https://thenewstack.io/jetbrains-junie-local-agent",
-      "summary": "While most AI coding tools default to cloud-hosted models, local model runtimes have become a viable alternative for developers who The post JetBrains’ Junie now runs entirely offline. Can you spare a 64 GB M5 Mac? appeared first on The New Stack .",
-      "published": "2026-08-24T20:56:41+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Models",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Ox Alpha’s real mystery isn’t who built it",
-      "link": "https://thenewstack.io/ox-alpha-privacy-terms",
-      "summary": "Everybody wants to know who built Ox Alpha. But developers using the anonymous coding model with their own private code The post Ox Alpha’s real mystery isn’t who built it appeared first on The New Stack .",
-      "published": "2026-08-24T19:55:47+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Janakiram MSV",
-      "categories": [
-        "AI Models",
-        "Compliance",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic’s Playground vs. OpenAI’s: The week-old tool beat the six-year incumbent",
-      "link": "https://thenewstack.io/anthropic-openai-playground-comparison",
-      "summary": "On August 18, Anthropic replaced its Workbench, the prompt-testing tool in its developer Console, with Playground. Anthropic did more than The post Anthropic’s Playground vs. OpenAI’s: The week-old tool beat the six-year incumbent appeared first on The New Stack .",
-      "published": "2026-08-24T19:30:57+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jessica Wachtel",
-      "categories": [
-        "AI Engineering",
-        "AI Models",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Grok Bot vs. Hermes: Where each draws the security boundary",
-      "link": "https://thenewstack.io/ai-agent-security-boundaries",
-      "summary": "Put several AI bots to work, and a mistake by one may not stay within its assigned task. For example, The post Grok Bot vs. Hermes: Where each draws the security boundary appeared first on The New Stack .",
-      "published": "2026-08-24T17:39:15+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Janakiram MSV",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to Build Linear Regression From Scratch Using PyTorch Tensors",
-      "link": "https://kodekloud.com/blog/how-to-build-linear-regression-from-scratch-using-pytorch-tensors",
-      "summary": "Most PyTorch tutorials hand you nn.Linear and move on, which hides the part that actually matters. Here you build regression with nothing but raw tensors, and you meet the silent broadcasting bug that makes a model quietly learn the wrong thing.",
-      "published": "2026-08-24T17:30:18+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "pytorch",
-        "Machine Learning",
-        "Deep Learning",
-        "Tensors",
-        "Linear Regression",
-        "Gradient Descent",
-        "Python"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Microsoft launched 7 AI models that are smaller and faster",
-      "link": "https://www.youtube.com/watch?v=GRMV4UOvvQw",
-      "summary": "Getting started with MAI Models:\nhttps://fandf.co/4hEEYFM \n\nMicrosoft’s new MAI models are built with a clear focus: lighter, faster, and more efficient AI.\n\nInstead of simply chasing bigger models, Microsoft is exploring AI that can deliver strong performance with a smaller footprint. This could...",
-      "published": "2026-08-24T16:13:32+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/GRMV4UOvvQw/mqdefault.jpg"
-    },
-    {
-      "title": "MVP Spotlight: Richard Hooper on AKS Service mesh, Multi-cluster management and Open source",
-      "link": "https://www.youtube.com/watch?v=a2AGre13fkY",
-      "summary": "Join Jorge Arteiro as he talks to Richard Hooper about Azure Kubernetes Service (AKS). They discuss various topics such as Service Mesh, multi-cluster management & open source projects and community contributions.\nRichard is commonly known by his handle @pixel_robots and has authored AKS books and...",
-      "published": "2026-08-24T15:00:17+00:00",
-      "source": "AKS (Official)",
-      "type": "video",
-      "author": "Azure Kubernetes Service (AKS)",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/a2AGre13fkY/mqdefault.jpg"
-    },
-    {
-      "title": "Project Perception - Cybersecurity at the speed of AI",
-      "link": "https://www.youtube.com/watch?v=hYjgSu-77pA",
-      "summary": "Overview and demo of Project Perception!\n\nWhiteboard at https://github.com/johnthebrit/RandomStuff/raw/master/Whiteboards/Perception.png\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 -...",
-      "published": "2026-08-24T14:40:44+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/hYjgSu-77pA/mqdefault.jpg"
-    },
-    {
-      "title": "Thomson Reuters trained its own AI model. Then it kept using Anthropic’s anyway.",
-      "link": "https://thenewstack.io/thomson-reuters-ai-model",
-      "summary": "Thomson Reuters has developed its own AI model for legal, tax and compliance work, trained on the company’s proprietary professional The post Thomson Reuters trained its own AI model. Then it kept using Anthropic’s anyway. appeared first on The New Stack .",
-      "published": "2026-08-24T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Engineering",
-        "AI Models",
-        "AI Strategy"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Automating root cause analysis at scale: Multi-signal correlation for cloud native incident response",
-      "link": "https://www.cncf.io/blog/2026/08/24/automating-root-cause-analysis-at-scale-multi-signal-correlation-for-cloud-native-incident-response",
-      "summary": "The problem: Humans shouldn’t be correlation engines At Atlassian’s scale, hundreds of interconnected microservices distributed across multiple regions mean a production incident generates an overwhelming volume of telemetry. The problem is that finding the causal factor...",
-      "published": "2026-08-24T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Santosh Balaranganathan, Michael Yoo, James Moessis, James Kieltyka, Jason Lee, Lavender Neesham - Atlassian",
       "categories": [
         "Blog"
       ],
