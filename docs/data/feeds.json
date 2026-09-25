@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-24T10:48:23.925568+00:00",
-    "total_items": 321,
+    "generated_at": "2026-09-25T10:52:16.178797+00:00",
+    "total_items": 317,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,197 @@
     ]
   },
   "items": [
+    {
+      "title": "Getting the best out of Azure SRE Agent",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/getting-the-best-out-of-azure-sre-agent/ba-p/4559745",
+      "summary": "A common question that we get from our customers is \"Hey guys, we are excited about SRE agent and we 've created one but whats the best way to configure it?\" . The below guide aims at sharing some of the best practices that anyone can follow to make the most out of our SRE Agent. This guide is...",
+      "published": "2026-09-24T20:24:01+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "puneetguptams",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI’s agent had a routine task. It breached a government portal.",
+      "link": "https://thenewstack.io/ai-agents-probe-vulnerabilities",
+      "summary": "An OpenAI agent researching public medicine spending bypassed security blocks and gained unauthorized access to public and non-public files on The post OpenAI’s agent had a routine task. It breached a government portal. appeared first on The New Stack .",
+      "published": "2026-09-24T19:16:28+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Docker Best Practices for Building and Running Production Containers",
+      "link": "https://kodekloud.com/blog/docker-best-practices-for-building-and-running-production-containers",
+      "summary": "Most production container problems are decided in about fifteen lines of Dockerfile. Here is what to put in them, why each line is there, and what breaks when it is missing.",
+      "published": "2026-09-24T18:00:39+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "Docker",
+        "Containers",
+        "DevOps",
+        "Kubernetes",
+        "Platform Engineering",
+        "Dockerfile",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How a forgotten node can put Oracle Java back in production",
+      "link": "https://thenewstack.io/azul-ai-assistant-java-risk",
+      "summary": "Enterprise Java company Azul announced its Azul Intelligence Cloud AI Assistant on Wednesday. The technology arrives in response to industry-wide The post How a forgotten node can put Oracle Java back in production appeared first on The New Stack .",
+      "published": "2026-09-24T17:50:35+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "DevOps",
+        "Java",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Developers and platform teams both want Kubernetes self-service. They disagree on who owns it.",
+      "link": "https://thenewstack.io/kubernetes-self-service-platform-teams",
+      "summary": "What do developers want? Kubernetes environments when they need them. What do they not want? Those environments after a week The post Developers and platform teams both want Kubernetes self-service. They disagree on who owns it. appeared first on The New Stack .",
+      "published": "2026-09-24T16:06:27+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Chris J. Preimesberger",
+      "categories": [
+        "DevOps",
+        "Kubecon Cloudnativecon NA 2026",
+        "Kubernetes",
+        "Platform Engineering",
+        "Road to KubeCon",
+        "sponsor-hpe",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Google’s Gemini CLI now asks before editing your build files",
+      "link": "https://thenewstack.io/gemini-cli-prompt-injection-safeguards",
+      "summary": "The appeal of an autonomous coding agent is that you hand it a task, give it access to your repository The post Google’s Gemini CLI now asks before editing your build files appeared first on The New Stack .",
+      "published": "2026-09-24T14:27:27+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "Developer tools",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI makes you call sales for a custom voice. Google just made it self-serve.",
+      "link": "https://thenewstack.io/gemini-tts-voice-replication-api",
+      "summary": "Google released Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS today through the Gemini API and Google AI Studio. The post OpenAI makes you call sales for a custom voice. Google just made it self-serve. appeared first on The New Stack .",
+      "published": "2026-09-24T13:20:11+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Engineering",
+        "AI Models",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "What managing 150,000 AI agents could look like for database teams",
+      "link": "https://thenewstack.io/ai-agents-database-administrators",
+      "summary": "The database administrator of the future will spend considerably less time administering databases. That sounds contradictory, but AI agents are The post What managing 150,000 AI agents could look like for database teams appeared first on The New Stack .",
+      "published": "2026-09-24T13:11:55+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Carly Page",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Databases",
+        "sponsor-yugabyte",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Query decomposition doesn’t fix context starvation — it just moves it",
+      "link": "https://thenewstack.io/query-decomposition-context-starvation",
+      "summary": "I have a small example that would best communicate the message I am trying to convey: say you built a The post Query decomposition doesn’t fix context starvation — it just moves it appeared first on The New Stack .",
+      "published": "2026-09-24T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Kayode Ojo",
+      "categories": [
+        "AI Engineering",
+        "AI Infrastructure",
+        "Large Language Models",
+        "sponsor-andela",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Cursor acquired Firetiger. A month later, it launched a bot that tracks code changes from PR to production.",
+      "link": "https://thenewstack.io/cursor-rollouts-firetiger-production",
+      "summary": "We all know that producing code is easier than ever thanks to the abundance of AI coding tools and agents. The post Cursor acquired Firetiger. A month later, it launched a bot that tracks code changes from PR to production. appeared first on The New Stack .",
+      "published": "2026-09-24T12:56:28+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "DevOps",
+        "Observability"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Observability Day: Where the community comes together at KubeCon + CloudNativeCon North America 2026",
+      "link": "https://www.cncf.io/blog/2026/09/24/observability-day-where-the-community-comes-together-at-kubecon-cloudnativecon-north-america-2026",
+      "summary": "Observability Day returns to KubeCon + CloudNativeCon North America on November 9, 2026, in Salt Lake City, Utah, bringing together maintainers, operators, and end users from across the CNCF observability community. Observability has reached an important...",
+      "published": "2026-09-24T12:22:50+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Austin Parker, Iris Dyrmishi, Eduardo Silva Pereira, and Juraci Paixão Kröhling",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Can enterprises protect data without making AI less reliable?",
+      "link": "https://thenewstack.io/protecting-enterprise-ai-data",
+      "summary": "As organizations invest in AI, many are discovering a new bottleneck: obtaining data that is both protected and useful. Engineering The post Can enterprises protect data without making AI less reliable? appeared first on The New Stack .",
+      "published": "2026-09-24T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Mayank Ahluwalia",
+      "categories": [
+        "AI Strategy",
+        "Compliance",
+        "Data",
+        "sponsor-perforce",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Designing a Background Job Processing System, And Where It Breaks",
       "link": "https://kodekloud.com/blog/build-background-job-queue",
@@ -4499,235 +4690,6 @@
       "source": "CNCF Blog",
       "type": "article",
       "author": "CNCF Technical Oversight Committee",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Vertical Scaling vs Horizontal Scaling: Don't Answer Until You've Run top",
-      "link": "https://kodekloud.com/blog/vertical-scaling-vs-horizontal-scaling",
-      "summary": "Vertical scaling vs horizontal scaling is a trap until you diagnose. Why adding RAM hides bugs, and the three-step answer interviewers want.",
-      "published": "2026-08-26T10:07:18+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "DevOps"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kubernetes v1.37: Garhwal",
-      "link": "https://kubernetes.io/blog/2026/08/26/kubernetes-v1-37-release",
-      "summary": "Editors: Arsh Sharma, Christopher Tineo, Kirti Goyal, Sophia Ugochukwu, Swathi Rao, Troy Connor Similar to previous releases, the release of Kubernetes v1.37 introduces new Stable, Beta, and Alpha features. The consistent delivery of high-quality releases underscores the strength of our development...",
-      "published": "2026-08-26T00:00:00+00:00",
-      "source": "Kubernetes Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Shopify’s CEO threatened to ban Claude Code. Anthropic had already closed the feature request.",
-      "link": "https://thenewstack.io/shopify-claude-code-agentsmd",
-      "summary": "Shopify CEO Tobi Lütke is considering banning Claude Code at the company, but not because he thinks Anthropic’s coding agent The post Shopify’s CEO threatened to ban Claude Code. Anthropic had already closed the feature request. appeared first on The New Stack .",
-      "published": "2026-08-25T19:39:17+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Engineering",
-        "Developer tools",
-        "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "IBM’s new Granite 4.2 models add reasoning and stay dense",
-      "link": "https://thenewstack.io/ibm-granite-reasoning-models",
-      "summary": "On Tuesday, IBM launched the latest family of its open-weight Granite large language models (LLMs). Weighing in at 3 billion, The post IBM’s new Granite 4.2 models add reasoning and stay dense appeared first on The New Stack .",
-      "published": "2026-08-25T19:13:45+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How telemetry pipelines keep AI agent costs under control",
-      "link": "https://thenewstack.io/agentic-ai-telemetry-costs",
-      "summary": "As enterprises move from experimenting with AI to running autonomous agents in production, an infrastructure problem is emerging: rising telemetry The post How telemetry pipelines keep AI agent costs under control appeared first on The New Stack .",
-      "published": "2026-08-25T19:01:28+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Megan Carnegie",
-      "categories": [
-        "AI Agents",
-        "FinOps",
-        "Observability",
-        "sponsor-apica",
-        "Sponsored",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic gives chat and Cowork one memory",
-      "link": "https://thenewstack.io/claude-memory-chat-cowork",
-      "summary": "On Tuesday, Anthropic launched a major update to how Claude remembers things. The new system combines Claude’s memory in Cowork The post Anthropic gives chat and Cowork one memory appeared first on The New Stack .",
-      "published": "2026-08-25T17:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Tokenmaxxing is out. How to minimize AI spend without sacrificing security capability.",
-      "link": "https://thenewstack.io/minimize-ai-security-spend",
-      "summary": "Security teams are discovering that the most capable AI models cost too much to run on routine, high-volume work, and The post Tokenmaxxing is out. How to minimize AI spend without sacrificing security capability. appeared first on The New Stack .",
-      "published": "2026-08-25T16:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Matt Coons",
-      "categories": [
-        "AI Operations",
-        "AI Strategy",
-        "Security",
-        "sponsor-gitlab",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Perplexity’s Computer agent can now run locally — if you can afford it",
-      "link": "https://thenewstack.io/perplexity-portable-computer-nvidia",
-      "summary": "Perplexity, in partnership with Nvidia, has taken Computer, its agentic AI assistant, and brought it to the desktop as Portable The post Perplexity’s Computer agent can now run locally — if you can afford it appeared first on The New Stack .",
-      "published": "2026-08-25T15:34:14+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Azure SRE Agent: Introducing Live Reports",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-sre-agent-introducing-live-reports/ba-p/4549732",
-      "summary": "Today we're introducing Live Reports in Azure SRE Agent, now in public preview. You describe a dashboard in chat; the agent builds it, and it refreshes every time you open it. Ops teams ask the same handful of questions every morning: What's burning right now? What landed overnight? Who's on call?...",
-      "published": "2026-08-25T15:00:00+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "yashnisar",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Azure SRE Agent VNet integration is now generally available",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-sre-agent-vnet-integration-is-now-generally-available/ba-p/4549774",
-      "summary": "VNet integration for Azure SRE Agent is now generally available. You can route outbound agent traffic through your virtual network to access resources behind private endpoints, including databases, Azure Container Apps, Azure Kubernetes Service (AKS) API servers, and more. Traffic routed through...",
-      "published": "2026-08-25T15:00:00+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "Cary_Chai",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI’s Jalapeño chip tackles a problem AI agents make worse",
-      "link": "https://thenewstack.io/openai-jalapeno-inference-chip",
-      "summary": "When OpenAI unveiled Jalapeño, its first custom inference chip, in June, the company made some big promises. The chip, developed The post OpenAI’s Jalapeño chip tackles a problem AI agents make worse appeared first on The New Stack .",
-      "published": "2026-08-25T14:00:12+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Engineering",
-        "AI Infrastructure",
-        "Hardware"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "CLI or IDE? Build in verification first.",
-      "link": "https://thenewstack.io/cli-ide-ai-verification",
-      "summary": "The ongoing debate over where AI coding agents belong, in an integrated development environment (IDE) or at the command line The post CLI or IDE? Build in verification first. appeared first on The New Stack .",
-      "published": "2026-08-25T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Taylor Luttrell-Williams",
-      "categories": [
-        "AI Agents",
-        "Developer tools",
-        "Software Development",
-        "sponsor-sonarsource",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AI agents are spreading fast. Their rules are still catching up.",
-      "link": "https://thenewstack.io/enterprise-ai-agent-governance",
-      "summary": "AI agents are already inside the enterprise, but the rules for controlling them haven’t caught up yet. Some 86% of The post AI agents are spreading fast. Their rules are still catching up. appeared first on The New Stack .",
-      "published": "2026-08-25T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "AI Strategy",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“You can rent a feature, but you can’t rent a foundation”: why MotherDuck bought the startup already powering its data pipelines",
-      "link": "https://thenewstack.io/motherduck-tower-acquisition-python",
-      "summary": "What do you do when a technology you’ve become dependent on belongs to someone else? You buy the startup behind The post “You can rent a feature, but you can’t rent a foundation”: why MotherDuck bought the startup already powering its data pipelines appeared first on The New Stack .",
-      "published": "2026-08-25T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Infrastructure",
-        "Databases"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The lazy developer’s guide to observing your own code",
-      "link": "https://www.cncf.io/blog/2026/08/25/the-lazy-developers-guide-to-observing-your-own-code",
-      "summary": "It’s no secret that developers are increasingly being asked to shift left. It seems there’s always something new to shift left on. And now developers are being asked to shift left on observability. This means that...",
-      "published": "2026-08-25T11:34:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Adriana Villela | OTel Community Manager & CNCF Ambassador) and Diana Todea | OTel Docs Approver & CNCF Ambassador",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Stop trying to learn all of Kubernetes at once",
-      "link": "https://www.cncf.io/blog/2026/08/25/stop-trying-to-learn-all-of-kubernetes-at-once",
-      "summary": "As a recovering VMware architect, it took me a little while to grasp Kubernetes. And I noticed I’m not alone in this.. From developers on our own team who need to get fluent in Kubernetes fast...",
-      "published": "2026-08-25T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Joep Piscaer, Portainer.io",
       "categories": [
         "Blog"
       ],
