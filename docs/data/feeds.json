@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-25T10:52:16.178797+00:00",
-    "total_items": 317,
+    "generated_at": "2026-09-26T10:32:46.306281+00:00",
+    "total_items": 310,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,102 @@
     ]
   },
   "items": [
+    {
+      "title": "How to Pass Secrets Into Docker Builds Without Leaking Them Into Image Layers",
+      "link": "https://kodekloud.com/blog/how-to-pass-secrets-into-docker-builds-without-leaking-them-into-image-layers",
+      "summary": "Your build needed a token, so you passed one in and deleted the file afterwards. It may still be there. Here is why, and the one line of Dockerfile that handles it properly.",
+      "published": "2026-09-25T18:22:53+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "Docker",
+        "container",
+        "Security",
+        "Container security",
+        "DevSecOps",
+        "Dockerfile",
+        "BuildKit",
+        "Secrets",
+        "CI/CD",
+        "DevOps"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Microsoft’s new Copilot agents get their own email, calendar — and a place in the org chart",
+      "link": "https://thenewstack.io/copilot-agents-identity-runtime",
+      "summary": "Microsoft announced what it calls its biggest Copilot update to date on Friday, with CEO Satya Nadella describing Copilot as The post Microsoft’s new Copilot agents get their own email, calendar — and a place in the org chart appeared first on The New Stack .",
+      "published": "2026-09-25T17:16:31+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenTelemetry and Prometheus are getting along. What’s still missing?",
+      "link": "https://thenewstack.io/opentelemetry-prometheus-observability-interoperability",
+      "summary": "Welcome to another edition of Road to KubeCon, where we’re tracking the major movements in the Kubernetes and cloud native The post OpenTelemetry and Prometheus are getting along. What’s still missing? appeared first on The New Stack .",
+      "published": "2026-09-25T16:56:47+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Bill Doerrfeld",
+      "categories": [
+        "Cloud Native Ecosystem",
+        "Kubecon Cloudnativecon NA 2026",
+        "Kubernetes",
+        "Observability",
+        "Platform Engineering",
+        "Road to KubeCon",
+        "sponsor-hpe",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure Weekly Update - 25th September 2026",
+      "link": "https://www.youtube.com/watch?v=uaUoqTKHKM8",
+      "summary": "Nice selection of updates this week!\n\nCharity event URL at https://give.curechildhoodcancer.org/fundraiser/7465401\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can...",
+      "published": "2026-09-25T15:42:19+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/uaUoqTKHKM8/mqdefault.jpg"
+    },
+    {
+      "title": "OpenAI and Cursor agree on agent coordinators. They disagree on who runs them.",
+      "link": "https://thenewstack.io/openai-cursor-coordinator-agents",
+      "summary": "OpenAI opened its Agents API in public beta this month, exposing the harness that powers Codex with managed sessions, tool The post OpenAI and Cursor agree on agent coordinators. They disagree on who runs them. appeared first on The New Stack .",
+      "published": "2026-09-25T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Robert Kimani",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "AI Infrastructure"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Security Slam 2026 – Fall edition",
+      "link": "https://www.cncf.io/blog/2026/09/25/security-slam-2026-fall-edition",
+      "summary": "Security Slam 2026 – Fall Edition is a 30-day virtual event from October 5 through November 6, 2026. What Is the Security Slam? The Open Source Security Foundation (OpenSSF) is partnering with the Cloud Native Computing...",
+      "published": "2026-09-25T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Eddie Knight and Stacey Potter, Security Slam",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Getting the best out of Azure SRE Agent",
       "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/getting-the-best-out-of-azure-sre-agent/ba-p/4559745",
@@ -4496,203 +4592,6 @@
       "type": "article",
       "author": "AbhinavPremsekhar",
       "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic’s Claude now has a browser of its own",
-      "link": "https://thenewstack.io/claude-built-in-browser-cowork",
-      "summary": "Anthropic is giving Claude its own browser. As the company announced on Wednesday, Claude on the desktop (Mac, Windows, and The post Anthropic’s Claude now has a browser of its own appeared first on The New Stack .",
-      "published": "2026-08-26T22:05:58+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "X sent Nitter a cease-and-desist. Then it went after the source code.",
-      "link": "https://thenewstack.io/x-nitter-open-source-takedown",
-      "summary": "When Elon Musk’s X sent cease-and-desist letters demanding that Nitter — an open-source alternative front end for the social media The post X sent Nitter a cease-and-desist. Then it went after the source code. appeared first on The New Stack .",
-      "published": "2026-08-26T21:04:31+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "Open Source",
-        "Security",
-        "Tech Culture"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI’s Astra can do a researcher’s week of work. That’s the problem.",
-      "link": "https://thenewstack.io/openai-astra-persistent-agents",
-      "summary": "OpenAI’s unreleased foundation model, codenamed Astra, is already working directly inside the company’s internal codebase, taking on experimental work that The post OpenAI’s Astra can do a researcher’s week of work. That’s the problem. appeared first on The New Stack .",
-      "published": "2026-08-26T20:24:20+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Observability has a data problem. AI is about to make it worse.",
-      "link": "https://thenewstack.io/opentelemetry-observability-telemetry-storage",
-      "summary": "Observability is entering a new phase now that OpenTelemetry has standardized instrumentation for data collection. Unfortunately, the observability industry still The post Observability has a data problem. AI is about to make it worse. appeared first on The New Stack .",
-      "published": "2026-08-26T20:08:10+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Will Kelly",
-      "categories": [
-        "AI Operations",
-        "Data",
-        "Observability",
-        "sponsor-bronto",
-        "Sponsored",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Stop restricting the agent. Start restricting its environment.",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/stop-restricting-the-agent-start-restricting-its-environment/ba-p/4548726",
-      "summary": "Thanks to visagarwal​ for co-authoring this post. Cross-posted from: https://commandline.microsoft.com/azure-sre-agent-restricting-environment-ai-safety/ Azure SRE Agent gives an LLM tools, a code execution environment, and access to production resources. The first question most people ask is: “How...",
-      "published": "2026-08-26T18:48:33+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "sanchitmehta",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Understanding PyTorch Autograd by Writing a Custom Training Loop",
-      "link": "https://kodekloud.com/blog/pytorch-autograd-explained",
-      "summary": "You have been calling loss.backward() without knowing what it does, and that is why gradient bugs feel like magic. This walkthrough opens up autograd with real printed output, so the rules stop being things you memorise and start being things you can reason about.",
-      "published": "2026-08-26T18:02:07+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "pytorch",
-        "Autograd",
-        "Machine Learning",
-        "Deep Learning",
-        "Neural Networks",
-        "Python"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Claude Desktop can now easily run Qwen, DeepSeek and Kimi models — after Ollama’s first effort stalled",
-      "link": "https://thenewstack.io/ollama-claude-desktop-integration",
-      "summary": "Open-weight model runner Ollama has reintroduced an integration with Claude Desktop that lets users connect Anthropic’s app to models served The post Claude Desktop can now easily run Qwen, DeepSeek and Kimi models — after Ollama’s first effort stalled appeared first on The New Stack .",
-      "published": "2026-08-26T16:59:39+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Models",
-        "Developer tools",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Google’s new legal AI exposes a bigger battle over the enterprise stack",
-      "link": "https://thenewstack.io/google-thomson-specialized-ai",
-      "summary": "Google Cloud launched Gemini Enterprise for Legal this week, a purpose-built agentic AI solution to automate legal workflows, including contract The post Google’s new legal AI exposes a bigger battle over the enterprise stack appeared first on The New Stack .",
-      "published": "2026-08-26T16:33:23+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "AI Agents",
-        "AI Models",
-        "AI Strategy"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Z.ai’s GLM-5.3-Flash is cheap, good, and served on Chinese chips",
-      "link": "https://thenewstack.io/glm-5-3-flash-chinese-chips",
-      "summary": "Ox-alpha, the stealth model that quickly became the most popular model on OpenRouter in the last few days, is actually The post Z.ai’s GLM-5.3-Flash is cheap, good, and served on Chinese chips appeared first on The New Stack .",
-      "published": "2026-08-26T16:26:03+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Perplexity just separated reasoning from authority. Here’s why it matters for enterprises.",
-      "link": "https://thenewstack.io/perplexity-agent-harness-security",
-      "summary": "Perplexity shipped Portable Computer this week, the local-first version of its Computer agent running on an Nvidia DGX Spark workstation, The post Perplexity just separated reasoning from authority. Here’s why it matters for enterprises. appeared first on The New Stack .",
-      "published": "2026-08-26T16:18:18+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Janakiram MSV",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "When AI agent traces become application data",
-      "link": "https://thenewstack.io/agent-traces-application-data",
-      "summary": "Say a test starts failing and a developer hands it to a coding agent. It digs into the relevant files, The post When AI agent traces become application data appeared first on The New Stack .",
-      "published": "2026-08-26T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Manveer Chawla",
-      "categories": [
-        "AI Engineering",
-        "Databases",
-        "Storage",
-        "sponsor-clickhouse",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Microsoft just released Agent Lightning v1.0. Here’s why it matters for platform engineers.",
-      "link": "https://thenewstack.io/microsoft-agent-lightning-harness",
-      "summary": "Agentic reinforcement learning has been suffering from a disconnect, an uncoupling, and a misarticulation. The polarity arises from how a The post Microsoft just released Agent Lightning v1.0. Here’s why it matters for platform engineers. appeared first on The New Stack .",
-      "published": "2026-08-26T12:30:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Platform Engineering"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Governance guidance for CNCF projects: Choosing the right structure for your project’s size and stage",
-      "link": "https://www.cncf.io/blog/2026/08/26/governance-guidance-for-cncf-projects-choosing-the-right-structure-for-your-projects-size-and-stage",
-      "summary": "Clear patterns have emerged from governance reviews across 72 CNCF projects, distinguishing between what the CNCF requires at each maturity level versus what the data recommends for long-term project health. This post captures those patterns as...",
-      "published": "2026-08-26T11:30:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "CNCF Technical Oversight Committee",
-      "categories": [
-        "Blog"
-      ],
       "thumbnail": ""
     }
   ]
