@@ -1,10 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-09-26T10:32:46.306281+00:00",
-    "total_items": 310,
+    "generated_at": "2026-09-27T11:04:41.460538+00:00",
+    "total_items": 298,
     "sources": [
       "AKS (Official)",
-      "AKS Newsletter",
       "Abhishek Veeramalla",
       "Alex Ellis",
       "Apps on Azure",
@@ -20,6 +19,76 @@
     ]
   },
   "items": [
+    {
+      "title": "What Is Pulumi and How Is It Different From Other IaC Tools",
+      "link": "https://kodekloud.com/blog/what-is-pulumi-and-how-it-differs-from-other-iac-tools",
+      "summary": "Pulumi lets you describe infrastructure in a language you already write, with loops, functions and tests. Here is what that actually changes, and the cases where a config language is still the better answer.",
+      "published": "2026-09-26T18:00:27+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "Pulumi",
+        "Terraform",
+        "OpenTofu",
+        "IaC",
+        "Infrastructure as Code",
+        "DevOps",
+        "Cloud",
+        "Platform Engineering"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Avoiding vendor lock-in through an open-source approach: a developer’s perspective",
+      "link": "https://thenewstack.io/avoiding-vendor-lock-in",
+      "summary": "Every infrastructure team makes decisions that are difficult to reverse. Most of the time, that works out. Sometimes it does The post Avoiding vendor lock-in through an open-source approach: a developer’s perspective appeared first on The New Stack .",
+      "published": "2026-09-26T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Andreas Prins",
+      "categories": [
+        "Open Source",
+        "Platform Engineering",
+        "Software Development",
+        "sponsor-suse",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The agent didn’t break your controls. It went around them.",
+      "link": "https://thenewstack.io/inside-out-agent-security",
+      "summary": "The identity part of agent security is settled. An agent needs its own identity: a short-lived, revocable credential scoped to The post The agent didn’t break your controls. It went around them. appeared first on The New Stack .",
+      "published": "2026-09-26T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Lani Leuthvilay",
+      "categories": [
+        "AI Agents",
+        "Developer tools",
+        "Security",
+        "sponsor-ory",
+        "Sponsored",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Claude Opus 5.5 vs. Opus 5 on reasoning tasks: Cheaper, faster, but not better",
+      "link": "https://thenewstack.io/claude-opus-5-5-vs-opus-5",
+      "summary": "When Anthropic released Claude Opus 5.5 this week, the company claimed the new model costs 40% less than Opus 5 The post Claude Opus 5.5 vs. Opus 5 on reasoning tasks: Cheaper, faster, but not better appeared first on The New Stack .",
+      "published": "2026-09-26T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jessica Wachtel",
+      "categories": [
+        "AI Models",
+        "FinOps",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "How to Pass Secrets Into Docker Builds Without Leaking Them Into Image Layers",
       "link": "https://kodekloud.com/blog/how-to-pass-secrets-into-docker-builds-without-leaking-them-into-image-layers",
@@ -4375,223 +4444,6 @@
       "categories": [
         "Blog"
       ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Your Kubernetes platform is ready for containers. Is it ready for AI?",
-      "link": "https://www.cncf.io/blog/2026/08/28/your-kubernetes-platform-is-ready-for-containers-is-it-ready-for-ai",
-      "summary": "Kubernetes has given platform teams a consistent way to deploy, scale, and operate containerized applications. Now, many of those same teams are being asked to support AI. The transition is already underway. According to the CNCF...",
-      "published": "2026-08-28T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Kasia Hilborne, Vultr",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Azure Update 28th August 2026",
-      "link": "https://www.youtube.com/watch?v=TYGdwts3ILc",
-      "summary": "Quick update from Argentina!\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation queue never to...",
-      "published": "2026-08-28T08:04:56+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/TYGdwts3ILc/mqdefault.jpg"
-    },
-    {
-      "title": "AKS Newsletter – August 2026",
-      "link": "https://aksnewsletter.com/2026/2026-08.html",
-      "summary": "54 curated items covering documentation updates, feature announcements, community blogs, and more.",
-      "published": "2026-08-28T00:00:00+00:00",
-      "source": "AKS Newsletter",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Google found a way to test Gemini without seeing the questions",
-      "link": "https://thenewstack.io/google-double-blind-evaluation",
-      "summary": "Growing datasets and public benchmarks are making it harder to tell whether a model is being tested on something it The post Google found a way to test Gemini without seeing the questions appeared first on The New Stack .",
-      "published": "2026-08-27T20:49:52+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Infrastructure",
-        "AI Models",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kubernetes v1.37: Metrics API graduates to stable",
-      "link": "https://kubernetes.io/blog/2026/08/27/kubernetes-v1-37-metrics-api-ga",
-      "summary": "Kubernetes v1.37 promotes the metrics.k8s.io API to stable ( v1 ). This\nAPI provides CPU and memory usage for nodes and Pods, and is the API behind\ncommands such as kubectl top and resource-metrics-based autoscaling. For cluster operators and application developers, this graduation means that\nthe...",
-      "published": "2026-08-27T18:30:00+00:00",
-      "source": "Kubernetes Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Aider, Claude Code, and OpenClaw ran an identical model. Token use varied 70-fold.",
-      "link": "https://thenewstack.io/agent-harness-token-costs",
-      "summary": "When teams price an AI coding agent, they tend to scrutinize the model. But three recent benchmarking efforts suggest the The post Aider, Claude Code, and OpenClaw ran an identical model. Token use varied 70-fold. appeared first on The New Stack .",
-      "published": "2026-08-27T17:54:40+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Janakiram MSV",
-      "categories": [
-        "AI Agents",
-        "Developer tools",
-        "FinOps"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Top 15 DevOps tools for 2026 and Beyond ...",
-      "link": "https://www.youtube.com/watch?v=YRYhFIC2qJw",
-      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nThis video covers Top 15 DevOps tools that can emerge as Future of DevOps. \n\nFree Course on the channel\n==============================\n- Free DevOps Playlist:...",
-      "published": "2026-08-27T16:57:45+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/YRYhFIC2qJw/mqdefault.jpg"
-    },
-    {
-      "title": "This duck will teach you reinforcement learning — and pick up your socks",
-      "link": "https://thenewstack.io/hugging-face-microduck-robot",
-      "summary": "You could have a mechanical duck waddling through your home before Christmas.  Hugging Face‘s Pollen Robotics on Thursday opened pre-orders The post This duck will teach you reinforcement learning — and pick up your socks appeared first on The New Stack .",
-      "published": "2026-08-27T16:20:38+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Engineering",
-        "Hardware",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Replit’s new default: Auto mode picks the best model for each task",
-      "link": "https://thenewstack.io/replit-model-routing-default",
-      "summary": "AI coding company Replit is throwing its weight behind the model-routing trend by making its “intelligent model routing” system the The post Replit’s new default: Auto mode picks the best model for each task appeared first on The New Stack .",
-      "published": "2026-08-27T16:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Infrastructure",
-        "Vibe Coding"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Nvidia’s $12.9B Hugging Face deal has an open-source problem",
-      "link": "https://thenewstack.io/nvidia-hugging-face-acquisition-neutrality",
-      "summary": "Nvidia has reportedly agreed to buy Hugging Face for $12.9 billion, putting one of the biggest names in AI hardware The post Nvidia’s $12.9B Hugging Face deal has an open-source problem appeared first on The New Stack .",
-      "published": "2026-08-27T15:35:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Infrastructure",
-        "Hardware",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“Posterity will find it ludicrous”: Sai agent hits 73% on OSWorld 2.0 performing routine (but necessary) work",
-      "link": "https://thenewstack.io/sai-agent-osworld-benchmark",
-      "summary": "Sai, a computer agent built by Simular, has achieved a 73% success rate on OSWorld 2.0, in a benchmark update The post “Posterity will find it ludicrous”: Sai agent hits 73% on OSWorld 2.0 performing routine (but necessary) work appeared first on The New Stack .",
-      "published": "2026-08-27T15:34:11+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Engineering",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why basic RAG fails at multi-hop reasoning (and how GraphRAG fixes it)",
-      "link": "https://thenewstack.io/graphrag-multi-hop-reasoning-python",
-      "summary": "The current approach to designing LLMs within AI engineering is oversimplified. According to the echo chamber’s view, solving LLM hallucinations The post Why basic RAG fails at multi-hop reasoning (and how GraphRAG fixes it) appeared first on The New Stack .",
-      "published": "2026-08-27T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Emmanuel Akita",
-      "categories": [
-        "AI Engineering",
-        "Large Language Models",
-        "Python",
-        "sponsor-andela",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic’s new Files API vs. pasting: It will save you time, but it won’t save you money.",
-      "link": "https://thenewstack.io/anthropic-files-api-costs",
-      "summary": "Anthropic moved the Files API and computer-use toolset out of beta on August 19 and launched a browser-use toolset. It The post Anthropic’s new Files API vs. pasting: It will save you time, but it won’t save you money. appeared first on The New Stack .",
-      "published": "2026-08-27T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jessica Wachtel",
-      "categories": [
-        "AI Engineering",
-        "API Management",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Building an AI factory on Kubernetes",
-      "link": "https://www.cncf.io/blog/2026/08/27/building-an-ai-factory-on-kubernetes",
-      "summary": "An AI factory is not just a model or a cluster. It is a pool of GPUs that many teams draw from at once: one team fine-tuning, another serving inference, a third running evaluations, all on...",
-      "published": "2026-08-27T11:30:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Hrittik Roy | CNCF Ambassador and Platform Advocate at vCluster",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenChoreo: The Open Source Internal Developer Platform for Kubernetes",
-      "link": "https://www.youtube.com/watch?v=lNi7gXxAbtw",
-      "summary": "Kubernetes won the infrastructure abstraction. It never won the developer one. OpenChoreo is a CNCF Sandbox internal developer platform (IDP) that fixes exactly that - and in this video I install the whole thing on my Mac and prove it live.\n\nA developer who just wants to ship an HTTP service ends...",
-      "published": "2026-08-27T11:28:27+00:00",
-      "source": "Kubesimplify",
-      "type": "video",
-      "author": "Kubesimplify",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/lNi7gXxAbtw/mqdefault.jpg"
-    },
-    {
-      "title": "Manage and retrieve credentials securely inside Browser Automation Tool (BAT) using Azure Key Vault",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/manage-and-retrieve-credentials-securely-inside-browser/ba-p/4550858",
-      "summary": "When do AI agents need a browser Enterprise AI agents are becoming increasingly capable of reasoning over data, calling APIs, and orchestrating workflows. Yet many business-critical systems still expose functionality only through a web interface. ERP systems, supplier portals, internal...",
-      "published": "2026-08-27T11:27:16+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "AbhinavPremsekhar",
-      "categories": [],
       "thumbnail": ""
     }
   ]
