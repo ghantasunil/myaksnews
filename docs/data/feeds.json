@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-27T11:04:41.460538+00:00",
-    "total_items": 298,
+    "generated_at": "2026-09-28T12:26:27.638724+00:00",
+    "total_items": 294,
     "sources": [
       "AKS (Official)",
       "Abhishek Veeramalla",
@@ -19,6 +19,86 @@
     ]
   },
   "items": [
+    {
+      "title": "The case for a cloud native agent harness",
+      "link": "https://www.cncf.io/blog/2026/09/28/the-case-for-a-cloud-native-agent-harness",
+      "summary": "Coding agents became useful when they stopped being a chat box. Four things changed the shape of the problem: capable tools, a shared repository and filesystem, subagents, and skills that capture what the system learned from...",
+      "published": "2026-09-28T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Craig McLuckie, Stacklok",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Connection Refused, No Error, and How Kagent Finds It",
+      "link": "https://kodekloud.com/blog/kagent-finds-kubernetes-label-mismatch",
+      "summary": "Kagent is an open-source AI agent in your Kubernetes cluster. See how it finds a silent label mismatch that returns connection refused - with no error logged.",
+      "published": "2026-09-28T10:26:52+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "Kagent",
+        "Kubernetes",
+        "Debugging",
+        "DevOps",
+        "Networking"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Nvidia launches Open Agent Safety Platform to lock down rogue AI agents",
+      "link": "https://thenewstack.io/nvidia-openshell-sentry-agents",
+      "summary": "OpenAI, Anthropic, Meta, and Google have all recently disclosed that their models broke out of their test environments and reached The post Nvidia launches Open Agent Safety Platform to lock down rogue AI agents appeared first on The New Stack .",
+      "published": "2026-09-28T10:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Performance engineering from kernel analysis to AI: Adrian Cockcroft’s take",
+      "link": "https://thenewstack.io/cockcroft-performance-engineering-ai",
+      "summary": "Over its five-year history, P99 CONF has hosted quite a few speakers who’ve offered pointed takedowns of the namesake metric. The post Performance engineering from kernel analysis to AI: Adrian Cockcroft’s take appeared first on The New Stack .",
+      "published": "2026-09-27T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Tim Koopmans",
+      "categories": [
+        "AI Engineering",
+        "Developer tools",
+        "Observability",
+        "sponsor-scylladb",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The rise of agentic AI on Kubernetes: unleashing the new infrastructure layer",
+      "link": "https://thenewstack.io/agentic-ai-kubernetes-management",
+      "summary": "AI is changing expectations around infrastructure and operations, including Kubernetes management. When models run close to the data they use, The post The rise of agentic AI on Kubernetes: unleashing the new infrastructure layer appeared first on The New Stack .",
+      "published": "2026-09-27T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Rhys Oxenham",
+      "categories": [
+        "AI Agents",
+        "Kubernetes",
+        "Platform Engineering",
+        "sponsor-suse",
+        "Sponsored",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "What Is Pulumi and How Is It Different From Other IaC Tools",
       "link": "https://kodekloud.com/blog/what-is-pulumi-and-how-it-differs-from-other-iac-tools",
@@ -4320,129 +4400,6 @@
         "Platform Engineering",
         "sponsor-port",
         "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "JetBrains told everyone to patch. It didn’t patch itself.",
-      "link": "https://thenewstack.io/jetbrains-told-everyone-to-patch-it-didnt-patch-itself",
-      "summary": "JetBrains is urging users of its Cadence cloud development service to rotate credentials and treat previous executions and their outputs The post JetBrains told everyone to patch. It didn’t patch itself. appeared first on The New Stack .",
-      "published": "2026-08-28T20:51:48+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "CI/CD",
-        "Cloud Services",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "LM Studio built a judge for AI commands. Then the judge started agreeing with the defendant.",
-      "link": "https://thenewstack.io/bionic-shell-command-safety",
-      "summary": "A command as ordinary as git diff can become a problem for an AI coding agent once a variable gets The post LM Studio built a judge for AI commands. Then the judge started agreeing with the defendant. appeared first on The New Stack .",
-      "published": "2026-08-28T18:31:38+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "Developer tools",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kubernetes v1.37: Pod Certificates and Cluster Trust Bundles",
-      "link": "https://kubernetes.io/blog/2026/08/28/kubernetes-v1-37-pod-certificates-and-cluster-trust-bundles",
-      "summary": "Pod Certificate / Cluster Trust Bundles Blog Post Kubernetes brings a wealth of features that make it easy to run your production\nworkloads securely and reliably. While aspects like scheduling, health checks\nand resource limits are probably at the front of your mind, one other important\nfeature of...",
-      "published": "2026-08-28T18:30:00+00:00",
-      "source": "Kubernetes Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Alibaba just released Qwen3.8-Flash: “An early preview of the architecture in Qwen4”",
-      "link": "https://thenewstack.io/qwen38-flash-previews-qwen4",
-      "summary": "Alibaba this week unveiled Qwen3.8-Flash, an open-weight, multimodal Mixture-of-Experts (MoE) model.  Hot on the heels of Qwen 3.8 Max, which The post Alibaba just released Qwen3.8-Flash: “An early preview of the architecture in Qwen4” appeared first on The New Stack .",
-      "published": "2026-08-28T18:27:06+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI",
-        "AI Infrastructure",
-        "AI Models",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Z.ai’s GLM-5.3 goes open weight, but its new license aims at hyperscalers",
-      "link": "https://thenewstack.io/zai-glm-weights-license",
-      "summary": "Earlier in August, Z.ai, the Chinese AI lab behind the viral ox-alpha model that turned out to be GLM-5.3-Flash, launched The post Z.ai’s GLM-5.3 goes open weight, but its new license aims at hyperscalers appeared first on The New Stack .",
-      "published": "2026-08-28T17:42:54+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why Is My SQL Query Slow? It's Almost Never the Hardware",
-      "link": "https://kodekloud.com/blog/why-is-my-sql-query-slow",
-      "summary": "Why is my SQL query slow? Watch EXPLAIN ANALYZE turn a million-row scan into ten block reads with one index, and count an N+1 loop in the act.",
-      "published": "2026-08-28T16:36:51+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "database"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Nvidia is paying $12.9 billion to keep open models on its chips",
-      "link": "https://thenewstack.io/nvidia-open-models-chips",
-      "summary": "I’m Matt Burns, Chief Content Officer at Insight Media Group. Each week, I round up the most important AI developments, The post Nvidia is paying $12.9 billion to keep open models on its chips appeared first on The New Stack .",
-      "published": "2026-08-28T15:43:25+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Matthew Burns",
-      "categories": [
-        "AI Engineering",
-        "AI Models",
-        "AI Strategy"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Learn DevOps in the most easiest way.",
-      "link": "https://www.youtube.com/watch?v=hBlg11aH2fY",
-      "summary": "Create an account with Esc Bash using escbash.com\n\nEsc Bash is the best platform to learn DevOps, Cloud and AI practically.\nSee more at escbash.com\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist:...",
-      "published": "2026-08-28T14:58:14+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/hBlg11aH2fY/mqdefault.jpg"
-    },
-    {
-      "title": "Scale before the spike: Predictive autoscaling for GPU workloads on Kubernetes",
-      "link": "https://www.cncf.io/blog/2026/08/28/scale-before-the-spike-predictive-autoscaling-for-gpu-workloads-on-kubernetes",
-      "summary": "The 3 AM Call We got paged one Tuesday morning. A critical production service had crashed under traffic—not gradually degraded, but crashed. Hundreds of pending pods. Users were seeing 15–20% error rates. The incident postmortem was...",
-      "published": "2026-08-28T11:30:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Ramkumar Nagaraj (Golden Kubestronaut, Adobe) and Bingi Narasimha Karthik (Golden Kubestronaut, Adobe)",
-      "categories": [
-        "Blog"
       ],
       "thumbnail": ""
     }
