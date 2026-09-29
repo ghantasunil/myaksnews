@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-28T12:26:27.638724+00:00",
-    "total_items": 294,
+    "generated_at": "2026-09-29T11:50:54.182492+00:00",
+    "total_items": 304,
     "sources": [
       "AKS (Official)",
       "Abhishek Veeramalla",
@@ -19,6 +19,211 @@
     ]
   },
   "items": [
+    {
+      "title": "You picked Claude Sonnet 5.5 — but Anthropic may send your request to Sonnet 5 in “higher-risk” situations",
+      "link": "https://thenewstack.io/claude-sonnet-cyber-safeguards",
+      "summary": "Anthropic’s Claude Sonnet 5.5, released Monday, is the first Sonnet model to launch with cyber safeguards and model fallbacks like The post You picked Claude Sonnet 5.5 — but Anthropic may send your request to Sonnet 5 in “higher-risk” situations appeared first on The New Stack .",
+      "published": "2026-09-28T21:34:23+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Models",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI exposes “new variety of prompt injection” that can spread like computer worms",
+      "link": "https://thenewstack.io/openai-self-replicating-injections",
+      "summary": "In a report published Friday, OpenAI shares evidence of a new variety of prompt injection that can self-propagate like a The post OpenAI exposes “new variety of prompt injection” that can spread like computer worms appeared first on The New Stack .",
+      "published": "2026-09-28T21:26:55+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How to Provision Your First AWS Resources With Pulumi and Python",
+      "link": "https://kodekloud.com/blog/provision-first-aws-resources-with-pulumi-and-python",
+      "summary": "Everything you need for a first Pulumi project, in about twenty minutes. Create a bucket and a server with Python, check the plan before anything changes, and delete it all when you are done.",
+      "published": "2026-09-28T18:08:23+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "Pulumi",
+        "AWS",
+        "Python",
+        "IaC",
+        "Infrastructure as Code",
+        "DevOps",
+        "Cloud"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic launches Claude Sonnet 5.5 with near-Opus performance at half the price",
+      "link": "https://thenewstack.io/claude-sonnet-55-launch",
+      "summary": "Anthropic on Monday launched Claude Sonnet 5.5, the latest version of its workhorse model and the second model in the The post Anthropic launches Claude Sonnet 5.5 with near-Opus performance at half the price appeared first on The New Stack .",
+      "published": "2026-09-28T18:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Meta hired MongoDB’s CEO to build its enterprise AI business — but Llama is missing",
+      "link": "https://thenewstack.io/meta-enterprise-platform-desai",
+      "summary": "Meta announced on Monday that it is building a new enterprise business around its AI models and agents and has The post Meta hired MongoDB’s CEO to build its enterprise AI business — but Llama is missing appeared first on The New Stack .",
+      "published": "2026-09-28T17:33:15+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Strategy",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI blocked its agent’s web access. Then it tunneled out through DNS.",
+      "link": "https://thenewstack.io/openai-agents-security-bypasses",
+      "summary": "Last week, OpenAI published new reports detailing misalignment issues with its agents. This time, two internal models found ways around The post OpenAI blocked its agent’s web access. Then it tunneled out through DNS. appeared first on The New Stack .",
+      "published": "2026-09-28T17:15:34+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Think you need a better reranker? Check your retrieval first.",
+      "link": "https://thenewstack.io/search-retrieval-reranking-funnel",
+      "summary": "You built a search system using the latest, greatest models, and maybe you were thrilled with the outcome. But what The post Think you need a better reranker? Check your retrieval first. appeared first on The New Stack .",
+      "published": "2026-09-28T17:01:45+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Kimberly Fessel",
+      "categories": [
+        "AI Engineering",
+        "Data",
+        "Databases",
+        "Large Language Models",
+        "sponsor-vespa-ai",
+        "sponsored-webinar"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Elon Musk says space will soon hold nearly all compute. Google is still finding out if its chips can work there.",
+      "link": "https://thenewstack.io/google-suncatcher-tpu-satellite",
+      "summary": "While SpaceX and Nvidia plan to place a space-optimized Vera Rubin AI system in orbit by late 2027, Google’s far The post Elon Musk says space will soon hold nearly all compute. Google is still finding out if its chips can work there. appeared first on The New Stack .",
+      "published": "2026-09-28T16:22:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Steven J. Vaughan-Nichols",
+      "categories": [
+        "AI",
+        "AI Infrastructure"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Best AI + DevOps Implementation | Claude + Kestra",
+      "link": "https://www.youtube.com/watch?v=jJf0GyCqu-o",
+      "summary": "Get started with Kestra for FREE:\nhttps://fandf.co/4j3jT8t\n\nIn this video, you will learn how the future of infrastructure management is not DevOps or AI but DevOps and AI. I will walk you through a detailed demo to show\n1. How DevOps engineers can make use of orchestrators like Kestra to create...",
+      "published": "2026-09-28T16:19:35+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/jJf0GyCqu-o/mqdefault.jpg"
+    },
+    {
+      "title": "GPT-6 Sol vs. Claude Opus 5.5: Is cheaper important when results aren’t consistent?",
+      "link": "https://thenewstack.io/gpt-6-sol-vs-opus-5-5",
+      "summary": "OpenAI launched GPT-6 Sol on September 22, claiming it scores higher than Claude Opus 5 on business workflow tasks at The post GPT-6 Sol vs. Claude Opus 5.5: Is cheaper important when results aren’t consistent? appeared first on The New Stack .",
+      "published": "2026-09-28T16:04:38+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jessica Wachtel",
+      "categories": [
+        "AI Engineering",
+        "AI Models",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Debug Kubernetes with AI: Fix a Broken App in AKS desktop",
+      "link": "https://www.youtube.com/watch?v=Z9eCdpk2hlk",
+      "summary": "Your Kubernetes pods are running, but your app is broken. See how the AI Assistant in AKS desktop helps troubleshoot an Azure Kubernetes Service application and fix a workload identity configuration issue.\n\nIn this hands-on demo, an application's AI chat feature fails even though its Kubernetes...",
+      "published": "2026-09-28T15:30:31+00:00",
+      "source": "AKS (Official)",
+      "type": "video",
+      "author": "Azure Kubernetes Service (AKS)",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/Z9eCdpk2hlk/mqdefault.jpg"
+    },
+    {
+      "title": "ACA Sandboxes - Isolated, secure hosting for agents",
+      "link": "https://www.youtube.com/watch?v=43ZJtGpCYbU",
+      "summary": "The same infrastructure that hosts Microsoft's own agentic capabilities are now available for you to use with your own orchestration.\n\n🖼️ Whiteboard at https://github.com/johnthebrit/RandomStuff/raw/master/Whiteboards/ACASandboxes.png\n📘 Docs at https://sandboxes.azure.com\n\n🔎 Looking for content on...",
+      "published": "2026-09-28T14:15:57+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/43ZJtGpCYbU/mqdefault.jpg"
+    },
+    {
+      "title": "pgEdge’s agent database branches end without a merge, and that’s by design",
+      "link": "https://thenewstack.io/pgedge-starfleet-postgres-branching",
+      "summary": "AI coding agents can get an application running quickly, but taking that prototype into production is another problem. The database The post pgEdge’s agent database branches end without a merge, and that’s by design appeared first on The New Stack .",
+      "published": "2026-09-28T14:07:38+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "Databases",
+        "Model Context Protocol (MCP)"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic bought Stainless and shuttered its SDK generator. Cloudflare open-sourced Forge instead.",
+      "link": "https://thenewstack.io/cloudflare-forge-anthropic-stainless",
+      "summary": "Cloudflare has announced an open source tool that takes an API definition and automatically produces the SDKs, command-line tools, documentation, The post Anthropic bought Stainless and shuttered its SDK generator. Cloudflare open-sourced Forge instead. appeared first on The New Stack .",
+      "published": "2026-09-28T13:39:58+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "API Management",
+        "Developer tools",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "The case for a cloud native agent harness",
       "link": "https://www.cncf.io/blog/2026/09/28/the-case-for-a-cloud-native-agent-harness",
@@ -4335,73 +4540,6 @@
       "author": "Abhishek.Veeramalla",
       "categories": [],
       "thumbnail": "https://i.ytimg.com/vi/9TVrT0JFSYg/mqdefault.jpg"
-    },
-    {
-      "title": "Build a Custom PyTorch Dataset and DataLoader for Your Own Image Folder",
-      "link": "https://kodekloud.com/blog/pytorch-custom-dataset-dataloader",
-      "summary": "Bundled datasets make PyTorch look easy right up to the moment you point it at your own folder of images. This walkthrough builds a custom Dataset class from scratch, generates its own sample data, and explains why augmentation belongs on training data only.",
-      "published": "2026-08-29T18:00:51+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "pytorch",
-        "AI",
-        "Machine Learning",
-        "Python"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Your container runs. Everything around it shouldn’t be your problem.",
-      "link": "https://thenewstack.io/amazon-ecs-express-mode",
-      "summary": "The promise with containers was simple: if it runs on your local machine, it will run in production. And this The post Your container runs. Everything around it shouldn’t be your problem. appeared first on The New Stack .",
-      "published": "2026-08-29T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Satej Sawant",
-      "categories": [
-        "Containers",
-        "Developer tools",
-        "DevOps",
-        "sponsor-aws-marketplace",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Commits on GitHub have doubled in four months. Verification capacity has not.",
-      "link": "https://thenewstack.io/scaling-ai-code-verification",
-      "summary": "I have been waiting for agent-generated code to show up in public infrastructure data rather than in vendor benchmarks. In The post Commits on GitHub have doubled in four months. Verification capacity has not. appeared first on The New Stack .",
-      "published": "2026-08-29T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Arjun Iyer",
-      "categories": [
-        "AI Agents",
-        "Developer tools",
-        "Software Testing",
-        "sponsor-signadot",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The 3 roles AI agents play in your developer platform",
-      "link": "https://thenewstack.io/ai-agent-platform-roles",
-      "summary": "Engineering organizations are trying to deliver as fast as technology allows, bringing agentic AI into their developer platforms and working The post The 3 roles AI agents play in your developer platform appeared first on The New Stack .",
-      "published": "2026-08-29T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Matar Peles",
-      "categories": [
-        "AI Agents",
-        "AI Operations",
-        "Platform Engineering",
-        "sponsor-port",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
     }
   ]
 }
