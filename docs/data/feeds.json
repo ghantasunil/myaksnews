@@ -1,14 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-09-30T11:37:53.913617+00:00",
-    "total_items": 314,
+    "generated_at": "2026-10-01T12:07:18.716484+00:00",
+    "total_items": 312,
     "sources": [
       "AKS (Official)",
       "Abhishek Veeramalla",
       "Alex Ellis",
       "Apps on Azure",
       "CNCF Blog",
-      "Collabnix",
       "John Savill",
       "KodeKloud",
       "Kubernetes Blog",
@@ -18,6 +17,234 @@
     ]
   },
   "items": [
+    {
+      "title": "AI coding agents leaked 13,000 screenshots, and nobody hacked them.",
+      "link": "https://thenewstack.io/coding-agents-leaked-screenshots",
+      "summary": "AI coding agents trying to work around a limitation in GitHub’s command-line tool ended up publishing more than 13,000 internal The post AI coding agents leaked 13,000 screenshots, and nobody hacked them. appeared first on The New Stack .",
+      "published": "2026-10-01T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "Developer tools",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Guardrails, not gates: rethinking policy in platform teams",
+      "link": "https://www.cncf.io/blog/2026/10/01/guardrails-not-gates-rethinking-policy-in-platform-teams",
+      "summary": "The most popular OPA-based policy tool for Kubernetes is literally called Gatekeeper. Admission controllers block. Policies deny. Kyverno’s enforcement setting is validationFailureAction: Enforce, which at least sounds neutral, but the failure mode it describes is still...",
+      "published": "2026-10-01T11:30:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Koray Oksay | CNCF Ambassador",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI agents speed up development — data access slows them down",
+      "link": "https://thenewstack.io/unified-api-layer-agents",
+      "summary": "Building the app was never the hard part. Now, with AI agents assisting with development, teams complete applications and internal The post AI agents speed up development — data access slows them down appeared first on The New Stack .",
+      "published": "2026-10-01T11:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Doug Sillars",
+      "categories": [
+        "AI Agents",
+        "API Management",
+        "sponsor-monospace-by-directus",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Meet the Hosted Skills Canvas: Build, Run, and Debug in GitHub Copilot",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/meet-the-hosted-skills-canvas-build-run-and-debug-in-github/ba-p/4561222",
+      "summary": "We have been evolving Azure Functions from the bottom up: first the infrastructure with Flex Consumption , then the way you write an app, and now the tools you use to build it. We're introducing a new developer experience for event-driven apps: the Azure Functions Hosted Skills canvas in the GitHub...",
+      "published": "2026-09-30T22:19:50+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "paulyuk",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Gemini 4 Argon is here: It’s great, and you can’t have it yet",
+      "link": "https://thenewstack.io/google-gemini-4-argon",
+      "summary": "Google on Wednesday announced Gemini 4 Argon, the company’s long-awaited flagship model, and it looks like it was worth the The post Gemini 4 Argon is here: It’s great, and you can’t have it yet appeared first on The New Stack .",
+      "published": "2026-09-30T20:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Cohere’s faster query model barely dents retrieval quality in its tests",
+      "link": "https://thenewstack.io/cohere-embed-pro-fast",
+      "summary": "Cohere released Embed 5 on Wednesday, giving teams the option to index data with Embed 5 Pro and query those The post Cohere’s faster query model barely dents retrieval quality in its tests appeared first on The New Stack .",
+      "published": "2026-09-30T18:41:53+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "CloudBees just committed to an AI-first pivot. Here’s why it matters for enterprise DevOps teams",
+      "link": "https://thenewstack.io/cloudbees-ceo-ai-transformation",
+      "summary": "When new CloudBees CEO Mo Plassnig took the job earlier this year, his board of directors handed him a mandate The post CloudBees just committed to an AI-first pivot. Here’s why it matters for enterprise DevOps teams appeared first on The New Stack .",
+      "published": "2026-09-30T18:08:49+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Chris J. Preimesberger",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "CI/CD",
+        "DevOps",
+        "Podcast",
+        "sponsor-cloudbees",
+        "Sponsored",
+        "sponsored-podcast",
+        "Video"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenTofu Explained, a Look at the Open Source Infrastructure as Code Tool",
+      "link": "https://kodekloud.com/blog/opentofu-explained-open-source-infrastructure-as-code",
+      "summary": "OpenTofu describes your infrastructure in code, shows you exactly what it will change before it changes anything, and can encrypt the record it keeps. This walkthrough builds a working project on your own machine, no cloud account required.",
+      "published": "2026-09-30T18:00:41+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "OpenTofu",
+        "Terraform",
+        "IaC",
+        "Infrastructure as Code (IaC)",
+        "DevOps",
+        "Cloud"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI’s Dots boundary problem rate doubled in longer tests",
+      "link": "https://thenewstack.io/openai-dots-agent-permissions",
+      "summary": "OpenAI’s new Dots are built to keep working after you step away. Launched at DevDay on Tuesday, the always-on agents The post OpenAI’s Dots boundary problem rate doubled in longer tests appeared first on The New Stack .",
+      "published": "2026-09-30T15:26:15+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "ArgoCon North America 2026: What to expect as the Argo community looks toward CD 4.0",
+      "link": "https://www.cncf.io/blog/2026/09/30/argocon-north-america-2026-what-to-expect-as-the-argo-community-looks-toward-cd-4-0",
+      "summary": "Work across the Argo Project is accelerating, with growing adoption, new use cases, and more maintainers contributing across the community. The community is also beginning the visioning process for Argo CD 4.0, making ArgoCon an opportunity...",
+      "published": "2026-09-30T15:24:47+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Dan Garfield, Christian Hernandez, and Katie Lamkin - ArgoCon Co-Chairs",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Your AI agent aced the demo. Your data may still derail it.",
+      "link": "https://thenewstack.io/ai-agents-production-data",
+      "summary": "Ahhh, demo AI agents. Don’t you just love them? Cute and cuddly, solving all your company’s problems without complaints, missteps, The post Your AI agent aced the demo. Your data may still derail it. appeared first on The New Stack .",
+      "published": "2026-09-30T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Kimberly Fessel",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Data",
+        "Databases"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Microsoft Fabric is where AI agents learn how the business works",
+      "link": "https://thenewstack.io/microsoft-fabric-agent-context",
+      "summary": "Microsoft is turning Fabric, its integrated data platform, into the place enterprise agents go to learn how a company works, whether The post Microsoft Fabric is where AI agents learn how the business works appeared first on The New Stack .",
+      "published": "2026-09-30T14:46:32+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Engineering",
+        "AI Infrastructure",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Bring managed browser automation to your agent applications",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/bring-managed-browser-automation-to-your-agent-applications/ba-p/4561184",
+      "summary": "AI agents become more useful when they can move beyond conversation and complete real workflows. Playwright Cloud Browsers provides managed, on-demand browser capacity that agent applications can access through Model Context Protocol (MCP). You can connect Playwright Cloud Browsers to agent...",
+      "published": "2026-09-30T14:25:38+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Arun_Kumar_Thiagarajan",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kill the code review theater, keep the review",
+      "link": "https://thenewstack.io/kill-code-review-theater",
+      "summary": "Six months ago I wrote about how to kill the code review, and I was wrong. I still think line-by-line The post Kill the code review theater, keep the review appeared first on The New Stack .",
+      "published": "2026-09-30T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Ankit Jain",
+      "categories": [
+        "AI Engineering",
+        "Developer tools",
+        "Software Development",
+        "sponsor-aviator",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "CRA readiness starts in the codebase",
+      "link": "https://thenewstack.io/cra-readiness-starts-codebase",
+      "summary": "The Cyber Resilience Act (CRA) is often discussed as a policy or reporting challenge. But for organizations that build products The post CRA readiness starts in the codebase appeared first on The New Stack .",
+      "published": "2026-09-30T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Ekaterina Okuneva",
+      "categories": [
+        "Compliance",
+        "Security",
+        "Software Development",
+        "sponsor-sonarsource",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Incident Management in SRE Explained (Google SRE Book)",
       "link": "https://www.youtube.com/watch?v=NUmOZ3nnS7I",
@@ -4429,274 +4656,6 @@
         "Databases",
         "sponsor-pingcap",
         "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Platform engineering maturity: From toolchain to self-service",
-      "link": "https://www.cncf.io/blog/2026/09/01/platform-engineering-maturity-from-toolchain-to-self-service",
-      "summary": "Most platform engineering conversations tend to split into two rooms pretty quickly. The first room is full of teams who don’t have a platform yet. Scattered scripts, tribal knowledge, and every team is doing the same...",
-      "published": "2026-09-01T11:35:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Atulpriya Sharma | CNCF Ambassador and Platform Engineering TCG Organizer",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "500K Ask Me Anything YouTube Live Stream",
-      "link": "https://www.youtube.com/watch?v=hXRPm7r4Q14",
-      "summary": "An AMA to celebrate hitting 500,000 subscribers. A great 60 minutes of interactive Q&A!",
-      "published": "2026-09-01T06:07:28+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/hXRPm7r4Q14/mqdefault.jpg"
-    },
-    {
-      "title": "Kueue on Kubernetes: GPU Job Queueing and Fair-Share Quotas for AI Workloads",
-      "link": "https://collabnix.com/kueue-on-kubernetes-gpu-job-queueing-and-fair-share-quotas-for-ai-workloads",
-      "summary": "The default Kubernetes scheduler has no idea your GPUs are shared between teams. This hands-on lab uses Kueue to add job level admission, per team quotas, cohort borrowing and reclaim preemption, and runs on a laptop with no GPUs required.",
-      "published": "2026-09-01T05:07:54+00:00",
-      "source": "Collabnix",
-      "type": "article",
-      "author": "Ajeet Raina",
-      "categories": [
-        "AI/ML",
-        "Kubernetes",
-        "AI Workloads",
-        "GPU Scheduling",
-        "Job Queueing",
-        "kubernetes",
-        "Kubernetes Cost Optimization",
-        "Kueue"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kyverno 1.19 Deprecates ClusterPolicy: A Hands-On Guide to CEL Policies",
-      "link": "https://collabnix.com/kyverno-1-19-deprecates-clusterpolicy-a-hands-on-guide-to-cel-policies",
-      "summary": "Kyverno 1.19 deprecated ClusterPolicy and Policy, with removal coming in v1.20. This hands-on lab covers the new CEL based ValidatingPolicy and MutatingPolicy types, a full old-to-new mapping table, and how to test policies in CI before you migrate.",
-      "published": "2026-09-01T05:06:12+00:00",
-      "source": "Collabnix",
-      "type": "article",
-      "author": "Ajeet Raina",
-      "categories": [
-        "DevSecOps",
-        "Kubernetes",
-        "Admission Control",
-        "CEL",
-        "kubernetes",
-        "kubernetes security",
-        "Kyverno",
-        "Policy as Code"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Ingress-NGINX Is Retired: A Hands-On Migration to Gateway API with ingress2gateway 1.0",
-      "link": "https://collabnix.com/ingress-nginx-is-retired-a-hands-on-migration-to-gateway-api-with-ingress2gateway-1-0",
-      "summary": "Ingress-NGINX maintenance ended in March 2026. This hands-on lab walks through converting your Ingress resources with ingress2gateway 1.0 and serving the same traffic through Envoy Gateway and the Kubernetes Gateway API.",
-      "published": "2026-09-01T05:04:15+00:00",
-      "source": "Collabnix",
-      "type": "article",
-      "author": "Ajeet Raina",
-      "categories": [
-        "Kubernetes",
-        "Envoy Gateway",
-        "Gateway API",
-        "Ingress NGINX",
-        "ingress2gateway",
-        "kubernetes",
-        "Kubernetes networking"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "SpaceX is in an “enviable position”: why Anthropic is sticking with Cursor as OpenAI cuts access",
-      "link": "https://thenewstack.io/anthropic-spacex-cursor-compute-openai",
-      "summary": "OpenAI caused something of a stir over the weekend when it announced plans to cut Cursor’s direct access to OpenAI The post SpaceX is in an “enviable position”: why Anthropic is sticking with Cursor as OpenAI cuts access appeared first on The New Stack .",
-      "published": "2026-08-31T21:47:04+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Infrastructure",
-        "AI Strategy"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "MCP was supposed to solve the agent tooling problem. It missed a step.",
-      "link": "https://thenewstack.io/ard-agent-discovery-specification",
-      "summary": "Connecting an AI agent to a tool is relatively straightforward. Things get more complicated once an organization has hundreds or The post MCP was supposed to solve the agent tooling problem. It missed a step. appeared first on The New Stack .",
-      "published": "2026-08-31T20:04:20+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Cloud Services"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Google’s new forecasting model beats everyone. You can’t use it at work (yet).",
-      "link": "https://thenewstack.io/google-timesfm-3-multivariate-forecasting",
-      "summary": "On Monday, Google launched TimesFM-3, a 330-million-parameter time-series forecasting model trained on over a trillion real-world and synthetic data time The post Google’s new forecasting model beats everyone. You can’t use it at work (yet). appeared first on The New Stack .",
-      "published": "2026-08-31T19:41:54+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Models",
-        "Data"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "SpaceX designed an orbital Vera Rubin. Radiation comes next.",
-      "link": "https://thenewstack.io/spacex-nvidia-orbital-ai",
-      "summary": "SpaceX and Nvidia say they are adapting the Vera Rubin NVL72 rack-scale AI platform for orbital use, with SpaceX targeting The post SpaceX designed an orbital Vera Rubin. Radiation comes next. appeared first on The New Stack .",
-      "published": "2026-08-31T18:55:35+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Steven J. Vaughan-Nichols",
-      "categories": [
-        "AI Infrastructure",
-        "Edge Computing",
-        "Hardware"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI wants to charge only when AI gets it right — here’s the catch",
-      "link": "https://thenewstack.io/openai-outcome-based-pricing",
-      "summary": "AI companies have always charged customers for the tokens they use, whether the model gives them exactly what they need The post OpenAI wants to charge only when AI gets it right — here’s the catch appeared first on The New Stack .",
-      "published": "2026-08-31T18:47:25+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "AI Operations",
-        "AI Strategy"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kubernetes v1.37: Storage Version Migration Enabled by Default",
-      "link": "https://kubernetes.io/blog/2026/08/31/kubernetes-v1-37-storage-version-migration-ga",
-      "summary": "I am excited that storage version migration (SVM) has graduated to General Availability (GA) in Kubernetes v1.37! After a number of releases of work and testing, the built-in StorageVersionMigration API ( storagemigration.k8s.io/v1 )\nand control plane controller are now fully stable and enabled by...",
-      "published": "2026-08-31T18:30:00+00:00",
-      "source": "Kubernetes Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to Use Transfer Learning in PyTorch With a Pretrained ResNet Model",
-      "link": "https://kodekloud.com/blog/pytorch-transfer-learning-resnet",
-      "summary": "Training 1,539 parameters beat training 11.2 million, on the same data, in less time. This walkthrough shows exactly how transfer learning achieves that in PyTorch, with both experiments run side by side and every number measured rather than claimed.",
-      "published": "2026-08-31T18:00:10+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "pytorch",
-        "Machine Learning",
-        "AI",
-        "Python",
-        "Transfer Learning"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Shai-Hulud: Whoever controls your package registry controls your pipeline",
-      "link": "https://thenewstack.io/shai-hulud-pipeline-security",
-      "summary": "On September 15, 2025, npm’s registry did something unprecedented: Packages began updating themselves.  No maintainer ran npm publish. No pull The post Shai-Hulud: Whoever controls your package registry controls your pipeline appeared first on The New Stack .",
-      "published": "2026-08-31T16:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Zeen Rachidi",
-      "categories": [
-        "CI/CD",
-        "Infrastructure as Code",
-        "Security",
-        "sponsor-env-zero",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Cut coding agent token use with better tool output",
-      "link": "https://thenewstack.io/cut-coding-agent-tokens",
-      "summary": "Before an AI coding agent writes a single line of code, it has already spent tokens. For example, on source The post Cut coding agent token use with better tool output appeared first on The New Stack .",
-      "published": "2026-08-31T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Prasenjit A. Sarkar",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Developer tools",
-        "sponsor-sonarsource",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic’s Claude fixed all 10 alignment failures. Then it tried to cheat 2.4% of the time.",
-      "link": "https://thenewstack.io/claude-automated-alignment-research",
-      "summary": "Anthropic is putting AI agents to work on one of the field’s hardest problems: keeping other AI systems aligned with The post Anthropic’s Claude fixed all 10 alignment failures. Then it tried to cheat 2.4% of the time. appeared first on The New Stack .",
-      "published": "2026-08-31T13:09:17+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Engineering",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Your agent context needs a development lifecycle",
-      "link": "https://thenewstack.io/agent-context-development-lifecycle",
-      "summary": "Skills, agent configurations, prompt instructions, and rules files. These artifacts now determine what your coding agents produce. They shape every The post Your agent context needs a development lifecycle appeared first on The New Stack .",
-      "published": "2026-08-31T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Ankit Jain",
-      "categories": [
-        "AI Agents",
-        "Platform Engineering",
-        "Software Development",
-        "sponsor-aviator",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "DeepSeek’s first vision model vs. Gemini 3.7 Flash: It comes down to spend vs. speed",
-      "link": "https://thenewstack.io/deepseek-gemini-vision-comparison",
-      "summary": "DeepSeek released V4 Flash Vision Exp on August 21, its first model that accepts image input. Image input means a The post DeepSeek’s first vision model vs. Gemini 3.7 Flash: It comes down to spend vs. speed appeared first on The New Stack .",
-      "published": "2026-08-31T12:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jessica Wachtel",
-      "categories": [
-        "AI Engineering",
-        "AI Models",
-        "Software Testing"
       ],
       "thumbnail": ""
     }
