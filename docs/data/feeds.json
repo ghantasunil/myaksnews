@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-10-02T11:37:31.892120+00:00",
-    "total_items": 317,
+    "generated_at": "2026-10-03T10:50:59.332496+00:00",
+    "total_items": 316,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -18,6 +18,133 @@
     ]
   },
   "items": [
+    {
+      "title": "Anthropic’s answer to Dots and Muse is already inside Claude",
+      "link": "https://thenewstack.io/claude-answer-to-dots-muse",
+      "summary": "I’m Matt Burns, Chief Content Officer at Insight Media Group. Each week, I round up the most important AI developments, The post Anthropic’s answer to Dots and Muse is already inside Claude appeared first on The New Stack .",
+      "published": "2026-10-03T10:11:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Matthew Burns",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Strategy"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "GitHub’s advice for its new Copilot feature is to try something else first",
+      "link": "https://thenewstack.io/github-copilot-computer-use-desktop",
+      "summary": "GitHub launched computer use in public preview on Thursday, giving Copilot CLI and its desktop app the ability to operate The post GitHub’s advice for its new Copilot feature is to try something else first appeared first on The New Stack .",
+      "published": "2026-10-02T18:25:27+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "Developer tools",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "What Is Karpenter and How Does It Autoscale Kubernetes Nodes",
+      "link": "https://kodekloud.com/blog/what-is-karpenter-and-how-does-it-autoscale-kubernetes-nodes",
+      "summary": "Karpenter watches for pods the scheduler could not place, works out the cheapest machine that would fit them, and asks the cloud for it. This article follows that decision all the way through.",
+      "published": "2026-10-02T18:00:12+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "Karpenter",
+        "Kubernetes",
+        "autoscaling",
+        "Node Management",
+        "Kubernetes nodes",
+        "DevOps",
+        "AWS",
+        "Cloud Native"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "What Kubernetes’ “monolith” lesson means for AI agent harnesses",
+      "link": "https://thenewstack.io/kubecon-agent-harness-koordinator",
+      "summary": "Welcome to another edition of Road to KubeCon, your source for everything Kubernetes and cloud-native as we count down the The post What Kubernetes’ “monolith” lesson means for AI agent harnesses appeared first on The New Stack .",
+      "published": "2026-10-02T16:31:26+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Bill Doerrfeld",
+      "categories": [
+        "AI Agents",
+        "Cloud Native Ecosystem",
+        "Kubecon Cloudnativecon NA 2026",
+        "Kubernetes",
+        "Road to KubeCon",
+        "sponsor-hpe",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure Weekly Update - 2nd October 2026",
+      "link": "https://www.youtube.com/watch?v=yluw5tkRdbE",
+      "summary": "Nice selection of updates this week!\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation queue...",
+      "published": "2026-10-02T15:57:37+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/yluw5tkRdbE/mqdefault.jpg"
+    },
+    {
+      "title": "KubeCon + CloudNativeCon North America 2026: Join the cloud native community at OpenTofu Day",
+      "link": "https://www.cncf.io/blog/2026/10/02/kubecon-cloudnativecon-north-america-2026-join-the-cloud-native-community-at-opentofu-day",
+      "summary": "Most of KubeCon + CloudNativeCon assumes the cluster already exists. OpenTofu Day covers everything that has to be provisioned before and around it: cloud accounts, networking, managed services, and the clusters themselves. On November 9, OpenTofu...",
+      "published": "2026-10-02T15:22:44+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Sebastian Stadil, OpenTofu",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“No reason why everyone should have an identical Claude experience”: Anthropic’s mods let you change Claude Code’s look and behavior",
+      "link": "https://thenewstack.io/anthropic-claude-code-mods-plugins",
+      "summary": "Developers have long been able to customize Claude Code to their preferences, via settings, persistent instructions in CLAUDE.md, hooks, and The post “No reason why everyone should have an identical Claude experience”: Anthropic’s mods let you change Claude Code’s look and behavior appeared first...",
+      "published": "2026-10-02T14:07:50+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Developer tools",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "K3s vs. K8s: When lightweight Kubernetes distros win (and when they don’t)",
+      "link": "https://thenewstack.io/k3s-vs-k8s-comparison",
+      "summary": "The Kubernetes ecosystem has a complexity problem, and most teams already know it. Standard Kubernetes (K8s) is extraordinarily powerful, but The post K3s vs. K8s: When lightweight Kubernetes distros win (and when they don’t) appeared first on The New Stack .",
+      "published": "2026-10-02T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Peter Smails",
+      "categories": [
+        "Containers",
+        "Edge Computing",
+        "Kubernetes",
+        "sponsor-suse",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "KubeCon + CloudNativeCon North America 2026: From user to contributor to maintainer",
       "link": "https://www.cncf.io/blog/2026/10/01/kubecon-cloudnativecon-north-america-2026-from-user-to-contributor-to-maintainer",
@@ -4600,137 +4727,6 @@
       "author": "George Sims, Downtherabbithole.dev",
       "categories": [
         "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Multiverse says its 438B model is fast enough for AI agents. The benchmarks tell a more complicated story.",
-      "link": "https://thenewstack.io/quasar-438b-agent-compression",
-      "summary": "A 438-billion-parameter reasoning model isn’t an obvious choice when speed is a priority. Multiverse Computing is betting that compression can The post Multiverse says its 438B model is fast enough for AI agents. The benchmarks tell a more complicated story. appeared first on The New Stack .",
-      "published": "2026-09-02T20:14:53+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Your next OpenAI API timeout might not be a timeout at all",
-      "link": "https://thenewstack.io/astra-api-safety-stops",
-      "summary": "OpenAI said Tuesday that its upcoming Astra model is the company’s first to reach the Critical cybersecurity threshold in its The post Your next OpenAI API timeout might not be a timeout at all appeared first on The New Stack .",
-      "published": "2026-09-02T20:13:54+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic’s Claude failures have made agent observability a security priority",
-      "link": "https://thenewstack.io/anthropic-claude-agent-security",
-      "summary": "Anthropic aimed to steer its ship into safer, more carefully charted waters this week. The company announced it was improving The post Anthropic’s Claude failures have made agent observability a security priority appeared first on The New Stack .",
-      "published": "2026-09-02T20:12:50+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI Agents",
-        "Observability",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kubernetes v1.37: Scale Workloads to Zero with HorizontalPodAutoscaler",
-      "link": "https://kubernetes.io/blog/2026/09/02/kubernetes-v1-37-hpa-scale-to-zero-beta",
-      "summary": "Kubernetes v1.37 includes API support for horizontal autoscaling of workloads down\nto zero replicas. This feature is now Beta and enabled by default. A HorizontalPodAutoscaler (HPA) that uses a suitable object metric or external metric can now scale a\nworkload to zero replicas, then bring it back...",
-      "published": "2026-09-02T18:30:00+00:00",
-      "source": "Kubernetes Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to Use Function Calling to Let an LLM Run Your Python Code",
-      "link": "https://kodekloud.com/blog/how-to-use-function-calling-with-python",
-      "summary": "A language model cannot check your disk usage or query your database on its own. Function calling is the mechanism that changes that, and it takes about forty lines of Python to build.",
-      "published": "2026-09-02T18:16:10+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "AI",
-        "LLM",
-        "Tool Calling",
-        "AI Agents",
-        "API",
-        "Python"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Esc Bash Q&A with Abhishek | 5 days to go",
-      "link": "https://www.youtube.com/watch?v=_9NzTdRoLTE",
-      "summary": "Try the platform - escbash.com\n\nJoin our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
-      "published": "2026-09-02T17:08:13+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/_9NzTdRoLTE/mqdefault.jpg"
-    },
-    {
-      "title": "Google ships its third Gemini Flash model in six weeks",
-      "link": "https://thenewstack.io/google-ships-its-third-gemini-flash-model-in-six-weeks",
-      "summary": "Google hasn’t released a Gemini Pro model in a while, but on Wednesday, the company launched yet another set of The post Google ships its third Gemini Flash model in six weeks appeared first on The New Stack .",
-      "published": "2026-09-02T16:56:52+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Vercel built a feedback loop that treats agent instructions like software",
-      "link": "https://thenewstack.io/vercel-agent-design-guidance",
-      "summary": "Vercel ran more than 200 agent runs to build design.md, a new public prompt file designed to help agents create The post Vercel built a feedback loop that treats agent instructions like software appeared first on The New Stack .",
-      "published": "2026-09-02T15:29:58+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "AI Agents",
-        "Developer tools",
-        "Software Testing"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Your organization prioritized AI adoption, but you actually need AI fluency.",
-      "link": "https://thenewstack.io/ai-fluency-operating-model",
-      "summary": "Thanks to increasingly capable models, some parts of your business are getting faster, more capable, and more productive every month. The post Your organization prioritized AI adoption, but you actually need AI fluency. appeared first on The New Stack .",
-      "published": "2026-09-02T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Manu Narayan",
-      "categories": [
-        "AI Infrastructure",
-        "AI Operations",
-        "AI Strategy",
-        "sponsor-gitlab",
-        "sponsored-post-contributed"
       ],
       "thumbnail": ""
     }
