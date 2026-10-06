@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-10-05T13:06:31.021576+00:00",
-    "total_items": 296,
+    "generated_at": "2026-10-06T12:28:16.223839+00:00",
+    "total_items": 303,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -18,6 +18,156 @@
     ]
   },
   "items": [
+    {
+      "title": "The 2026-2028 CNCF ambassador cohort",
+      "link": "https://www.cncf.io/blog/2026/10/06/2026-2028-cncf-ambassador-cohort",
+      "summary": "This year we accepted 58 new ambassadors and said goodbye to 48. All ambassadors have given their spare time to the ecosystem in one way or another, whether they are contributing to a CNCF project, preparing...",
+      "published": "2026-10-06T11:33:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Audra Montenegro, Community & Outreach | CNCF",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "3 Bash Tricks That Save You Time",
+      "link": "https://kodekloud.com/blog/bash-cli-tricks",
+      "summary": "Three Bash shortcuts that save keystrokes: sudo !! re-runs your last command with sudo, Alt+. inserts the last arg, and !* repeats all args.",
+      "published": "2026-10-06T08:38:45+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "Linux",
+        "bash",
+        "Command Line",
+        "productivity",
+        "Shell",
+        "Terminal"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "One MCP server used 18,000 tokens before doing anything. Here’s the workaround.",
+      "link": "https://thenewstack.io/pi-agent-mcp-codemode",
+      "summary": "Pi spent much of the past year leaving MCP out of its coding agent, even as the protocol became standard The post One MCP server used 18,000 tokens before doing anything. Here’s the workaround. appeared first on The New Stack .",
+      "published": "2026-10-05T21:55:12+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "Developer tools",
+        "Model Context Protocol (MCP)"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Developers are secretly hoping OpenAI fails to ship this month",
+      "link": "https://thenewstack.io/openai-codex-shipping-sprint",
+      "summary": "OpenAI’s 28-day Codex shipping sprint has its first result, which means subscribers hoping for a free usage reset will have The post Developers are secretly hoping OpenAI fails to ship this month appeared first on The New Stack .",
+      "published": "2026-10-05T21:49:57+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubelet watches inodes. Just not until it’s an emergency.",
+      "link": "https://www.cncf.io/blog/2026/10/05/kubelet-watches-inodes-just-not-until-its-an-emergency",
+      "summary": "A worker node pages with NodeFilesystemFilesFillingUp. It’s on course to run out of inodes. You check the disk first, because that’s what everyone checks first, and it reads 83% used: 103G used, 22G available. Then you...",
+      "published": "2026-10-05T21:27:03+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Onkar Raghunath Shelke. SRE. CNCF/LFX mentor across four KubeStellar mentorship projects (2025 Terms 2 and 3). GSoC 2026 contributor with Red Hat, on JBoss Web Server tooling. CKA, RHCSA, AWS SAA. Pune, India.",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI brings text watermarking to its API — and unlike Anthropic, it’s off by default",
+      "link": "https://thenewstack.io/openai-api-text-watermarking",
+      "summary": "OpenAI has announced that developers can now opt in to watermarking text generated through its API, as the company extends The post OpenAI brings text watermarking to its API — and unlike Anthropic, it’s off by default appeared first on The New Stack .",
+      "published": "2026-10-05T19:29:15+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Engineering",
+        "Compliance",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Dynatrace’s $915M Arize deal bets AI agents are just another app to monitor",
+      "link": "https://thenewstack.io/dynatrace-arize-ai-observability",
+      "summary": "Dynatrace closed its $915 million acquisition of Arize on October 1, joining Arize’s tracing and evaluation of AI agents to The post Dynatrace’s $915M Arize deal bets AI agents are just another app to monitor appeared first on The New Stack .",
+      "published": "2026-10-05T19:06:17+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Matthew Burns",
+      "categories": [
+        "AI Agents",
+        "AI Operations",
+        "Observability",
+        "Podcast",
+        "sponsor-dynatrace",
+        "sponsored-video",
+        "Video"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The AI safety check that runs on a laptop and nearly matched a 35B model",
+      "link": "https://thenewstack.io/red-hat-guardrail-benchmark",
+      "summary": "Guardrail selection has typically meant choosing between a purpose-built classifier and an LLM acting as a judge. Decision models such The post The AI safety check that runs on a laptop and nearly matched a 35B model appeared first on The New Stack .",
+      "published": "2026-10-05T18:36:28+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Engineering",
+        "AI Models",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Scaling Kubernetes Workloads with Node Swap",
+      "link": "https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap",
+      "summary": "Memory is often the first hard limit a Kubernetes cluster hits.\nNodes run out of RAM long before they run out of CPU, and the new wave of agentic AI workloads makes this worse.\nThese workloads demand large memory footprints to start up and run untrusted code, then sit idle waiting for the next...",
+      "published": "2026-10-05T18:00:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "XCOR launches to trace outages in minutes. It still pages engineers.",
+      "link": "https://thenewstack.io/cortex-xcor-ai-observability",
+      "summary": "Palo Alto Networks introduced a new approach to AI-driven observability last week, signaling a shift from dashboards and manual incident The post XCOR launches to trace outages in minutes. It still pages engineers. appeared first on The New Stack .",
+      "published": "2026-10-05T15:04:53+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI",
+        "DevOps",
+        "Observability"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Build an AI Resume Screener with n8n",
       "link": "https://kodekloud.com/blog/n8n-resume-analyzer-with-kodekey",
@@ -4398,58 +4548,6 @@
         "Data",
         "Data Streaming",
         "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to Generate and Compare Text Embeddings With Ollama",
-      "link": "https://kodekloud.com/blog/generate-and-compare-text-embeddings-with-ollama",
-      "summary": "An embedding is a list of numbers where similar meaning gives similar numbers. Run one locally with Ollama, compare two, and semantic search stops being a buzzword and becomes arithmetic you can read.",
-      "published": "2026-09-05T17:30:26+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "AI",
-        "RAG",
-        "Vector Database",
-        "Embeddings",
-        "Semantic Search",
-        "LLM",
-        "Ollama",
-        "Python"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Claude Fable 5.1 vs. Fable 5: On real work, I couldn’t tell them apart.",
-      "link": "https://thenewstack.io/claude-fable-upgrade-tested",
-      "summary": "Anthropic launched Claude Fable 5.1 this week, calling it “our most advanced model for coding and knowledge work.”  There was The post Claude Fable 5.1 vs. Fable 5: On real work, I couldn’t tell them apart. appeared first on The New Stack .",
-      "published": "2026-09-05T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jessica Wachtel",
-      "categories": [
-        "AI Agents",
-        "AI Models",
-        "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Building trust in agentic RAG starts with evidence",
-      "link": "https://thenewstack.io/building-trust-agentic-rag",
-      "summary": "Basic retrieval-augmented generation (RAG) follows a straightforward pattern. A user asks a question, the system finds relevant content in a The post Building trust in agentic RAG starts with evidence appeared first on The New Stack .",
-      "published": "2026-09-05T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jeremy Daly",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Large Language Models",
-        "sponsor-oracle",
-        "sponsored-post-contributed"
       ],
       "thumbnail": ""
     }
