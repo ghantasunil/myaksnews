@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-10-06T12:28:16.223839+00:00",
-    "total_items": 303,
+    "generated_at": "2026-10-07T12:21:31.812611+00:00",
+    "total_items": 312,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -13,11 +13,218 @@
       "KodeKloud",
       "Kubernetes Blog",
       "Kubesimplify",
+      "LearnK8s",
       "Piyush Sachdeva",
       "The New Stack"
     ]
   },
   "items": [
+    {
+      "title": "Meshery becomes a CNCF Incubating project",
+      "link": "https://www.cncf.io/blog/2026/10/07/meshery-becomes-a-cncf-incubating-project",
+      "summary": "The CNCF Technical Oversight Committee (TOC) voted to accept Meshery as a CNCF incubating project. Meshery is used by organizations spanning aerospace, telecommunications, networking, and enterprise software as a single cloud native management plane that gives...",
+      "published": "2026-10-07T12:05:16+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "CNCF Staff",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "What’s up, Docsy? Google’s docs project joins the Linux Foundation as AI agents become readers",
+      "link": "https://thenewstack.io/docsy-linux-foundation-agents",
+      "summary": "Technical documentation is increasingly being read by AI agents, creating a new set of demands around how that information is The post What’s up, Docsy? Google’s docs project joins the Linux Foundation as AI agents become readers appeared first on The New Stack .",
+      "published": "2026-10-07T11:02:46+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Developer tools",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Tech in Five - What is MCP?",
+      "link": "https://www.youtube.com/watch?v=5EP7ZzFtK3Y",
+      "summary": "An overview of what MCP is and why its so useful.\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the...",
+      "published": "2026-10-07T07:58:31+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/5EP7ZzFtK3Y/mqdefault.jpg"
+    },
+    {
+      "title": "CNCF Welcomes OVHcloud, One of Europe’s Largest Independent Cloud Providers, as a Platinum Member",
+      "link": "https://www.cncf.io/announcements/2026/10/07/cncf-welcomes-ovhcloud-a-leading-european-cloud-provider-and-global-cloud-and-ai-player-as-a-platinum-member",
+      "summary": "Upgrade builds on OVHcloud’s decade-plus commitment to open infrastructure, interoperability and cloud portability  Key Highlights PRAGUE – Open Source Summit Europe – October 7, 2026 – The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems...",
+      "published": "2026-10-07T07:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Haley White",
+      "categories": [
+        "Announcements"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Let's break and fix our Kubernetes Investigation Agent before production",
+      "link": "https://www.youtube.com/watch?v=C7yZN03Qlow",
+      "summary": "Create your FREE account:\nhttps://fandf.co/46pq5QJ\n\nThis is the fourth episode of Building an AI Agent Zero to Hero using Gemini Enterprise Agent Platform, In this video you will learn how to evaluate the agent using 5 steps.\n- Generate the dataset\n- Analyzing the agent against the dataset\n-...",
+      "published": "2026-10-07T05:33:56+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/C7yZN03Qlow/mqdefault.jpg"
+    },
+    {
+      "title": "Build a Three-Tier Architecture on AWS with Terraform and ECS Fargate",
+      "link": "https://kodekloud.com/blog/aws-three-tier-architecture-terraform-kodekey",
+      "summary": "Build a three-tier architecture on AWS with Terraform. An ALB, a private ECS Fargate app, and RDS, with secrets injected from Secrets Manager.",
+      "published": "2026-10-07T04:22:36+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "Playground Projects",
+        "Terraform",
+        "AWS",
+        "KodeKey"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The CNCF is graduating projects faster than ever. AI agents are helping with the due diligence.",
+      "link": "https://thenewstack.io/open-source-ai-kubernetes",
+      "summary": "Back in 2018, a scrappy startup called OpenAI used Kubernetes to balance compute loads across its own data centers and The post The CNCF is graduating projects faster than ever. AI agents are helping with the due diligence. appeared first on The New Stack .",
+      "published": "2026-10-06T20:02:17+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Alex Wilhelm",
+      "categories": [
+        "AI Infrastructure",
+        "Kubernetes",
+        "Open Source",
+        "Podcast",
+        "sponsor-cncf",
+        "Sponsored",
+        "sponsored-podcast",
+        "Video"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Your phone’s vector index might be bigger than the AI model running it",
+      "link": "https://thenewstack.io/google-embeddinggemma-multimodal-search",
+      "summary": "Google released EmbeddingGemma 2 on Tuesday, putting text, code, image, video, and audio retrieval into a 740-million-parameter open model that The post Your phone’s vector index might be bigger than the AI model running it appeared first on The New Stack .",
+      "published": "2026-10-06T18:53:07+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Engineering",
+        "AI Models",
+        "Edge Computing"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Copilot tops GitHub’s own AI code review benchmark. An independent one tells a different story.",
+      "link": "https://thenewstack.io/github-reviewbench-code-review",
+      "summary": "If there’s one thing the AI software engineering world doesn’t lack, it’s benchmarks. Want to know whether an agent can The post Copilot tops GitHub’s own AI code review benchmark. An independent one tells a different story. appeared first on The New Stack .",
+      "published": "2026-10-06T18:06:25+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Developer tools",
+        "Software Testing"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The Shift to cgroup v2 in Kubernetes: What You Need to Know",
+      "link": "https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift",
+      "summary": "In Linux, cgroups (control groups) are a kernel feature used for managing system resources.\nKubernetes uses cgroups to allocate resources like CPU and memory to containers,\nensuring that applications run smoothly without interfering with each other.\nWith the release of Kubernetes v1.31, support for...",
+      "published": "2026-10-06T18:00:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Mistral’s new AI tried to escape its test environment. In three weeks, anyone can download it",
+      "link": "https://thenewstack.io/mistral-large-4-weights",
+      "summary": "Mistral launched Large 4 on Tuesday, its first major model release since Medium 3.5 at the end of April and The post Mistral’s new AI tried to escape its test environment. In three weeks, anyone can download it appeared first on The New Stack .",
+      "published": "2026-10-06T17:26:01+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Models",
+        "Open Source",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "SAP acquires TechWolf to feed more context into its HR agents",
+      "link": "https://thenewstack.io/sap-acquires-techwolf-skills",
+      "summary": "SAP on Tuesday announced that it has agreed to acquire TechWolf, a Belgian AI company that maps what employees work on The post SAP acquires TechWolf to feed more context into its HR agents appeared first on The New Stack .",
+      "published": "2026-10-06T16:52:54+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Strategy",
+        "Data"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“There is just not a room for error”: SAP is putting its AI agents in the back office",
+      "link": "https://thenewstack.io/sap-connect-joule-assistants",
+      "summary": "Earlier this year, at its Sapphire conference, SAP outlined its plans for an “Autonomous Enterprise” run in large part by The post “There is just not a room for error”: SAP is putting its AI agents in the back office appeared first on The New Stack .",
+      "published": "2026-10-06T16:38:04+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Strategy",
+        "Data"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "What's Eating My Disk? Find It with du",
+      "link": "https://kodekloud.com/blog/find-disk-usage-linux-du",
+      "summary": "Out of disk space on Linux? Use sudo du -h -d3 / | sort -h to find the biggest directories, then find to locate the large files.",
+      "published": "2026-10-06T16:08:15+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "Linux",
+        "du",
+        "Disk Usage",
+        "Command Line",
+        "sysadmin"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "The 2026-2028 CNCF ambassador cohort",
       "link": "https://www.cncf.io/blog/2026/10/06/2026-2028-cncf-ambassador-cohort",
@@ -47,6 +254,17 @@
         "Shell",
         "Terminal"
       ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Go CPU and Memory Requests and Limits in Kubernetes",
+      "link": "https://learnkube.com/go-kubernetes-requests-limits",
+      "summary": "Set Kubernetes CPU and memory requests and limits for Go services by checking GOMAXPROCS, GOMEMLIMIT, live heap, goroutine stacks, CPU throttling, and garbage collection cost.",
+      "published": "2026-10-06T00:00:00+00:00",
+      "source": "LearnK8s",
+      "type": "article",
+      "author": "Gulcan Topcu",
+      "categories": [],
       "thumbnail": ""
     },
     {
@@ -4458,96 +4676,6 @@
         "AI Engineering",
         "AI Models",
         "AI Strategy"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“Twenty years of brand building simply froze in time”: How coding agents select their tools of choice",
-      "link": "https://thenewstack.io/coding-agents-tool-choice",
-      "summary": "The impact of AI has led to a shift in interest from Search Engine Optimisation (SEO) to Answer Engine Optimisation The post “Twenty years of brand building simply froze in time”: How coding agents select their tools of choice appeared first on The New Stack .",
-      "published": "2026-09-07T12:02:31+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Developer tools",
-        "Vibe Coding"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Handling vulnerability reports: Recipe card",
-      "link": "https://www.cncf.io/blog/2026/09/07/handling-vulnerability-reports-recipe-card",
-      "summary": "Recipe Handling Vulnerability Reports Target audience (the chef) This recipe is aimed at small and medium non-security focused projects. Maintainers of a high-risk security sensitive project, you probably need a more sophisticated approach (check out https://alpha-omega.dev/) Scope...",
-      "published": "2026-09-07T11:30:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Marina Moore (Edera, TAG Security co-chair), Sherine Khoury (Red Hat, TAG Security lead)",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Microsoft AI Update August 2026",
-      "link": "https://www.youtube.com/watch?v=-lv1ktRRDfo",
-      "summary": "Major Microsoft AI updates in August 2026.\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation...",
-      "published": "2026-09-07T11:03:40+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/-lv1ktRRDfo/mqdefault.jpg"
-    },
-    {
-      "title": "Permissions belong in the assembly context",
-      "link": "https://thenewstack.io/enterprise-rag-permission-assembly",
-      "summary": "Someone moves off the finance team at 9 a.m. on a Monday. Your sync runs nightly at 2 a.m. For The post Permissions belong in the assembly context appeared first on The New Stack .",
-      "published": "2026-09-07T03:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Daniel Shimoni",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to Build Your First RAG Pipeline Over Your Own PDF Documents",
-      "link": "https://kodekloud.com/blog/build-your-first-rag-pipeline-over-pdf-documents",
-      "summary": "A model that has never seen your documents will answer questions about them anyway, confidently and wrongly. RAG fixes that by finding the right page first and handing it over with the question.",
-      "published": "2026-09-06T18:10:16+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "AI",
-        "RAG",
-        "Embeddings",
-        "Semantic Search",
-        "Vector Database",
-        "LLM",
-        "Ollama",
-        "Python"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Polars 2.0 pre-release comes with a 5x speed boost — but it could change row order",
-      "link": "https://thenewstack.io/polars-streaming-row-order",
-      "summary": "Working with large datasets can lead to slow queries and out-of-memory errors. Polars, an open-source library that developers and data The post Polars 2.0 pre-release comes with a 5x speed boost — but it could change row order appeared first on The New Stack .",
-      "published": "2026-09-06T13:30:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "Data",
-        "Data Streaming",
-        "Developer tools"
       ],
       "thumbnail": ""
     }
