@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-10-07T12:21:31.812611+00:00",
-    "total_items": 312,
+    "generated_at": "2026-10-08T12:31:01.480293+00:00",
+    "total_items": 318,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -19,6 +19,284 @@
     ]
   },
   "items": [
+    {
+      "title": "Claude Sonnet 5.5 vs. Opus 5.5: 42% cheaper and perfect on every run",
+      "link": "https://thenewstack.io/claude-sonnet-5-5-vs-opus-5-5",
+      "summary": "Anthropic launched Sonnet 5.5 six days after Opus 5.5. The company says it scores 70.6% on Terminal-Bench 4.0, ahead of The post Claude Sonnet 5.5 vs. Opus 5.5: 42% cheaper and perfect on every run appeared first on The New Stack .",
+      "published": "2026-10-08T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jessica Wachtel",
+      "categories": [
+        "AI Engineering",
+        "AI Models",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Building scalable, agent-friendly APIs for AI applications",
+      "link": "https://thenewstack.io/building-agent-friendly-apis",
+      "summary": "Nowadays, most of us interact with frontier AI models in a structured way, even if we do not always think The post Building scalable, agent-friendly APIs for AI applications appeared first on The New Stack .",
+      "published": "2026-10-08T11:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Nacho Martínez",
+      "categories": [
+        "AI Agents",
+        "API Management",
+        "Microservices",
+        "sponsor-oracle",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Redis by proxy: Percona targets the last major hurdle to Valkey adoption",
+      "link": "https://thenewstack.io/valkey-proxy-redis-percona",
+      "summary": "When Redis changed its licensing in 2024, replacing its permissive BSD license with proprietary, source-available alternatives, it prompted a major The post Redis by proxy: Percona targets the last major hurdle to Valkey adoption appeared first on The New Stack .",
+      "published": "2026-10-08T06:54:15+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "Databases",
+        "Open Source",
+        "Operations"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Build a Type-Safe Financial Extraction Engine with Pydantic AI Structured Output",
+      "link": "https://kodekloud.com/blog/pydantic-ai-invoice-extraction",
+      "summary": "Build a type-safe financial extraction engine with Pydantic AI structured output, where field validators catch bad invoice math at runtime.",
+      "published": "2026-10-08T06:38:33+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "Playground Projects",
+        "Python",
+        "AI"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "CiliumCon is back at KubeCon + CloudNativeCon North America 2026",
+      "link": "https://www.cncf.io/blog/2026/10/07/ciliumcon-is-back-at-kubecon-cloudnativecon-north-america-2026",
+      "summary": "Mark your calendars. On Monday, November 9, CilliumCon kicks off at KubeCon + CloudNativeCon North America in Salt Lake City. It’s the eighth time the event has run, and this year’s agenda goes straight at the...",
+      "published": "2026-10-07T22:38:50+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Joe Stringer, Isovalent at Cisco & Jordan Rife, Google",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "BackstageCon comes to KubeCon + CloudNativeCon North America 2026 in Salt Lake City",
+      "link": "https://www.cncf.io/blog/2026/10/07/backstagecon-comes-to-kubecon-cloudnativecon-north-america-2026-in-salt-lake-city",
+      "summary": "BackstageCon takes place all day on Monday, November 9, 2026, the day before KubeCon + CloudNativeCon North America opens in Salt Lake City. We’re excited to bring together Backstage adopters, contributors, and maintainers to share how...",
+      "published": "2026-10-07T21:59:53+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "BackstageCon",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes on Edge Day returns to KubeCon + CloudNativeCon North America 2026",
+      "link": "https://www.cncf.io/blog/2026/10/07/kubernetes-on-edge-day-returns-to-kubecon-cloudnativecon-north-america-2026",
+      "summary": "Kubernetes on Edge Day returns to KubeCon + CloudNativeCon North America 2026 on November 9 in Salt Lake City, Utah, bringing together developers and adopters from across the cloud native ecosystem to share experiences and insights...",
+      "published": "2026-10-07T21:33:31+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Mars Toktonaliev and Katerina Arzhayev, Kubernetes on Edge Day",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenSSH 10.6 deliberately breaks two features in the name of security",
+      "link": "https://thenewstack.io/openssh-breaks-compression-usernames",
+      "summary": "OpenSSH 10.6, released Tuesday, makes compression less effective and rejects some usernames that previously worked, and the maintainers knew both The post OpenSSH 10.6 deliberately breaks two features in the name of security appeared first on The New Stack .",
+      "published": "2026-10-07T21:27:33+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "DevOps",
+        "Open Source",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Claude’s cyber safeguards are getting more flexible — but not for everyone.",
+      "link": "https://thenewstack.io/anthropic-cyber-access-tiers",
+      "summary": "This week, Anthropic announced an expansion of its Cyber Verification Program (CVP), breaking access into three use case–based tiers and The post Claude’s cyber safeguards are getting more flexible — but not for everyone. appeared first on The New Stack .",
+      "published": "2026-10-07T21:25:06+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI Models",
+        "AI Strategy",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Decision models are suddenly everywhere. OpenAI’s is now public.",
+      "link": "https://thenewstack.io/openai-decision-models-deployment",
+      "summary": "This week, OpenAI opened its Decisions API to public beta and added image inputs to make fast decisions from visual The post Decision models are suddenly everywhere. OpenAI’s is now public. appeared first on The New Stack .",
+      "published": "2026-10-07T21:11:26+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI Engineering",
+        "AI Infrastructure",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes won the orchestration wars. Its teams are still fighting.",
+      "link": "https://thenewstack.io/kubernetes-teams-ai-automation",
+      "summary": "Kubernetes won the container orchestration wars. The CNCF reports that 82% of container users run Kubernetes in production. Despite its The post Kubernetes won the orchestration wars. Its teams are still fighting. appeared first on The New Stack .",
+      "published": "2026-10-07T19:57:34+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Alex Wilhelm",
+      "categories": [
+        "AI Operations",
+        "DevOps",
+        "Kubecon Cloudnativecon NA 2026",
+        "Kubernetes",
+        "Road to KubeCon",
+        "Podcast",
+        "sponsor-hpe",
+        "Sponsored",
+        "sponsored-podcast",
+        "Video"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI’s former safety lead says it’s shipping “new capability and risk every Tuesday”",
+      "link": "https://thenewstack.io/openai-safety-release-cycle",
+      "summary": "When David Robinson joined OpenAI in May 2023, the day after Sam Altman first testified before the Senate, the company’s The post OpenAI’s former safety lead says it’s shipping “new capability and risk every Tuesday” appeared first on The New Stack .",
+      "published": "2026-10-07T18:18:24+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Models",
+        "AI Strategy",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How to Run Canary Releases on Kubernetes With Argo Rollouts",
+      "link": "https://kodekloud.com/blog/how-to-run-canary-releases-on-kubernetes-with-argo-rollouts",
+      "summary": "Shipping a new version to every user at once turns one bad change into everyone's problem. See how Argo Rollouts lets a small slice of traffic try it first, and how to run your first canary.",
+      "published": "2026-10-07T18:00:55+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "Argo CD",
+        "Argo Rollouts",
+        "Canary Deployment",
+        "Kubernetes",
+        "Argo",
+        "GitOps",
+        "Continuous delivery"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic launches Haiku 5.5 at a much lower price",
+      "link": "https://thenewstack.io/anthropic-claude-haiku-5-5",
+      "summary": "Anthropic on Wednesday launched Claude Haiku 5.5, the first new version of its smallest and most affordable model in nearly The post Anthropic launches Haiku 5.5 at a much lower price appeared first on The New Stack .",
+      "published": "2026-10-07T18:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anyscale on Azure is now Generally Available",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/anyscale-on-azure-is-now-generally-available/ba-p/4562547",
+      "summary": "Anyscale on Azure is now Generally Available. Enterprises can run the Ray distributed runtime as a managed service on Azure Kubernetes Service (AKS), with workloads running in the customer’s own Azure subscription, network, and identity boundary. With General Availability, Anyscale on Azure is...",
+      "published": "2026-10-07T17:12:20+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "bobmital",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Schedule a Reboot or Shutdown for Later",
+      "link": "https://kodekloud.com/blog/schedule-linux-reboot-shutdown",
+      "summary": "Tell your Linux server when to reboot or shut down: use sudo shutdown -r 03:00 for a set time, or +4320 minutes to schedule days ahead.",
+      "published": "2026-10-07T16:26:52+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "Linux",
+        "Reboot",
+        "shutdown",
+        "Command Line",
+        "sysadmin",
+        "Scheduling"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenSearch veterans launch Infino. Here’s why it matters for agent builders.",
+      "link": "https://thenewstack.io/infino-agent-retrieval-layer",
+      "summary": "Software vendors like to claim unified systems that act as a so-called single pane of glass for any given coding The post OpenSearch veterans launch Infino. Here’s why it matters for agent builders. appeared first on The New Stack .",
+      "published": "2026-10-07T14:25:54+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Data",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "GPT-6.1 Sol vs. GPT-6 Astra: Same accuracy at 18% of the cost",
+      "link": "https://thenewstack.io/gpt-6-1-sol-vs-gpt-6-astra",
+      "summary": "OpenAI launched GPT-6.1 Sol on September 29, just a week after it launched GPT-6 Sol. OpenAI marketed 6.1 as an The post GPT-6.1 Sol vs. GPT-6 Astra: Same accuracy at 18% of the cost appeared first on The New Stack .",
+      "published": "2026-10-07T14:17:13+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jessica Wachtel",
+      "categories": [
+        "AI Models",
+        "Large Language Models",
+        "Software Testing"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Meshery becomes a CNCF Incubating project",
       "link": "https://www.cncf.io/blog/2026/10/07/meshery-becomes-a-cncf-incubating-project",
@@ -4510,172 +4788,6 @@
         "AI Agents",
         "AI Infrastructure",
         "Platform Engineering"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kubernetes access via an identity provider: Public client, not confidential",
-      "link": "https://www.cncf.io/blog/2026/09/08/kubernetes-access-via-an-identity-provider-public-client-not-confidential",
-      "summary": "Access control belongs on the same day-zero checklist as networking and storage. On most on-prem clusters, it never makes the list. The Identity Gap Managed cloud Kubernetes ships IAM or SSO integration out of the box....",
-      "published": "2026-09-08T11:30:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Kolawole Olowoporoku | CNCF Ambassador and Senior Platform Engineer",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Distributed tracing for CI pipelines without touching a single workflow file",
-      "link": "https://www.cncf.io/blog/2026/09/08/distributed-tracing-for-ci-pipelines-without-touching-a-single-workflow-file",
-      "summary": "You’ve probably felt this one: GitHub Actions usage creeps up across your org, and your actual visibility into it doesn’t keep pace. Which workflows are slow? Which are flaky? How long are jobs sitting queued for...",
-      "published": "2026-09-08T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "George Sims, downtherabbithole.dev",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why You Don't Need To Be a Developer for DevOps (the truth)",
-      "link": "https://www.youtube.com/watch?v=78iD2BTRlcA",
-      "summary": "You do not need to be a developer to get a DevOps job. You do need to read, write and debug code, and those are two very different bars.\nIf you picked DevOps because you wanted to avoid coding, watch this before you spend another year on the wrong plan.\n\nI get this comment almost every week: \"I...",
-      "published": "2026-09-08T10:00:06+00:00",
-      "source": "Piyush Sachdeva",
-      "type": "video",
-      "author": "Tech Tutorials with Piyush",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/78iD2BTRlcA/mqdefault.jpg"
-    },
-    {
-      "title": "Cloud Native Computing Foundation Announces Karmada Graduation",
-      "link": "https://www.cncf.io/announcements/2026/09/07/cloud-native-computing-foundation-announces-karmada-graduation",
-      "summary": "Multi-cluster, multi-cloud Kubernetes orchestration project reaches production maturity as global enterprises scale AI training and inference across hybrid infrastructure Key Highlights SHANGHAI, China – KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China 2026 –...",
-      "published": "2026-09-08T02:06:17+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Haley White",
-      "categories": [
-        "Announcements"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "CNCF Welcomes New Silver Members as Enterprises Scale AI From Training to Inference",
-      "link": "https://www.cncf.io/announcements/2026/09/07/cncf-welcomes-new-silver-members-as-enterprises-scale-ai-from-training-to-inference",
-      "summary": "New members including SoftBank Corp. and Crusoe join the cloud native community to help build cost-efficient, sovereign infrastructure SHANGHAI, China – KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China 2026 – September 8, 2026...",
-      "published": "2026-09-08T01:58:47+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Haley White",
-      "categories": [
-        "Announcements"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "China Merchants Bank Wins CNCF End User Case Study Contest for Unifying AI Training and Inference on Kubernetes",
-      "link": "https://www.cncf.io/announcements/2026/09/07/china-merchants-bank-wins-cncf-end-user-case-study-contest-for-unifying-ai-training-and-inference-on-kubernetes",
-      "summary": "New cloud native platform lifted average accelerator compute utilization from 35% to more than 60% and cut inference cost per 1 million tokens by more than 60% Key Highlights SHANGHAI, China – KubeCon + CloudNativeCon +...",
-      "published": "2026-09-08T01:54:31+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Haley White",
-      "categories": [
-        "Announcements"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "CNCF and SlashData Report Highlights China’s Cloud Native Momentum as AI Moves to Inference",
-      "link": "https://www.cncf.io/announcements/2026/09/07/cncf-and-slashdata-report-highlights-chinas-cloud-native-momentum-as-ai-moves-to-inference",
-      "summary": "New research finds China’s IIoT developers (48%) outpace the global average (42%) in cloud native adoption as AI infrastructure matures Key Highlights: SHANGHAI – KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China —Sept. 8,...",
-      "published": "2026-09-08T01:50:55+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Haley White",
-      "categories": [
-        "Announcements"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“Some agents will be pursuing their own objectives”: OpenAI’s chief scientist warns AI could trick and blackmail humans",
-      "link": "https://thenewstack.io/openai-voluntary-slowdown-safety",
-      "summary": "Just days after OpenAI launched its newest and most powerful model dubbed Astra, which the company said marked the arrival The post “Some agents will be pursuing their own objectives”: OpenAI’s chief scientist warns AI could trick and blackmail humans appeared first on The New Stack .",
-      "published": "2026-09-07T23:37:39+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AI agents are creating more work, not less — and OpenAI’s own numbers back it up",
-      "link": "https://thenewstack.io/openai-agent-research-bottleneck",
-      "summary": "OpenAI says it hit a goal it set last fall, stating researchers are now using what the company calls an The post AI agents are creating more work, not less — and OpenAI’s own numbers back it up appeared first on The New Stack .",
-      "published": "2026-09-07T19:05:17+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "AI Operations"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Esc Bash is Live | Ask me Anything",
-      "link": "https://www.youtube.com/watch?v=Zkhzl5F9yp8",
-      "summary": "Try the platform - escbash.com\n\nJoin our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
-      "published": "2026-09-07T18:43:14+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/Zkhzl5F9yp8/mqdefault.jpg"
-    },
-    {
-      "title": "How to Chunk Documents So Your Retrieval Returns the Right Answer",
-      "link": "https://kodekloud.com/blog/how-to-chunk-documents-for-better-retrieval",
-      "summary": "Chunking decides more of your retrieval quality than the model does, and the obvious way to measure it rewards the worst possible answer. Here are eight strategies, measured on the same documents.",
-      "published": "2026-09-07T18:00:19+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "RAG",
-        "AI",
-        "Chunking",
-        "Embeddings",
-        "Retrieval",
-        "Vector Database",
-        "LLM",
-        "Python",
-        "Evaluation"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI’s new model costs 2.5x more per token — and developers are saving money anyway",
-      "link": "https://thenewstack.io/astra-reasoning-effort-cost",
-      "summary": "GPT-6 Astra has an obvious problem for developers considering an upgrade from GPT-5.6 Sol: its tokens cost 2.5 times as The post OpenAI’s new model costs 2.5x more per token — and developers are saving money anyway appeared first on The New Stack .",
-      "published": "2026-09-07T16:12:18+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Engineering",
-        "AI Models",
-        "AI Strategy"
       ],
       "thumbnail": ""
     }
