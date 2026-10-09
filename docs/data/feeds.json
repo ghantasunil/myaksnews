@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-10-08T12:31:01.480293+00:00",
-    "total_items": 318,
+    "generated_at": "2026-10-09T12:19:50.429912+00:00",
+    "total_items": 325,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -15,10 +15,313 @@
       "Kubesimplify",
       "LearnK8s",
       "Piyush Sachdeva",
+      "Rawkode Academy",
       "The New Stack"
     ]
   },
   "items": [
+    {
+      "title": "Join Platform Engineering Day at KubeCon + CloudNativeCon North America 2026",
+      "link": "https://www.cncf.io/blog/2026/10/09/join-platform-engineering-day-at-kubecon-cloudnativecon-north-america-2026",
+      "summary": "As organizations accelerate their adoption of AI and cloud native technologies, platform teams are being asked to solve a growing set of challenges. How can developers access new capabilities such as AI safely and efficiently? How...",
+      "published": "2026-10-09T12:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Paula Kennedy, Stacey Potter, and Ramiro Berrelleza, Platform Engineering Day",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AWS, Upstage and Ollama agree on a decision-model API. OpenAI hasn’t signed on.",
+      "link": "https://thenewstack.io/decision-models-system-one",
+      "summary": "AWS’s new decision model comes with a familiar address. Released October 1, Strands Decider 2B is an open-weight model built The post AWS, Upstage and Ollama agree on a decision-model API. OpenAI hasn’t signed on. appeared first on The New Stack .",
+      "published": "2026-10-09T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Janakiram MSV",
+      "categories": [
+        "AI Agents",
+        "AI Models",
+        "API Management"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "know kubectl? meet datumctl",
+      "link": "https://www.youtube.com/watch?v=f3GcxnoGY7A",
+      "summary": "Your kubectl skills carry over to Datum. In this walkthrough, I’ll show you how to use datumctl to log in, switch between projects, discover API resources, and inspect DNS zones with familiar commands like get, describe, and my favourite: explain.\n\nWe’ll also explore YAML output, JSONPath, and...",
+      "published": "2026-10-09T11:30:11+00:00",
+      "source": "Rawkode Academy",
+      "type": "video",
+      "author": "Rawkode Academy",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/f3GcxnoGY7A/mqdefault.jpg"
+    },
+    {
+      "title": "Making the Golden Kubestronaut a little more golden",
+      "link": "https://www.cncf.io/blog/2026/10/09/making-the-golden-kubestronaut-a-little-more-golden",
+      "summary": "When I became a Golden Kubestronaut, I wanted to celebrate the achievement in a way that felt lasting. Like most technical achievements, certifications usually live digitally. You receive the  badge, update your profile, and eventually move...",
+      "published": "2026-10-09T11:30:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Eman Omar | Golden Kubestronaut",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Who owns NIS2 and DORA on a Kubernetes platform team",
+      "link": "https://www.cncf.io/blog/2026/10/09/who-owns-nis2-and-dora-on-a-kubernetes-platform-team",
+      "summary": "There is a meeting that repeats across a lot of European engineering organizations right now. Someone from legal or risk brings a NIS2 control, a DORA article, or a “can we evidence this” request into the...",
+      "published": "2026-10-09T08:07:47+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Matteo Bisi, Reevo",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“Don’t use ‘open weight’ and ‘open source’ interchangeably”: Percona CEO on why AI terminology matters",
+      "link": "https://thenewstack.io/open-weight-open-source-ai",
+      "summary": "The AI industry has enthusiastically embraced the language of open source, even as some of its most prominent “open” models The post “Don’t use ‘open weight’ and ‘open source’ interchangeably”: Percona CEO on why AI terminology matters appeared first on The New Stack .",
+      "published": "2026-10-09T06:43:21+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Models",
+        "Large Language Models",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Don’t give AI agents root. Make them propose the next system state.",
+      "link": "https://www.cncf.io/blog/2026/10/08/dont-give-ai-agents-root-make-them-propose-the-next-system-state",
+      "summary": "The uncomfortable question In the past few months, I’ve been hearing different versions of the same question: under what conditions can we safely allow an autonomous system to operate a machine? It comes up when my...",
+      "published": "2026-10-08T22:21:41+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Mauro Morales | CNCF Ambassador",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Harness bought Augment’s coding agents. The best feature hasn’t shipped yet.",
+      "link": "https://thenewstack.io/harness-augment-cosmos-acquisition",
+      "summary": "Harness announced Thursday that it acquired Augment Code’s Cosmos software factory, Auggie CLI and Code Context Engine, along with the The post Harness bought Augment’s coding agents. The best feature hasn’t shipped yet. appeared first on The New Stack .",
+      "published": "2026-10-08T21:38:41+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "Developer tools",
+        "DevOps"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Claude can now build your dashboards",
+      "link": "https://thenewstack.io/claude-dashboards-data-motion",
+      "summary": "A month after OpenAI gave ChatGPT Work a data agent that builds dashboards, Anthropic on Thursday shipped its own version.  Claude Dashboards, The post Claude can now build your dashboards appeared first on The New Stack .",
+      "published": "2026-10-08T19:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Data"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Introducing AKS Multi-NIC with DRANET",
+      "link": "https://www.youtube.com/watch?v=vnTG964NCL4",
+      "summary": "AKS Multi-NIC with DRANET is now public preview in Azure Kubernetes Service. Pods can now use multiple network interfaces, and those network devices are managed as first-class Kubernetes resources.\n\nLearn more: https://aka.ms/aks/multi-nic",
+      "published": "2026-10-08T18:43:55+00:00",
+      "source": "AKS (Official)",
+      "type": "video",
+      "author": "Azure Kubernetes Service (AKS)",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/vnTG964NCL4/mqdefault.jpg"
+    },
+    {
+      "title": "GitHub Copilot is going local — but Microsoft won’t say what gets sent to the cloud",
+      "link": "https://thenewstack.io/https-thenewstack-io-copilot-local-inference-routing",
+      "summary": "GitHub Copilot will soon decide whether coding tasks run locally or get sent to cloud models, with automatic routing expected The post GitHub Copilot is going local — but Microsoft won’t say what gets sent to the cloud appeared first on The New Stack .",
+      "published": "2026-10-08T17:49:31+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "Developer tools",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The AI Infrastructure Stack in 2026: Every Layer Explained",
+      "link": "https://kodekloud.com/blog/ai-infrastructure-stack",
+      "summary": "Compute, orchestration, data, models, serving and monitoring: a clear map of the six layers behind every production AI system, and the tools teams run at each one.",
+      "published": "2026-10-08T17:42:11+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "AI",
+        "Kubernetes",
+        "MLOps",
+        "DevOps",
+        "LLM",
+        "AI Infrastructure"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Next big thing at escbash.com",
+      "link": "https://www.youtube.com/watch?v=qMp-LN5pN-4",
+      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
+      "published": "2026-10-08T17:29:17+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/qMp-LN5pN-4/mqdefault.jpg"
+    },
+    {
+      "title": "You can outgrow vanilla Postgres without abandoning Postgres",
+      "link": "https://thenewstack.io/postgres-at-scale-why-it-struggles",
+      "summary": "For many data aficionados, Postgres is the way to store and manage relational data. It’s efficient, it’s straightforward, and it The post You can outgrow vanilla Postgres without abandoning Postgres appeared first on The New Stack .",
+      "published": "2026-10-08T16:23:19+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Kimberly Fessel",
+      "categories": [
+        "AI Engineering",
+        "Backend development",
+        "Data",
+        "Databases",
+        "sponsor-tiger-data",
+        "Sponsored",
+        "sponsored-webinar"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Most AI incident tools still leave a key decision to humans",
+      "link": "https://thenewstack.io/ai-sre-agent-autonomy-phases",
+      "summary": "An AI SRE agent can help troubleshoot an incident. But can you trust it to decide on its own when The post Most AI incident tools still leave a key decision to humans appeared first on The New Stack .",
+      "published": "2026-10-08T16:20:24+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Charles Humble",
+      "categories": [
+        "AI Engineering",
+        "AI Operations",
+        "DevOps",
+        "Observability",
+        "sponsor-traversal",
+        "sponsored-webinar"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Your AI agent just provisioned a resource. Who owns it?",
+      "link": "https://thenewstack.io/ai-agent-cloud-ownership",
+      "summary": "The environment has thirty-four resources, including a VPC, subnets, an RDS instance, and a load balancer that hasn’t seen any The post Your AI agent just provisioned a resource. Who owns it? appeared first on The New Stack .",
+      "published": "2026-10-08T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Zeen Rachidi",
+      "categories": [
+        "AI Agents",
+        "FinOps",
+        "Platform Engineering",
+        "sponsor-env-zero",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The audit log says my name: what an agent inherits when you hand it your credentials",
+      "link": "https://thenewstack.io/ai-agent-credential-risks",
+      "summary": "I measured what an AI agent actually holds when it authenticates as me. Authentication turned out to be a token The post The audit log says my name: what an agent inherits when you hand it your credentials appeared first on The New Stack .",
+      "published": "2026-10-08T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Naseeb Ahmed Mian",
+      "categories": [
+        "AI Agents",
+        "Model Context Protocol (MCP)",
+        "Security",
+        "sponsor-andela",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI data lakes are driving new storage demands",
+      "link": "https://thenewstack.io/ai-data-lakes-storage",
+      "summary": "The frenetic pace of AI development is challenging data center design and operational paradigms. The twin pillars of hyperscale computing The post AI data lakes are driving new storage demands appeared first on The New Stack .",
+      "published": "2026-10-08T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Mrinal Kochar",
+      "categories": [
+        "AI",
+        "AI Infrastructure",
+        "Storage",
+        "sponsor-sandisk",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The API tax: Why AI agents stall without infrastructure context",
+      "link": "https://thenewstack.io/autonomous-cloud-context-layer",
+      "summary": "Enterprises continue to face an autonomous cloud bottleneck that breaks autonomous operations and leads to failure. This architectural flaw leaves The post The API tax: Why AI agents stall without infrastructure context appeared first on The New Stack .",
+      "published": "2026-10-08T13:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Oleg Danilyuk",
+      "categories": [
+        "AI Agents",
+        "AI Operations",
+        "Infrastructure as Code",
+        "sponsor-env-zero",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI changed how you respond to incidents. Your tabletops haven’t caught up.",
+      "link": "https://thenewstack.io/ai-incident-response-tabletops",
+      "summary": "Tabletop exercises answer one question: when something breaks, will the people responsible for fixing it do the right thing, in The post AI changed how you respond to incidents. Your tabletops haven’t caught up. appeared first on The New Stack .",
+      "published": "2026-10-08T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Andy Gombar",
+      "categories": [
+        "AI Operations",
+        "DevOps",
+        "Security",
+        "sponsor-webflow",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Claude Sonnet 5.5 vs. Opus 5.5: 42% cheaper and perfect on every run",
       "link": "https://thenewstack.io/claude-sonnet-5-5-vs-opus-5-5",
@@ -4603,192 +4906,6 @@
       "type": "article",
       "author": "christinchen",
       "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "K2 Horizon just shipped as six new fully open models — developers aren’t fully convinced",
-      "link": "https://thenewstack.io/k2-horizon-fully-open",
-      "summary": "Based in the Emirati capital, Abu Dhabi, the Institute of Foundation Models (IFM) introduced K2 Horizon last week. This group The post K2 Horizon just shipped as six new fully open models — developers aren’t fully convinced appeared first on The New Stack .",
-      "published": "2026-09-09T12:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI",
-        "AI Models",
-        "Developer tools",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Whose GPUs are these, anyway? Secure, self-service metrics for multi-tenant Kubernetes",
-      "link": "https://www.cncf.io/blog/2026/09/09/whose-gpus-are-these-anyway-secure-self-service-metrics-for-multi-tenant-kubernetes",
-      "summary": "The question that stopped the meeting It was a routine cost review. The slide showed the month’s GPU spend, the biggest line on the whole infrastructure bill, and someone asked a five-word question: “Are we using...",
-      "published": "2026-09-09T11:27:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Bingi Narasimha Karthik (Golden Kubestronaut, Adobe) and Ramkumar Nagaraj (Golden Kubestronaut, Adobe)",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Harness rebuilt its Git repository for nonstop AI agent traffic",
-      "link": "https://thenewstack.io/harness-ai-code-review",
-      "summary": "As one of Harness’s field CTOs, Martin Reynolds spends much of his time asking engineering leaders one question with no The post Harness rebuilt its Git repository for nonstop AI agent traffic appeared first on The New Stack .",
-      "published": "2026-09-09T11:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Developer tools",
-        "DevOps",
-        "Podcast",
-        "Video"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How cloud native goes AI native",
-      "link": "https://www.cncf.io/blog/2026/09/09/how-cloud-native-goes-ai-native",
-      "summary": "“A sales guy writing code” used to be the lead-up to a joke. But now no one’s laughing. Designers used to sit meekly waiting for the high priests of code to make their designs real. Now...",
-      "published": "2026-09-09T08:13:23+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Doron Grinstein, CEO of Control Plane",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Esc Bash - complete walkthrough | Best practical learning platform",
-      "link": "https://www.youtube.com/watch?v=HHDrwgh_wTA",
-      "summary": "Try the platform - escbash.com\n\nJoin our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
-      "published": "2026-09-09T05:05:47+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/HHDrwgh_wTA/mqdefault.jpg"
-    },
-    {
-      "title": "How Azure uses AI to turn feedback into improved customer experiences",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/how-azure-uses-ai-to-turn-feedback-into-improved-customer/ba-p/4552810",
-      "summary": "The Challenge: Synthesizing fragmented feedback signals, to improve Azure's experience quality at scale Customers experience products and services end to end, but product experiences are often structured around individual service. One team may only know its top issues, while another may see only...",
-      "published": "2026-09-08T22:51:21+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "bharadwajr",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic promised 20x more usage. Then developers hit a weekly ceiling.",
-      "link": "https://thenewstack.io/anthropic-claude-max-lawsuit",
-      "summary": "Anthropic sells its top-tier Claude Max subscription with the promise of 20 times more usage than its $20-a-month Pro plan. The post Anthropic promised 20x more usage. Then developers hit a weekly ceiling. appeared first on The New Stack .",
-      "published": "2026-09-08T22:16:28+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI",
-        "AI Strategy",
-        "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "DeepSeek is hiring 150 engineers, and none of them will touch a model",
-      "link": "https://thenewstack.io/deepseek-dsec-agent-hiring",
-      "summary": "Hundreds of thousands of AI agent sandboxes can already run concurrently on a single DeepSeek cluster. Now the company is The post DeepSeek is hiring 150 engineers, and none of them will touch a model appeared first on The New Stack .",
-      "published": "2026-09-08T19:01:08+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "AI Operations"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kubernetes v1.37: Advancing Workload-Aware Scheduling",
-      "link": "https://kubernetes.io/blog/2026/09/08/kubernetes-v1-37-advancing-workload-aware-scheduling",
-      "summary": "AI/ML and complex batch workloads continue to push the boundaries of Kubernetes scheduling. Following the foundational workload-centric enhancements introduced in previous releases, Kubernetes v1.37 delivers the next major milestone in the Workload-Aware Scheduling (WAS) journey. In this release,...",
-      "published": "2026-09-08T18:30:00+00:00",
-      "source": "Kubernetes Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to Count Tokens and Estimate Your LLM API Costs Before You Ship",
-      "link": "https://kodekloud.com/blog/count-tokens-and-estimate-llm-api-costs",
-      "summary": "Your bill is decided by two numbers you can measure before shipping anything. Most cost surprises come from the second one, and from text you send over and over without noticing.",
-      "published": "2026-09-08T18:00:28+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "Tokens",
-        "LLM",
-        "AI",
-        "Tiktoken",
-        "Cost Optimization",
-        "Python"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Wiring Azure DevOps Pipeline Templates Without the Parameter Sprawl: The Manifest Facade Pattern",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/wiring-azure-devops-pipeline-templates-without-the-parameter/ba-p/4554182",
-      "summary": "Where reusable pipelines start to hurt Who this is for: Platform and DevOps engineers who build shared Azure DevOps Pipeline Templates and want other teams to adopt them consistently. If you have ever built a set of shared Azure DevOps Pipeline Templates, you probably know how this goes. You write...",
-      "published": "2026-09-08T17:28:12+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "pratikpanda",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "AI broke code review. Two experts disagree on what replaces it.",
-      "link": "https://thenewstack.io/ai-code-review-pipelines",
-      "summary": "Ask two experienced engineers about how to handle the flood of AI-generated code in their review queues, and you’ll get The post AI broke code review. Two experts disagree on what replaces it. appeared first on The New Stack .",
-      "published": "2026-09-08T15:35:42+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "TNS Staff",
-      "categories": [
-        "AI Engineering",
-        "CI/CD",
-        "DevOps",
-        "Software Testing",
-        "sponsor-octopus-deploy",
-        "sponsored-webinar"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "After nine years as HashiCorp CEO, Dave McJannet now wants to “unblock” enterprise AI agents",
-      "link": "https://thenewstack.io/hashicorp-mcjannet-dome-agents",
-      "summary": "Ask a traditional enterprise application for a customer address or today’s revenue figures and, broadly speaking, it follows a predictable The post After nine years as HashiCorp CEO, Dave McJannet now wants to “unblock” enterprise AI agents appeared first on The New Stack .",
-      "published": "2026-09-08T12:59:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Infrastructure",
-        "Platform Engineering"
-      ],
       "thumbnail": ""
     }
   ]
