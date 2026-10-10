@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-10-09T12:19:50.429912+00:00",
-    "total_items": 325,
+    "generated_at": "2026-10-10T11:37:45.963525+00:00",
+    "total_items": 324,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,127 @@
     ]
   },
   "items": [
+    {
+      "title": "Elon Musk’s Grok Bot will pick Claude over Grok when it’s better. One-model loyalty is dead.",
+      "link": "https://thenewstack.io/musk-claude-model-triage",
+      "summary": "I’m Matt Burns, Chief Content Officer at Insight Media Group. Each week, I round up the most important AI developments, The post Elon Musk’s Grok Bot will pick Claude over Grok when it’s better. One-model loyalty is dead. appeared first on The New Stack .",
+      "published": "2026-10-10T10:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Matthew Burns",
+      "categories": [
+        "AI Models",
+        "Large Language Models",
+        "Software Testing"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Qwen3.8-27B on a $2 H100 Azure Spot VM: does it pay off?",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/qwen3-8-27b-on-a-2-h100-azure-spot-vm-does-it-pay-off/ba-p/4563387",
+      "summary": "For three hours on the morning of October 9, a single H100 in Azure served 1,434 requests to Qwen3.8-27B: 168.7 million input tokens in, 1.27 million output tokens out. At a public list price for this model that day ($0.425 per million input tokens, $0.085 per million cached input tokens and $2.55...",
+      "published": "2026-10-10T07:27:28+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Wuyi_Weng",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes on cgroup v1 is dead. Here’s what comes next.",
+      "link": "https://thenewstack.io/kubernetes-node-swap-ai",
+      "summary": "Welcome back to another edition of Road to KubeCon, where we’re tracking the latest movements in the cloud-native ecosystem as The post Kubernetes on cgroup v1 is dead. Here’s what comes next. appeared first on The New Stack .",
+      "published": "2026-10-09T20:15:46+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Bill Doerrfeld",
+      "categories": [
+        "AI Infrastructure",
+        "Edge Computing",
+        "Kubecon Cloudnativecon NA 2026",
+        "Kubernetes",
+        "Road to KubeCon",
+        "sponsor-hpe",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Cloudflare acquires Node.js creator’s startup that copied its serverless playbook",
+      "link": "https://thenewstack.io/cloudflare-acquires-deno-ryan-dahl",
+      "summary": "Cloudflare is buying the startup co-founded by Node.js creator Ryan Dahl, a longtime competitor that recently built its own open-source The post Cloudflare acquires Node.js creator’s startup that copied its serverless playbook appeared first on The New Stack .",
+      "published": "2026-10-09T18:52:36+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "JavaScript",
+        "Open Source",
+        "Serverless"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The Tech Stack Behind Quick Commerce: How 10 Minute Delivery Apps Run",
+      "link": "https://kodekloud.com/blog/quick-commerce-tech-stack",
+      "summary": "Ten minute delivery looks like magic from the app. Underneath, a chain of geospatial lookups, live inventory, event streams and rider dispatch has seconds to do its job, and this is how it fits together.",
+      "published": "2026-10-09T17:24:44+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "System Design",
+        "Microservices",
+        "Kafka",
+        "Redis",
+        "DevOps",
+        "Cloud Architecture",
+        "Platform Engineering",
+        "Event Driven Architecture"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure Weekly Update - 9th October 2026",
+      "link": "https://www.youtube.com/watch?v=65a5WX2SGEU",
+      "summary": "Nice selection of updates this week!\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation queue...",
+      "published": "2026-10-09T15:47:00+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/65a5WX2SGEU/mqdefault.jpg"
+    },
+    {
+      "title": "Explore Datum Without Memorising Resource Names | datumctl Console",
+      "link": "https://www.youtube.com/watch?v=N4rCXYUBKPI",
+      "summary": "Explore Datum Cloud without memorising resource names. `datumctl console` opens a full-screen, keyboard-driven interface for browsing resources, checking quota and recent activity, and inspecting resource details—all from your terminal.\n\nIn this walkthrough:\n• Browse resource types and filter DNS...",
+      "published": "2026-10-09T13:25:13+00:00",
+      "source": "Rawkode Academy",
+      "type": "video",
+      "author": "Rawkode Academy",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/N4rCXYUBKPI/mqdefault.jpg"
+    },
+    {
+      "title": "Amazon ECS now auto-repairs failing GPUs and instances. Here’s why it matters for SREs.",
+      "link": "https://thenewstack.io/amazon-ecs-auto-repair",
+      "summary": "Running applications in production means maintaining an “always-on” posture through disruptions. Infrastructure fails; dependencies slow down, and networks partition, not The post Amazon ECS now auto-repairs failing GPUs and instances. Here’s why it matters for SREs. appeared first on The New Stack...",
+      "published": "2026-10-09T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Anirudh Aithal",
+      "categories": [
+        "Cloud Services",
+        "Containers",
+        "DevOps",
+        "sponsor-aws-marketplace",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Join Platform Engineering Day at KubeCon + CloudNativeCon North America 2026",
       "link": "https://www.cncf.io/blog/2026/10/09/join-platform-engineering-day-at-kubecon-cloudnativecon-north-america-2026",
@@ -4773,139 +4894,6 @@
         "Sponsored",
         "sponsored-post"
       ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kubernetes disaster recovery: Guidance from three reproducible failure scenarios",
-      "link": "https://www.cncf.io/blog/2026/09/10/kubernetes-disaster-recovery-guidance-from-three-reproducible-failure-scenarios",
-      "summary": "Scope This document describes three failure scenarios that separate having backups from being able to recover, and the guidance that follows from each. Every scenario is reproducible on a laptop from the lab repository above, and...",
-      "published": "2026-09-10T11:37:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Saiyam Pathak, Saloni Narang | CNCF Ambassadors",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“AI factories are among the most complex systems ever built”: Nvidia and Palantir turn Nvidia’s supply chain into a proving ground for sovereign AI",
-      "link": "https://thenewstack.io/ai-factories-are-among-the-most-complex-systems-ever-built-nvidia-and-palantir-turn-nvidias-supply-chain-into-a-proving-ground-for-sovereign-ai",
-      "summary": "Nvidia and Palantir announced on Thursday that they’re working together to bring “sovereign AI to critical supply chains,” kicking off The post “AI factories are among the most complex systems ever built”: Nvidia and Palantir turn Nvidia’s supply chain into a proving ground for sovereign AI...",
-      "published": "2026-09-10T09:00:43+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Infrastructure",
-        "AI Models",
-        "AI Operations"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Claude performed best on a new benchmark for ‘agents that build agents’. But it passed fewer than a quarter of the tests.",
-      "link": "https://thenewstack.io/claude-build-agents-benchmark",
-      "summary": "AI models now power all manner of agents, from coding assistants that write and debug software to customer service systems The post Claude performed best on a new benchmark for ‘agents that build agents’. But it passed fewer than a quarter of the tests. appeared first on The New Stack .",
-      "published": "2026-09-09T20:14:09+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Engineering",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI gave an AI the power to block its own engineers’ code",
-      "link": "https://thenewstack.io/openai-ai-code-review",
-      "summary": "Every pull request submitted by an OpenAI engineer now goes through an automated security review, and the AI model can The post OpenAI gave an AI the power to block its own engineers’ code appeared first on The New Stack .",
-      "published": "2026-09-09T19:53:08+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Engineering",
-        "Security",
-        "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“It could kill us all”: what Anthropic’s own researchers really think about superintelligence",
-      "link": "https://thenewstack.io/anthropic-alignment-superintelligence-warnings",
-      "summary": "On Tuesday evening, Anthropic pretraining researcher Jacob Coxon announced on X that he’d resigned. Within hours, two of his colleagues The post “It could kill us all”: what Anthropic’s own researchers really think about superintelligence appeared first on The New Stack .",
-      "published": "2026-09-09T19:51:46+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI",
-        "AI Models",
-        "Tech Culture"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kubernetes v1.37: Introducing Node Lifecycle Conditions",
-      "link": "https://kubernetes.io/blog/2026/09/09/kubernetes-v1-37-node-lifecycle-conditions",
-      "summary": "Kubernetes has many ways to describe what is happening on a Node. Readiness,\ntaints, Pod state, labels, annotations, and provider-specific APIs each expose\npart of the picture. What has been missing is a shared, Kubernetes-owned way to\nsay that a Node is draining ,\nundergoing maintenance, or...",
-      "published": "2026-09-09T18:30:00+00:00",
-      "source": "Kubernetes Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to Run an Open Source LLM Locally With Ollama",
-      "link": "https://kodekloud.com/blog/how-to-run-an-open-source-llm-locally-with-ollama",
-      "summary": "Every guide gives you a table of speeds from hardware you do not own. This one builds a small tool that measures your own machine instead, then explains what the numbers mean.",
-      "published": "2026-09-09T18:00:33+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "LLM",
-        "AI",
-        "Ollama",
-        "Local LLM",
-        "Python",
-        "Linux",
-        "GPU",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How much control should AI get? A CISO roundtable takes on SOC autonomy",
-      "link": "https://thenewstack.io/ai-agents-soc-autonomy",
-      "summary": "Security operations centers have struggled with alerts for years, and AI agents offer a new way to tackle it: Enable The post How much control should AI get? A CISO roundtable takes on SOC autonomy appeared first on The New Stack .",
-      "published": "2026-09-09T15:38:58+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Carly Page",
-      "categories": [
-        "AI Agents",
-        "AI Operations",
-        "Security",
-        "sponsored-webinar"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Azure Copilot announces general availability of the Troubleshooting Agent",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-copilot-announces-general-availability-of-the/ba-p/4554549",
-      "summary": "Cloud operations are most effective when teams can turn insights into understanding and understanding into action. Whether you’re deploying new services, troubleshooting an issue, assessing resource health, or managing change, you need operational intelligence that helps you make faster, more...",
-      "published": "2026-09-09T15:00:00+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "christinchen",
-      "categories": [],
       "thumbnail": ""
     }
   ]
