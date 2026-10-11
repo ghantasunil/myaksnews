@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-10-10T11:37:45.963525+00:00",
-    "total_items": 324,
+    "generated_at": "2026-10-11T11:51:12.652326+00:00",
+    "total_items": 311,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,60 @@
     ]
   },
   "items": [
+    {
+      "title": "AI Developer Tools in 2026: What AI Engineers Use to Build, Deploy and Monitor LLM Apps",
+      "link": "https://kodekloud.com/blog/ai-developer-tools",
+      "summary": "Lost in endless lists of AI developer tools? Follow one clear path from your first local model to tested, traced and deployed LLM apps, with code you can run on a laptop today.",
+      "published": "2026-10-10T17:30:00+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "AI",
+        "LLM",
+        "AI Agents",
+        "MCP",
+        "LLMOps",
+        "DevOps",
+        "AI Developer Tools",
+        "AI Engineering",
+        "AI Coding Assistants",
+        "Kubernetes"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How to turn AI production feedback into better agents",
+      "link": "https://thenewstack.io/ai-agent-evaluation-loop",
+      "summary": "Your agent is live. The service is healthy. But are its answers getting better? By connecting production traces, curated data, The post How to turn AI production feedback into better agents appeared first on The New Stack .",
+      "published": "2026-10-10T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Chen Goldberg",
+      "categories": [
+        "AI Agents",
+        "AI Operations",
+        "Observability",
+        "sponsor-coreweave",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Microsoft skipped OpenAI’s decision model and built its own on Alibaba’s Qwen",
+      "link": "https://thenewstack.io/microsoft-decision-model-foundry",
+      "summary": "Microsoft on Friday launched Microsoft-Decision-1 in Foundry, three days after OpenAI opened its Decisions API to every developer in public The post Microsoft skipped OpenAI’s decision model and built its own on Alibaba’s Qwen appeared first on The New Stack .",
+      "published": "2026-10-10T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Models",
+        "AI Strategy"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Elon Musk’s Grok Bot will pick Claude over Grok when it’s better. One-model loyalty is dead.",
       "link": "https://thenewstack.io/musk-claude-model-triage",
@@ -4647,252 +4701,6 @@
         "Serverless",
         "sponsor-aws-marketplace",
         "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Building a reliable cloud native foundation for distributed AI training",
-      "link": "https://www.cncf.io/blog/2026/09/11/building-a-reliable-cloud-native-foundation-for-distributed-ai-training",
-      "summary": "AI workloads are changing what platform teams need from infrastructure. Provisioning GPUs and standing up a cluster no longer makes a platform “AI-ready.” Once training spans more than one node, the bottlenecks show up in places...",
-      "published": "2026-09-11T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Abhi Kulkarni and Shishir Jindal, Atlassian",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AWS open-sources Pizza Bot: email-style inbox for background AI agents",
-      "link": "https://thenewstack.io/aws-pizza-bot-agent-inbox",
-      "summary": "Amazon Web Services (AWS) has released a new open-source application dubbed Pizza Bot, which gives developers an email-style inbox for The post AWS open-sources Pizza Bot: email-style inbox for background AI agents appeared first on The New Stack .",
-      "published": "2026-09-10T22:54:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Model Context Protocol",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI split a voice model’s brain. Then one team deleted 23,000 lines of code.",
-      "link": "https://thenewstack.io/gpt-live-1-voice-api",
-      "summary": "Building an AI voice agent has always been clunkier than it seems. Most voice agents are really a chain of The post OpenAI split a voice model’s brain. Then one team deleted 23,000 lines of code. appeared first on The New Stack .",
-      "published": "2026-09-10T20:08:18+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“Six tools, one harness”: Salesforce loops together a six-pack of favorites",
-      "link": "https://thenewstack.io/salesforce-enterprise-ai-harness",
-      "summary": "Salesforce introduced its Salesforce Enterprise AI Harness on Thursday as a formalized amalgamation of the AI harness concepts and infrastructure The post “Six tools, one harness”: Salesforce loops together a six-pack of favorites appeared first on The New Stack .",
-      "published": "2026-09-10T20:03:25+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Data"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“Valuable warning shots”: How Anthropic now views Claude’s cyber incidents",
-      "link": "https://thenewstack.io/anthropic-claude-cyber-alignment",
-      "summary": "This week, Anthropic acknowledged that the three cyber incidents it disclosed this summer weren’t just the result of a misconfigured The post “Valuable warning shots”: How Anthropic now views Claude’s cyber incidents appeared first on The New Stack .",
-      "published": "2026-09-10T19:54:35+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "AI Models",
-        "Security",
-        "Software Testing"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Shopify spent years on React Native — then rebuilt everything in 12 weeks",
-      "link": "https://thenewstack.io/shopify-native-ai-agents",
-      "summary": "In 2020, Shopify made a bet that resonated across the developer world by writing mobile code once in React Native The post Shopify spent years on React Native — then rebuilt everything in 12 weeks appeared first on The New Stack .",
-      "published": "2026-09-10T19:46:50+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "GPT Images 2.5 promises edits that leave the rest of your image alone",
-      "link": "https://thenewstack.io/gpt-images-2-5-sunburst-flare",
-      "summary": "When OpenAI launched GPT Images 2.5 this week, the company promised better results for a common editing task: changing one The post GPT Images 2.5 promises edits that leave the rest of your image alone appeared first on The New Stack .",
-      "published": "2026-09-10T19:46:32+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "AI"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Mistral wants open-weight AI to compete at the frontier. It just raised $3.5 billion to do it.",
-      "link": "https://thenewstack.io/mistral-funding-open-infrastructure",
-      "summary": "This week, Mistral announced it raised €3 billion in a Series D funding round, pushing its post-money valuation past €21 The post Mistral wants open-weight AI to compete at the frontier. It just raised $3.5 billion to do it. appeared first on The New Stack .",
-      "published": "2026-09-10T19:37:30+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "AI"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kubernetes v1.37: Scheduler Preemption for In-Place Pod Resize (Alpha)",
-      "link": "https://kubernetes.io/blog/2026/09/10/kubernetes-v1-37-scheduler-preemption-for-in-place-pod-resize-alpha",
-      "summary": "In Kubernetes, resource allocation has historically been a static decision made during a Pod's initial scheduling and placement. With the graduation of the core in-Place Pod resize feature to General Availability in v1.35, application developers and cluster operators gained the powerful ability to...",
-      "published": "2026-09-10T18:30:00+00:00",
-      "source": "Kubernetes Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to Stream LLM Responses Token by Token With Server Sent Events",
-      "link": "https://kodekloud.com/blog/stream-llm-responses-with-server-sent-events",
-      "summary": "Streaming does not speed anything up. The same request takes the same time either way. What changes is when the reader stops staring at nothing, and that turns out to be most of the experience.",
-      "published": "2026-09-10T17:30:46+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "AI",
-        "LLM",
-        "Ollama",
-        "Streaming",
-        "Server Events",
-        "Python",
-        "API",
-        "Cloud"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Red Hat AI 3.5 tackles the GPU queue that can stall AI pilots",
-      "link": "https://thenewstack.io/red-hat-ai-multitenancy",
-      "summary": "Red Hat released Red Hat AI 3.5 this week, a move designed to let software engineering teams run AI with The post Red Hat AI 3.5 tackles the GPU queue that can stall AI pilots appeared first on The New Stack .",
-      "published": "2026-09-10T17:01:36+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI",
-        "AI Operations",
-        "Platform Engineering"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Researchers found that 1 in 5 MCP access policies came back broken or missing",
-      "link": "https://thenewstack.io/mcp-vibe-coding-security",
-      "summary": "Bob from finance built a scheduling tool last month. He described it to an AI assistant on a Sunday afternoon, The post Researchers found that 1 in 5 MCP access policies came back broken or missing appeared first on The New Stack .",
-      "published": "2026-09-10T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Yasmin Rajabi",
-      "categories": [
-        "Model Context Protocol (MCP)",
-        "Security",
-        "Vibe Coding",
-        "contributed-cloudbolt"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Fable 5.1 vs. Fable 5: Results on a real-world budget, not the spec sheet",
-      "link": "https://thenewstack.io/claude-fable-benchmark-budget",
-      "summary": "When Anthropic launched Claude Fable 5.1 this month, it centered the announcement around one benchmark result: its Terminal-Bench-Science score. In The post Fable 5.1 vs. Fable 5: Results on a real-world budget, not the spec sheet appeared first on The New Stack .",
-      "published": "2026-09-10T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jessica Wachtel",
-      "categories": [
-        "AI Engineering",
-        "AI Models",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "47,000 job listings reveal the engineering roles that AI is creating",
-      "link": "https://thenewstack.io/ai-engineering-roles-emerging",
-      "summary": "Every major transformation in tech has led to roles merging, then new ones emerging. Friction between developers and operations drove The post 47,000 job listings reveal the engineering roles that AI is creating appeared first on The New Stack .",
-      "published": "2026-09-10T13:09:28+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jennifer Riggins",
-      "categories": [
-        "AI",
-        "AI Engineering",
-        "AI Strategy",
-        "Tech Careers",
-        "sponsor-andela",
-        "Sponsored",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Stop AI code sprawl before it destroys your software design",
-      "link": "https://thenewstack.io/stop-ai-code-sprawl",
-      "summary": "While AI code generators help teams ship faster than ever, that speed brings a hidden killer: Comprehension Debt. As soon The post Stop AI code sprawl before it destroys your software design appeared first on The New Stack .",
-      "published": "2026-09-10T12:30:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Emmanuel Akita",
-      "categories": [
-        "AI Engineering",
-        "CI/CD",
-        "Python",
-        "sponsor-andela",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AI floods security teams with flaws — business context sets priorities",
-      "link": "https://thenewstack.io/vulnerability-prioritization-business-context",
-      "summary": "A security researcher testing a 300-person B2B company with a global footprint discovered an internet-exposed database with weak authentication during The post AI floods security teams with flaws — business context sets priorities appeared first on The New Stack .",
-      "published": "2026-09-10T12:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Megan Carnegie",
-      "categories": [
-        "AI",
-        "Cloud Services",
-        "Security",
-        "sponsor-i-o-mergent",
-        "Sponsored",
-        "sponsored-post"
       ],
       "thumbnail": ""
     }
