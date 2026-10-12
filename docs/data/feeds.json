@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-10-11T11:51:12.652326+00:00",
-    "total_items": 311,
+    "generated_at": "2026-10-12T13:57:56.179586+00:00",
+    "total_items": 305,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,78 @@
     ]
   },
   "items": [
+    {
+      "title": "From zero to agent builder: Running kagent on your laptop",
+      "link": "https://www.cncf.io/blog/2026/10/12/from-zero-to-agent-builder-running-kagent-on-your-laptop",
+      "summary": "If you have seen a demo of a no-code agent builder, you know the moment. Someone types one sentence, waits a minute, and there it is: a new agent, running, with tools. It is impressive. For...",
+      "published": "2026-10-12T11:30:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Antonio Berben(Solo.io) and Felipe Vicens(Telefónica)",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Looking at the new Copilot \"Super App\"",
+      "link": "https://www.youtube.com/watch?v=YSFSR8d58Bk",
+      "summary": "Spent some time using and reading about the Copilot Super App and wanted to share capabilities but also what it means for organizations.\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:33 - Pace of AI change and possibilities\n02:34 - Home\n03:40 - Enterprise knowledge\n05:59 - Chat\n10:24 -...",
+      "published": "2026-10-12T10:57:41+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/YSFSR8d58Bk/mqdefault.jpg"
+    },
+    {
+      "title": "Fix a Suddenly Slow Linux Server",
+      "link": "https://kodekloud.com/blog/fix-slow-linux-server",
+      "summary": "Linux server suddenly slow? Use ps and pidstat to find the process hogging CPU, RAM, or disk, then stop it with kill or kill -9.",
+      "published": "2026-10-12T08:13:59+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "Linux",
+        "Performance",
+        "Troubleshooting",
+        "ps",
+        "kill",
+        "sysadmin"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Claude Code found my app’s shared contract in two MCP calls. Then the records ran out.",
+      "link": "https://thenewstack.io/claude-code-mcp-records",
+      "summary": "Every Claude Code user has watched a new session start from zero. You open it on a system you built The post Claude Code found my app’s shared contract in two MCP calls. Then the records ran out. appeared first on The New Stack .",
+      "published": "2026-10-11T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Ignacio Aldama",
+      "categories": [
+        "AI Agents",
+        "Model Context Protocol",
+        "contributed-bit"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Claude found 29,000 possible bugs in open source. Only 516 have been fixed.",
+      "link": "https://thenewstack.io/anthropic-oss-scanner-vulnerabilities",
+      "summary": "Anthropic’s new OSS Scanner, launched last week as part of its broader Cyber Mission, exposes a problem inside the company’s The post Claude found 29,000 possible bugs in open source. Only 516 have been fixed. appeared first on The New Stack .",
+      "published": "2026-10-11T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI",
+        "Open Source",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "AI Developer Tools in 2026: What AI Engineers Use to Build, Deploy and Monitor LLM Apps",
       "link": "https://kodekloud.com/blog/ai-developer-tools",
@@ -4539,167 +4611,6 @@
         "sponsor-dynatrace",
         "sponsor-signadot",
         "Sponsored",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Jacob Coxon warns AI could kill us all. Anthropic’s own report exposes safety gaps.",
-      "link": "https://thenewstack.io/coxon-anthropic-ai-monitoring-failures",
-      "summary": "I’m Matt Burns, Chief Content Officer at Insight Media Group. Each week, I round up the most important AI developments, The post Jacob Coxon warns AI could kill us all. Anthropic’s own report exposes safety gaps. appeared first on The New Stack .",
-      "published": "2026-09-12T11:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Matthew Burns",
-      "categories": [
-        "AI Agents",
-        "Observability",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI’s researchers burned $7,000 a day on AI agents — now it’s opening the floodgates",
-      "link": "https://thenewstack.io/openai-agents-api-compute",
-      "summary": "OpenAI rolled out its Agents API in public beta Thursday, opening the backend behind Codex to developers looking to run The post OpenAI’s researchers burned $7,000 a day on AI agents — now it’s opening the floodgates appeared first on The New Stack .",
-      "published": "2026-09-11T21:27:42+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Cloud Services"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Azure App Service is now a trigger destination for Azure Managed Connectors",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-app-service-is-now-a-trigger-destination-for-azure-managed/ba-p/4555785",
-      "summary": "Azure Managed Connectors, currently in public preview, now lets you choose Azure App Service as a trigger destination . Connector events can be delivered directly to applications running on App Service, including ASP.NET Core, Java, Node.js, and Python applications. This is a new capability in the...",
-      "published": "2026-09-11T18:41:02+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "jordanselig",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kubernetes v1.37: Native Histograms Graduates to Beta",
-      "link": "https://kubernetes.io/blog/2026/09/11/kubernetes-v1-37-native-histograms-beta",
-      "summary": "I'm excited to announce that native histogram support for Kubernetes metrics is graduating to Beta and is enabled by default in Kubernetes v1.37! Native histograms (previously introduced as Alpha in Kubernetes v1.36 under KEP-5808 )\nbring high-resolution, low-cardinality observability to Kubernetes...",
-      "published": "2026-09-11T18:30:00+00:00",
-      "source": "Kubernetes Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI’s safety system is already cutting off API responses mid-task",
-      "link": "https://thenewstack.io/openai-slowing-ai-development",
-      "summary": "AI companies have spent the last few years competing to build the best models, faster than the other, with each The post OpenAI’s safety system is already cutting off API responses mid-task appeared first on The New Stack .",
-      "published": "2026-09-11T17:52:56+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Models",
-        "AI Strategy",
-        "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Cohere’s new translation model is open weights — but not for commercial use",
-      "link": "https://thenewstack.io/cohere-translation-commercial-licensing",
-      "summary": "This week, Cohere released North Small Translate 1.0 under a CC BY-NC 4.0 license: the weights are there to download, The post Cohere’s new translation model is open weights — but not for commercial use appeared first on The New Stack .",
-      "published": "2026-09-11T17:50:11+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "AI Infrastructure",
-        "AI Models",
-        "AI Strategy"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kubernetes v1.37 brings 67 enhancements. Which matter for operators?",
-      "link": "https://thenewstack.io/kubecon-kubernetes-updates-security",
-      "summary": "Welcome to the first edition of Road to KubeCon, where we’ll track the world of Kubernetes as we approach KubeCon The post Kubernetes v1.37 brings 67 enhancements. Which matter for operators? appeared first on The New Stack .",
-      "published": "2026-09-11T17:40:04+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Bill Doerrfeld",
-      "categories": [
-        "AI Infrastructure",
-        "Cloud Native Ecosystem",
-        "Kubecon Cloudnativecon NA 2026",
-        "Kubernetes",
-        "Road to KubeCon",
-        "sponsor-hpe",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to Build a Simple Evaluation Harness for Your LLM Prompts",
-      "link": "https://kodekloud.com/blog/build-a-simple-evaluation-harness-for-llm-prompts",
-      "summary": "You changed a prompt and the outputs look different. Better or worse? Without a way to check, that question gets answered by whoever argues hardest, and this builds the thing that answers it instead.",
-      "published": "2026-09-11T17:00:37+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "Evaluation",
-        "AI",
-        "LLM",
-        "Prompt Engineering",
-        "Ollama",
-        "KodeKey",
-        "Python"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Azure Weekly Update - 11th September 2026",
-      "link": "https://www.youtube.com/watch?v=C6CkxsjjEas",
-      "summary": "Really quick update!\n\nCharity event URL at https://give.curechildhoodcancer.org/fundraiser/7465401\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even...",
-      "published": "2026-09-11T15:03:02+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/C6CkxsjjEas/mqdefault.jpg"
-    },
-    {
-      "title": "KubeCon + CloudNativeCon North America 2026: Your Week in Salt Lake City",
-      "link": "https://www.cncf.io/blog/2026/09/11/kubecon-cloudnativecon-north-america-2026-your-week-in-salt-lake-city",
-      "summary": "This November, the cloud native community is heading to Salt Lake City. From November 9–12, 2026, KubeCon + CloudNativeCon North America will bring together adopters and technologists from across open source and cloud native communities for...",
-      "published": "2026-09-11T12:29:33+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "epower",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How AWS Lambda logs every flow across thousands of microVMs per host with eBPF and Rust",
-      "link": "https://thenewstack.io/aws-lambda-ebpf-rust",
-      "summary": "On any compute platform, when a security alert fires, the question is always the same. Which workload talked to that The post How AWS Lambda logs every flow across thousands of microVMs per host with eBPF and Rust appeared first on The New Stack .",
-      "published": "2026-09-11T12:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Prashant Kumar Singh",
-      "categories": [
-        "eBPF",
-        "Rust",
-        "Serverless",
-        "sponsor-aws-marketplace",
         "sponsored-post-contributed"
       ],
       "thumbnail": ""
