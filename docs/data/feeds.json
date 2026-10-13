@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-10-12T13:57:56.179586+00:00",
-    "total_items": 305,
+    "generated_at": "2026-10-13T13:13:56.977599+00:00",
+    "total_items": 311,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,137 @@
     ]
   },
   "items": [
+    {
+      "title": "Workday is using TypeSafe’s Jev to build user interfaces on the fly",
+      "link": "https://thenewstack.io/workday-is-using-typesafes-jev-to-build-user-interfaces-on-the-fly",
+      "summary": "Workday on Tuesday made Sana, its AI assistant, the new home screen for its HR, finance, and IT software. If The post Workday is using TypeSafe’s Jev to build user interfaces on the fly appeared first on The New Stack .",
+      "published": "2026-10-13T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Workday goes headless, opening its HR and finance data to outside AI agents",
+      "link": "https://thenewstack.io/workday-headless-mcp-agents",
+      "summary": "Workday is opening up its platform and allowing developers to build their own HR and finance agents in Claude Code, The post Workday goes headless, opening its HR and finance data to outside AI agents appeared first on The New Stack .",
+      "published": "2026-10-13T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "Model Context Protocol (MCP)"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The X Subscription bundles Cursor with Grok and X Premium. But Claude now costs extra.",
+      "link": "https://thenewstack.io/x-subscription-cursor-pricing",
+      "summary": "Elon Musk’s mission to unify his sprawling tech empire continues apace, with the news that X, Grok, and Cursor are The post The X Subscription bundles Cursor with Grok and X Premium. But Claude now costs extra. appeared first on The New Stack .",
+      "published": "2026-10-13T12:25:19+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Models",
+        "AI Strategy",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“A major overhaul”: OpenCode 2.0 puts its terminal, desktop, and web apps on one shared service",
+      "link": "https://thenewstack.io/opencode-2-shared-service",
+      "summary": "OpenCode 2.0 is getting a formal unpacking today, some three months after its public beta launch. The sizable architectural upgrade The post “A major overhaul”: OpenCode 2.0 puts its terminal, desktop, and web apps on one shared service appeared first on The New Stack .",
+      "published": "2026-10-12T21:11:33+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Developer tools",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "GPUs on Kubernetes are bring-your-own-everything, starting with the bill",
+      "link": "https://thenewstack.io/gpus-on-kubernetes",
+      "summary": "If you run a Kubernetes platform, you’ve probably got at least one Grafana dashboard for resource visibility on your workloads. The post GPUs on Kubernetes are bring-your-own-everything, starting with the bill appeared first on The New Stack .",
+      "published": "2026-10-12T20:48:01+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Yasmin Rajabi",
+      "categories": [
+        "Kubernetes"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Google paid $90,000 for this bug, then waited two months to fix it",
+      "link": "https://thenewstack.io/google-devsite-rce-bounty",
+      "summary": "Google took two months to patch an unauthenticated RCE vulnerability in its developer documentation infrastructure. The problem was a reused The post Google paid $90,000 for this bug, then waited two months to fix it appeared first on The New Stack .",
+      "published": "2026-10-12T20:47:17+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "Developer tools",
+        "Python",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Coding agents made building easy. Platform teams that build from scratch are 3.5x more likely to lack a strategy.",
+      "link": "https://thenewstack.io/coding-agents-platform-teams",
+      "summary": "Build-or-buy is usually framed as an engineering trade-off, where developer time is weighed against integration and migration overhead, and control The post Coding agents made building easy. Platform teams that build from scratch are 3.5x more likely to lack a strategy. appeared first on The New...",
+      "published": "2026-10-12T19:28:27+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Charlotte Fleming",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Strategy",
+        "contributed-octopus-deploy"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Qwen3.8-Flash-Next on two H100s in an Azure Spot VM",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/qwen3-8-flash-next-on-two-h100s-in-an-azure-spot-vm/ba-p/4563893",
+      "summary": "With 150,000 tokens of context, one request to Qwen3.8-Flash-Next decoded at about 200 tokens a second, and its first token arrived in under a second, because 95% of the prompt came from the cache. That held while the agents kept up to five requests running at once. At seven, one request in twenty...",
+      "published": "2026-10-12T17:05:45+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Wuyi_Weng",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Andrej Karpathy says only 5,000 people have seen what AI can really do",
+      "link": "https://thenewstack.io/karpathy-levie-ai-capability-gap",
+      "summary": "OpenAI founding member Andrej Karpathy, who joined Anthropic in May, thinks most of the world has little idea of what The post Andrej Karpathy says only 5,000 people have seen what AI can really do appeared first on The New Stack .",
+      "published": "2026-10-12T15:54:20+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Strategy",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "From zero to agent builder: Running kagent on your laptop",
       "link": "https://www.cncf.io/blog/2026/10/12/from-zero-to-agent-builder-running-kagent-on-your-laptop",
@@ -4558,58 +4689,6 @@
         "AI Engineering",
         "Observability",
         "sponsor-dynatrace",
-        "Sponsored",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why MCP security is about permissions overhaul",
-      "link": "https://thenewstack.io/mcp-security-permissions-overhaul",
-      "summary": "Anthropic’s Model Context Protocol (MCP) went into production in late 2024. It spread rapidly after that.  Since then, thousands of The post Why MCP security is about permissions overhaul appeared first on The New Stack .",
-      "published": "2026-09-12T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Mohit Bansal",
-      "categories": [
-        "AI Agents",
-        "Model Context Protocol (MCP)",
-        "Security",
-        "sponsor-webflow",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“Same mission, bigger stage”: OpenAI hires Git AI founders to help Codex prove its ROI",
-      "link": "https://thenewstack.io/openai-hires-git-ai",
-      "summary": "OpenAI has hired the founders of Git AI, an open-source tool that tracks how much code AI writes and measures The post “Same mission, bigger stage”: OpenAI hires Git AI founders to help Codex prove its ROI appeared first on The New Stack .",
-      "published": "2026-09-12T14:46:53+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Developer tools",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The AI-native SDLC won’t be one process",
-      "link": "https://thenewstack.io/spec-driven-sdlc-gates",
-      "summary": "Anthropic recently published its AI-Native SDLC Playbook. Its central claim is that “code is no longer the bottleneck.” When agents The post The AI-native SDLC won’t be one process appeared first on The New Stack .",
-      "published": "2026-09-12T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Anirudh Ramanathan",
-      "categories": [
-        "AI Engineering",
-        "DevOps",
-        "Platform Engineering",
-        "sponsor-dynatrace",
-        "sponsor-signadot",
         "Sponsored",
         "sponsored-post-contributed"
       ],
