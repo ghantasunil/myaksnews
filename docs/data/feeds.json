@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-10-13T13:13:56.977599+00:00",
-    "total_items": 311,
+    "generated_at": "2026-10-14T10:53:30.617482+00:00",
+    "total_items": 312,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,100 @@
     ]
   },
   "items": [
+    {
+      "title": "Tech in Five - What is Computer Use?",
+      "link": "https://www.youtube.com/watch?v=pwsUd72-58U",
+      "summary": "An overview of what Computer Use is and why it is needed!\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in...",
+      "published": "2026-10-14T10:46:28+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/pwsUd72-58U/mqdefault.jpg"
+    },
+    {
+      "title": "66% of billion-dollar companies leave critical bugs unpatched — the part the AI bug-hunting hype leaves out",
+      "link": "https://thenewstack.io/chainguard-mythos-security-harness",
+      "summary": "Chainguard has launched an AI-powered security harness that uses frontier models, including Anthropic’s restricted Claude Mythos 5.1, to find and The post 66% of billion-dollar companies leave critical bugs unpatched — the part the AI bug-hunting hype leaves out appeared first on The New Stack .",
+      "published": "2026-10-14T05:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "CI/CD",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Add Cloud Commands with Plugins | datumctl",
+      "link": "https://www.youtube.com/watch?v=s4y63B3sP4Q",
+      "summary": "datumctl stays small, and plugins add the cloud commands you need. In this walkthrough, I'll show you how to find, install, list, use, and upgrade plugins, starting with DNS.\n\nWe'll install the DNS plugin, create a zone and records, check nameserver delegation, and explore how plugins share your...",
+      "published": "2026-10-13T19:30:33+00:00",
+      "source": "Rawkode Academy",
+      "type": "video",
+      "author": "Rawkode Academy",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/s4y63B3sP4Q/mqdefault.jpg"
+    },
+    {
+      "title": "AgentOps explained with detailed Roadmap",
+      "link": "https://www.youtube.com/watch?v=dWSpwf6T2hc",
+      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
+      "published": "2026-10-13T17:08:42+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/dWSpwf6T2hc/mqdefault.jpg"
+    },
+    {
+      "title": "Anthropic’s red team ran AI on 15 cheap TV boxes. Then the math got unsettling.",
+      "link": "https://thenewstack.io/self-replicating-ai-worms",
+      "summary": "For roughly $825, Anthropic’s Frontier Red Team built a cluster of 15 off-brand Android TV boxes that runs an AI The post Anthropic’s red team ran AI on 15 cheap TV boxes. Then the math got unsettling. appeared first on The New Stack .",
+      "published": "2026-10-13T16:40:24+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Models",
+        "Edge Computing",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Gemini 4 Argon debuts with a unified 1M input/output token limit",
+      "link": "https://thenewstack.io/gemini-4-argon-live",
+      "summary": "On Tuesday, Google made Gemini 4 Argon, the company’s new flagship model, available to developers on the paid tier of The post Gemini 4 Argon debuts with a unified 1M input/output token limit appeared first on The New Stack .",
+      "published": "2026-10-13T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The agent did the work. The audit log couldn’t say who asked.",
+      "link": "https://thenewstack.io/ai-agent-credentials-identity-provider",
+      "summary": "More than 20 percent of the MCP-related access policies that Shawn Petty’s team reviewed across customer and prospect environments were The post The agent did the work. The audit log couldn’t say who asked. appeared first on The New Stack .",
+      "published": "2026-10-13T15:00:48+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "TNS Staff",
+      "categories": [
+        "AI Agents",
+        "Compliance",
+        "Platform Engineering",
+        "Security",
+        "sponsor-cloudbolt",
+        "sponsored-webinar"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Workday is using TypeSafe’s Jev to build user interfaces on the fly",
       "link": "https://thenewstack.io/workday-is-using-typesafes-jev-to-build-user-interfaces-on-the-fly",
@@ -4595,102 +4689,6 @@
         "AI Infrastructure",
         "FinOps",
         "Contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Cilium 1.20: Gateway API ExternalAuth, TCPRoute/UDPRoute, ENI IPAM for IPv6, and more",
-      "link": "https://www.cncf.io/blog/2026/09/14/cilium-1-20-gateway-api-externalauth-tcproute-udproute-eni-ipam-for-ipv6-and-more",
-      "summary": "Cilium 1.20, the second major open source Cilium release of 2026 after Cilium 1.19, is finally here. Three themes stand out in this release: Thank you to every contributor, reviewer and maintainer who made Cilium 1.20...",
-      "published": "2026-09-14T10:45:49+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Nico Vibert and Donia Chaiehloudj, Cilium",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to Ground LLM Answers With Citations and Cut Hallucinations",
-      "link": "https://kodekloud.com/blog/ground-llm-answers-with-citations",
-      "summary": "One sentence in a prompt stopped a model inventing answers entirely. Adding citations on top made it slightly worse, and the citations it did produce could not be trusted without checking them.",
-      "published": "2026-09-13T17:30:03+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "AI",
-        "LLM",
-        "RAG",
-        "Hallucination",
-        "Citations",
-        "Grounding",
-        "Python",
-        "Evaluation"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "End of DevOps Jobs with GPT-6 Astra?",
-      "link": "https://www.youtube.com/watch?v=mD2u8oN9PP8",
-      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
-      "published": "2026-09-13T17:07:13+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/mD2u8oN9PP8/mqdefault.jpg"
-    },
-    {
-      "title": "Chip Huyen explains how to cut inference costs without new hardware",
-      "link": "https://thenewstack.io/pg-99-conf-2026-inference-costs",
-      "summary": "Last October, the P99 conference — the online gathering for developers focused on high-performance, low-latency applications — featured a cracking The post Chip Huyen explains how to cut inference costs without new hardware appeared first on The New Stack .",
-      "published": "2026-09-13T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Tim Koopmans",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "AI Infrastructure",
-        "sponsor-scylladb",
-        "Sponsored",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“Machine translation is still broken for most of the world’s languages”: Cohere builds non-reasoning for a reason",
-      "link": "https://thenewstack.io/cohere-north-translate-sovereignty",
-      "summary": "Enterprise AI company Cohere announced North Small Translate last week, a mixture-of-experts (MOE) open-weight machine translation model that works across The post “Machine translation is still broken for most of the world’s languages”: Cohere builds non-reasoning for a reason appeared first on The...",
-      "published": "2026-09-13T14:21:46+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI",
-        "AI Infrastructure",
-        "AI Models",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "It passed CI. It passed your evals. The customer still got the wrong answer.",
-      "link": "https://thenewstack.io/ai-agent-trace-debugging",
-      "summary": "A diff is not evidence. It’s a statement of intent. The tests passed. The review’s done. The change is live. The post It passed CI. It passed your evals. The customer still got the wrong answer. appeared first on The New Stack .",
-      "published": "2026-09-13T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Sean O’Dell",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Observability",
-        "sponsor-dynatrace",
-        "Sponsored",
-        "sponsored-post-contributed"
       ],
       "thumbnail": ""
     }
