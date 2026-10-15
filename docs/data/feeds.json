@@ -1,12 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-10-14T10:53:30.617482+00:00",
-    "total_items": 312,
+    "generated_at": "2026-10-15T10:35:44.445793+00:00",
+    "total_items": 314,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
       "Abhishek Veeramalla",
-      "Alex Ellis",
       "Apps on Azure",
       "CNCF Blog",
       "John Savill",
@@ -20,6 +19,220 @@
     ]
   },
   "items": [
+    {
+      "title": "Enterprise Adoption Guide for Azure SRE Agent, Part 2: From One Team to Enterprise-Wide Adoption",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/enterprise-adoption-guide-for-azure-sre-agent-part-2-from-one/ba-p/4564311",
+      "summary": "In Part 1: From First Use Case to Automated Workflows , we focused on identifying use cases and getting setup with your initial SRE Agent. Teams see the value, and now you need to decide how adoption should expand. These are the questions we increasingly hear from teams. Who should share an agent?...",
+      "published": "2026-10-15T03:51:09+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "dchelupati",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Enterprise Adoption Guide for Azure SRE Agent, Part 1: Deploying Your First Azure SRE Agent",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/enterprise-adoption-guide-for-azure-sre-agent-part-1-deploying/ba-p/4564306",
+      "summary": "We have learned a lot from talking with teams that are bringing Azure SRE Agent into their day-to-day operations. Across those conversations, we have seen a common set of questions emerge as teams move from exploring an initial use case to adopting SRE Agent more broadly. Some teams are starting...",
+      "published": "2026-10-15T03:50:21+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "dchelupati",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Linus Torvalds let Claude Code fix the Linux page cache. Then reviewers found a race.",
+      "link": "https://thenewstack.io/torvalds-claude-code-kernel",
+      "summary": "Linux creator and longtime lead maintainer Linus Torvalds turned to Anthropic’s Claude Code to tackle a kernel performance problem that The post Linus Torvalds let Claude Code fix the Linux page cache. Then reviewers found a race. appeared first on The New Stack .",
+      "published": "2026-10-14T22:59:18+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Engineering",
+        "Linux",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Platform Engineering vs DevOps",
+      "link": "https://kodekloud.com/blog/platform-engineering-vs-devops",
+      "summary": "Platform engineering vs DevOps in one example: a platform team builds shared templates and a self-service portal that all 20 dev teams use.",
+      "published": "2026-10-14T19:21:42+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "Platform Engineering",
+        "DevOps",
+        "CI/CD",
+        "Developer Experience",
+        "internal developer platform",
+        "idp"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp",
+      "link": "https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp",
+      "summary": "You submit a Kubernetes Job and\nwait for its Pods to appear. A minute passes. Then another. The Job is still suspended, there are no\napplication logs, and there may not even be a Pod to inspect. In a cluster managed by Kueue , this can be completely normal. Kueue\nmay still be deciding whether the...",
+      "published": "2026-10-14T18:35:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "The Core Technologies Behind Modern Software Delivery",
+      "link": "https://kodekloud.com/blog/core-technologies-modern-software-delivery",
+      "summary": "Modern software reaches users through a chain of technologies, from your editor to Kubernetes. See what each link does, which tools lead each layer in 2026 and what to learn first.",
+      "published": "2026-10-14T18:06:13+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "DevOps",
+        "Software Delivery",
+        "Software Development",
+        "CI/CD",
+        "Docker",
+        "Kubernetes",
+        "Cloud",
+        "Infrastructure as Code",
+        "Observability",
+        "DevSecOps"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Researchers left a hidden message for rogue AI agents. Then the agents wrote back.",
+      "link": "https://thenewstack.io/rogue-ai-agent-fleet-tencent",
+      "summary": "A team of researchers investigating AI agents trying to bypass Alibaba’s anti-bot protections left a hidden message inviting the agents The post Researchers left a hidden message for rogue AI agents. Then the agents wrote back. appeared first on The New Stack .",
+      "published": "2026-10-14T17:47:11+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Where do you look when Kubernetes is healthy but requests stall?",
+      "link": "https://thenewstack.io/kubernetes-hidden-latency-telemetry",
+      "summary": "In cloud-native operations, few scenarios are as maddening as the “phantom slowdown.” This happens when Grafana or Kubernetes dashboards show The post Where do you look when Kubernetes is healthy but requests stall? appeared first on The New Stack .",
+      "published": "2026-10-14T17:43:51+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Chris J. Preimesberger",
+      "categories": [
+        "AI Operations",
+        "Kubecon Cloudnativecon NA 2026",
+        "Kubernetes",
+        "Observability",
+        "Road to KubeCon",
+        "sponsor-hpe",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Bring Azure SRE Agent into your developer workflow with the new canvas",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/bring-azure-sre-agent-into-your-developer-workflow-with-the-new/ba-p/4564514",
+      "summary": "You’re on call. A customer-reported incident lands, Azure SRE Agent picks it up from your incident management system, investigates, and gives you a starting diagnosis. If you’re like me, you want to check that diagnosis yourself, and you want to do it where you already work: in GitHub Copilot, with...",
+      "published": "2026-10-14T16:35:26+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "paulyuk",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Fake a Real Domain Locally with the Hosts File",
+      "link": "https://kodekloud.com/blog/fake-domain-locally-hosts-file",
+      "summary": "Point a real domain at 127.0.0.1 in your hosts file to test cookies, redirects, and HTTPS locally - on Windows, macOS, or Linux.",
+      "published": "2026-10-14T16:30:00+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "Linux",
+        "Networking",
+        "DNS",
+        "Hosts File",
+        "web development",
+        "Localhost"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Day-5 | AI Agents Zero to Hero | Deploy the AI Agent to Production",
+      "link": "https://www.youtube.com/watch?v=cZtYBqmfIyA",
+      "summary": "Create your FREE account:\nhttps://fandf.co/46pq5QJ\n\nThis is the Fifth episode of Building an AI Agent Zero to Hero using Gemini Enterprise Agent Platform and agents-cli, In this video you will learn how to deployt the agent to production using three different deployment targets.\n1. Agent Runtime\n2....",
+      "published": "2026-10-14T16:27:45+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/cZtYBqmfIyA/mqdefault.jpg"
+    },
+    {
+      "title": "Your database decision could come back to haunt you",
+      "link": "https://thenewstack.io/ai-prototypes-database-replatforming",
+      "summary": "When building AI prototypes, developers naturally want to get up and running as fast as possible. But move too fast, The post Your database decision could come back to haunt you appeared first on The New Stack .",
+      "published": "2026-10-14T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI Infrastructure",
+        "Databases",
+        "sponsor-pgedge",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why 88% of AI pilots never make it to production",
+      "link": "https://thenewstack.io/agentic-ai-production-readiness",
+      "summary": "A joint IDC and Lenovo study reports that 88% of AI proof-of-concept (POC) projects fail to reach production because of unclear The post Why 88% of AI pilots never make it to production appeared first on The New Stack .",
+      "published": "2026-10-14T14:38:57+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Venus Kohli",
+      "categories": [
+        "AI Agents",
+        "AI Operations",
+        "AI Strategy",
+        "sponsor-dedicatted",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“Take work away from frontier LLMs”: Subquadratic’s decision model claims 12x Jev’s context window",
+      "link": "https://thenewstack.io/subquadratic-snap-jev-decision-model",
+      "summary": "Jev has a lot to answer for. Ever since AI startup TypeSafe unveiled the decision model in mid-September, the industry The post “Take work away from frontier LLMs”: Subquadratic’s decision model claims 12x Jev’s context window appeared first on The New Stack .",
+      "published": "2026-10-14T13:35:15+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Engineering",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Tech in Five - What is Computer Use?",
       "link": "https://www.youtube.com/watch?v=pwsUd72-58U",
@@ -4517,178 +4730,6 @@
         "Storage",
         "sponsor-cncf",
         "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How and Why We Bought 4x DGX Sparks",
-      "link": "https://blog.alexellis.io/how-and-why-we-bought-4-dgx-sparks",
-      "summary": "In June we deployed an RTX 6000 Pro into production, a few weeks later, we're now operating DGX Sparks for the team. Learn how and why.",
-      "published": "2026-09-15T00:00:00+00:00",
-      "source": "Alex Ellis",
-      "type": "article",
-      "author": "Alex Ellis",
-      "categories": [
-        "llm",
-        "localai",
-        "agents",
-        "security",
-        "red-teaming"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AI’s best coding agent fails 60% of the time — and the data backs it up",
-      "link": "https://thenewstack.io/real-swe-coding-benchmark",
-      "summary": "Claude Fable 5.1 just won a new coding benchmark despite failing more than six out of 10 times. Its 38.8% The post AI’s best coding agent fails 60% of the time — and the data backs it up appeared first on The New Stack .",
-      "published": "2026-09-14T22:22:27+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Engineering",
-        "AI Models",
-        "Software Testing"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "SSL/TLS certificates and end-to-end encryption for Azure Functions Flex Consumption",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/ssl-tls-certificates-and-end-to-end-encryption-for-azure/ba-p/4556425",
-      "summary": "Last week we announced the general availability of TLS/SSL certificate support and end-to-end TLS encryption for Azure Functions Flex Consumption. Flex Consumption is the recommended serverless hosting plan for Azure Functions. It combines event-driven scale-to-zero and execution-based billing with...",
-      "published": "2026-09-14T21:01:36+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "nzthiago",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Dashboards are for AI agents too, not just humans",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/dashboards-are-for-ai-agents-too-not-just-humans/ba-p/4556383",
-      "summary": "A few days ago I opened Azure SRE Agent and typed four prompts. None of them was careful: find grafana dashboard for: GitHub Copilot run the panels queries. list top 3 very long sessions in the past 3 days what session 1 was doing? what was session 2 doing? No KQL. No table names. I didn't say what...",
-      "published": "2026-09-14T20:25:20+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "Wuyi_Weng",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Docker Interview: What Happens on Docker Run",
-      "link": "https://kodekloud.com/blog/what-happens-when-you-type-docker-run",
-      "summary": "Learn what happens when you run a Docker container. Understand image layers, namespaces, cgroups, and networking to prepare for Docker interviews",
-      "published": "2026-09-14T19:59:28+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "Docker",
-        "Containers",
-        "DevOps Interview"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kubernetes Changed Block Tracking API - Beta Differences",
-      "link": "https://kubernetes.io/blog/2026/09/14/csi-changed-block-tracking-beta",
-      "summary": "Changed Block Tracking (CBT) support for CSI drivers shipped as Alpha in\nSeptember 2025. With the March 2026 v1.0.0 release of the external-snapshot-metadata project, the feature moved to Beta . If you aren't yet familiar with changed block tracking for storage in\nKubernetes, the Alpha announcement...",
-      "published": "2026-09-14T18:30:00+00:00",
-      "source": "Kubernetes Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kubernetes v1.37: Memory QoS Graduates to Beta",
-      "link": "https://kubernetes.io/blog/2026/09/14/kubernetes-v1-37-memory-qos-graduates-to-beta",
-      "summary": "Memory QoS has graduated to Beta in Kubernetes v1.37 and is now enabled by\ndefault. On Linux nodes running cgroup v2, the feature uses the memory controller\nto give the kernel better guidance on how to treat container memory. It was first introduced as\nAlpha in v1.22, and expanded in v1.36 with...",
-      "published": "2026-09-14T18:30:00+00:00",
-      "source": "Kubernetes Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Perplexity’s new agent runs entirely on your GPU — with one expensive catch",
-      "link": "https://thenewstack.io/perplexity-portable-computer-windows",
-      "summary": "Running an LLM on your PC is easy enough, but putting an agent to work there is a different story. The post Perplexity’s new agent runs entirely on your GPU — with one expensive catch appeared first on The New Stack .",
-      "published": "2026-09-14T18:21:44+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Hardware"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to Add Guardrails That Validate LLM Input and Output",
-      "link": "https://kodekloud.com/blog/add-guardrails-to-validate-llm-input-and-output",
-      "summary": "Telling a model to stay on topic works most of the time, which is the problem. Here is what got through, what the usual blocklist fixed, and what it broke in the process.",
-      "published": "2026-09-14T18:00:09+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "AI",
-        "LLM",
-        "Guardrails",
-        "Prompt Injection",
-        "AI Security",
-        "Security",
-        "Python"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Your AI coding spend bought 25% more output. Duplication rose 81%.",
-      "link": "https://thenewstack.io/ai-coding-duplication-rose",
-      "summary": "Since they arrived on the scene, a great swathe of the software industry has pinned its hopes on AI tools, The post Your AI coding spend bought 25% more output. Duplication rose 81%. appeared first on The New Stack .",
-      "published": "2026-09-14T14:39:14+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Steve Fenton",
-      "categories": [
-        "AI Operations",
-        "AI Strategy",
-        "Software Development",
-        "contributed-octopus-deploy"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Chinese AI models dominate OpenRouter’s US token consumption. It can now guarantee that traffic stays entirely in the US.",
-      "link": "https://thenewstack.io/openrouter-us-region-routing",
-      "summary": "Everyone knows the open-weight model pitch by now: companies can download the weights, customize them, run them on infrastructure of The post Chinese AI models dominate OpenRouter’s US token consumption. It can now guarantee that traffic stays entirely in the US. appeared first on The New Stack .",
-      "published": "2026-09-14T13:59:33+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI Infrastructure",
-        "AI Models",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why an old caching trick is your secret to lower LLM costs",
-      "link": "https://thenewstack.io/llm-response-caching-costs",
-      "summary": "An LLM can answer the same question a thousand times and charge you each time. Before paying for another answer, The post Why an old caching trick is your secret to lower LLM costs appeared first on The New Stack .",
-      "published": "2026-09-14T11:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Abhilash Rao Mesala",
-      "categories": [
-        "AI Engineering",
-        "AI Infrastructure",
-        "FinOps",
-        "Contributed"
       ],
       "thumbnail": ""
     }
