@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-10-16T10:22:46.222440+00:00",
+    "generated_at": "2026-10-17T09:55:23.863222+00:00",
     "total_items": 317,
     "sources": [
       "AKS (Official)",
@@ -19,6 +19,174 @@
     ]
   },
   "items": [
+    {
+      "title": "AI agents turn one request into about 20. Kubernetes is evolving to handle it.",
+      "link": "https://thenewstack.io/kagent-kubernetes-ai-agents",
+      "summary": "Welcome to another edition of Road to KubeCon, where we’re tracking interesting movements in the cloud-native and Kubernetes ecosystem as The post AI agents turn one request into about 20. Kubernetes is evolving to handle it. appeared first on The New Stack .",
+      "published": "2026-10-16T18:37:03+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Bill Doerrfeld",
+      "categories": [
+        "AI Agents",
+        "Kubecon Cloudnativecon NA 2026",
+        "Platform Engineering",
+        "Road to KubeCon",
+        "sponsor-hpe",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Deploying, maintaining, and migrating production n8n on EKS",
+      "link": "https://www.cncf.io/blog/2026/10/16/deploying-maintaining-and-migrating-production-n8n-on-eks",
+      "summary": "n8n is easy to try and harder to run under production traffic. A single container with SQLite works great for a quick demo. Production is a different story entirely. You need workers, webhook processors, PostgreSQL, Redis,...",
+      "published": "2026-10-16T16:39:04+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Husne Ozmen, Fairwinds",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why Linux Gets Faster on the Same CPU",
+      "link": "https://kodekloud.com/blog/why-linux-faster-same-cpu",
+      "summary": "Linux beats Windows on raw CPU, and gets faster each release. The real reason isn't less bloat; it's an open kernel the whole industry improves.",
+      "published": "2026-10-16T16:14:00+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "Linux",
+        "Open Source",
+        "Kernel",
+        "Performance",
+        "windows"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Only 34% trust synthetic data’s referential integrity — and it’s holding adoption back",
+      "link": "https://thenewstack.io/synthetic-data-referential-integrity",
+      "summary": "While enterprise leaders overwhelmingly believe in the promise of synthetic data, adoption lags. As a result, synthetic data has great, The post Only 34% trust synthetic data’s referential integrity — and it’s holding adoption back appeared first on The New Stack .",
+      "published": "2026-10-16T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Mayank Ahluwalia",
+      "categories": [
+        "Data",
+        "Software Development",
+        "Software Testing",
+        "sponsor-perforce",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure Weekly Update - 16th October 2026",
+      "link": "https://www.youtube.com/watch?v=va1TiwLhBq8",
+      "summary": "Quick update this week!\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:17 - New videos\n01:07 - ASR Arc support for VMware and physical servers\n01:45 - VMSS rebalancing\n02:43 -...",
+      "published": "2026-10-16T13:52:32+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/va1TiwLhBq8/mqdefault.jpg"
+    },
+    {
+      "title": "Employees are vibe-coding their own apps. Cloudflare open-sources Void to give IT a handle on them",
+      "link": "https://thenewstack.io/cloudflare-voidzero-void-vibe-coding",
+      "summary": "Many companies are keen to let employees build their own applications using AI, even those with little or no programming The post Employees are vibe-coding their own apps. Cloudflare open-sources Void to give IT a handle on them appeared first on The New Stack .",
+      "published": "2026-10-16T12:16:01+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "JavaScript",
+        "Platform Engineering",
+        "Vibe Coding"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Muse Wonder vs. Claude Fable 5.1: Meta’s new model came closer than I expected",
+      "link": "https://thenewstack.io/muse-wonder-claude-fable",
+      "summary": "Meta launched Muse Wonder on October 12, about three months after Muse Spark 1.1 opened Meta’s paid Model API. Meta The post Muse Wonder vs. Claude Fable 5.1: Meta’s new model came closer than I expected appeared first on The New Stack .",
+      "published": "2026-10-16T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jessica Wachtel",
+      "categories": [
+        "AI Agents",
+        "AI Models",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Running local AI models on Microsoft’s Surface Laptop Ultra: What we found",
+      "link": "https://thenewstack.io/surface-ultra-local-ai",
+      "summary": "Microsoft is positioning the new Surface Laptop Ultra as an alternative to Apple’s MacBook Pros for creatives and developers — The post Running local AI models on Microsoft’s Surface Laptop Ultra: What we found appeared first on The New Stack .",
+      "published": "2026-10-16T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Infrastructure",
+        "Hardware"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Putting Nepal on the CNCF Golden Kubestronaut map",
+      "link": "https://www.cncf.io/blog/2026/10/16/putting-nepal-on-the-cncf-golden-kubestronaut-map",
+      "summary": "In this blog, I will share my Golden Kubestronaut journey, how I became the first and youngest Golden Kubestronaut from Nepal, what motivated me to pursue this path, and what it actually takes to earn the...",
+      "published": "2026-10-16T11:30:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Anish Bista (First CNCF Golden Kubestronaut from Nepal)",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“Developers are paying frontier prices for amnesia”: Uvi wants to stop the agent relearning brain drain",
+      "link": "https://thenewstack.io/uvi-ai-agent-context",
+      "summary": "Every time an AI agent has to trawl Slack threads, Jira tickets and old pull requests to piece together something The post “Developers are paying frontier prices for amnesia”: Uvi wants to stop the agent relearning brain drain appeared first on The New Stack .",
+      "published": "2026-10-16T11:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Agents",
+        "AI Models",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The Forward Deployed Engineer",
+      "link": "https://kodekloud.com/blog/forward-deployed-engineer-explained",
+      "summary": "An insurance firm's AI pilot failed. A forward deployed engineer embeds with the team, finds the real problem, and ships what actually works.",
+      "published": "2026-10-16T10:29:03+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "Forward Deployed Engineer",
+        "AI",
+        "Engineering Careers",
+        "OpenAI",
+        "DevOps"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Carbon as a first-class signal: Bringing software carbon intensity to OpenTelemetry",
       "link": "https://www.cncf.io/blog/2026/10/15/carbon-as-a-first-class-signal-bringing-software-carbon-intensity-to-opentelemetry",
@@ -261,6 +429,19 @@
         "AI Infrastructure",
         "sponsor-vespa-ai",
         "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Extending Kubernetes policy enforcement to runtime security for AI workloads",
+      "link": "https://www.cncf.io/blog/2026/10/15/extending-kubernetes-policy-enforcement-to-runtime-security-for-ai-workloads",
+      "summary": "Nirmata created Kyverno and donated it to the CNCF in 2020. Kyverno is now a graduated CNCF project and is widely used for enforcing and automating configuration security and best practices.  However, admission control answers one...",
+      "published": "2026-10-15T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Nirmata",
+      "categories": [
+        "Blog"
       ],
       "thumbnail": ""
     },
@@ -4612,175 +4793,6 @@
       "source": "CNCF Blog",
       "type": "article",
       "author": "Iris Grace Endozo, Farzad Vazirnia and Albert Kerr, Atlassian",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "What Is Kubernetes",
-      "link": "https://kodekloud.com/blog/kubernetes-basics-architecture-pods-services",
-      "summary": "Learn how Kubernetes works, from the control plane and scheduler to kubelet, pods, and Services, with simple answers to interview questions.",
-      "published": "2026-09-17T06:25:02+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "Kubernetes",
-        "Kubernetes architecture",
-        "Kubernetes Networking"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AKS Community Calls - September 2026",
-      "link": "https://www.youtube.com/watch?v=zb3wp6DI3VM",
-      "summary": "Agenda - August 2026\n - Welcome & Announcements\n - Feature Deepdive: Node Disruption Policy\n - Feature Deepdive: Prepared Image Specification\n - Feature Roadmap\n - Q&A Session",
-      "published": "2026-09-17T04:06:02+00:00",
-      "source": "AKS (Official)",
-      "type": "video",
-      "author": "Azure Kubernetes Service (AKS)",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/zb3wp6DI3VM/mqdefault.jpg"
-    },
-    {
-      "title": "Perplexity’s AI agents helped build a database. They weren’t allowed to run it.",
-      "link": "https://thenewstack.io/perplexity-cobbledb-ai-database",
-      "summary": "Perplexity decided it was paying too much for DynamoDB and wasn’t getting the control it wanted over read performance. So The post Perplexity’s AI agents helped build a database. They weren’t allowed to run it. appeared first on The New Stack .",
-      "published": "2026-09-16T21:51:15+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Infrastructure",
-        "Databases"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Automattic says CEO Mullenweg was gone and back inside 33 hours. What happened between?",
-      "link": "https://thenewstack.io/automattic-mullenweg-boardroom-reversal",
-      "summary": "There were unusual goings-on this month at Automattic, a company known for its free and open-source app for building WordPress The post Automattic says CEO Mullenweg was gone and back inside 33 hours. What happened between? appeared first on The New Stack .",
-      "published": "2026-09-16T20:39:42+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "Cloud Services",
-        "Developer tools",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“Everyone’s in a race to replace GitHub”: Zed launches Delta because agents made pull requests obsolete",
-      "link": "https://thenewstack.io/zed-delta-github-alternative",
-      "summary": "Something of a consensus has emerged from the developer fraternity in 2026 — GitHub, a platform built substantively for human The post “Everyone’s in a race to replace GitHub”: Zed launches Delta because agents made pull requests obsolete appeared first on The New Stack .",
-      "published": "2026-09-16T19:45:30+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Developer tools",
-        "Software Development"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kubernetes v1.37: Hardening Container Storage with Bind Mount Options and EmptyDir Permissions",
-      "link": "https://kubernetes.io/blog/2026/09/16/kubernetes-v1-37-hardening-container-storage",
-      "summary": "Kubernetes v1.37 brings important storage security features: emptyDir permission modes and bind mount options. They help application programmers and security professionals implement rigorous security policies, for example, prohibiting deletion of files across containers or execution of arbitrary...",
-      "published": "2026-09-16T18:30:00+00:00",
-      "source": "Kubernetes Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to Turn Plain English Questions Into SQL Queries With an LLM",
-      "link": "https://kodekloud.com/blog/turn-plain-english-questions-into-sql-with-an-llm",
-      "summary": "Generated SQL that runs looks like generated SQL that works. In this test every query executed cleanly and fewer than four in ten returned the right number.",
-      "published": "2026-09-16T18:00:40+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "AI",
-        "Gen AI",
-        "LLM",
-        "SQL",
-        "database",
-        "SQLite",
-        "Evaluation"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "New Zero to Hero series - AI Agents Zero to Hero | Beginner Level",
-      "link": "https://www.youtube.com/watch?v=59M8WMdK7NQ",
-      "summary": "Create your FREE account:\nhttps://fandf.co/46pq5QJ\n\nJoin our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to...",
-      "published": "2026-09-16T17:13:14+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/59M8WMdK7NQ/mqdefault.jpg"
-    },
-    {
-      "title": "Anthropic bet users were choosing wrong. So it removed the choice.",
-      "link": "https://thenewstack.io/anthropic-claude-unified-interface",
-      "summary": "Using Claude for anything beyond a quick question has always started with a routing decision to use Chat or Cowork? The post Anthropic bet users were choosing wrong. So it removed the choice. appeared first on The New Stack .",
-      "published": "2026-09-16T16:46:36+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AI evaluator: The most important AI job in history? How developers might fill the proposed new job",
-      "link": "https://thenewstack.io/ai-embedded-evaluator-jobs",
-      "summary": "The pace of frontier AI model development spurred Anthropic CEO Dario Amodei to publish an essay last weekend, calling for The post AI evaluator: The most important AI job in history? How developers might fill the proposed new job appeared first on The New Stack .",
-      "published": "2026-09-16T15:58:41+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI",
-        "AI Infrastructure",
-        "AI Strategy",
-        "Tech Careers"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Introducing a Guided Copilot Experience for Building Azure Apps in VS Code",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/introducing-a-guided-copilot-experience-for-building-azure-apps/ba-p/4557120",
-      "summary": "Today we're previewing a new way to build cloud apps with GitHub Copilot in VS Code: a guided Copilot experience that takes you from idea to a deployed Azure app through a structured, predictable workflow instead of a free-form chat session that may or may not land where you need it to. The...",
-      "published": "2026-09-16T13:59:47+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "fiveisprime",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Running OpenBao on Kubernetes with a CloudNativePG PostgreSQL backend",
-      "link": "https://www.cncf.io/blog/2026/09/16/running-openbao-on-kubernetes-with-a-cloudnativepg-postgresql-backend",
-      "summary": "Managing infrastructure secrets on Kubernetes needs a backend that is self-healing and free of vendor lock-in, and that is exactly what OpenBao (the Linux Foundation’s open-source fork of HashiCorp Vault) and CloudNativePG give you: an entirely...",
-      "published": "2026-09-16T11:30:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Gabriele Bartolini (EnterpriseDB) and CNCF Ambassador, Rob Kenefeck (ControlPlane)",
       "categories": [
         "Blog"
       ],
