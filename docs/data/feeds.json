@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-10-17T09:55:23.863222+00:00",
-    "total_items": 317,
+    "generated_at": "2026-10-18T10:07:48.720995+00:00",
+    "total_items": 312,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -19,6 +19,72 @@
     ]
   },
   "items": [
+    {
+      "title": "Here are the engineering lessons we learned when live-streaming sports to 32 million people",
+      "link": "https://thenewstack.io/live-streaming-engineering-lessons",
+      "summary": "Live sports involve myriad unknowns, but one thing is certain: the live video feed must play flawlessly, and simultaneously, for The post Here are the engineering lessons we learned when live-streaming sports to 32 million people appeared first on The New Stack .",
+      "published": "2026-10-17T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Cynthia Dunlop",
+      "categories": [
+        "Backend development",
+        "Data Streaming",
+        "Software Testing",
+        "sponsor-scylladb",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI has lowered the barrier to building. Here’s what that means for engineers.",
+      "link": "https://thenewstack.io/ai-lowering-building-barrier",
+      "summary": "For most of software’s history, building meant writing code. Not just understanding it, but producing it. The entry point was The post AI has lowered the barrier to building. Here’s what that means for engineers. appeared first on The New Stack .",
+      "published": "2026-10-17T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Matt Waxman",
+      "categories": [
+        "AI",
+        "Platform Engineering",
+        "Software Development",
+        "sponsor-precisely",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "His scanner wouldn’t work on Linux — so he let Claude study the Windows driver",
+      "link": "https://thenewstack.io/claude-code-linux-driver",
+      "summary": "Christian Schaller, a Red Hat engineering director and longtime GNOME and Fedora contributor, had a box of old family negatives The post His scanner wouldn’t work on Linux — so he let Claude study the Windows driver appeared first on The New Stack .",
+      "published": "2026-10-17T14:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "Hardware",
+        "Linux"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI agents vs. Kubernetes: where each belongs in the control loop",
+      "link": "https://thenewstack.io/ai-agents-kubernetes-control",
+      "summary": "Kubernetes has always relied on agents, just not the kind dominating today’s AI conversations. A controller watches the current state, The post AI agents vs. Kubernetes: where each belongs in the control loop appeared first on The New Stack .",
+      "published": "2026-10-17T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Vikram Seshadri",
+      "categories": [
+        "AI Agents",
+        "Kubernetes",
+        "Platform Engineering",
+        "sponsor-cncf",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "AI agents turn one request into about 20. Kubernetes is evolving to handle it.",
       "link": "https://thenewstack.io/kagent-kubernetes-ai-agents",
@@ -4629,6 +4695,17 @@
       "thumbnail": ""
     },
     {
+      "title": "Introducing a Guided Copilot Experience for Building Azure Apps in VS Code",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/introducing-a-guided-copilot-experience-for-building-azure-apps/ba-p/4557120",
+      "summary": "Today we're previewing a new way to build cloud apps with GitHub Copilot in VS Code: a guided Copilot experience that takes you from idea to a deployed Azure app through a structured, predictable workflow instead of a free-form chat session that may or may not land where you need it to. The...",
+      "published": "2026-09-18T12:09:35+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "fiveisprime",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
       "title": "Code review is burning out your best engineers",
       "link": "https://thenewstack.io/ai-code-review-burnout",
       "summary": "Every team I talk to has the same problem. Their best engineers, the ones who care most about code quality, The post Code review is burning out your best engineers appeared first on The New Stack .",
@@ -4642,159 +4719,6 @@
         "Software Development",
         "sponsor-aviator",
         "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Intel squeezed a 1.58-bit LLM down to 1.485 bits without changing a single weight",
-      "link": "https://thenewstack.io/intel-bitcos-ternary-compression",
-      "summary": "The 1.58 in a 1.58-bit language model sounds like a hard limit, but Intel researchers pushed a ternary model below The post Intel squeezed a 1.58-bit LLM down to 1.485 bits without changing a single weight appeared first on The New Stack .",
-      "published": "2026-09-17T20:51:57+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Infrastructure",
-        "AI Models",
-        "Hardware"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“Be transparent only if asked”: OpenAI’s models learned to leave notes for their future selves",
-      "link": "https://thenewstack.io/openai-model-misalignment-reports",
-      "summary": "OpenAI revealed Wednesday evening that some GPT-5.6 Sol model instances, during reinforcement learning (RL) training, wrote instructions to conceal mistakes The post “Be transparent only if asked”: OpenAI’s models learned to leave notes for their future selves appeared first on The New Stack .",
-      "published": "2026-09-17T18:27:44+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "GitHub and Anthropic used their own agents for major Rust rewrites — with very different playbooks",
-      "link": "https://thenewstack.io/github-copilot-anthropic-rust-migration",
-      "summary": "Rust is seemingly the language of the moment, with open-source projects and companies forming an orderly queue to move core The post GitHub and Anthropic used their own agents for major Rust rewrites — with very different playbooks appeared first on The New Stack .",
-      "published": "2026-09-17T18:06:03+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Programming Languages",
-        "Rust"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Temperature, Top P, and Max Tokens Explained With Runnable Experiments",
-      "link": "https://kodekloud.com/blog/temperature-top-p-max-tokens-explained",
-      "summary": "Turning temperature up does not make a model more creative. It makes it less likely to pick the right word, which on a factual question means a wrong answer delivered with confidence.",
-      "published": "2026-09-17T18:00:46+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "AI",
-        "LLM",
-        "Prompt Engineering",
-        "Ollama",
-        "Temperature",
-        "Top P",
-        "Tokens",
-        "Python"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic’s new Claude Code feature could drain your plan before lunch",
-      "link": "https://thenewstack.io/claude-code-parallel-projects",
-      "summary": "Anthropic is giving Claude Code a new job: Manage other Claude Code sessions. Starting Thursday, Anthropic says select Claude Pro The post Anthropic’s new Claude Code feature could drain your plan before lunch appeared first on The New Stack .",
-      "published": "2026-09-17T17:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Designing a Caching System and Where It Breaks",
-      "link": "https://kodekloud.com/blog/database-caching-ttl-invalidation-cache-stampede",
-      "summary": "Learn to design a database caching system with cache-aside, TTL, invalidation, single-flight and jitter to prevent cache stampedes.",
-      "published": "2026-09-17T15:25:02+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "system design",
-        "Database Caching",
-        "Redis"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Study: Developers are addicted to AI, and managers are making it worse",
-      "link": "https://thenewstack.io/study-developers-are-addicted",
-      "summary": "AI is addictive, and managers are rewarding those who use it the most (even though they are shipping stuff they The post Study: Developers are addicted to AI, and managers are making it worse appeared first on The New Stack .",
-      "published": "2026-09-17T15:12:36+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Steve Fenton",
-      "categories": [
-        "AI Engineering",
-        "AI Operations",
-        "AI Strategy",
-        "contributed-octopus-deploy"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why human oversight is shifting from writing code to defining requirements",
-      "link": "https://thenewstack.io/human-oversight-defining-requirements",
-      "summary": "This walks through the pipeline our agents operate inside—from a recorded scoping meeting through unit specs, spec review, generated code, The post Why human oversight is shifting from writing code to defining requirements appeared first on The New Stack .",
-      "published": "2026-09-17T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Naseeb Ahmed Mian",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Software Development",
-        "sponsor-andela",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Enable Dynamic Workflows in Azure Functions hosted skills",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/enable-dynamic-workflows-in-azure-functions-hosted-skills/ba-p/4551993",
-      "summary": "Azure Functions already gives you a familiar way to build event-driven apps. A queue message, HTTP request, timer, or event triggers the code that handles the work. Azure Functions hosted skills (formerly Serverless Agents) add AI reasoning to that model. A hosted skill can read a request, use the...",
-      "published": "2026-09-17T12:00:00+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "greenie-msft",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenTelemetry everywhere: Migrating a metrics platform at scale",
-      "link": "https://www.cncf.io/blog/2026/09/17/opentelemetry-everywhere-migrating-a-metrics-platform-at-scale",
-      "summary": "Why we did this at all For most of the last decade our metrics pipeline ran on gostatsd, the open-source StatsD implementation we maintain. It primarily did two jobs: as sidecar on every host and the...",
-      "published": "2026-09-17T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Iris Grace Endozo, Farzad Vazirnia and Albert Kerr, Atlassian",
-      "categories": [
-        "Blog"
       ],
       "thumbnail": ""
     }
