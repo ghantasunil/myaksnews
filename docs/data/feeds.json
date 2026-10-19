@@ -1,13 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-10-18T10:07:48.720995+00:00",
-    "total_items": 312,
+    "generated_at": "2026-10-19T11:38:46.377165+00:00",
+    "total_items": 314,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
       "Abhishek Veeramalla",
       "Apps on Azure",
       "CNCF Blog",
+      "Collabnix",
       "John Savill",
       "KodeKloud",
       "Kubernetes Blog",
@@ -19,6 +20,175 @@
     ]
   },
   "items": [
+    {
+      "title": "How AI workloads are reshaping Kubernetes autoscaling",
+      "link": "https://www.cncf.io/blog/2026/10/19/how-ai-workloads-are-reshaping-kubernetes-autoscaling",
+      "summary": "Kubernetes has quietly run much of the world’s containerized software on a division of labor between two control loops that rarely had to talk to each other. The scheduler places each pod on a node that...",
+      "published": "2026-10-19T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Sajjan Gundapuneedi and Neelendra Bhandari, AWS",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Open Source AI Observability Using A Single Binary (Openobserve)",
+      "link": "https://www.youtube.com/watch?v=-vJsvldPIkU",
+      "summary": "Open source AI observability for your AI agent: open one trace and see every step, how long each step took, how many tokens it used, and what that one conversation cost. This is for DevOps, SRE and backend engineers who are running an LLM app or AI agent in production and want to see inside it...",
+      "published": "2026-10-19T10:00:10+00:00",
+      "source": "Piyush Sachdeva",
+      "type": "video",
+      "author": "Tech Tutorials with Piyush",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/-vJsvldPIkU/mqdefault.jpg"
+    },
+    {
+      "title": "Server at 98% CPU - Should You Scale Up?",
+      "link": "https://kodekloud.com/blog/vertical-vs-horizontal-scaling",
+      "summary": "Your server hit 98% CPU. Before you scale up or out, diagnose first, a runaway query or memory leak is a bug, not a scaling problem.",
+      "published": "2026-10-19T09:47:12+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "Scaling",
+        "DevOps",
+        "Infrastructure",
+        "Load Balancing",
+        "Auto-Scaling"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Tech in Five - What are Agent Control Planes?",
+      "link": "https://www.youtube.com/watch?v=9fYTmTMo4Dw",
+      "summary": "A look at why we need Agent Control Planes.\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation...",
+      "published": "2026-10-19T07:56:53+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/9fYTmTMo4Dw/mqdefault.jpg"
+    },
+    {
+      "title": "Your Docker Image Is 2GB - Why That's a Problem",
+      "link": "https://kodekloud.com/blog/reduce-docker-image-size",
+      "summary": "A 2GB Docker image slows every deploy and ships tools to attackers. Multi-stage builds, a small base, and .dockerignore cut it by 90%.",
+      "published": "2026-10-19T06:52:38+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "Docker",
+        "Containers",
+        "DevOps",
+        "Multi-Stage Builds",
+        "Docker Image Optimization"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Building an AI Agent in TypeScript and Deploying It on Kubernetes",
+      "link": "https://collabnix.com/building-an-ai-agent-in-typescript-and-deploying-it-on-kubernetes",
+      "summary": "Most AI agent tutorials stop at a Python script running on a laptop. Production agents look different. They sit behind an HTTP endpoint, call tools, wait several seconds on a model API, and need to survive pod restarts and rolling updates like any other service. This guide builds a small...",
+      "published": "2026-10-19T02:36:03+00:00",
+      "source": "Collabnix",
+      "type": "article",
+      "author": "Collabnix Team",
+      "categories": [
+        "Kubernetes",
+        "AI Agent",
+        "Cloud Computing",
+        "Container Orchestration",
+        "DevOps",
+        "Kubernetes Deployment",
+        "Machine Learning",
+        "typescript"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "After Java Full Stack: The DevOps and Cloud Skills That Set You Apart",
+      "link": "https://kodekloud.com/blog/java-full-stack-devops-cloud-skills",
+      "summary": "Your Spring Boot app works on localhost. This guide follows it all the way to production and shows which DevOps and cloud skills, certifications and portfolio project will make your profile stand out.",
+      "published": "2026-10-18T18:00:00+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "Java",
+        "Spring Boot",
+        "DevOps",
+        "Docker",
+        "Kubernetes",
+        "CICD",
+        "AWS",
+        "Cloud Skills",
+        "CKAD",
+        "Career Guide"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Gemini 4 Argon vs. Claude Opus 5.5: Half the price and about half as accurate",
+      "link": "https://thenewstack.io/gemini-argon-claude-opus",
+      "summary": "When Google announced Gemini 4 Argon to a small group of testers on September 30, it came with a benchmark The post Gemini 4 Argon vs. Claude Opus 5.5: Half the price and about half as accurate appeared first on The New Stack .",
+      "published": "2026-10-18T15:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jessica Wachtel",
+      "categories": [
+        "AI Models",
+        "Large Language Models",
+        "Software Testing"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Liquid AI caught its model cheating on coding tests — then it recognized the sandbox",
+      "link": "https://thenewstack.io/liquid-ai-reward-hacking",
+      "summary": "Liquid AI’s new reasoning model was built to solve coding problems, but during training it kept combing Git history, GitHub, The post Liquid AI caught its model cheating on coding tests — then it recognized the sandbox appeared first on The New Stack .",
+      "published": "2026-10-18T14:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Scale isn’t one number: three ways a Kubernetes control plane runs out of room",
+      "link": "https://thenewstack.io/scaling-kubernetes-control-planes",
+      "summary": "Three clusters in trouble, and they look nothing alike. The first is a training fleet. It sat at a few The post Scale isn’t one number: three ways a Kubernetes control plane runs out of room appeared first on The New Stack .",
+      "published": "2026-10-18T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Joe Betz",
+      "categories": [
+        "Cloud Native Ecosystem",
+        "Kubernetes",
+        "Platform Engineering",
+        "sponsor-cncf",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Day X/28 -",
+      "link": "https://www.youtube.com/watch?v=UrBnC2XM4uU",
+      "summary": "Try DataImpulse residential proxies:  https://dataimpulse.com/?utm_source=youtube&utm_medium=video&utm_campaign=techtutorialswithpiyush\n\nIn this video I build a job search AI agent that scans job listings in any country, reads each posting, and scores the best matches against my own profile.\n\nThis...",
+      "published": "2026-10-18T11:37:46+00:00",
+      "source": "Piyush Sachdeva",
+      "type": "video",
+      "author": "Tech Tutorials with Piyush",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/UrBnC2XM4uU/mqdefault.jpg"
+    },
     {
       "title": "Here are the engineering lessons we learned when live-streaming sports to 32 million people",
       "link": "https://thenewstack.io/live-streaming-engineering-lessons",
@@ -4276,6 +4446,17 @@
       "thumbnail": "https://i.ytimg.com/vi/utqAfjdAy64/mqdefault.jpg"
     },
     {
+      "title": "Enable Dynamic Workflows in Azure Functions hosted skills",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/enable-dynamic-workflows-in-azure-functions-hosted-skills/ba-p/4551993",
+      "summary": "Azure Functions already gives you a familiar way to build event-driven apps. A queue message, HTTP request, timer, or event triggers the code that handles the work. Azure Functions hosted skills (formerly Serverless Agents) add AI reasoning to that model. A hosted skill can read a request, use the...",
+      "published": "2026-09-21T21:29:25+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "NickGreenfield",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
       "title": "Grok Build vs. Claude Code: I tested which one has the better memory",
       "link": "https://thenewstack.io/grok-build-vs-claude-code-memory",
       "summary": "On September 16, xAI announced memory in Grok Build, its terminal coding agent. The pitch was that Grok “keeps notes The post Grok Build vs. Claude Code: I tested which one has the better memory appeared first on The New Stack .",
@@ -4562,163 +4743,6 @@
         "CI/CD",
         "Cloud Services",
         "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "This week’s news from Zed, Anthropic, and OpenRouter shows why better harnesses matter more than better models",
-      "link": "https://thenewstack.io/ai-agent-harness-economics",
-      "summary": "Our five most-read stories this week covered code collaboration, a model router, a UI change, a benchmark, and a caching The post This week’s news from Zed, Anthropic, and OpenRouter shows why better harnesses matter more than better models appeared first on The New Stack .",
-      "published": "2026-09-19T10:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Matthew Burns",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Claude couldn’t hack OpenAI. Then Anthropic shipped Opus 5.",
-      "link": "https://thenewstack.io/claude-exploits-openai-forum",
-      "summary": "Three security researchers at Hacktron AI found a memory-corruption bug in a widely used image library. Finding it was the The post Claude couldn’t hack OpenAI. Then Anthropic shipped Opus 5. appeared first on The New Stack .",
-      "published": "2026-09-18T18:57:14+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI",
-        "AI Models",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to Build a Command Line Tool Powered by an LLM",
-      "link": "https://kodekloud.com/blog/build-a-command-line-tool-powered-by-an-llm",
-      "summary": "Calling a model from a script is the easy part. The difference between a script and a tool you reach for every day is a handful of conventions nobody explains until you break one.",
-      "published": "2026-09-18T18:08:50+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "AI",
-        "LLM",
-        "CLI",
-        "Ollama",
-        "Python",
-        "Automation",
-        "Unix",
-        "Automation in DevOps"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kubernetes can run AI inference. But can it count the real cost?",
-      "link": "https://thenewstack.io/kubernetes-ai-inference-costs",
-      "summary": "Welcome to another edition of Road to KubeCon, where we’re tracking the Kubernetes and cloud-native ecosystem on the way into The post Kubernetes can run AI inference. But can it count the real cost? appeared first on The New Stack .",
-      "published": "2026-09-18T15:53:21+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Bill Doerrfeld",
-      "categories": [
-        "AI Infrastructure",
-        "Kubecon Cloudnativecon NA 2026",
-        "Kubernetes",
-        "Platform Engineering",
-        "Road to KubeCon",
-        "sponsor-hpe",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Azure Weekly Update - 18th September 2026",
-      "link": "https://www.youtube.com/watch?v=I8RSgmRlNMg",
-      "summary": "Really quick update!\n\nCharity event URL at https://give.curechildhoodcancer.org/fundraiser/7465401\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even...",
-      "published": "2026-09-18T15:08:36+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/I8RSgmRlNMg/mqdefault.jpg"
-    },
-    {
-      "title": "How buildpacks help enterprises finally operate container security controls at scale",
-      "link": "https://thenewstack.io/buildpacks-container-security-scale",
-      "summary": "Container security controls often fail less because organizations lack standards, scanners, or best practices, and more. After all, every service The post How buildpacks help enterprises finally operate container security controls at scale appeared first on The New Stack .",
-      "published": "2026-09-18T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Catherine Edelveis",
-      "categories": [
-        "Containers",
-        "Platform Engineering",
-        "Security",
-        "sponsor-cncf",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Your agent is only as good as your infrastructure",
-      "link": "https://thenewstack.io/ai-agent-infrastructure-performance",
-      "summary": "You built a great agent, but something happened when it moved into production. In testing, your agent reviewed pull requests The post Your agent is only as good as your infrastructure appeared first on The New Stack .",
-      "published": "2026-09-18T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Selene Cecchinel",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "AI Operations",
-        "sponsor-coreweave",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Open-weight models now handle a majority of tokens on Vercel’s AI Gateway. But Anthropic still takes 64% of the spend.",
-      "link": "https://thenewstack.io/open-weight-anthropic-spend",
-      "summary": "The trend is clear: open-weight models are taking an increasingly large bite out of production AI usage. On Monday, The The post Open-weight models now handle a majority of tokens on Vercel’s AI Gateway. But Anthropic still takes 64% of the spend. appeared first on The New Stack .",
-      "published": "2026-09-18T12:42:58+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Infrastructure",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Introducing a Guided Copilot Experience for Building Azure Apps in VS Code",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/introducing-a-guided-copilot-experience-for-building-azure-apps/ba-p/4557120",
-      "summary": "Today we're previewing a new way to build cloud apps with GitHub Copilot in VS Code: a guided Copilot experience that takes you from idea to a deployed Azure app through a structured, predictable workflow instead of a free-form chat session that may or may not land where you need it to. The...",
-      "published": "2026-09-18T12:09:35+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "fiveisprime",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Code review is burning out your best engineers",
-      "link": "https://thenewstack.io/ai-code-review-burnout",
-      "summary": "Every team I talk to has the same problem. Their best engineers, the ones who care most about code quality, The post Code review is burning out your best engineers appeared first on The New Stack .",
-      "published": "2026-09-18T12:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Ankit Jain",
-      "categories": [
-        "AI Engineering",
-        "Developer tools",
-        "Software Development",
-        "sponsor-aviator",
-        "sponsored-post-contributed"
       ],
       "thumbnail": ""
     }
