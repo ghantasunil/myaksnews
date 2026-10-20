@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-10-19T11:38:46.377165+00:00",
-    "total_items": 314,
+    "generated_at": "2026-10-20T10:41:48.898924+00:00",
+    "total_items": 320,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,136 @@
     ]
   },
   "items": [
+    {
+      "title": "Your CI/CD Pipeline Takes 45 Minutes. Here's How to Fix It.",
+      "link": "https://kodekloud.com/blog/speed-up-slow-cicd-pipeline",
+      "summary": "A 45-minute CI/CD pipeline isn't fixed by skipping tests. Profile the stages, then cache, parallelize, and run only the tests your change needs.",
+      "published": "2026-10-20T06:24:37+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "CI/CD",
+        "DevOps",
+        "Pipelines",
+        "Testing",
+        "Automation"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "MiniMax just halved its token prices. Your AI agent bill may not follow.",
+      "link": "https://thenewstack.io/minimax-flash-agent-costs",
+      "summary": "MiniMax released M3.1 Flash on Monday, saying it cuts agent costs by 70 percent. Per-token prices fell by half, which The post MiniMax just halved its token prices. Your AI agent bill may not follow. appeared first on The New Stack .",
+      "published": "2026-10-19T22:00:19+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Models",
+        "Operations"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Plan Your Java Upgrade Ahead of Microsoft’s 2027 Support Milestones",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/plan-your-java-upgrade-ahead-of-microsoft-s-2027-support/ba-p/4565984",
+      "summary": "In April 2021, we announced the Microsoft Build of OpenJDK . We were starting with a preview of our Java 11 builds for Windows, Linux, and macOS. Today, if you’re planning a Java upgrade on Azure, you have several generations of that work to build on: 11, 17, 21, and now 25. Java 8 has been part of...",
+      "published": "2026-10-19T21:34:23+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Bruno Borges",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "One sentence changed Claude Code’s overreach rate from 0% to 17.1%",
+      "link": "https://thenewstack.io/coding-agents-overstep-scope",
+      "summary": "Anthropic is reportedly developing a model that can infer what users want from incomplete instructions. According to The Information, a The post One sentence changed Claude Code’s overreach rate from 0% to 17.1% appeared first on The New Stack .",
+      "published": "2026-10-19T18:36:02+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Models",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Making ACR Data Transfer Visible: The Storage Activity Platform Behind GetBlob Metrics",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/making-acr-data-transfer-visible-the-storage-activity-platform/ba-p/4564893",
+      "summary": "Learn More Use Grafana dashboards in Azure Container Registry - Use Grafana dashboards in Azure Container Registry - Azure Container Registry | Microsoft Learn Monitor Azure Container Registry - Monitor Azure Container Registry - Azure Container Registry | Microsoft Learn Introduction Azure...",
+      "published": "2026-10-19T17:32:37+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "brethompson",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "This opensource project is scary | Reverse Engineer Anything",
+      "link": "https://www.youtube.com/watch?v=q99pjyJQXa8",
+      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nReverse Engineer Anything - https://github.com/morluto/rea\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS...",
+      "published": "2026-10-19T15:02:54+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/q99pjyJQXa8/mqdefault.jpg"
+    },
+    {
+      "title": "DeepSeek made its name with cheap AI models. Now it’s undercutting search API rivals, too.",
+      "link": "https://thenewstack.io/deepseek-web-search-api",
+      "summary": "Not content with challenging the major frontier AI labs with lower-cost models, Chinese AI company DeepSeek is setting its sights The post DeepSeek made its name with cheap AI models. Now it’s undercutting search API rivals, too. appeared first on The New Stack .",
+      "published": "2026-10-19T14:29:42+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "A Query Takes 30 Seconds -Should You Upgrade the Database?",
+      "link": "https://kodekloud.com/blog/fix-slow-database-query",
+      "summary": "A 30-second query is almost always a code problem. Fix missing indexes, N+1 queries, and bad joins with EXPLAIN ANALYZE before scaling hardware.",
+      "published": "2026-10-19T14:29:02+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "Databases",
+        "SQL",
+        "Performance",
+        "Indexing",
+        "DevOps"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The distroless security gap: Why bottom-up containers are the next evolution in OCI images",
+      "link": "https://thenewstack.io/distroless-container-security-gap",
+      "summary": "Ever tried to shrink your container images to reduce their attack surface? If you have, you’ve likely discovered a frustrating The post The distroless security gap: Why bottom-up containers are the next evolution in OCI images appeared first on The New Stack .",
+      "published": "2026-10-19T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Lily Rivers-Klee",
+      "categories": [
+        "Cloud Native Ecosystem",
+        "Containers",
+        "Security",
+        "sponsor-cncf",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "How AI workloads are reshaping Kubernetes autoscaling",
       "link": "https://www.cncf.io/blog/2026/10/19/how-ai-workloads-are-reshaping-kubernetes-autoscaling",
@@ -4691,58 +4821,6 @@
       "author": "Amanda Caswell",
       "categories": [
         "AI"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to Cut LLM Costs and Latency With Prompt and Response Caching",
-      "link": "https://kodekloud.com/blog/cut-llm-costs-and-latency-with-caching",
-      "summary": "Most people cache the whole prompt, which catches almost nothing because real prompts carry timestamps and request IDs. The fix is four lines, and the clever upgrade after it is a trap.",
-      "published": "2026-09-19T18:10:29+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "AI",
-        "LLM",
-        "Caching",
-        "Cost Optimization",
-        "Latency",
-        "Embeddings",
-        "Python"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "One engineer shipped 2,000 PRs a month to production. Verification is the key.",
-      "link": "https://thenewstack.io/agentic-verification-distributed-systems",
-      "summary": "Lauren Tan, an engineer on the Grok team at SpaceXAI, who previously worked at Cursor and Meta, recently published a The post One engineer shipped 2,000 PRs a month to production. Verification is the key. appeared first on The New Stack .",
-      "published": "2026-09-19T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Arjun Iyer",
-      "categories": [
-        "AI Agents",
-        "Platform Engineering",
-        "Software Testing",
-        "sponsor-signadot",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“Dormant deployments were quietly consuming storage”: Why Vercel tightened its free-tier rules",
-      "link": "https://thenewstack.io/vercel-hobby-deployment-retention",
-      "summary": "Vercel announced this week that teams on its free Hobby plan will now have older, unprotected deployments deleted immediately if The post “Dormant deployments were quietly consuming storage”: Why Vercel tightened its free-tier rules appeared first on The New Stack .",
-      "published": "2026-09-19T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "AI",
-        "CI/CD",
-        "Cloud Services",
-        "Developer tools"
       ],
       "thumbnail": ""
     }
