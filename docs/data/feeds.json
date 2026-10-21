@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-10-20T10:41:48.898924+00:00",
-    "total_items": 320,
+    "generated_at": "2026-10-21T10:53:06.131165+00:00",
+    "total_items": 329,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,206 @@
     ]
   },
   "items": [
+    {
+      "title": "GPU Memory Profiling on AKS: Find the Code Behind Memory Pressure",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/gpu-memory-profiling-on-aks-find-the-code-behind-memory-pressure/ba-p/4566375",
+      "summary": "By Brian Benz , Paul Yu , Maya Singh , Johnson Shi GPU memory allocation can be tricky to get right. Allocate too little and your AI workload can slow down or fail with an out-of-memory error, often during peak traffic when reliability matters most. Allocate too much and expensive GPU capacity sits...",
+      "published": "2026-10-21T01:00:40+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "johnsonshi_msft",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Respan spent two years building on LiteLLM. One upgrade made it start over.",
+      "link": "https://thenewstack.io/respan-rust-ai-gateway",
+      "summary": "Respan released an open-source AI gateway written in Rust on Tuesday, after spending two years building more than 100,000 lines The post Respan spent two years building on LiteLLM. One upgrade made it start over. appeared first on The New Stack .",
+      "published": "2026-10-20T22:13:08+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Infrastructure",
+        "Open Source",
+        "Rust"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“We are not forking TypeScript”: Cloudflare spearheads Rust port written by agents, for agents",
+      "link": "https://thenewstack.io/cloudflare-rust-typescript-tsrs",
+      "summary": "Cloudflare is going all-out to ensure that AI coding agents can check their work without exhausting available computing resources, leading The post “We are not forking TypeScript”: Cloudflare spearheads Rust port written by agents, for agents appeared first on The New Stack .",
+      "published": "2026-10-20T21:36:25+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Rust",
+        "TypeScript"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Assess the entire inference stack — not just open model benchmarks",
+      "link": "https://thenewstack.io/open-model-benchmarks-production",
+      "summary": "Impressive benchmark results should make it easy for engineers to select the right open model for the outcome they are The post Assess the entire inference stack — not just open model benchmarks appeared first on The New Stack .",
+      "published": "2026-10-20T20:44:17+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Mark Chillingworth",
+      "categories": [
+        "AI Engineering",
+        "AI Infrastructure",
+        "AI Models",
+        "sponsor-nebius",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AKS Community Calls - October 2026",
+      "link": "https://www.youtube.com/watch?v=BsFyAf0gWdM",
+      "summary": "",
+      "published": "2026-10-20T20:17:21+00:00",
+      "source": "AKS (Official)",
+      "type": "video",
+      "author": "Azure Kubernetes Service (AKS)",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/BsFyAf0gWdM/mqdefault.jpg"
+    },
+    {
+      "title": "Data Transfer and Transactions metrics now generally available for Azure Container Registry",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/data-transfer-and-transactions-metrics-now-generally-available/ba-p/4565530",
+      "summary": "Azure Container Registry now provides two new platform metrics that make it easier to understand outbound data transfer, inspect API traffic, and investigate throttled or failed requests without first opening a support request. We're excited to share the general availability of the Data Transfer...",
+      "published": "2026-10-20T19:55:04+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "jeburke",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "ElevenLabs wants to run your voice agent. Here’s what developers give up.",
+      "link": "https://thenewstack.io/elevenlabs-voice-agent-tradeoffs",
+      "summary": "ElevenLabs launched Eleven Realtime on Tuesday, introducing two managed voice-agent models, Mini and Max, that integrate speech recognition, reasoning, turn-taking, The post ElevenLabs wants to run your voice agent. Here’s what developers give up. appeared first on The New Stack .",
+      "published": "2026-10-20T18:43:47+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Scripted tests can’t keep up with AI-written code. Datadog is betting agents can.",
+      "link": "https://thenewstack.io/datadog-propolis-agentic-testing",
+      "summary": "Nearly a year into the agentic coding explosion, many teams now use AI to write software as their de facto The post Scripted tests can’t keep up with AI-written code. Datadog is betting agents can. appeared first on The New Stack .",
+      "published": "2026-10-20T16:49:53+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Alex Wilhelm",
+      "categories": [
+        "AI Agents",
+        "CI/CD",
+        "Developer tools",
+        "Software Development",
+        "sponsor-datadog",
+        "sponsored-webinar"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "What’s new in Azure SRE Agent: October Update",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/what-s-new-in-azure-sre-agent-october-update/ba-p/4566004",
+      "summary": "There’s been a lot happening with Azure SRE Agent lately, with new guidance, examples, and resources to help teams get more out of the service. Whether you’re thinking through security and architecture, connecting tools like Splunk, or looking for practical ways to improve how your agents work,...",
+      "published": "2026-10-20T16:00:00+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "sonjagu",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "How to review AI code without reading the code",
+      "link": "https://thenewstack.io/review-decisions-not-code",
+      "summary": "The argument over whether engineers should stop reading code is over, because we already have. Faros AI’s new report shows The post How to review AI code without reading the code appeared first on The New Stack .",
+      "published": "2026-10-20T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Ankit Jain",
+      "categories": [
+        "AI Agents",
+        "Developer tools",
+        "Software Development",
+        "sponsor-aviator",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Day-6 | AI Agents Zero to Hero | MCP & Memory Bank (Agent Memory)",
+      "link": "https://www.youtube.com/watch?v=QWcmbRFi4sc",
+      "summary": "Create your FREE account:\nhttps://fandf.co/46pq5QJ\n\nThis is the Sixth episode of Building an AI Agent Zero to Hero using Gemini Enterprise Agent Platform and agents-cli, In this video you will learn how to set up Memory bank so agent remembers the information across the sessions.\n\nNote: In...",
+      "published": "2026-10-20T15:56:08+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/QWcmbRFi4sc/mqdefault.jpg"
+    },
+    {
+      "title": "DeepSeek open-sources the inference engine behind its API. And Huawei gets equal billing with Nvidia.",
+      "link": "https://thenewstack.io/deepseek-deepinfer-huawei-nvidia",
+      "summary": "DeepSeek has open-sourced the inference engine it uses to serve its models in production, a step it said last year The post DeepSeek open-sources the inference engine behind its API. And Huawei gets equal billing with Nvidia. appeared first on The New Stack .",
+      "published": "2026-10-20T14:58:36+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Infrastructure",
+        "Hardware",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Beam pulls single app windows off the Mac Mini running your agents",
+      "link": "https://thenewstack.io/beam-mac-mini-agents",
+      "summary": "Beam is a new Mac app that takes a window running on one Mac and puts it on another, where The post Beam pulls single app windows off the Mac Mini running your agents appeared first on The New Stack .",
+      "published": "2026-10-20T14:07:14+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Matthew Burns",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI’s Midas problem: When code is free, features are worthless",
+      "link": "https://thenewstack.io/ai-commoditizes-software-value",
+      "summary": "Every team that adopted Claude Code, Cursor, or Copilot to produce more code has the same problem: When output is The post AI’s Midas problem: When code is free, features are worthless appeared first on The New Stack .",
+      "published": "2026-10-20T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Steve Fenton",
+      "categories": [
+        "AI Engineering",
+        "Software Development",
+        "Vibe Coding",
+        "contributed-octopus-deploy"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Your CI/CD Pipeline Takes 45 Minutes. Here's How to Fix It.",
       "link": "https://kodekloud.com/blog/speed-up-slow-cicd-pipeline",
@@ -4757,72 +4957,6 @@
       "author": "John Savill's Technical Training",
       "categories": [],
       "thumbnail": "https://i.ytimg.com/vi/uZXLN2Nx94w/mqdefault.jpg"
-    },
-    {
-      "title": "Free Claude Code Alternative That Cuts Your AI Coding Costs (kimchi.dev)",
-      "link": "https://www.youtube.com/watch?v=WsSwYz4_PJU",
-      "summary": "Kimchi is an AI coding agent that cuts what you spend on AI coding every day, and you can start on the free tier without a card. For developers who already pay for Claude Code, Codex or Cursor and are tired of paying frontier model prices for boilerplate.\n\nThis video is sponsored by Kimchi....",
-      "published": "2026-09-21T09:43:02+00:00",
-      "source": "Piyush Sachdeva",
-      "type": "video",
-      "author": "Tech Tutorials with Piyush",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/WsSwYz4_PJU/mqdefault.jpg"
-    },
-    {
-      "title": "Incident Management in DevOps: The Hardest Part Is Not the Fix",
-      "link": "https://www.youtube.com/watch?v=80FRAKkp_z8",
-      "summary": "Incident management in DevOps is not hard because the fix is hard. It is hard because for the first twenty minutes, nobody knows what broke. For cloud, DevOps and SRE engineers who get paged, join the call, and start digging while the incident is still spreading.\n\nThis video is sponsored by...",
-      "published": "2026-09-21T09:24:13+00:00",
-      "source": "Piyush Sachdeva",
-      "type": "video",
-      "author": "Tech Tutorials with Piyush",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/80FRAKkp_z8/mqdefault.jpg"
-    },
-    {
-      "title": "Open Source LLM Tracing Tools Compared and How to Set One Up",
-      "link": "https://kodekloud.com/blog/open-source-llm-tracing-tools-compared",
-      "summary": "Your AI feature gave someone a bad answer and your logs cannot tell you why. One line of setup records the model, the settings and every step of the request, so next time you can just look.",
-      "published": "2026-09-20T18:00:41+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "AI",
-        "LLM",
-        "Tracing",
-        "Observability",
-        "AI Agents",
-        "MLflow",
-        "Langfuse",
-        "OpenLLMetry"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Stop everything and Learn Jev now.",
-      "link": "https://www.youtube.com/watch?v=cidPApHyXhI",
-      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
-      "published": "2026-09-20T17:11:41+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/cidPApHyXhI/mqdefault.jpg"
-    },
-    {
-      "title": "Your AI agent failed. The model might not be the problem.",
-      "link": "https://thenewstack.io/nvidia-agent-debugging-safe",
-      "summary": "As AI agents move into production, the path between a request and its result is becoming less predictable. An agent The post Your AI agent failed. The model might not be the problem. appeared first on The New Stack .",
-      "published": "2026-09-20T14:04:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI"
-      ],
-      "thumbnail": ""
     }
   ]
 }
