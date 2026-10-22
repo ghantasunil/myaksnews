@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-10-21T10:53:06.131165+00:00",
-    "total_items": 329,
+    "generated_at": "2026-10-22T10:53:20.906754+00:00",
+    "total_items": 325,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,191 @@
     ]
   },
   "items": [
+    {
+      "title": "The DevOps Toolchain in 2026: Every Stage, the Tools, and What to Learn First",
+      "link": "https://kodekloud.com/blog/devops-toolchain",
+      "summary": "Every DevOps roadmap is full of tool logos. Here is the simple version: eight stages, the open source projects behind them, who runs each part and the order in which to learn it all.",
+      "published": "2026-10-22T03:58:39+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "DevOps",
+        "DevOps Toolchain",
+        "DevOps Tools",
+        "CI/CD",
+        "CNCF",
+        "Open Source",
+        "Kubernetes",
+        "Platform Engineer",
+        "DevOps Engineer",
+        "SRE",
+        "DevSecOps",
+        "CloudOps"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Enhanced Feature Flags: A New Foundation for Feature Management in Azure App Configuration",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/enhanced-feature-flags-a-new-foundation-for-feature-management/ba-p/4566672",
+      "summary": "Shipping is no longer just about deploying code. Consider a team introducing a new checkout experience. The code is already in production, but the team wants to expose it to a small audience, gradually increase availability, monitor the results, and retain the ability to turn it off if something...",
+      "published": "2026-10-21T23:04:15+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "mukta",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI found flaws in the code behind 70% of the web. The fix took two months.",
+      "link": "https://thenewstack.io/ai-php2shell-disclosure-framework",
+      "summary": "PHP powers roughly 70% of the world’s websites, according to Wiz Research, so a flaw in its core engine affects The post AI found flaws in the code behind 70% of the web. The fix took two months. appeared first on The New Stack .",
+      "published": "2026-10-21T22:17:07+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI",
+        "Open Source",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Amodei says Anthropic’s safety delay may have cost it an AI lead",
+      "link": "https://thenewstack.io/anthropic-mythos-safety-pace",
+      "summary": "Anthropic first released Mythos-class models in February 2026, but CEO Dario Amodei said it delayed broader access until June to The post Amodei says Anthropic’s safety delay may have cost it an AI lead appeared first on The New Stack .",
+      "published": "2026-10-21T21:22:53+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Models",
+        "AI Strategy",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How to Replace Long Lived AWS Keys in GitHub Actions With OIDC",
+      "link": "https://kodekloud.com/blog/replace-long-lived-aws-keys-in-github-actions-with-oidc",
+      "summary": "Static AWS keys in GitHub secrets never expire and leak in ways nobody notices. This hands on guide shows how to let each workflow run borrow short lived credentials through OIDC, then retire the old keys safely.",
+      "published": "2026-10-21T18:00:00+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "GitHub",
+        "GitHub Actions",
+        "DevOps",
+        "AWS",
+        "OIDC",
+        "IAM",
+        "CI/CD",
+        "DevSecOps",
+        "Cloud Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How to Write a DevOps Resume That Gets Shortlisted in 2026",
+      "link": "https://kodekloud.com/blog/devops-resume",
+      "summary": "Most DevOps resumes lose out in the first few seconds, long before anyone reads the details. This guide shows how to structure, word and adapt yours so recruiters on Naukri, LinkedIn and Indeed find it and shortlist it.",
+      "published": "2026-10-21T14:00:00+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "DevOps",
+        "DevOps Resume",
+        "Job Search",
+        "DevOps Engineer",
+        "DevOps Engineer Career Path",
+        "LinkedIn",
+        "Career Guide",
+        "DevOps Interview",
+        "Resume Writing"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "From feral to fiduciary: making AI agents serve your interests",
+      "link": "https://thenewstack.io/ai-agent-trust-score",
+      "summary": "Tech leaders face a dilemma as they prepare to put AI agents into production. They want the higher productivity and The post From feral to fiduciary: making AI agents serve your interests appeared first on The New Stack .",
+      "published": "2026-10-21T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Vin Sharma",
+      "categories": [
+        "AI Agents",
+        "AI Operations",
+        "Security",
+        "sponsor-vijil",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI sped up coding. Sonar instills confidence with verification.",
+      "link": "https://thenewstack.io/ai-coding-verification-loops",
+      "summary": "AI coding tools can produce a striking burst of productivity — but the initial surge may not last. A Carnegie The post AI sped up coding. Sonar instills confidence with verification. appeared first on The New Stack .",
+      "published": "2026-10-21T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Megan Carnegie",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Software Development",
+        "sponsor-sonarsource",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Nvidia bets open models can give enterprise AI agents the context they’re missing",
+      "link": "https://thenewstack.io/nvidia-agent-knowledge-foundation",
+      "summary": "Every enterprise company is currently trying to figure out how to have its AI tools work with its data. Meanwhile, The post Nvidia bets open models can give enterprise AI agents the context they’re missing appeared first on The New Stack .",
+      "published": "2026-10-21T11:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Infrastructure"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Nvidia wants AI factories built in real factories",
+      "link": "https://thenewstack.io/nvidia-dsx-pod-containers",
+      "summary": "Nvidia wants new AI capacity to show up at the data center fully built. At its GTC Berlin conference on The post Nvidia wants AI factories built in real factories appeared first on The New Stack .",
+      "published": "2026-10-21T11:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Infrastructure"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Before you evaluate an AI SRE, give your existing agent context",
+      "link": "https://www.cncf.io/blog/2026/10/21/before-you-evaluate-an-ai-sre-give-your-existing-agent-context",
+      "summary": "If you’re evaluating AI SRE products, you probably own most of one already. The coding agent your engineers use, whether that’s Claude Code, Codex or Cursor, can already investigate a Kubernetes cluster. What it usually lacks...",
+      "published": "2026-10-21T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Roy Libman, CPO, Radar (Skyhook.io)",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "GPU Memory Profiling on AKS: Find the Code Behind Memory Pressure",
       "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/gpu-memory-profiling-on-aks-find-the-code-behind-memory-pressure/ba-p/4566375",
@@ -4544,6 +4729,17 @@
       "thumbnail": ""
     },
     {
+      "title": "Free Claude Code Alternative That Cuts Your AI Coding Costs (kimchi.dev)",
+      "link": "https://www.youtube.com/watch?v=WsSwYz4_PJU",
+      "summary": "Kimchi is an AI coding agent that cuts what you spend on AI coding every day, and you can start on the free tier without a card. For developers who already pay for Claude Code, Codex or Cursor and are tired of paying frontier model prices for boilerplate.\n\nThis video is sponsored by Kimchi....",
+      "published": "2026-09-23T11:00:10+00:00",
+      "source": "Piyush Sachdeva",
+      "type": "video",
+      "author": "Tech Tutorials with Piyush",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/WsSwYz4_PJU/mqdefault.jpg"
+    },
+    {
       "title": "OpenAI cut GPT-6 token prices in half. The bigger lever may be the cache.",
       "link": "https://thenewstack.io/openai-prompt-caching-costs",
       "summary": "OpenAI released GPT-6 Sol and Luna on Tuesday, essentially more affordable versions of GPT-6 Astra that come closer to Astra The post OpenAI cut GPT-6 token prices in half. The bigger lever may be the cache. appeared first on The New Stack .",
@@ -4748,215 +4944,6 @@
         "sponsored-post-contributed"
       ],
       "thumbnail": ""
-    },
-    {
-      "title": "What Happens on Terraform Apply",
-      "link": "https://kodekloud.com/blog/what-happens-on-terraform-apply",
-      "summary": "Learn what happens when you run terraform apply: the state file, terraform plan, providers, state locking and drift, explained for interviews.",
-      "published": "2026-09-22T04:56:54+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "Terraform",
-        "Infrastructure as Code",
-        "DevOps Interview"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Scheduling this video for 7 months in the future, 21 Sept 2026 - 1 May 2027",
-      "link": "https://www.youtube.com/watch?v=utqAfjdAy64",
-      "summary": "Raw, unfiltered, unedited version of my next 6 months plan\n\n\n𝗖𝗢𝗠𝗣𝗟𝗘𝗧𝗘 COURSES  👌 It’s   🅵🆁🅴🅴 ⛳\n✅ Terraform Full Course For Beginners - #28daysofAZTerraform\nhttps://www.youtube.com/playlist?list=PLl4APkPHzsUUHlbhuq9V02n9AMLPySoEQ\n\n✅ Certified Kubernetes Administrator (CKA)...",
-      "published": "2026-09-22T02:10:20+00:00",
-      "source": "Piyush Sachdeva",
-      "type": "video",
-      "author": "Tech Tutorials with Piyush",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/utqAfjdAy64/mqdefault.jpg"
-    },
-    {
-      "title": "Enable Dynamic Workflows in Azure Functions hosted skills",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/enable-dynamic-workflows-in-azure-functions-hosted-skills/ba-p/4551993",
-      "summary": "Azure Functions already gives you a familiar way to build event-driven apps. A queue message, HTTP request, timer, or event triggers the code that handles the work. Azure Functions hosted skills (formerly Serverless Agents) add AI reasoning to that model. A hosted skill can read a request, use the...",
-      "published": "2026-09-21T21:29:25+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "NickGreenfield",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Grok Build vs. Claude Code: I tested which one has the better memory",
-      "link": "https://thenewstack.io/grok-build-vs-claude-code-memory",
-      "summary": "On September 16, xAI announced memory in Grok Build, its terminal coding agent. The pitch was that Grok “keeps notes The post Grok Build vs. Claude Code: I tested which one has the better memory appeared first on The New Stack .",
-      "published": "2026-09-21T20:04:18+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jessica Wachtel",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "TypeSafe launched Jev because sequential LLMs are “totally useless for computers”",
-      "link": "https://thenewstack.io/typesafe-jev-system-one",
-      "summary": "When TypeSafe emerged last week after two years in stealth, backed by $40 million in seed funding led by DCVC, The post TypeSafe launched Jev because sequential LLMs are “totally useless for computers” appeared first on The New Stack .",
-      "published": "2026-09-21T19:36:29+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI Models",
-        "Developer tools",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Your AI agent is burning tokens on choices that don’t need words",
-      "link": "https://thenewstack.io/kev-skips-text-generation",
-      "summary": "AI agents spend a ridiculous amount of compute generating text nobody actually needs. The decisions an agent makes along the The post Your AI agent is burning tokens on choices that don’t need words appeared first on The New Stack .",
-      "published": "2026-09-21T19:13:46+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Grok 4.7 was built to work for hours. It still fails most of the time.",
-      "link": "https://thenewstack.io/grok-4-7-agent-stamina",
-      "summary": "A coding agent running for hours can make dozens of decisions as it edits files, runs tests, and works through The post Grok 4.7 was built to work for hours. It still fails most of the time. appeared first on The New Stack .",
-      "published": "2026-09-21T19:13:23+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "AI Models",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AWS open-sources an AI agent it says is 45% cheaper than Claude Code and Codex",
-      "link": "https://thenewstack.io/aws-strands-harness-agent",
-      "summary": "Amazon Web Services (AWS) is lifting the lid on a new open source, general-purpose AI agent, designed to give developers The post AWS open-sources an AI agent it says is 45% cheaper than Claude Code and Codex appeared first on The New Stack .",
-      "published": "2026-09-21T18:30:16+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Cloud Services",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta)",
-      "link": "https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time",
-      "summary": "Kubernetes v1.37 promotes the PersistentVolumeClaimUnusedSinceTime feature gate to Beta (enabled by\ndefault). With this feature, the PersistentVolumeClaim (PVC) protection controller adds an Unused condition to each PVC, telling you whether any running pod currently references it — no...",
-      "published": "2026-09-21T18:30:00+00:00",
-      "source": "Kubernetes Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenObserve 1.0 tutorial: Kubernetes Observability + AI",
-      "link": "https://www.youtube.com/watch?v=FHp8dbUcu0A",
-      "summary": "Learn OpenObserve 1.0 hands-on: Kubernetes observability, logs, metrics, traces, dashboards, and AI-assisted troubleshooting with Claude Code.\n\nI start with a single binary on my Mac, collect macOS telemetry with the OpenTelemetry Collector, and connect a three-node Kubernetes cluster to the same...",
-      "published": "2026-09-21T17:26:22+00:00",
-      "source": "Kubesimplify",
-      "type": "video",
-      "author": "Kubesimplify",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/FHp8dbUcu0A/mqdefault.jpg"
-    },
-    {
-      "title": "Virtual nodes on Azure Container Instances: a new compute layer for AKS",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/virtual-nodes-on-azure-container-instances-a-new-compute-layer/ba-p/4558080",
-      "summary": "Meet virtual nodes on ACI Azure Kubernetes Service (AKS) gives you managed Kubernetes: the full Kubernetes API without operating the control plane yourself. Virtual nodes on Azure Container Instances go a step further, letting your pods run directly on Azure's serverless container platform, with...",
-      "published": "2026-09-21T16:44:41+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "hailukassa",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Day-1 | AI Agent Zero to Hero | Getting started",
-      "link": "https://www.youtube.com/watch?v=QE-jDKvh4yU",
-      "summary": "Create your FREE account:\nhttps://fandf.co/46pq5QJ\n\nThis is the very first episode of Building an AI Agent Zero to Hero using Gemini Enterprise Agent Platform, In this video you will learn the real challenges with moving a prototype or an AI Agent running on your local machine to production.\n\nYou...",
-      "published": "2026-09-21T16:15:56+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/QE-jDKvh4yU/mqdefault.jpg"
-    },
-    {
-      "title": "How Kafka Works",
-      "link": "https://kodekloud.com/blog/how-kafka-works-topics-partitions-offsets",
-      "summary": "Learn how Kafka works and why every backend uses it: producers, consumers, topics, partitions and offsets explained with a checkout example.",
-      "published": "2026-09-21T16:14:32+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "Kafka",
-        "Event Streaming",
-        "system design"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Elasticsearch Vector Database on Azure: semantic search and RAG without managing a cluster",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/elasticsearch-vector-database-on-azure-semantic-search-and-rag/ba-p/4558647",
-      "summary": "With Elasticsearch Vector Database , Elastic's new serverless offering for vector workloads, Azure customers can build semantic search, retrieval-augmented generation (RAG), and agent-powered experiences. Azure Native Integrations make it easy to discover, deploy, and manage the resource through...",
-      "published": "2026-09-21T13:34:07+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "piyush05",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "What Happens If the Kubernetes API Server Goes Down",
-      "link": "https://kodekloud.com/blog/kubernetes-api-server-failure",
-      "summary": "Learn what happens when the Kubernetes API server goes down: why pods keep serving traffic and how the control plane and data plane differ.",
-      "published": "2026-09-21T12:52:02+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "Kubernetes",
-        "Kubernetes architecture",
-        "Control Plane"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Succeeding with AI",
-      "link": "https://www.youtube.com/watch?v=uZXLN2Nx94w",
-      "summary": "What I've learnt over a lot of customer and Microsoft's own AI ambition.\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:23 - AI adoption\n01:32 - Where can AI drive benefit\n08:49 - What makes a good AI initiative\n17:47 - Human and AI\n18:44 - Where do we get stuck\n22:21 - Rethinking our...",
-      "published": "2026-09-21T11:03:05+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/uZXLN2Nx94w/mqdefault.jpg"
     }
   ]
 }
