@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-10-23T10:44:38.608219+00:00",
-    "total_items": 329,
+    "generated_at": "2026-10-24T10:01:15.089944+00:00",
+    "total_items": 321,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,180 @@
     ]
   },
   "items": [
+    {
+      "title": "Is It Safe to Pipe curl Into Bash Straight From the Internet?",
+      "link": "https://kodekloud.com/blog/is-it-safe-to-pipe-curl-into-bash",
+      "summary": "One line installs the tool, but it also runs code you never saw. Reproduce the four ways curl into bash can go wrong, then learn the habit that fixes most of them.",
+      "published": "2026-10-24T02:00:00+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "Linux",
+        "Bash",
+        "Shell Scripting",
+        "Curl",
+        "Security",
+        "DevSecOps",
+        "Supply Chain Security",
+        "DevOps",
+        "Checksum",
+        "Install Scripts"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Making Azure Container Registry Activity Visible at Scale",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/making-azure-container-registry-activity-visible-at-scale/ba-p/4567301",
+      "summary": "Learn More Use Grafana dashboards in Azure Container Registry Monitor Azure Container Registry Azure Container Registry (ACR) now publishes two new metrics: Transactions and Data Transfer . For the first time, you can see which operations your registry serves, which region serves them, and how much...",
+      "published": "2026-10-23T23:56:08+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "cabarker",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Vercel moved to kill static credentials. Then developers spotted its own deployment token.",
+      "link": "https://thenewstack.io/vercel-oidc-static-credentials",
+      "summary": "Vercel wants to eliminate long-lived API keys from its ecosystem, and it is giving Marketplace vendors until January 2027 to The post Vercel moved to kill static credentials. Then developers spotted its own deployment token. appeared first on The New Stack .",
+      "published": "2026-10-23T20:04:16+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "API Management",
+        "CI/CD",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI jobs are waiting while GPUs sit idle. Kubernetes has a new plan.",
+      "link": "https://thenewstack.io/kubernetes-agentic-ai-inference",
+      "summary": "Welcome to another edition of Road to KubeCon! We’re tracking movements in the Kubernetes and cloud-native ecosystem as we count The post AI jobs are waiting while GPUs sit idle. Kubernetes has a new plan. appeared first on The New Stack .",
+      "published": "2026-10-23T19:08:53+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Nick Lucchesi",
+      "categories": [
+        "AI Infrastructure",
+        "Kubecon Cloudnativecon NA 2026",
+        "Kubernetes",
+        "Observability",
+        "Road to KubeCon",
+        "sponsor-hpe",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Can a Container Run as Root Without Being Root on the Host?",
+      "link": "https://kodekloud.com/blog/can-a-container-run-as-root-without-being-root-on-the-host",
+      "summary": "Root inside a container is usually the same root that owns your host. Watch one setting change that, as the same container loses access to a root only file.",
+      "published": "2026-10-23T18:00:00+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "Docker",
+        "Kubernetes",
+        "Container",
+        "Container Security",
+        "User Namespaces",
+        "Linux",
+        "DevSecOps",
+        "Security",
+        "Rootless Containers",
+        "CKS"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Is It Safe to Paste Company Code or Logs Into an AI Chatbot?",
+      "link": "https://kodekloud.com/blog/is-it-safe-to-paste-company-code-or-logs-into-an-ai-chatbot",
+      "summary": "A failing log is the quickest thing to paste into an AI chatbot and often the riskiest. See where that text goes and build a small check that strips out secrets first.",
+      "published": "2026-10-23T14:00:00+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "AI",
+        "LLM",
+        "AI Security",
+        "DevSecOps",
+        "Security",
+        "Data Privacy",
+        "Secrets",
+        "Secret Management",
+        "Gitleaks",
+        "Python",
+        "DevOps"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "PHP2Shell was only the beginning: AI is accelerating the patch race",
+      "link": "https://thenewstack.io/php2shell-ai-patch-race",
+      "summary": "Government websites and public services across Europe went offline this week as organizations responded to two newly disclosed PHP vulnerabilities. The post PHP2Shell was only the beginning: AI is accelerating the patch race appeared first on The New Stack .",
+      "published": "2026-10-23T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Matthew Weier O’Phinney",
+      "categories": [
+        "AI",
+        "Open Source",
+        "Security",
+        "sponsor-perforce",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "A few engineers asked IT for Linux. Then it spread to 200 machines.",
+      "link": "https://thenewstack.io/linux-developer-device-management",
+      "summary": "Linux is already part of the AI developer’s desktop toolkit. Nvidia’s DGX Spark, which became available to order on October The post A few engineers asked IT for Linux. Then it spread to 200 machines. appeared first on The New Stack .",
+      "published": "2026-10-23T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "David Eastman",
+      "categories": [
+        "AI",
+        "Compliance",
+        "Linux",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Microsoft’s new voice AI can start working out what you want before you finish speaking",
+      "link": "https://thenewstack.io/microsoft-streaming-speech-models",
+      "summary": "“I think you said, ‘representative.’” It’s the fastest way to bypass automated speech recognition chatbots that fail to route human The post Microsoft’s new voice AI can start working out what you want before you finish speaking appeared first on The New Stack .",
+      "published": "2026-10-23T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Multi-tenant GPU Kubernetes on simulated hardware with Kamaji and HAMi",
+      "link": "https://www.cncf.io/blog/2026/10/23/multi-tenant-gpu-kubernetes-on-simulated-hardware-with-kamaji-and-hami",
+      "summary": "GPU teams usually face a bad trade-off. Give every team its own Kubernetes cluster and you pay for a control plane per team. Put everyone in one shared cluster and you get weak isolation. Either way,...",
+      "published": "2026-10-23T11:30:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "By Anish Bista | CNCF Golden Kubestronaut",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Can I Release on a Friday Without Fear and How Do Feature Flags Help?",
       "link": "https://kodekloud.com/blog/release-on-a-friday-feature-flags",
@@ -4756,279 +4930,6 @@
         "Data",
         "sponsor-perforce",
         "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Designing a Background Job Processing System, And Where It Breaks",
-      "link": "https://kodekloud.com/blog/build-background-job-queue",
-      "summary": "Build a reliable background job queue using transactional outboxes, visibility timeouts, idempotent workers, retries, and dead letter queues.",
-      "published": "2026-09-24T09:55:39+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "system design",
-        "Message Queues",
-        "Background Jobs"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Azure Container Apps Sandboxes, Now Generally Available",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-container-apps-sandboxes-now-generally-available/ba-p/4559125",
-      "summary": "Agents Act. You Set the Limits. Your platform needs to run untrusted code. Agents choose actions at runtime, from installing packages to calling APIs. In a multi-tenant service, you have to support both without letting one customer's code reach another customer's data. That requires an execution...",
-      "published": "2026-09-23T23:33:57+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "Jan-Kalis",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Q.ANT gives away the software for its light-powered AI chips in a CUDA-style bet on developers",
-      "link": "https://thenewstack.io/q-ant-open-sources-cuda",
-      "summary": "Q.ANT, a startup out of Stuttgart, Germany, builds processors that use light instead of electricity to do some of the The post Q.ANT gives away the software for its light-powered AI chips in a CUDA-style bet on developers appeared first on The New Stack .",
-      "published": "2026-09-23T22:23:45+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Matthew Burns",
-      "categories": [
-        "AI Infrastructure",
-        "Hardware"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“Impressive level of openness”: Xiaomi goes way beyond the usual open-weight playbook with MiMo-V2.6",
-      "link": "https://thenewstack.io/xiaomi-mimo-vs-6-open-source",
-      "summary": "New models are coming out thick and fast, almost on a weekly cadence, ranging from the powerful proprietary systems coming The post “Impressive level of openness”: Xiaomi goes way beyond the usual open-weight playbook with MiMo-V2.6 appeared first on The New Stack .",
-      "published": "2026-09-23T20:00:12+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Models",
-        "Large Language Models",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "A third option is emerging in the fight over AI and your data",
-      "link": "https://thenewstack.io/vast-dataenclave-confidential-computing",
-      "summary": "Not your keys, not your coins. Not your model, not your data? Over the summer, the tech industry was consumed The post A third option is emerging in the fight over AI and your data appeared first on The New Stack .",
-      "published": "2026-09-23T19:31:42+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Alex Wilhelm",
-      "categories": [
-        "AI Infrastructure",
-        "Large Language Models",
-        "Security",
-        "Podcast",
-        "sponsor-vast-data",
-        "Sponsored",
-        "sponsored-podcast",
-        "Video"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Hermes Agent for DevOps, the Open Source Agent That Lives on Your Server",
-      "link": "https://kodekloud.com/blog/hermes-agent-for-devops-self-hosted-ai-agent",
-      "summary": "An AI agent that runs on your server, remembers past actions, and executes scheduled jobs unattended can be incredibly useful. It can also introduce real risks. Here’s how to build one that delivers the benefits without giving up control.",
-      "published": "2026-09-23T18:00:27+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "Hermes",
-        "Hermes Agent",
-        "AI Agents",
-        "DevOps AI Agent",
-        "DevOps",
-        "AI",
-        "Platform Engineering",
-        "Automation",
-        "Open Source",
-        "AI Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Jensen Huang says the junior developer problem ends in two years. Here’s his math.",
-      "link": "https://thenewstack.io/huang-ai-agents-engineers",
-      "summary": "Nvidia CEO Jensen Huang has heard the forecast that agents would write 90% of all software by now, and he The post Jensen Huang says the junior developer problem ends in two years. Here’s his math. appeared first on The New Stack .",
-      "published": "2026-09-23T16:55:30+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Tech Careers"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Amazon blocked Meta’s Muse. Then Shopify wired it into every store.",
-      "link": "https://thenewstack.io/amazon-meta-muse-block",
-      "summary": "Amazon started blocking Meta’s Muse from browsing and buying on Amazon.com on Sunday, roughly two weeks after the personal agent The post Amazon blocked Meta’s Muse. Then Shopify wired it into every store. appeared first on The New Stack .",
-      "published": "2026-09-23T16:39:15+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Janakiram MSV",
-      "categories": [
-        "AI Agents",
-        "API Management",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Day-2 | AI Agent Zero to Hero | Building the Agent",
-      "link": "https://www.youtube.com/watch?v=xl4C7pQHgJE",
-      "summary": "Create your FREE account:\nhttps://fandf.co/46pq5QJ\n\nThis is the very second episode of Building an AI Agent Zero to Hero using Gemini Enterprise Agent Platform, In this video you will learn how to build an AI Agent using Agents CLI and Google ADK.\n\nFollow the complete series in...",
-      "published": "2026-09-23T16:31:05+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/xl4C7pQHgJE/mqdefault.jpg"
-    },
-    {
-      "title": "How confidential AI splits control between data and model owners — and opens new opportunities for both",
-      "link": "https://thenewstack.io/confidential-ai-sensitive-enterprise-data",
-      "summary": "Most people already understand what generative AI can do. But enterprises run into problems when they need to give a The post How confidential AI splits control between data and model owners — and opens new opportunities for both appeared first on The New Stack .",
-      "published": "2026-09-23T16:15:17+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Megan Carnegie",
-      "categories": [
-        "AI Infrastructure",
-        "Data",
-        "Security",
-        "sponsor-vast-data",
-        "Sponsored",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Azure Container Apps Express is now Generally Available",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-container-apps-express-is-now-generally-available/ba-p/4559101",
-      "summary": "For many web apps and APIs, a container image should be enough to get started. Developers should not have to choose and configure an environment before the first deployment. Today, Azure Container Apps Express reaches general availability. It is the fastest way to go from a container image to a...",
-      "published": "2026-09-23T15:33:53+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "simonjj",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Which hat am I wearing right now?",
-      "link": "https://www.cncf.io/blog/2026/09/23/which-hat-am-i-wearing-right-now",
-      "summary": "Neutrality is quietly the hardest part of open source. It gets tricky the moment someone pays your salary — and staying honest about it takes more effort than anyone admits. Here’s something we don’t say out...",
-      "published": "2026-09-23T14:47:15+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Mario Fahlandt, CNCF Ambassador",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The software supply chain is the new battlefield. AI just changed the rules.",
-      "link": "https://thenewstack.io/ai-supply-chain-security",
-      "summary": "AI coding tools have seriously accelerated developer speed, but AI has also done the same for attackers — and the The post The software supply chain is the new battlefield. AI just changed the rules. appeared first on The New Stack .",
-      "published": "2026-09-23T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Carly Page",
-      "categories": [
-        "AI Agents",
-        "Open Source",
-        "Security",
-        "sponsor-chainguard",
-        "Sponsored",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Vulnerability alert fatigue nearly swamped WHOOP. But its fix still keeps a human in charge.",
-      "link": "https://thenewstack.io/whoop-automated-vulnerability-response-workflow",
-      "summary": "With often hundreds of thousands of alerts a day, many tech organizations are buried in vulnerabilities and worn down by The post Vulnerability alert fatigue nearly swamped WHOOP. But its fix still keeps a human in charge. appeared first on The New Stack .",
-      "published": "2026-09-23T13:23:43+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jennifer Riggins",
-      "categories": [
-        "AI Engineering",
-        "AI Operations",
-        "DevOps",
-        "Platform Engineering",
-        "sponsor-datadog",
-        "sponsored-webinar"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AI spending can run negative. Qodo’s CEO built an ROI equation to fix it.",
-      "link": "https://thenewstack.io/qodo-ai-roi-equation",
-      "summary": "Flush with the proceeds of a $70 million Series B raised earlier this year, you might expect Qodo to spend The post AI spending can run negative. Qodo’s CEO built an ROI equation to fix it. appeared first on The New Stack .",
-      "published": "2026-09-23T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Alex Wilhelm",
-      "categories": [
-        "AI Engineering",
-        "AI Strategy",
-        "FinOps"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic made Opus 5.5 cheaper. Then it broke four things your agent depends on.",
-      "link": "https://thenewstack.io/claude-opus-agent-migration",
-      "summary": "Anthropic made Claude Opus 5.5, released on Tuesday, cheaper than its predecessor, cutting the price from $5 to $4 per The post Anthropic made Opus 5.5 cheaper. Then it broke four things your agent depends on. appeared first on The New Stack .",
-      "published": "2026-09-23T12:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Free Claude Code Alternative That Cuts Your AI Coding Costs (kimchi.dev)",
-      "link": "https://www.youtube.com/watch?v=WsSwYz4_PJU",
-      "summary": "Kimchi is an AI coding agent that cuts what you spend on AI coding every day, and you can start on the free tier without a card. For developers who already pay for Claude Code, Codex or Cursor and are tired of paying frontier model prices for boilerplate.\n\nThis video is sponsored by Kimchi....",
-      "published": "2026-09-23T11:00:10+00:00",
-      "source": "Piyush Sachdeva",
-      "type": "video",
-      "author": "Tech Tutorials with Piyush",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/WsSwYz4_PJU/mqdefault.jpg"
-    },
-    {
-      "title": "OpenAI cut GPT-6 token prices in half. The bigger lever may be the cache.",
-      "link": "https://thenewstack.io/openai-prompt-caching-costs",
-      "summary": "OpenAI released GPT-6 Sol and Luna on Tuesday, essentially more affordable versions of GPT-6 Astra that come closer to Astra The post OpenAI cut GPT-6 token prices in half. The bigger lever may be the cache. appeared first on The New Stack .",
-      "published": "2026-09-23T11:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "FinOps"
       ],
       "thumbnail": ""
     }
