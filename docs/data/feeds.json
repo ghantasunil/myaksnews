@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-10-24T10:01:15.089944+00:00",
-    "total_items": 321,
+    "generated_at": "2026-10-25T10:26:25.637985+00:00",
+    "total_items": 316,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,129 @@
     ]
   },
   "items": [
+    {
+      "title": "Why Does the Same Prompt Give Me a Different Answer Every Time?",
+      "link": "https://kodekloud.com/blog/why-does-the-same-prompt-give-me-a-different-answer-every-time",
+      "summary": "Ask an AI the same question twice and you rarely get the same reply. Watch why on your own machine, and learn which settings make answers repeat.",
+      "published": "2026-10-25T07:00:00+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "AI",
+        "LLM",
+        "Generative AI",
+        "Gen AI",
+        "Prompt Engineering",
+        "LLM Temperature",
+        "LLM Sampling",
+        "PyTorch",
+        "Hugging Face",
+        "DevOps AI",
+        "Nondeterminism",
+        "Transformers"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure Weekly Update - 24th October 2026",
+      "link": "https://www.youtube.com/watch?v=WjdPF-6fbx4",
+      "summary": "Really nice selection of updates across Azure and AI this week!\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just...",
+      "published": "2026-10-24T16:28:59+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/WjdPF-6fbx4/mqdefault.jpg"
+    },
+    {
+      "title": "What Does Being On Call Actually Feel Like and How Do I Prepare?",
+      "link": "https://kodekloud.com/blog/what-does-being-on-call-feel-like",
+      "summary": "A 3 AM page feels very different when you know your first five minutes. Live through one night on call, answer four checkpoint questions and replay the incident on your laptop.",
+      "published": "2026-10-24T15:00:00+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "SRE",
+        "Site Reliability Engineering",
+        "Incident Response",
+        "DevOps",
+        "Runbooks",
+        "Rollbacks",
+        "DevOps Career",
+        "Linux",
+        "Incident Postmortem",
+        "On Call"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AWS says its AI security agent fixes 89% of bugs — but there’s a catch",
+      "link": "https://thenewstack.io/aws-says-its-ai-security-agent-fixes-89-of-bugs-but-theres-a-catch",
+      "summary": "AWS made Continuum for code vulnerabilities generally available on Thursday. The service finds and validates bugs in your repositories, checks The post AWS says its AI security agent fixes 89% of bugs — but there’s a catch appeared first on The New Stack .",
+      "published": "2026-10-24T14:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "Developer tools",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Building an agentic software factory? Start with the sensor.",
+      "link": "https://thenewstack.io/agentic-software-factory-sensor",
+      "summary": "A gap has long existed between the shipping velocity of the best engineering teams and the rest of the bell The post Building an agentic software factory? Start with the sensor. appeared first on The New Stack .",
+      "published": "2026-10-24T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Arjun Iyer",
+      "categories": [
+        "AI Agents",
+        "Platform Engineering",
+        "Software Testing",
+        "sponsor-signadot",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why Kubernetes autoscalers keep fighting each other (and why the solution must be autonomous)",
+      "link": "https://thenewstack.io/why-kubernetes-autoscalers-fight",
+      "summary": "Ask an SRE a deceptively simple question: What is the right size for checkout-api, and how many replicas should it The post Why Kubernetes autoscalers keep fighting each other (and why the solution must be autonomous) appeared first on The New Stack .",
+      "published": "2026-10-24T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Nikhil Kurup",
+      "categories": [
+        "Cloud Native Ecosystem",
+        "Kubernetes",
+        "Platform Engineering",
+        "sponsor-cncf",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Before you expand your GPU pool, measure the outcome",
+      "link": "https://thenewstack.io/optimize-kubernetes-gpu-pools",
+      "summary": "For teams running AI workloads on Kubernetes, a fully allocated GPU pool and a growing batch-job queue might make expanding The post Before you expand your GPU pool, measure the outcome appeared first on The New Stack .",
+      "published": "2026-10-24T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Danielle Zeis",
+      "categories": [
+        "AI Infrastructure",
+        "FinOps",
+        "Kubernetes",
+        "sponsor-cncf",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Is It Safe to Pipe curl Into Bash Straight From the Internet?",
       "link": "https://kodekloud.com/blog/is-it-safe-to-pipe-curl-into-bash",
@@ -4739,197 +4862,6 @@
       "author": "Eddie Knight and Stacey Potter, Security Slam",
       "categories": [
         "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Getting the best out of Azure SRE Agent",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/getting-the-best-out-of-azure-sre-agent/ba-p/4559745",
-      "summary": "A common question that we get from our customers is \"Hey guys, we are excited about SRE agent and we 've created one but whats the best way to configure it?\" . The below guide aims at sharing some of the best practices that anyone can follow to make the most out of our SRE Agent. This guide is...",
-      "published": "2026-09-24T20:24:01+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "puneetguptams",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI’s agent had a routine task. It breached a government portal.",
-      "link": "https://thenewstack.io/ai-agents-probe-vulnerabilities",
-      "summary": "An OpenAI agent researching public medicine spending bypassed security blocks and gained unauthorized access to public and non-public files on The post OpenAI’s agent had a routine task. It breached a government portal. appeared first on The New Stack .",
-      "published": "2026-09-24T19:16:28+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Docker Best Practices for Building and Running Production Containers",
-      "link": "https://kodekloud.com/blog/docker-best-practices-for-building-and-running-production-containers",
-      "summary": "Most production container problems are decided in about fifteen lines of Dockerfile. Here is what to put in them, why each line is there, and what breaks when it is missing.",
-      "published": "2026-09-24T18:00:39+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "Docker",
-        "Containers",
-        "DevOps",
-        "Kubernetes",
-        "Platform Engineering",
-        "Dockerfile",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How a forgotten node can put Oracle Java back in production",
-      "link": "https://thenewstack.io/azul-ai-assistant-java-risk",
-      "summary": "Enterprise Java company Azul announced its Azul Intelligence Cloud AI Assistant on Wednesday. The technology arrives in response to industry-wide The post How a forgotten node can put Oracle Java back in production appeared first on The New Stack .",
-      "published": "2026-09-24T17:50:35+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "DevOps",
-        "Java",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Developers and platform teams both want Kubernetes self-service. They disagree on who owns it.",
-      "link": "https://thenewstack.io/kubernetes-self-service-platform-teams",
-      "summary": "What do developers want? Kubernetes environments when they need them. What do they not want? Those environments after a week The post Developers and platform teams both want Kubernetes self-service. They disagree on who owns it. appeared first on The New Stack .",
-      "published": "2026-09-24T16:06:27+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Chris J. Preimesberger",
-      "categories": [
-        "DevOps",
-        "Kubecon Cloudnativecon NA 2026",
-        "Kubernetes",
-        "Platform Engineering",
-        "Road to KubeCon",
-        "sponsor-hpe",
-        "Sponsored",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Google’s Gemini CLI now asks before editing your build files",
-      "link": "https://thenewstack.io/gemini-cli-prompt-injection-safeguards",
-      "summary": "The appeal of an autonomous coding agent is that you hand it a task, give it access to your repository The post Google’s Gemini CLI now asks before editing your build files appeared first on The New Stack .",
-      "published": "2026-09-24T14:27:27+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "Developer tools",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI makes you call sales for a custom voice. Google just made it self-serve.",
-      "link": "https://thenewstack.io/gemini-tts-voice-replication-api",
-      "summary": "Google released Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS today through the Gemini API and Google AI Studio. The post OpenAI makes you call sales for a custom voice. Google just made it self-serve. appeared first on The New Stack .",
-      "published": "2026-09-24T13:20:11+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Engineering",
-        "AI Models",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "What managing 150,000 AI agents could look like for database teams",
-      "link": "https://thenewstack.io/ai-agents-database-administrators",
-      "summary": "The database administrator of the future will spend considerably less time administering databases. That sounds contradictory, but AI agents are The post What managing 150,000 AI agents could look like for database teams appeared first on The New Stack .",
-      "published": "2026-09-24T13:11:55+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Carly Page",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Databases",
-        "sponsor-yugabyte",
-        "Sponsored",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Query decomposition doesn’t fix context starvation — it just moves it",
-      "link": "https://thenewstack.io/query-decomposition-context-starvation",
-      "summary": "I have a small example that would best communicate the message I am trying to convey: say you built a The post Query decomposition doesn’t fix context starvation — it just moves it appeared first on The New Stack .",
-      "published": "2026-09-24T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Kayode Ojo",
-      "categories": [
-        "AI Engineering",
-        "AI Infrastructure",
-        "Large Language Models",
-        "sponsor-andela",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Cursor acquired Firetiger. A month later, it launched a bot that tracks code changes from PR to production.",
-      "link": "https://thenewstack.io/cursor-rollouts-firetiger-production",
-      "summary": "We all know that producing code is easier than ever thanks to the abundance of AI coding tools and agents. The post Cursor acquired Firetiger. A month later, it launched a bot that tracks code changes from PR to production. appeared first on The New Stack .",
-      "published": "2026-09-24T12:56:28+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "DevOps",
-        "Observability"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Observability Day: Where the community comes together at KubeCon + CloudNativeCon North America 2026",
-      "link": "https://www.cncf.io/blog/2026/09/24/observability-day-where-the-community-comes-together-at-kubecon-cloudnativecon-north-america-2026",
-      "summary": "Observability Day returns to KubeCon + CloudNativeCon North America on November 9, 2026, in Salt Lake City, Utah, bringing together maintainers, operators, and end users from across the CNCF observability community. Observability has reached an important...",
-      "published": "2026-09-24T12:22:50+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Austin Parker, Iris Dyrmishi, Eduardo Silva Pereira, and Juraci Paixão Kröhling",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Can enterprises protect data without making AI less reliable?",
-      "link": "https://thenewstack.io/protecting-enterprise-ai-data",
-      "summary": "As organizations invest in AI, many are discovering a new bottleneck: obtaining data that is both protected and useful. Engineering The post Can enterprises protect data without making AI less reliable? appeared first on The New Stack .",
-      "published": "2026-09-24T12:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Mayank Ahluwalia",
-      "categories": [
-        "AI Strategy",
-        "Compliance",
-        "Data",
-        "sponsor-perforce",
-        "sponsored-post-contributed"
       ],
       "thumbnail": ""
     }
