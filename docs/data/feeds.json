@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-10-26T11:55:55.424850+00:00",
-    "total_items": 317,
+    "generated_at": "2026-10-27T11:18:46.447276+00:00",
+    "total_items": 327,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,216 @@
     ]
   },
   "items": [
+    {
+      "title": "How Microsoft Intune team upgraded a .NET service with GitHub Copilot modernization",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/how-microsoft-intune-team-upgraded-a-net-service-with-github/ba-p/4566987",
+      "summary": "Microsoft's Customer Zero blog series gives an insider view of how Microsoft builds and operates Microsoft using our trusted, enterprise-grade platform. Learn best practices from our engineering teams through real-world lessons, architectural patterns, and operational strategies for building,...",
+      "published": "2026-10-27T08:51:18+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "RamyaSharma",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "The Hotfix Dilemma: Skip the Pipeline or Wait?",
+      "link": "https://kodekloud.com/blog/hotfix-dilemma-skip-pipeline-or-wait",
+      "summary": "A billing bug is live, the fix is ready in 20 minutes, and the CI pipeline takes 45. Skip it or wait? Both sides of the hotfix dilemma.",
+      "published": "2026-10-27T05:08:04+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "DevOps",
+        "CI/CD"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI halved its agent’s price. Its own safety report flagged a catch.",
+      "link": "https://thenewstack.io/openai-terra-bypassed-restrictions",
+      "summary": "OpenAI launched GPT-6.1 Terra on Monday, cutting API prices in half and delivering major gains in coding and computer-use benchmarks. The post OpenAI halved its agent’s price. Its own safety report flagged a catch. appeared first on The New Stack .",
+      "published": "2026-10-26T22:14:01+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Models",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI is changing Kubernetes; is your platform ready for 2027?",
+      "link": "https://thenewstack.io/kubernetes-agentic-ai-platforms",
+      "summary": "AI workloads, including those using agentic AI, will only add to and change the questions Kubernetes teams have to answer. It’s no longer The post AI is changing Kubernetes; is your platform ready for 2027? appeared first on The New Stack .",
+      "published": "2026-10-26T19:51:04+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Nick Lucchesi",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Kubecon Cloudnativecon NA 2026",
+        "Kubernetes",
+        "Road to KubeCon",
+        "sponsor-hpe",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Qwen3.8-27B on a Lenovo laptop: run it on RTX Spark, watch it in Azure Monitor",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/qwen3-8-27b-on-a-lenovo-laptop-run-it-on-rtx-spark-watch-it-in/ba-p/4567828",
+      "summary": "In an earlier post I served Qwen3.8-27B from an H100 in Azure . The same model also runs on a laptop: the Lenovo Yoga 9n 2-in-1 (16\", 11) with NVIDIA's RTX Spark N1X and 64 GB of unified memory. On a short code-generation benchmark it decodes 44.7 tokens a second for one request, and it holds the...",
+      "published": "2026-10-26T18:52:23+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Wuyi_Weng",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Most of Anthropic’s Q3 revenue came from models that barely existed six months ago",
+      "link": "https://thenewstack.io/anthropic-s1-models-revenue",
+      "summary": "Anthropic’s long-awaited S-1, filed Monday ahead of its planned Nasdaq debut under the ticker ANT, shows how quickly customers are The post Most of Anthropic’s Q3 revenue came from models that barely existed six months ago appeared first on The New Stack .",
+      "published": "2026-10-26T18:29:26+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI",
+        "AI Models",
+        "AI Strategy"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Ex-GitHub CEO launches a GitHub rival that reinvents the pull request",
+      "link": "https://thenewstack.io/entire-trails-agentic-code-review",
+      "summary": "Entire, the startup founded by former GitHub CEO Thomas Dohmke, on Monday launched its GitHub alternative that replaces the traditional The post Ex-GitHub CEO launches a GitHub rival that reinvents the pull request appeared first on The New Stack .",
+      "published": "2026-10-26T17:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Engineering",
+        "AI Infrastructure"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Bringing AI-Powered SRE to Your On-Premise Server Estate For Unifying Ops",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/bringing-ai-powered-sre-to-your-on-premise-server-estate-for/ba-p/4566884",
+      "summary": "The problem nobody talks about at cloud conferences Walk the floor at any cloud event and you'll hear a lot about AI-assisted operations: agents that triage alerts, correlate signals, and hand your on-call engineer a root cause instead of a wall of logs. It's genuinely useful. But there's a quiet...",
+      "published": "2026-10-26T15:15:49+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "FaizaanMerchant",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Claude Code’s top enterprise users outspend other Claude users 20 to 1, Anthropic’s IPO filing says",
+      "link": "https://thenewstack.io/claude-codes-enterprise-20-to-1",
+      "summary": "Anthropic’s IPO filing makes Claude Code the center of its enterprise growth story. The company on Monday filed to go The post Claude Code’s top enterprise users outspend other Claude users 20 to 1, Anthropic’s IPO filing says appeared first on The New Stack .",
+      "published": "2026-10-26T14:32:03+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Matthew Burns",
+      "categories": [
+        "AI",
+        "AI Models",
+        "AI Strategy"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Mandatory vs. optional platforms: Mandates deliver twice as often, and teams are dropping them anyway",
+      "link": "https://thenewstack.io/mandatory-vs-optional-platforms",
+      "summary": "Platform teams that mandated their internal platform were more than twice as likely to say it delivered most or all The post Mandatory vs. optional platforms: Mandates deliver twice as often, and teams are dropping them anyway appeared first on The New Stack .",
+      "published": "2026-10-26T14:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Charlotte Fleming",
+      "categories": [
+        "AI Infrastructure",
+        "AI Strategy",
+        "contributed-octopus-deploy"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The next 10 years of KubeVirt",
+      "link": "https://thenewstack.io/next-ten-years-kubevirt",
+      "summary": "KubeVirt was founded by Red Hat in 2016 around the idea that Kubernetes could run virtual machines alongside containers. We The post The next 10 years of KubeVirt appeared first on The New Stack .",
+      "published": "2026-10-26T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Vladik Romanovsky",
+      "categories": [
+        "Cloud Native Ecosystem",
+        "Kubernetes",
+        "Open Source",
+        "sponsor-cncf",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "MiniMax M3.1 Flash vs. MiniMax M3: One is cheaper, but not faster or better",
+      "link": "https://thenewstack.io/minimax-flash-agent-tests",
+      "summary": "MiniMax released M3.1 Flash on October 19, 2026, and says it cuts the overall cost of agentic tasks by 70% The post MiniMax M3.1 Flash vs. MiniMax M3: One is cheaper, but not faster or better appeared first on The New Stack .",
+      "published": "2026-10-26T13:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jessica Wachtel",
+      "categories": [
+        "AI Agents",
+        "AI Models",
+        "Large Language Models",
+        "Software Testing"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The sandbox wasn’t enough: Why AI agent governance requires runtime observability",
+      "link": "https://thenewstack.io/ai-agent-runtime-observability",
+      "summary": "Models running an OpenAI cybersecurity evaluation reached the public Internet from an environment designed to be isolated. Package installation through The post The sandbox wasn’t enough: Why AI agent governance requires runtime observability appeared first on The New Stack .",
+      "published": "2026-10-26T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Manveer Chawla",
+      "categories": [
+        "AI Agents",
+        "Observability",
+        "Security",
+        "sponsor-clickhouse",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The AI observability race will be won on interoperability",
+      "link": "https://thenewstack.io/ai-observability-through-interoperability",
+      "summary": "The AI race is often measured by model quality, speed, and token cost. For business leaders, those measures contribute to The post The AI observability race will be won on interoperability appeared first on The New Stack .",
+      "published": "2026-10-26T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Greg Leffler",
+      "categories": [
+        "AI Operations",
+        "Observability",
+        "Open Source",
+        "sponsor-cncf",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Isolation. Security. Scale.",
       "link": "https://www.cncf.io/blog/2026/10/26/isolation-security-scale",
@@ -4813,76 +5023,6 @@
         "sponsor-suse",
         "Sponsored",
         "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "What Is Pulumi and How Is It Different From Other IaC Tools",
-      "link": "https://kodekloud.com/blog/what-is-pulumi-and-how-it-differs-from-other-iac-tools",
-      "summary": "Pulumi lets you describe infrastructure in a language you already write, with loops, functions and tests. Here is what that actually changes, and the cases where a config language is still the better answer.",
-      "published": "2026-09-26T18:00:27+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "Pulumi",
-        "Terraform",
-        "OpenTofu",
-        "IaC",
-        "Infrastructure as Code",
-        "DevOps",
-        "Cloud",
-        "Platform Engineering"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Avoiding vendor lock-in through an open-source approach: a developer’s perspective",
-      "link": "https://thenewstack.io/avoiding-vendor-lock-in",
-      "summary": "Every infrastructure team makes decisions that are difficult to reverse. Most of the time, that works out. Sometimes it does The post Avoiding vendor lock-in through an open-source approach: a developer’s perspective appeared first on The New Stack .",
-      "published": "2026-09-26T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Andreas Prins",
-      "categories": [
-        "Open Source",
-        "Platform Engineering",
-        "Software Development",
-        "sponsor-suse",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The agent didn’t break your controls. It went around them.",
-      "link": "https://thenewstack.io/inside-out-agent-security",
-      "summary": "The identity part of agent security is settled. An agent needs its own identity: a short-lived, revocable credential scoped to The post The agent didn’t break your controls. It went around them. appeared first on The New Stack .",
-      "published": "2026-09-26T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Lani Leuthvilay",
-      "categories": [
-        "AI Agents",
-        "Developer tools",
-        "Security",
-        "sponsor-ory",
-        "Sponsored",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Claude Opus 5.5 vs. Opus 5 on reasoning tasks: Cheaper, faster, but not better",
-      "link": "https://thenewstack.io/claude-opus-5-5-vs-opus-5",
-      "summary": "When Anthropic released Claude Opus 5.5 this week, the company claimed the new model costs 40% less than Opus 5 The post Claude Opus 5.5 vs. Opus 5 on reasoning tasks: Cheaper, faster, but not better appeared first on The New Stack .",
-      "published": "2026-09-26T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jessica Wachtel",
-      "categories": [
-        "AI Models",
-        "FinOps",
-        "Large Language Models"
       ],
       "thumbnail": ""
     }
