@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "generated_at": "2026-10-27T11:18:46.447276+00:00",
-    "total_items": 327,
+    "generated_at": "2026-10-28T11:52:28.283890+00:00",
+    "total_items": 333,
     "sources": [
       "AKS (Official)",
-      "AKS Newsletter",
       "Abhishek Veeramalla",
       "Apps on Azure",
       "CNCF Blog",
       "Collabnix",
+      "Houssem Dellai",
       "John Savill",
       "KodeKloud",
       "Kubernetes Blog",
@@ -20,6 +20,170 @@
     ]
   },
   "items": [
+    {
+      "title": "Accelerating Defense with Microsoft Security Solutions",
+      "link": "https://www.youtube.com/watch?v=dSODQy9bWjU",
+      "summary": "AI is accelerating both sides of cybersecurity and had a lot of questions around the Microsoft solutions so wanted to try and briefly cover where they sit in this video!\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n01:50 - MDASH\n04:45 - Perception\n08:34 - Defender ISOC\n11:05 -...",
+      "published": "2026-10-28T08:40:32+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/dSODQy9bWjU/mqdefault.jpg"
+    },
+    {
+      "title": "Google built AI agents a world to practice in. The physics still aren’t quite right.",
+      "link": "https://thenewstack.io/genie-4-world-model",
+      "summary": "Google DeepMind introduced Genie 4 on Tuesday, a world model that renders interactive environments in real time with simulated physics, The post Google built AI agents a world to practice in. The physics still aren’t quite right. appeared first on The New Stack .",
+      "published": "2026-10-27T22:33:51+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Models",
+        "Emerging technologies"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Replit’s CEO says an idea from 1937 could make the org chart obsolete",
+      "link": "https://thenewstack.io/replit-self-driving-company",
+      "summary": "Replit CEO and co-founder Amjad Masad has spent the past year watching AI agents absorb the routine execution inside his The post Replit’s CEO says an idea from 1937 could make the org chart obsolete appeared first on The New Stack .",
+      "published": "2026-10-27T21:16:40+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Strategy",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“The panic hasn’t turned into patching”: What security researchers really think about the PHP2Shell response",
+      "link": "https://thenewstack.io/php2shell-unpatched-php-servers",
+      "summary": "The PHP panic has not turned to patching: And that’s bad news, capital B, as PHP2Shell attacks ramp up. We The post “The panic hasn’t turned into patching”: What security researchers really think about the PHP2Shell response appeared first on The New Stack .",
+      "published": "2026-10-27T20:54:37+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Steven J. Vaughan-Nichols",
+      "categories": [
+        "AI",
+        "Open Source",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure Virtual Network Routing Appliance",
+      "link": "https://www.youtube.com/watch?v=i2qwcjC9lUQ",
+      "summary": "Learn how to connect Azure spoke networks through an Azure Virtual Network Routing Appliance in a hub-and-spoke architecture—without managing your own routing VMs.\n\nWhat you’ll learn:\n• How the Virtual Network Routing Appliance fits into a hub-and-spoke topology\n• How user-defined routes (UDRs)...",
+      "published": "2026-10-27T19:39:29+00:00",
+      "source": "Houssem Dellai",
+      "type": "video",
+      "author": "Houssem Dellai",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/i2qwcjC9lUQ/mqdefault.jpg"
+    },
+    {
+      "title": "Nebius cut rollout collection time by 66.9% — here’s what changed",
+      "link": "https://thenewstack.io/nebius-agentic-rl-training-bottlenecks",
+      "summary": "In AI agent training, you can pay for powerful GPUs and still spend much of your time waiting. Agents need The post Nebius cut rollout collection time by 66.9% — here’s what changed appeared first on The New Stack .",
+      "published": "2026-10-27T15:38:21+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Mark Chillingworth",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "AI Infrastructure",
+        "sponsor-nebius",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“I don’t use Astra every day”: OpenAI developer lead tells TNS why",
+      "link": "https://thenewstack.io/openai-devday-models-agents",
+      "summary": "OpenAI’s recent releases have given developers more options for using AI in software. At its 2026 DevDay, the company introduced The post “I don’t use Astra every day”: OpenAI developer lead tells TNS why appeared first on The New Stack .",
+      "published": "2026-10-27T14:23:01+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jennifer Riggins",
+      "categories": [
+        "AI",
+        "AI Models",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The hidden failure paths that affect Kubernetes control plane availability",
+      "link": "https://thenewstack.io/kubernetes-control-plane-failures",
+      "summary": "Kubernetes control planes are designed to contain individual failures, but their availability still depends on how components in the critical The post The hidden failure paths that affect Kubernetes control plane availability appeared first on The New Stack .",
+      "published": "2026-10-27T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Sri Saran Balaji Vellore Rajakumar",
+      "categories": [
+        "Cloud Native Ecosystem",
+        "Kubernetes",
+        "Platform Engineering",
+        "sponsor-aws-marketplace",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "When “isolated” doesn’t mean isolated: How to sandbox AI agents",
+      "link": "https://thenewstack.io/how-to-sandbox-agents",
+      "summary": "Separation of workloads before AI wasn’t easy, but it was far more straightforward. Servers sat in data centers, VLANs segregated The post When “isolated” doesn’t mean isolated: How to sandbox AI agents appeared first on The New Stack .",
+      "published": "2026-10-27T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Michael Levan",
+      "categories": [
+        "AI Agents",
+        "Containers",
+        "Security",
+        "sponsor-cncf",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "One pod, one node: The architecture behind serverless Kubernetes on AWS",
+      "link": "https://thenewstack.io/serverless-kubernetes-aws-fargate",
+      "summary": "A pod-level walkthrough of admission routing, dedicated scheduling, and network isolation, no worker nodes required Serverless Kubernetes changes who manages The post One pod, one node: The architecture behind serverless Kubernetes on AWS appeared first on The New Stack .",
+      "published": "2026-10-27T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Sri Saran Balaji Vellore Rajakumar",
+      "categories": [
+        "Containers",
+        "Kubernetes",
+        "Serverless",
+        "sponsor-aws-marketplace",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Over 500 Golden Kubestronauts: The evolving standard for cloud native mastery",
+      "link": "https://www.cncf.io/blog/2026/10/27/over-500-golden-kubestronauts-the-evolving-standard-for-cloud-native-mastery",
+      "summary": "Since launching the Kubestronaut program at KubeCon Paris in 2024, the community has grown faster than expected. Today, more than 570 professionals have reached an even higher bar: Golden Kubestronaut status. Becoming a standard Kubestronaut is...",
+      "published": "2026-10-27T11:30:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "audra",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "How Microsoft Intune team upgraded a .NET service with GitHub Copilot modernization",
       "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/how-microsoft-intune-team-upgraded-a-net-service-with-github/ba-p/4566987",
@@ -43,6 +207,17 @@
         "DevOps",
         "CI/CD"
       ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Announcing the Workload Conformance Working Group",
+      "link": "https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg",
+      "summary": "We are excited to announce that the Kubernetes community now has a Workload Conformance Working Group .\nThe working group is writing a shared standard for how workloads behave at runtime on Kubernetes.\nTo get it right, we need input from the people who build those workloads and from the people who...",
+      "published": "2026-10-27T04:30:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
       "thumbnail": ""
     },
     {
@@ -4932,97 +5107,6 @@
         "API Management",
         "Developer tools",
         "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The case for a cloud native agent harness",
-      "link": "https://www.cncf.io/blog/2026/09/28/the-case-for-a-cloud-native-agent-harness",
-      "summary": "Coding agents became useful when they stopped being a chat box. Four things changed the shape of the problem: capable tools, a shared repository and filesystem, subagents, and skills that capture what the system learned from...",
-      "published": "2026-09-28T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Craig McLuckie, Stacklok",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Connection Refused, No Error, and How Kagent Finds It",
-      "link": "https://kodekloud.com/blog/kagent-finds-kubernetes-label-mismatch",
-      "summary": "Kagent is an open-source AI agent in your Kubernetes cluster. See how it finds a silent label mismatch that returns connection refused - with no error logged.",
-      "published": "2026-09-28T10:26:52+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "Kagent",
-        "Kubernetes",
-        "Debugging",
-        "DevOps",
-        "Networking"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Nvidia launches Open Agent Safety Platform to lock down rogue AI agents",
-      "link": "https://thenewstack.io/nvidia-openshell-sentry-agents",
-      "summary": "OpenAI, Anthropic, Meta, and Google have all recently disclosed that their models broke out of their test environments and reached The post Nvidia launches Open Agent Safety Platform to lock down rogue AI agents appeared first on The New Stack .",
-      "published": "2026-09-28T10:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AKS Newsletter – September 2026",
-      "link": "https://aksnewsletter.com/2026/2026-09.html",
-      "summary": "53 curated items covering documentation updates, feature announcements, community blogs, and more.",
-      "published": "2026-09-28T00:00:00+00:00",
-      "source": "AKS Newsletter",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Performance engineering from kernel analysis to AI: Adrian Cockcroft’s take",
-      "link": "https://thenewstack.io/cockcroft-performance-engineering-ai",
-      "summary": "Over its five-year history, P99 CONF has hosted quite a few speakers who’ve offered pointed takedowns of the namesake metric. The post Performance engineering from kernel analysis to AI: Adrian Cockcroft’s take appeared first on The New Stack .",
-      "published": "2026-09-27T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Tim Koopmans",
-      "categories": [
-        "AI Engineering",
-        "Developer tools",
-        "Observability",
-        "sponsor-scylladb",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The rise of agentic AI on Kubernetes: unleashing the new infrastructure layer",
-      "link": "https://thenewstack.io/agentic-ai-kubernetes-management",
-      "summary": "AI is changing expectations around infrastructure and operations, including Kubernetes management. When models run close to the data they use, The post The rise of agentic AI on Kubernetes: unleashing the new infrastructure layer appeared first on The New Stack .",
-      "published": "2026-09-27T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Rhys Oxenham",
-      "categories": [
-        "AI Agents",
-        "Kubernetes",
-        "Platform Engineering",
-        "sponsor-suse",
-        "Sponsored",
-        "sponsored-post-contributed"
       ],
       "thumbnail": ""
     }
