@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-10-29T11:59:46.008704+00:00",
-    "total_items": 328,
+    "generated_at": "2026-10-30T11:54:15.715481+00:00",
+    "total_items": 323,
     "sources": [
       "AKS (Official)",
       "Abhishek Veeramalla",
@@ -21,6 +21,215 @@
   },
   "items": [
     {
+      "title": "DevOps Roadmap 2026: 11 Tools That Actually Matter",
+      "link": "https://www.youtube.com/watch?v=ONAszBZEFbI",
+      "summary": "DevOps roadmap 2026: the 11 tool categories that still matter when your team ships twice the code with AI, in the order you should learn them, plus 6 tools to stop learning. This is for DevOps and cloud engineers, freshers, and anyone switching into DevOps who wants to know what to learn...",
+      "published": "2026-10-30T03:25:37+00:00",
+      "source": "Piyush Sachdeva",
+      "type": "video",
+      "author": "Tech Tutorials with Piyush",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/ONAszBZEFbI/mqdefault.jpg"
+    },
+    {
+      "title": "KubeCon + CloudNativeCon NA 2026: End User TAB recommendations and tips",
+      "link": "https://www.cncf.io/blog/2026/10/29/kubecon-cloudnativecon-na-2026-end-user-tab-recommendations-and-tips",
+      "summary": "KubeCon + CloudNativeCon NA 2026 in Salt Lake City will bring the cloud native community together with projects, vendors and end users in what is one of the largest open source events. In this post, we...",
+      "published": "2026-10-30T00:43:04+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Ricardo Rocha, End User TAB",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Sam Altman almost scrapped token pricing. Here’s why he backed off.",
+      "link": "https://thenewstack.io/openai-token-pricing-reversal",
+      "summary": "OpenAI considered dropping token-based pricing for its next model, letting developers submit a prompt and receive a price for the The post Sam Altman almost scrapped token pricing. Here’s why he backed off. appeared first on The New Stack .",
+      "published": "2026-10-29T22:19:18+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Models",
+        "AI Strategy",
+        "FinOps"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AWS’s Hydro team wants the compiler to catch coding agents’ mistakes",
+      "link": "https://thenewstack.io/ai-agents-compiler-guardrails",
+      "summary": "Earlier this month, the team behind Hydro developed a new way to check that a distributed system still works correctly The post AWS’s Hydro team wants the compiler to catch coding agents’ mistakes appeared first on The New Stack .",
+      "published": "2026-10-29T21:53:05+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Matthew Burns",
+      "categories": [
+        "AI Engineering",
+        "Rust",
+        "Software Testing",
+        "Podcast",
+        "sponsor-aws-marketplace",
+        "Sponsored",
+        "sponsored-podcast",
+        "sponsored-premium-event-coverage",
+        "Video"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Microsoft’s new Copilot harness makes agents easy — until you want to switch",
+      "link": "https://thenewstack.io/microsoft-copilot-harness-foundry",
+      "summary": "Microsoft is opening up the GitHub Copilot agent harness to outside developers through Microsoft Foundry, bringing the same orchestration infrastructure The post Microsoft’s new Copilot harness makes agents easy — until you want to switch appeared first on The New Stack .",
+      "published": "2026-10-29T20:54:15+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The boundary problem in agentic AI is a platform problem",
+      "link": "https://www.cncf.io/blog/2026/10/29/the-boundary-problem-in-agentic-ai-is-a-platform-problem",
+      "summary": "An autonomous agent will do exactly what its tools let it do, and no more. This sounds like a constraint. In practice it is the whole risk, because the set of things an agent’s tools let...",
+      "published": "2026-10-29T18:11:50+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "William Rizzo (Field CTO, Kairos Maintainer, CNCF Ambassador) and Francesco Beltramini (Field CTO)",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How Can I Prove a Container Image Was Really Built by My Pipeline?",
+      "link": "https://kodekloud.com/blog/how-can-i-prove-a-container-image-was-really-built-by-my-pipeline",
+      "summary": "You can prove a container image was built by your pipeline when the pipeline signs it with its own identity and records how it was built. When someone asks you to prove that the image running in production was built by your CI pipeline, a tag that says 2.3",
+      "published": "2026-10-29T18:00:00+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Pramodh Kumar M",
+      "categories": [
+        "Container Security",
+        "Sigstore",
+        "Cosign",
+        "Software Supply Chain",
+        "Image Signing",
+        "DevSecOps",
+        "Kubernetes Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why MCP servers should tell agents what to do next",
+      "link": "https://thenewstack.io/aws-mcp-agent-observability",
+      "summary": "Many MCP servers do one thing. An agent asks for data, and the server hands it back. AWS’s James Ward The post Why MCP servers should tell agents what to do next appeared first on The New Stack .",
+      "published": "2026-10-29T15:55:39+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Matthew Burns",
+      "categories": [
+        "AI Agents",
+        "Model Context Protocol",
+        "Observability",
+        "Podcast",
+        "sponsor-aws-marketplace",
+        "Sponsored",
+        "sponsored-podcast",
+        "sponsored-premium-event-coverage",
+        "Video"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Mistral’s Large 4 open weights arrive with a 1-point coding lead over GLM-5.3: “There’s nothing you can’t do with this model that you can do with competitors.”",
+      "link": "https://thenewstack.io/mistral-chonk-coding-model",
+      "summary": "On Thursday, Mistral released the weights for its frontier open model, Mistral Large 4 (ML4), on Hugging Face.  Made available The post Mistral’s Large 4 open weights arrive with a 1-point coding lead over GLM-5.3: “There’s nothing you can’t do with this model that you can do with competitors.”...",
+      "published": "2026-10-29T14:49:44+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "AI Agents",
+        "AI Models",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AWS Elastic Beanstalk for regulated workloads: Built for the next decade, not just the first deploy",
+      "link": "https://thenewstack.io/elastic-beanstalk-regulated-workloads",
+      "summary": "For more than a decade, the managed application platform industry has optimized around a compelling promise: get code running as The post AWS Elastic Beanstalk for regulated workloads: Built for the next decade, not just the first deploy appeared first on The New Stack .",
+      "published": "2026-10-29T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Sabari Sawant",
+      "categories": [
+        "Cloud Services",
+        "Compliance",
+        "Platform Engineering",
+        "sponsor-aws-marketplace",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“I don’t think the world needs a new GitHub”: What GitHub’s leaders really think about their new rivals",
+      "link": "https://thenewstack.io/github-agentic-infrastructure-rebuild",
+      "summary": "At its annual Universe ’26 conference in San Francisco this week, GitHub took to the question of the platform’s stability The post “I don’t think the world needs a new GitHub”: What GitHub’s leaders really think about their new rivals appeared first on The New Stack .",
+      "published": "2026-10-29T13:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Infrastructure",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why Kubernetes platforms keep rebuilding a layer they could share",
+      "link": "https://thenewstack.io/kubernetes-resource-composition-layer",
+      "summary": "Ask a platform team what they built last year, and the list likely includes a Kubernetes controller that creates a The post Why Kubernetes platforms keep rebuilding a layer they could share appeared first on The New Stack .",
+      "published": "2026-10-29T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adam Crowder",
+      "categories": [
+        "Cloud Native Ecosystem",
+        "Kubernetes",
+        "Platform Engineering",
+        "sponsor-cncf",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The 5 essential layers of AI agent sandboxing on Kubernetes",
+      "link": "https://thenewstack.io/ai-agent-sandboxing-kubernetes",
+      "summary": "An AI agent given autonomy to run code will inevitably run code no human has reviewed. It may install model-selected The post The 5 essential layers of AI agent sandboxing on Kubernetes appeared first on The New Stack .",
+      "published": "2026-10-29T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Mickey Boxell",
+      "categories": [
+        "AI Agents",
+        "Kubernetes",
+        "Security",
+        "sponsor-cncf",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
       "title": "“Urgency is an inherently subjective call”: Anthropic tells TNS how it grades Claude Duet",
       "link": "https://thenewstack.io/claude-duet-agent-judgment",
       "summary": "Anthropic built Claude Duet, an AI assistant that monitors your connected apps and works on tasks in the background, to The post “Urgency is an inherently subjective call”: Anthropic tells TNS how it grades Claude Duet appeared first on The New Stack .",
@@ -33,6 +242,17 @@
         "Operations",
         "Security"
       ],
+      "thumbnail": ""
+    },
+    {
+      "title": "From Working Group to SIG Architecture: spotlight on AI Conformance",
+      "link": "https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026",
+      "summary": "In this SIG Architecture spotlight we talked with Janet Kuo (Google)\nand Yuan Tang (Red Hat) about the journey of AI Conformance in\nKubernetes, from the initial Working\nGroup to the\nintegration SIG Architecture as a subproject. Introductions Frederico Muñoz and Kirti Goyal (FK): Hi Janet, Yuan, and...",
+      "published": "2026-10-29T05:00:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
       "thumbnail": ""
     },
     {
@@ -4754,289 +4974,6 @@
         "Software Development",
         "sponsor-sonarsource",
         "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Incident Management in SRE Explained (Google SRE Book)",
-      "link": "https://www.youtube.com/watch?v=NUmOZ3nnS7I",
-      "summary": "Incident management in SRE, explained the way the Google SRE book teaches it, from the first alert to the blameless postmortem. This is for DevOps engineers, SREs, and anyone who is about to go on call for the first time.\n\nOn 17 August 2026, GitHub went down for 7 hours and 47 minutes. GitHub.com,...",
-      "published": "2026-09-30T11:00:07+00:00",
-      "source": "Piyush Sachdeva",
-      "type": "video",
-      "author": "Tech Tutorials with Piyush",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/NUmOZ3nnS7I/mqdefault.jpg"
-    },
-    {
-      "title": "From 40 seconds to under 10: rebuilding incident detection on OpenTelemetry, Apache Kafka, and Apache Flink on Kubernetes",
-      "link": "https://www.cncf.io/blog/2026/09/30/from-40-seconds-to-under-10-rebuilding-incident-detection-on-opentelemetry-apache-kafka-and-apache-flink-on-kubernetes",
-      "summary": "Every SaaS company has the same uncomfortable question after a major incident: who noticed first, the monitoring or the customers? For a long time our honest answer was “it depends”. This post describes how a small...",
-      "published": "2026-09-30T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Deepak Biswas, Senior Engineering Manager, Central Monitoring and Disaster Recovery, Atlassian",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Eclipse wants companies to be free to switch AI providers. Today, doing so can mean a costly rebuild.",
-      "link": "https://thenewstack.io/eclipse-sovereign-ai-foundation",
-      "summary": "If you rely too heavily on one AI provider, switching can mean rebuilding workloads and moving data while you face The post Eclipse wants companies to be free to switch AI providers. Today, doing so can mean a costly rebuild. appeared first on The New Stack .",
-      "published": "2026-09-30T11:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI Infrastructure",
-        "AI Models",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Build an Autonomous SecOps Agent for Kubernetes Log Anomaly Detection",
-      "link": "https://kodekloud.com/blog/build-ai-secops-agent-kubernetes",
-      "summary": "Build a Python agent that streams Kubernetes pod logs, flags attacks with regex, explains them with AI through KodeKey, and alerts via Gotify.",
-      "published": "2026-09-30T10:56:33+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "Playground Projects",
-        "Kubernetes",
-        "AIAgents",
-        "SecOps"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“Think of it as Kubernetes for agents”: OpenClaw lands in the enterprise with Nvidia and Red Hat on board",
-      "link": "https://thenewstack.io/openclaw-enterprise-kubernetes-agents",
-      "summary": "OpenClaw has come a long way since it emerged as a viral weekend project less than a year ago. Created The post “Think of it as Kubernetes for agents”: OpenClaw lands in the enterprise with Nvidia and Red Hat on board appeared first on The New Stack .",
-      "published": "2026-09-30T10:36:01+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Kubernetes",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Bring Your Azure DevOps Repos to Azure SRE Agent Plugins",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/bring-your-azure-devops-repos-to-azure-sre-agent-plugins/ba-p/4560857",
-      "summary": "Plugins package the skills, agents, and connector settings your team wants every SRE Agent to have. A plugin marketplace is a Git repository that lists those plugins so any agent can install them. Until now, that repository had to be on GitHub. If your team keeps its runbooks and tooling in Azure...",
-      "published": "2026-09-29T20:00:25+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "Dalibor_Kovacevic",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why Featherless says you don’t need a tank to deliver a pizza",
-      "link": "https://thenewstack.io/featherless-simple-jev-classifier",
-      "summary": "The debate over what size, shape, and scale of model best suits each task isn’t going away any time soon. The post Why Featherless says you don’t need a tank to deliver a pizza appeared first on The New Stack .",
-      "published": "2026-09-29T19:38:59+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Comparing Three Approaches to AI Agent Evaluation and Observability",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/comparing-three-approaches-to-ai-agent-evaluation-and/ba-p/4560833",
-      "summary": "Why evaluation and observability belong together Agent evaluation and observability answer two related questions: Is the agent producing the right result? What happened from the initial request through every model and tool call? Evaluation measures quality with repeatable scores (is our system...",
-      "published": "2026-09-29T18:25:14+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "emiller635",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "What Is Jev and How DevOps Teams Can Use TypeSafe's AI Model",
-      "link": "https://kodekloud.com/blog/what-is-jev-and-how-devops-teams-can-use-typesafes-ai-model",
-      "summary": "Jev does not chat or write code. It answers typed questions about your alerts, builds, and commands in milliseconds, and this guide shows how to put it to work in a real DevOps pipeline.",
-      "published": "2026-09-29T18:00:09+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "Jev",
-        "TypeSafe",
-        "AI",
-        "DevOps AI",
-        "System One Model",
-        "AI Agents",
-        "LLM",
-        "DevOps",
-        "GitHub Actions"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI makes ‘Sign in with ChatGPT’ a way to use your subscription in third-party developer tools",
-      "link": "https://thenewstack.io/sign-in-with-chatgpt",
-      "summary": "OpenAI has announced that it’s making it easier for ChatGPT subscribers to use their allowance inside third-party AI and coding The post OpenAI makes ‘Sign in with ChatGPT’ a way to use your subscription in third-party developer tools appeared first on The New Stack .",
-      "published": "2026-09-29T17:31:05+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Strategy",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI halves $200 plan allowance, launches $500 plan",
-      "link": "https://thenewstack.io/openai-halves-200-plan",
-      "summary": "On Tuesday, OpenAI introduced a new $ 500-per-month Pro plan that gives subscribers the highest included usage of the company’s The post OpenAI halves $200 plan allowance, launches $500 plan appeared first on The New Stack .",
-      "published": "2026-09-29T17:15:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Models",
-        "AI Strategy",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI’s new GPT-6.1 Sol undercuts its own Astra flagship",
-      "link": "https://thenewstack.io/openai-gpt-6-1-sol",
-      "summary": "OpenAI on Tuesday launched GPT-6.1 Sol, the newest version of its workhorse model, only a week after launching GPT-6 Sol. The post OpenAI’s new GPT-6.1 Sol undercuts its own Astra flagship appeared first on The New Stack .",
-      "published": "2026-09-29T17:15:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI answers TypeSafe’s Jev with a Decision API built on Luna",
-      "link": "https://thenewstack.io/openai-decision-api-luna",
-      "summary": "With the sudden rise of TypeSafe’s Jev, decision models have become incredibly popular, so it’s not surprising that OpenAI is The post OpenAI answers TypeSafe’s Jev with a Decision API built on Luna appeared first on The New Stack .",
-      "published": "2026-09-29T17:15:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Engineering",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI just launched Dots. Here’s why they matter for developers.",
-      "link": "https://thenewstack.io/openai-dots-gpt6-agents",
-      "summary": "At its DevDay event on Tuesday, OpenAI introduced Dots: persistent agents built on GPT-6 Astra that run on their own The post OpenAI just launched Dots. Here’s why they matter for developers. appeared first on The New Stack .",
-      "published": "2026-09-29T17:15:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "Developer tools",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Claude Opus 5.5 vs. Fable 5.1: One overthinks, the other cuts corners",
-      "link": "https://thenewstack.io/claude-opus-5-5-vs-fable-5-1",
-      "summary": "Anthropic released Claude Opus 5.5 on September 22, saying it performs at the level of Claude Fable 5.1 on most The post Claude Opus 5.5 vs. Fable 5.1: One overthinks, the other cuts corners appeared first on The New Stack .",
-      "published": "2026-09-29T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jessica Wachtel",
-      "categories": [
-        "AI Agents",
-        "AI Models",
-        "Software Testing"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Serving ML Models with KServe",
-      "link": "https://kodekloud.com/blog/kserve-serving-ml-models-on-kubernetes",
-      "summary": "KServe serves your ML model on Kubernetes from a few lines of YAM, scaling out under load, to zero when idle, and updating with zero downtime.",
-      "published": "2026-09-29T14:37:40+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "KServe",
-        "Kubernetes",
-        "Machine Learning",
-        "MLOps"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to reassign resource ownership before someone’s last day",
-      "link": "https://thenewstack.io/reassign-cloud-resource-ownership",
-      "summary": "The objective of this article is to provide a strategy to catch resource ownership going stale the moment it happens, The post How to reassign resource ownership before someone’s last day appeared first on The New Stack .",
-      "published": "2026-09-29T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Zeen Rachidi",
-      "categories": [
-        "Cloud Services",
-        "DevOps",
-        "Platform Engineering",
-        "sponsor-env-zero",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "MCP gets AI agents into your APIs. It doesn’t decide what they should see.",
-      "link": "https://thenewstack.io/mcp-ai-agents-api",
-      "summary": "Suppose someone on your operations team wants to ask their AI assistant: “Which orders are going to miss today’s shipping The post MCP gets AI agents into your APIs. It doesn’t decide what they should see. appeared first on The New Stack .",
-      "published": "2026-09-29T13:06:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Matt DeBergalis",
-      "categories": [
-        "AI Agents",
-        "API Management",
-        "Model Context Protocol (MCP)"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Ember-1 vs. Kimi K3: Nearly identical results at 3.4 times the speed",
-      "link": "https://thenewstack.io/ember1-kimik3-speed-comparison",
-      "summary": "Fireworks Research launched Ember-1 on September 23 as a research preview. Built on Moonshot’s open-weight model, Kimi K3, it claims The post Ember-1 vs. Kimi K3: Nearly identical results at 3.4 times the speed appeared first on The New Stack .",
-      "published": "2026-09-29T12:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jessica Wachtel",
-      "categories": [
-        "AI Infrastructure",
-        "AI Models",
-        "Large Language Models"
       ],
       "thumbnail": ""
     }
