@@ -1,9 +1,10 @@
 {
   "metadata": {
-    "generated_at": "2026-10-30T11:54:15.715481+00:00",
-    "total_items": 323,
+    "generated_at": "2026-10-31T11:27:48.098021+00:00",
+    "total_items": 321,
     "sources": [
       "AKS (Official)",
+      "AKS Newsletter",
       "Abhishek Veeramalla",
       "Apps on Azure",
       "CNCF Blog",
@@ -20,6 +21,131 @@
     ]
   },
   "items": [
+    {
+      "title": "Anthropic just removed one of Claude’s biggest usage limits — but not for everyone",
+      "link": "https://thenewstack.io/claude-ultra-session-limit",
+      "summary": "Claude Code users on Anthropic’s $200 plan will no longer face a rolling five-hour usage cap, provided their accounts are The post Anthropic just removed one of Claude’s biggest usage limits — but not for everyone appeared first on The New Stack .",
+      "published": "2026-10-30T20:14:04+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Strategy",
+        "Developer tools",
+        "FinOps"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Busy GPUs can hide slow AI inference on Kubernetes",
+      "link": "https://thenewstack.io/ai-inference-kubernetes-observability",
+      "summary": "A Kubernetes cluster can be healthy while the AI service running on it disappoints users. A model might return its The post Busy GPUs can hide slow AI inference on Kubernetes appeared first on The New Stack .",
+      "published": "2026-10-30T19:56:41+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Chris J. Preimesberger",
+      "categories": [
+        "AI Operations",
+        "Kubernetes",
+        "Observability",
+        "sponsor-hpe",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "What worries Entire co-founder Thomas Dohmke about the future of tech?",
+      "link": "https://thenewstack.io/we-are-developers-tech-predictions",
+      "summary": "Former GitHub CEO Thomas Dohmke is taking on his old company. His startup, Entire, launched a GitHub alternative this week, The post What worries Entire co-founder Thomas Dohmke about the future of tech? appeared first on The New Stack .",
+      "published": "2026-10-30T19:37:46+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Nick Lucchesi",
+      "categories": [
+        "AI",
+        "Software Development",
+        "Tech Culture",
+        "WeAreDevelopers"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes just formed a workload conformance group. Here’s why it matters for AI teams.",
+      "link": "https://thenewstack.io/kubernetes-workload-conformance-ai",
+      "summary": "Welcome to the final edition of Road to KubeCon, where we track the Kubernetes and cloud-native ecosystem each week on The post Kubernetes just formed a workload conformance group. Here’s why it matters for AI teams. appeared first on The New Stack .",
+      "published": "2026-10-30T17:29:11+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Bill Doerrfeld",
+      "categories": [
+        "AI Infrastructure",
+        "Cloud Native Ecosystem",
+        "Kubecon Cloudnativecon NA 2026",
+        "Kubernetes",
+        "Road to KubeCon",
+        "sponsor-hpe",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Learn these to become Top 1 percent DevOps Engineer in 2027",
+      "link": "https://www.youtube.com/watch?v=n-M4LIKxt58",
+      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
+      "published": "2026-10-30T16:50:15+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/n-M4LIKxt58/mqdefault.jpg"
+    },
+    {
+      "title": "Azure Weekly Update - 30th October 2026 - Halloween Special",
+      "link": "https://www.youtube.com/watch?v=K0Ycx-7xKEo",
+      "summary": "A spooky selection of updates for this halloween special!\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in...",
+      "published": "2026-10-30T15:27:01+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/K0Ycx-7xKEo/mqdefault.jpg"
+    },
+    {
+      "title": "GPT-6.1 Terra vs. GPT-6 Astra: One sacrifices accuracy for lower cost and higher speed at high effort",
+      "link": "https://thenewstack.io/gpt-6-1-terra-vs-gpt-6-astra",
+      "summary": "OpenAI released GPT-6.1 Terra on October 26, marketing it as a cheap, fast model for high-volume everyday work, priced at The post GPT-6.1 Terra vs. GPT-6 Astra: One sacrifices accuracy for lower cost and higher speed at high effort appeared first on The New Stack .",
+      "published": "2026-10-30T14:59:35+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jessica Wachtel",
+      "categories": [
+        "AI",
+        "AI Models",
+        "Large Language Models",
+        "Software Testing"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "What five P99 CONF talks reveal about database trade-offs",
+      "link": "https://thenewstack.io/p99-conf-database-tradeoffs",
+      "summary": "P99 CONF is a virtual conference on high-performance, low-latency applications. Its 2026 event ran October 21–22. Here, we cover five The post What five P99 CONF talks reveal about database trade-offs appeared first on The New Stack .",
+      "published": "2026-10-30T13:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Doug Sillars",
+      "categories": [
+        "Data",
+        "Databases",
+        "Storage",
+        "sponsor-scylladb",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "DevOps Roadmap 2026: 11 Tools That Actually Matter",
       "link": "https://www.youtube.com/watch?v=ONAszBZEFbI",
@@ -387,6 +513,17 @@
       "thumbnail": "https://i.ytimg.com/vi/dSODQy9bWjU/mqdefault.jpg"
     },
     {
+      "title": "AKS Newsletter – October 2026",
+      "link": "https://aksnewsletter.com/2026/2026-10.html",
+      "summary": "64 curated items covering documentation updates, feature announcements, community blogs, and more.",
+      "published": "2026-10-28T00:00:00+00:00",
+      "source": "AKS Newsletter",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
       "title": "Google built AI agents a world to practice in. The physics still aren’t quite right.",
       "link": "https://thenewstack.io/genie-4-world-model",
       "summary": "Google DeepMind introduced Genie 4 on Tuesday, a world model that renders interactive environments in real time with simulated physics, The post Google built AI agents a world to practice in. The physics still aren’t quite right. appeared first on The New Stack .",
@@ -534,6 +671,19 @@
       "source": "CNCF Blog",
       "type": "article",
       "author": "audra",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenTelemetry-powered distributed tracing and Kubernetes events in OpenChoreo",
+      "link": "https://www.cncf.io/blog/2026/10/27/opentelemetry-powered-distributed-tracing-and-kubernetes-events-in-openchoreo",
+      "summary": "Getting code from a developer’s editor into production means building it, testing it, deploying it, and then understanding how it behaves once it’s running. Internal Developer Platforms (IDPs) promise a “golden path” through all of that,...",
+      "published": "2026-10-27T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Nilushan Costa and Akila Induranga WSO2",
       "categories": [
         "Blog"
       ],
@@ -1632,6 +1782,19 @@
       "source": "CNCF Blog",
       "type": "article",
       "author": "Roy Libman, CPO, Radar (Skyhook.io)",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Distributed tracing for CI pipelines without touching a single workflow file",
+      "link": "https://www.cncf.io/blog/2026/10/21/distributed-tracing-for-ci-pipelines-without-touching-a-single-workflow-file-2",
+      "summary": "You’ve probably felt this one: GitHub Actions usage creeps up across your org, and your actual visibility into it doesn’t keep pace. Which workflows are slow? Which are flaky? How long are jobs sitting queued for...",
+      "published": "2026-10-21T11:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "George Sims, Proton.me",
       "categories": [
         "Blog"
       ],
@@ -4774,206 +4937,6 @@
       "author": "Koray Oksay | CNCF Ambassador",
       "categories": [
         "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AI agents speed up development — data access slows them down",
-      "link": "https://thenewstack.io/unified-api-layer-agents",
-      "summary": "Building the app was never the hard part. Now, with AI agents assisting with development, teams complete applications and internal The post AI agents speed up development — data access slows them down appeared first on The New Stack .",
-      "published": "2026-10-01T11:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Doug Sillars",
-      "categories": [
-        "AI Agents",
-        "API Management",
-        "sponsor-monospace-by-directus",
-        "Sponsored",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Meet the Hosted Skills Canvas: Build, Run, and Debug in GitHub Copilot",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/meet-the-hosted-skills-canvas-build-run-and-debug-in-github/ba-p/4561222",
-      "summary": "We have been evolving Azure Functions from the bottom up: first the infrastructure with Flex Consumption , then the way you write an app, and now the tools you use to build it. We're introducing a new developer experience for event-driven apps: the Azure Functions Hosted Skills canvas in the GitHub...",
-      "published": "2026-09-30T22:19:50+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "paulyuk",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Gemini 4 Argon is here: It’s great, and you can’t have it yet",
-      "link": "https://thenewstack.io/google-gemini-4-argon",
-      "summary": "Google on Wednesday announced Gemini 4 Argon, the company’s long-awaited flagship model, and it looks like it was worth the The post Gemini 4 Argon is here: It’s great, and you can’t have it yet appeared first on The New Stack .",
-      "published": "2026-09-30T20:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Cohere’s faster query model barely dents retrieval quality in its tests",
-      "link": "https://thenewstack.io/cohere-embed-pro-fast",
-      "summary": "Cohere released Embed 5 on Wednesday, giving teams the option to index data with Embed 5 Pro and query those The post Cohere’s faster query model barely dents retrieval quality in its tests appeared first on The New Stack .",
-      "published": "2026-09-30T18:41:53+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "CloudBees just committed to an AI-first pivot. Here’s why it matters for enterprise DevOps teams",
-      "link": "https://thenewstack.io/cloudbees-ceo-ai-transformation",
-      "summary": "When new CloudBees CEO Mo Plassnig took the job earlier this year, his board of directors handed him a mandate The post CloudBees just committed to an AI-first pivot. Here’s why it matters for enterprise DevOps teams appeared first on The New Stack .",
-      "published": "2026-09-30T18:08:49+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Chris J. Preimesberger",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "CI/CD",
-        "DevOps",
-        "Podcast",
-        "sponsor-cloudbees",
-        "Sponsored",
-        "sponsored-podcast",
-        "Video"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenTofu Explained, a Look at the Open Source Infrastructure as Code Tool",
-      "link": "https://kodekloud.com/blog/opentofu-explained-open-source-infrastructure-as-code",
-      "summary": "OpenTofu describes your infrastructure in code, shows you exactly what it will change before it changes anything, and can encrypt the record it keeps. This walkthrough builds a working project on your own machine, no cloud account required.",
-      "published": "2026-09-30T18:00:41+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "OpenTofu",
-        "Terraform",
-        "IaC",
-        "Infrastructure as Code (IaC)",
-        "DevOps",
-        "Cloud"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI’s Dots boundary problem rate doubled in longer tests",
-      "link": "https://thenewstack.io/openai-dots-agent-permissions",
-      "summary": "OpenAI’s new Dots are built to keep working after you step away. Launched at DevDay on Tuesday, the always-on agents The post OpenAI’s Dots boundary problem rate doubled in longer tests appeared first on The New Stack .",
-      "published": "2026-09-30T15:26:15+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "ArgoCon North America 2026: What to expect as the Argo community looks toward CD 4.0",
-      "link": "https://www.cncf.io/blog/2026/09/30/argocon-north-america-2026-what-to-expect-as-the-argo-community-looks-toward-cd-4-0",
-      "summary": "Work across the Argo Project is accelerating, with growing adoption, new use cases, and more maintainers contributing across the community. The community is also beginning the visioning process for Argo CD 4.0, making ArgoCon an opportunity...",
-      "published": "2026-09-30T15:24:47+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Dan Garfield, Christian Hernandez, and Katie Lamkin - ArgoCon Co-Chairs",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Your AI agent aced the demo. Your data may still derail it.",
-      "link": "https://thenewstack.io/ai-agents-production-data",
-      "summary": "Ahhh, demo AI agents. Don’t you just love them? Cute and cuddly, solving all your company’s problems without complaints, missteps, The post Your AI agent aced the demo. Your data may still derail it. appeared first on The New Stack .",
-      "published": "2026-09-30T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Kimberly Fessel",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Data",
-        "Databases"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Microsoft Fabric is where AI agents learn how the business works",
-      "link": "https://thenewstack.io/microsoft-fabric-agent-context",
-      "summary": "Microsoft is turning Fabric, its integrated data platform, into the place enterprise agents go to learn how a company works, whether The post Microsoft Fabric is where AI agents learn how the business works appeared first on The New Stack .",
-      "published": "2026-09-30T14:46:32+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Engineering",
-        "AI Infrastructure",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Bring managed browser automation to your agent applications",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/bring-managed-browser-automation-to-your-agent-applications/ba-p/4561184",
-      "summary": "AI agents become more useful when they can move beyond conversation and complete real workflows. Playwright Cloud Browsers provides managed, on-demand browser capacity that agent applications can access through Model Context Protocol (MCP). You can connect Playwright Cloud Browsers to agent...",
-      "published": "2026-09-30T14:25:38+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "Arun_Kumar_Thiagarajan",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kill the code review theater, keep the review",
-      "link": "https://thenewstack.io/kill-code-review-theater",
-      "summary": "Six months ago I wrote about how to kill the code review, and I was wrong. I still think line-by-line The post Kill the code review theater, keep the review appeared first on The New Stack .",
-      "published": "2026-09-30T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Ankit Jain",
-      "categories": [
-        "AI Engineering",
-        "Developer tools",
-        "Software Development",
-        "sponsor-aviator",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "CRA readiness starts in the codebase",
-      "link": "https://thenewstack.io/cra-readiness-starts-codebase",
-      "summary": "The Cyber Resilience Act (CRA) is often discussed as a policy or reporting challenge. But for organizations that build products The post CRA readiness starts in the codebase appeared first on The New Stack .",
-      "published": "2026-09-30T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Ekaterina Okuneva",
-      "categories": [
-        "Compliance",
-        "Security",
-        "Software Development",
-        "sponsor-sonarsource",
-        "sponsored-post-contributed"
       ],
       "thumbnail": ""
     }
