@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-10-31T11:27:48.098021+00:00",
-    "total_items": 321,
+    "generated_at": "2026-11-01T12:22:03.047068+00:00",
+    "total_items": 311,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -21,6 +21,116 @@
     ]
   },
   "items": [
+    {
+      "title": "Make Your Shell Magical with Atuin | Rawkode Live",
+      "link": "https://www.youtube.com/watch?v=hpgBHtSgBUw",
+      "summary": "Make your shell history work for you.\n\nWe're going hands-on with Atuin on Rawkode Live. We'll explore how to find the commands you need, keep your shell history in sync across machines, and put it to work in a real terminal workflow.\n\nExpect questions, experimentation, and a few wrong turns. That's...",
+      "published": "2026-10-31T21:04:04+00:00",
+      "source": "Rawkode Academy",
+      "type": "video",
+      "author": "Rawkode Academy",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/hpgBHtSgBUw/mqdefault.jpg"
+    },
+    {
+      "title": "The context problem: How Docusign built agents that understand the business behind contracts",
+      "link": "https://thenewstack.io/docusign-contract-ai-agents",
+      "summary": "Ask a general-purpose language model to summarize a contract, and it will probably do a reasonable job. Ask it to The post The context problem: How Docusign built agents that understand the business behind contracts appeared first on The New Stack .",
+      "published": "2026-10-31T16:13:35+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Carly Page",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Large Language Models",
+        "sponsor-docusign",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Five years after the fork, OpenSearch is slowly stepping out of AWS’s shadow",
+      "link": "https://thenewstack.io/opensearch-foundation-aws-elasticsearch",
+      "summary": "OpenSearch has come a long way since Amazon Web Services first announced the project back in January 2021, in response The post Five years after the fork, OpenSearch is slowly stepping out of AWS’s shadow appeared first on The New Stack .",
+      "published": "2026-10-31T16:02:34+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Infrastructure",
+        "Data",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Developers ask AI which tool to use. Here’s how we track the answer.",
+      "link": "https://thenewstack.io/tracking-ai-tool-recommendations",
+      "summary": "We asked Claude “Which CMS platforms support MCP integration?” It searched the web and put Webflow in its first group, The post Developers ask AI which tool to use. Here’s how we track the answer. appeared first on The New Stack .",
+      "published": "2026-10-31T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Luke Stahl",
+      "categories": [
+        "AI Agents",
+        "Developer tools",
+        "Model Context Protocol (MCP)",
+        "sponsor-webflow",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Amazon CEO predicts 6 to 8 AI models will be ‘good enough’ for almost everything",
+      "link": "https://thenewstack.io/jassy-bedrock-multimodel-prediction",
+      "summary": "Amazon CEO Andy Jassy expects the frontier AI model race to produce several competitive models rather than a single winner, The post Amazon CEO predicts 6 to 8 AI models will be ‘good enough’ for almost everything appeared first on The New Stack .",
+      "published": "2026-10-31T14:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Models",
+        "AI Strategy",
+        "Cloud Services"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Shielding the patch gap: The exploit doesn’t wait for Patch Tuesday",
+      "link": "https://thenewstack.io/shielding-the-patch-gap",
+      "summary": "Four years after Log4Shell became one of the most consequential vulnerabilities in software history, vulnerable instances of the library are The post Shielding the patch gap: The exploit doesn’t wait for Patch Tuesday appeared first on The New Stack .",
+      "published": "2026-10-31T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jeremy Colvin",
+      "categories": [
+        "Cloud Native Ecosystem",
+        "eBPF",
+        "Security",
+        "sponsor-cncf",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "GPT-6.1 Terra vs. Claude Opus 5.5: Cheaper and faster in three tests at max effort",
+      "link": "https://thenewstack.io/gpt-6-1-terra-vs-claude-opus-5-5",
+      "summary": "OpenAI launched GPT-6.1 Terra on October 26, and included two direct comparisons with Opus 5.5 in its marketing materials. It The post GPT-6.1 Terra vs. Claude Opus 5.5: Cheaper and faster in three tests at max effort appeared first on The New Stack .",
+      "published": "2026-10-31T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jessica Wachtel",
+      "categories": [
+        "AI Models",
+        "Anthropic",
+        "Large Language Models",
+        "Software Testing"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Anthropic just removed one of Claude’s biggest usage limits — but not for everyone",
       "link": "https://thenewstack.io/claude-ultra-session-limit",
@@ -2814,6 +2924,17 @@
       "thumbnail": ""
     },
     {
+      "title": "Meet the Hosted Skills Canvas: Build, Run, and Debug in GitHub Copilot",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/meet-the-hosted-skills-canvas-build-run-and-debug-in-github/ba-p/4561222",
+      "summary": "We have been evolving Azure Functions from the bottom up: first the infrastructure with Flex Consumption , then the way you write an app, and now the tools you use to build it. We're introducing a new developer experience for event-driven apps: the Azure Functions Hosted Skills canvas in the GitHub...",
+      "published": "2026-10-14T23:51:30+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "paulyuk",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
       "title": "Linus Torvalds let Claude Code fix the Linux page cache. Then reviewers found a race.",
       "link": "https://thenewstack.io/torvalds-claude-code-kernel",
       "summary": "Linux creator and longtime lead maintainer Linus Torvalds turned to Anthropic’s Claude Code to tackle a kernel performance problem that The post Linus Torvalds let Claude Code fix the Linux page cache. Then reviewers found a race. appeared first on The New Stack .",
@@ -4674,269 +4795,6 @@
         "Kubernetes",
         "sponsor-suse",
         "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "KubeCon + CloudNativeCon North America 2026: From user to contributor to maintainer",
-      "link": "https://www.cncf.io/blog/2026/10/01/kubecon-cloudnativecon-north-america-2026-from-user-to-contributor-to-maintainer",
-      "summary": "You do not need “maintainer” in your job title to start following the maintainer journey at KubeCon + CloudNativeCon North America 2026. You might be an SRE who has spent years operating a CNCF project in...",
-      "published": "2026-10-02T00:13:19+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "epower",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "KubeCon + CloudNativeCon North America 2026: Build your infrastructure engineer journey",
-      "link": "https://www.cncf.io/blog/2026/10/01/kubecon-cloudnativecon-north-america-2026-build-your-infrastructure-engineer-journey",
-      "summary": "Infrastructure engineers sit at one of the busiest intersections in cloud native. Kubernetes clusters need to scale. Networks need to connect them. Storage needs to follow workloads. Platforms need to make infrastructure usable. Security needs to...",
-      "published": "2026-10-02T00:06:46+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "CNCF Marketing Team",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "KubeCon + CloudNativeCon North America 2026: Build your application developer journey",
-      "link": "https://www.cncf.io/blog/2026/10/01/kubecon-cloudnativecon-north-america-2026-build-your-application-developer-journey",
-      "summary": "Cloud native development increasingly means thinking beyond the application itself. How will it be built? How will it be deployed? How much infrastructure should developers need to understand? Where should platforms remove complexity? And what changes...",
-      "published": "2026-10-01T23:52:52+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "CNCF Marketing Team",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI’s always-on agents are free, until one specific thing happens",
-      "link": "https://thenewstack.io/openai-dots-codex-usage",
-      "summary": "OpenAI’s new Dots can work around the clock without drawing down a user’s normal usage allowance during the launch period, The post OpenAI’s always-on agents are free, until one specific thing happens appeared first on The New Stack .",
-      "published": "2026-10-01T22:00:57+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Run an Ollaya decision model on Azure Container Apps",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/run-an-ollaya-decision-model-on-azure-container-apps/ba-p/4561558",
-      "summary": "Many AI calls are not really conversations. A support message needs an intent. A workflow needs a route. A policy check needs a yes or no. An agent needs to select its next action from a known list. These are bounded decisions, but they are often sent to a general-purpose LLM. The LLM reads the...",
-      "published": "2026-10-01T21:48:30+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "simonjj",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Cloudflare brings paid access to MCP tools — who controls the agent’s spending?",
-      "link": "https://thenewstack.io/cloudflare-x402-agent-spending",
-      "summary": "Cloudflare opened a closed beta of its Monetization Gateway on Wednesday, giving domain owners a way to charge AI agents The post Cloudflare brings paid access to MCP tools — who controls the agent’s spending? appeared first on The New Stack .",
-      "published": "2026-10-01T20:09:20+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "FinOps",
-        "Model Context Protocol (MCP)"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“No human wants to look at billions of traces”: Dynatrace bought Arize because agents need a new kind of observability",
-      "link": "https://thenewstack.io/dynatrace-arize-agents-observability",
-      "summary": "Observability has long been a staple of enterprise operations, giving companies a way to understand what their applications and infrastructure The post “No human wants to look at billions of traces”: Dynatrace bought Arize because agents need a new kind of observability appeared first on The New...",
-      "published": "2026-10-01T20:05:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Observability"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "KubeCon + CloudNativeCon North America 2026: Build your SRE journey",
-      "link": "https://www.cncf.io/blog/2026/10/01/kubecon-cloudnativecon-north-america-2026-build-your-sre-journey",
-      "summary": "If your day starts with questions about reliability, performance, observability, incidents, scaling, or what is going to break next, there is no shortage of places to spend your time at KubeCon + CloudNativeCon North America 2026....",
-      "published": "2026-10-01T19:34:20+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "epower",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "I Broke Kubernetes 3 Ways. Can an AI SRE Agent Find the Real Cause?",
-      "link": "https://www.youtube.com/watch?v=N3OxHOcrsQ8",
-      "summary": "It's 2 AM, payments is crashing, and every alert points at the wrong pod. I broke a Kubernetes cluster three different ways, where the alert and the real cause are far apart, and tested whether NudgeBee's AI SRE agent can find the root cause on its own.\n\nThe three incidents:\n- The cascade: payments...",
-      "published": "2026-10-01T17:55:36+00:00",
-      "source": "Kubesimplify",
-      "type": "video",
-      "author": "Kubesimplify",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/N3OxHOcrsQ8/mqdefault.jpg"
-    },
-    {
-      "title": "Bit Cloud’s next chapter starts after the AI builds your app",
-      "link": "https://thenewstack.io/bit-cloud-component-reuse",
-      "summary": "For many developers, building an application from an AI prompt is already part of the workday. Turning that first version The post Bit Cloud’s next chapter starts after the AI builds your app appeared first on The New Stack .",
-      "published": "2026-10-01T17:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Nick Lucchesi",
-      "categories": [
-        "AI Engineering",
-        "Developer tools",
-        "Software Development",
-        "Podcast",
-        "Video"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Transform AI from a security blind spot into a roadmap",
-      "link": "https://thenewstack.io/shadow-ai-ciso-governance",
-      "summary": "I used to joke that every new technology came as a three-course CISO dinner: hype for the appetizer, hope for The post Transform AI from a security blind spot into a roadmap appeared first on The New Stack .",
-      "published": "2026-10-01T16:40:44+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "John Sapp",
-      "categories": [
-        "AI Agents",
-        "AI Strategy",
-        "Security",
-        "sponsor-chainguard",
-        "Sponsored",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Day-3 | AI Agent Zero to Hero | Production ready k8s investigation agent",
-      "link": "https://www.youtube.com/watch?v=HZ-7URh-t7g",
-      "summary": "Create your FREE account:\nhttps://fandf.co/46pq5QJ\n\nThis is the very third episode of Building an AI Agent Zero to Hero using Gemini Enterprise Agent Platform, In this video you will learn how to make our k8s investigation agent production ready using agents-cli and tool calling/function...",
-      "published": "2026-10-01T16:15:28+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/HZ-7URh-t7g/mqdefault.jpg"
-    },
-    {
-      "title": "AWS launches a local answer to TypeSafe’s Jev decision model",
-      "link": "https://thenewstack.io/aws-strands-decider-model",
-      "summary": "AWS on Thursday launched Strands Decider 2B, its take on decision models like Jev, Kev, imajev, Laya, and others. TypeSafe’s Jev kicked off the current The post AWS launches a local answer to TypeSafe’s Jev decision model appeared first on The New Stack .",
-      "published": "2026-10-01T16:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Engineering",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "A live Kubernetes cluster can still have an ownership gap",
-      "link": "https://thenewstack.io/kubernetes-operations-ownership-governance",
-      "summary": "Day 1 of a Kubernetes deployment usually feels like a milestone to an IT department: Clusters are provisioned, networking is The post A live Kubernetes cluster can still have an ownership gap appeared first on The New Stack .",
-      "published": "2026-10-01T15:30:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Chris J. Preimesberger",
-      "categories": [
-        "Kubecon Cloudnativecon NA 2026",
-        "Kubernetes",
-        "Operations",
-        "Platform Engineering",
-        "Road to KubeCon",
-        "sponsor-hpe",
-        "Sponsored",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Use Graph RAG when relationships are part of the evidence",
-      "link": "https://thenewstack.io/when-to-use-graph-rag",
-      "summary": "Which team owns the service that depends on the vulnerable library? Which customers use that service, and what does each The post Use Graph RAG when relationships are part of the evidence appeared first on The New Stack .",
-      "published": "2026-10-01T13:30:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jeremy Daly",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Databases",
-        "sponsor-oracle",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "In AI security, there’s no room for a defender’s mindset",
-      "link": "https://thenewstack.io/ai-security-attacker-mindset",
-      "summary": "In June, the Five Eyes intelligence alliance issued a rare joint statement. Frontier AI models, they warned, are “anticipated to The post In AI security, there’s no room for a defender’s mindset appeared first on The New Stack .",
-      "published": "2026-10-01T12:30:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Chaim Mazal",
-      "categories": [
-        "AI Engineering",
-        "AI Strategy",
-        "Security",
-        "sponsor-gitlab",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AI coding agents leaked 13,000 screenshots, and nobody hacked them.",
-      "link": "https://thenewstack.io/coding-agents-leaked-screenshots",
-      "summary": "AI coding agents trying to work around a limitation in GitHub’s command-line tool ended up publishing more than 13,000 internal The post AI coding agents leaked 13,000 screenshots, and nobody hacked them. appeared first on The New Stack .",
-      "published": "2026-10-01T12:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "Developer tools",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Guardrails, not gates: rethinking policy in platform teams",
-      "link": "https://www.cncf.io/blog/2026/10/01/guardrails-not-gates-rethinking-policy-in-platform-teams",
-      "summary": "The most popular OPA-based policy tool for Kubernetes is literally called Gatekeeper. Admission controllers block. Policies deny. Kyverno’s enforcement setting is validationFailureAction: Enforce, which at least sounds neutral, but the failure mode it describes is still...",
-      "published": "2026-10-01T11:30:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Koray Oksay | CNCF Ambassador",
-      "categories": [
-        "Blog"
       ],
       "thumbnail": ""
     }
