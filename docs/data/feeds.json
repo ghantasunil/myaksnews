@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-11-01T12:22:03.047068+00:00",
-    "total_items": 311,
+    "generated_at": "2026-11-02T14:18:02.582155+00:00",
+    "total_items": 308,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -21,6 +21,88 @@
     ]
   },
   "items": [
+    {
+      "title": "Announcing flex nodes for AKS (preview) in Azure portal",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-flex-nodes-for-aks-preview-in-azure-portal/ba-p/4569460",
+      "summary": "What’s new? Today, we’re announcing Azure portal support for flex nodes for AKS (preview) , offering an intuitive, guided experience that helps users create Flex node pools and connect supported user-managed compute to their existing AKS clusters. Flex nodes for AKS lets you extend an existing...",
+      "published": "2026-11-02T13:00:00+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Samantha_Fernandez",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "The Linkerd Story: The people Behind The Service Mesh — A new documentary premieres at KubeCon + CloudNativeCon North America 2026",
+      "link": "https://www.cncf.io/blog/2026/11/02/the-linkerd-story-the-people-behind-the-service-mesh-a-new-documentary-premieres-at-kubecon-cloudnativecon-north-america-2026",
+      "summary": "Join CNCF and Buoyant on November 9 in Salt Lake City for the premiere of a new documentary celebrating a decade of Linkerd, the evolution of service mesh technology, and the people who helped make it...",
+      "published": "2026-11-02T12:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "epower",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Microsoft AI Update October 2026",
+      "link": "https://www.youtube.com/watch?v=KaxQtUWDITU",
+      "summary": "Major Microsoft AI updates in the month of October 2026.\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in...",
+      "published": "2026-11-02T11:46:02+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/KaxQtUWDITU/mqdefault.jpg"
+    },
+    {
+      "title": "Top 10 AI certifications for DevOps and Cloud Engineers",
+      "link": "https://www.youtube.com/watch?v=JARRZkIcq8U",
+      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
+      "published": "2026-11-01T16:24:29+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/JARRZkIcq8U/mqdefault.jpg"
+    },
+    {
+      "title": "Open-source security in the AI exploit era: Patch without changing a thing",
+      "link": "https://thenewstack.io/patchmageddon-open-source-security22842502",
+      "summary": "Here’s how a vulnerability in a popular open-source library plays out in 2026: A maintainer merges a fix and publishes The post Open-source security in the AI exploit era: Patch without changing a thing appeared first on The New Stack .",
+      "published": "2026-11-01T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Oren Penso",
+      "categories": [
+        "AI",
+        "Open Source",
+        "Security",
+        "sponsor-broadcom",
+        "Sponsored",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "A step-by-step guide for how to kill the line-by-line code review",
+      "link": "https://thenewstack.io/ai-code-review-invariants",
+      "summary": "Agents verify; people decide. Most teams running AI code review today have it the other way around. They point a The post A step-by-step guide for how to kill the line-by-line code review appeared first on The New Stack .",
+      "published": "2026-11-01T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Ankit Jain",
+      "categories": [
+        "AI Engineering",
+        "Developer tools",
+        "Software Testing",
+        "sponsor-aviator",
+        "Sponsored",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Make Your Shell Magical with Atuin | Rawkode Live",
       "link": "https://www.youtube.com/watch?v=hpgBHtSgBUw",
@@ -4650,151 +4732,6 @@
         "OTLP",
         "DevOps",
         "Python"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AI is speeding up exploits. Vulnerability spreadsheets can’t keep up.",
-      "link": "https://thenewstack.io/cve-vulnerability-risk-management",
-      "summary": "Artificial intelligence has changed almost every aspect of software development and cybersecurity. But perhaps one of the most profound changes The post AI is speeding up exploits. Vulnerability spreadsheets can’t keep up. appeared first on The New Stack .",
-      "published": "2026-10-03T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Russ Andersson",
-      "categories": [
-        "AI",
-        "DevOps",
-        "Security",
-        "sponsor-rapidfort",
-        "Sponsored",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic’s answer to Dots and Muse is already inside Claude",
-      "link": "https://thenewstack.io/claude-answer-to-dots-muse",
-      "summary": "I’m Matt Burns, Chief Content Officer at Insight Media Group. Each week, I round up the most important AI developments, The post Anthropic’s answer to Dots and Muse is already inside Claude appeared first on The New Stack .",
-      "published": "2026-10-03T10:11:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Matthew Burns",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "AI Strategy"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "GitHub’s advice for its new Copilot feature is to try something else first",
-      "link": "https://thenewstack.io/github-copilot-computer-use-desktop",
-      "summary": "GitHub launched computer use in public preview on Thursday, giving Copilot CLI and its desktop app the ability to operate The post GitHub’s advice for its new Copilot feature is to try something else first appeared first on The New Stack .",
-      "published": "2026-10-02T18:25:27+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "Developer tools",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "What Is Karpenter and How Does It Autoscale Kubernetes Nodes",
-      "link": "https://kodekloud.com/blog/what-is-karpenter-and-how-does-it-autoscale-kubernetes-nodes",
-      "summary": "Karpenter watches for pods the scheduler could not place, works out the cheapest machine that would fit them, and asks the cloud for it. This article follows that decision all the way through.",
-      "published": "2026-10-02T18:00:12+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "Karpenter",
-        "Kubernetes",
-        "autoscaling",
-        "Node Management",
-        "Kubernetes nodes",
-        "DevOps",
-        "AWS",
-        "Cloud Native"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "What Kubernetes’ “monolith” lesson means for AI agent harnesses",
-      "link": "https://thenewstack.io/kubecon-agent-harness-koordinator",
-      "summary": "Welcome to another edition of Road to KubeCon, your source for everything Kubernetes and cloud-native as we count down the The post What Kubernetes’ “monolith” lesson means for AI agent harnesses appeared first on The New Stack .",
-      "published": "2026-10-02T16:31:26+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Bill Doerrfeld",
-      "categories": [
-        "AI Agents",
-        "Cloud Native Ecosystem",
-        "Kubecon Cloudnativecon NA 2026",
-        "Kubernetes",
-        "Road to KubeCon",
-        "sponsor-hpe",
-        "Sponsored",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Azure Weekly Update - 2nd October 2026",
-      "link": "https://www.youtube.com/watch?v=yluw5tkRdbE",
-      "summary": "Nice selection of updates this week!\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation queue...",
-      "published": "2026-10-02T15:57:37+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/yluw5tkRdbE/mqdefault.jpg"
-    },
-    {
-      "title": "KubeCon + CloudNativeCon North America 2026: Join the cloud native community at OpenTofu Day",
-      "link": "https://www.cncf.io/blog/2026/10/02/kubecon-cloudnativecon-north-america-2026-join-the-cloud-native-community-at-opentofu-day",
-      "summary": "Most of KubeCon + CloudNativeCon assumes the cluster already exists. OpenTofu Day covers everything that has to be provisioned before and around it: cloud accounts, networking, managed services, and the clusters themselves. On November 9, OpenTofu...",
-      "published": "2026-10-02T15:22:44+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Sebastian Stadil, OpenTofu",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“No reason why everyone should have an identical Claude experience”: Anthropic’s mods let you change Claude Code’s look and behavior",
-      "link": "https://thenewstack.io/anthropic-claude-code-mods-plugins",
-      "summary": "Developers have long been able to customize Claude Code to their preferences, via settings, persistent instructions in CLAUDE.md, hooks, and The post “No reason why everyone should have an identical Claude experience”: Anthropic’s mods let you change Claude Code’s look and behavior appeared first...",
-      "published": "2026-10-02T14:07:50+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Developer tools",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "K3s vs. K8s: When lightweight Kubernetes distros win (and when they don’t)",
-      "link": "https://thenewstack.io/k3s-vs-k8s-comparison",
-      "summary": "The Kubernetes ecosystem has a complexity problem, and most teams already know it. Standard Kubernetes (K8s) is extraordinarily powerful, but The post K3s vs. K8s: When lightweight Kubernetes distros win (and when they don’t) appeared first on The New Stack .",
-      "published": "2026-10-02T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Peter Smails",
-      "categories": [
-        "Containers",
-        "Edge Computing",
-        "Kubernetes",
-        "sponsor-suse",
-        "sponsored-post-contributed"
       ],
       "thumbnail": ""
     }
