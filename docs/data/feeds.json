@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-11-02T14:18:02.582155+00:00",
-    "total_items": 308,
+    "generated_at": "2026-11-03T13:18:43.780407+00:00",
+    "total_items": 316,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -21,6 +21,129 @@
     ]
   },
   "items": [
+    {
+      "title": "Olares One: Running Local AI at Home",
+      "link": "https://www.youtube.com/watch?v=hgn4A6r5A_g",
+      "summary": "I got my hands on the Olares One, a box with an RTX 5090 Laptop GPU and 96 GB of RAM that is built for running AI at home. Let's unbox it, set it up from my phone with no monitor or keyboard, and run local AI on it: Qwen3.8-27B on the GPU, Router as the AI gateway, and Lares, an agent that actually...",
+      "published": "2026-11-03T12:34:37+00:00",
+      "source": "Kubesimplify",
+      "type": "video",
+      "author": "Kubesimplify",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/hgn4A6r5A_g/mqdefault.jpg"
+    },
+    {
+      "title": "OpenKruise Agents v0.6.0: Leaping ahead in agent Sandbox security and automation",
+      "link": "https://www.cncf.io/blog/2026/11/03/openkruise-agents-v0-6-0-leaping-ahead-in-agent-sandbox-security-and-automation",
+      "summary": "About OpenKruise Agents OpenKruise Agents is a sub-project of OpenKruise, the CNCF open-source application automation and workload orchestration project. It provides full lifecycle management for Agent Sandboxes running at scale on Kubernetes, together with a complete...",
+      "published": "2026-11-03T12:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Zhen Zhang, OpenKruise Maintainer",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why Did Our Azure Bill Change? Investigating Cloud Spend with Azure SRE Agent",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/why-did-our-azure-bill-change-investigating-cloud-spend-with/ba-p/4569760",
+      "summary": "The question after the cost chart The monthly cost review usually starts with a straightforward observation: Azure spending changed. Then come the questions that take the time. Which subscription accounts for the increase? Is it an existing workload getting more expensive, or something that only...",
+      "published": "2026-11-03T03:51:16+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "AsithaDeSilva",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI built itself a new Git backend, too",
+      "link": "https://thenewstack.io/openai-pando-git-backend",
+      "summary": "OpenAI on Monday detailed how it built a new Git backend for its monorepo to power the ever-increasing number of The post OpenAI built itself a new Git backend, too appeared first on The New Stack .",
+      "published": "2026-11-03T00:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Developer tools",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Full Observability on Kubernetes in 30 Minutes (Zero Code Changes)",
+      "link": "https://www.youtube.com/watch?v=aEGsNSj7c7w",
+      "summary": "Pods showing Running status while your users complain about broken application pages? 🚨 Standard kubectl commands won't help when internal microservice dependencies fail.\n\nIn this video, learn how to set up complete zero-code instrumentation for polyglot Kubernetes workloads (Python, Java, Ruby,...",
+      "published": "2026-11-02T22:37:24+00:00",
+      "source": "Piyush Sachdeva",
+      "type": "video",
+      "author": "Tech Tutorials with Piyush",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/aEGsNSj7c7w/mqdefault.jpg"
+    },
+    {
+      "title": "Developers are downgrading their AI on purpose — and it’s working",
+      "link": "https://thenewstack.io/claude-code-developer-refusals",
+      "summary": "Anthropic has confirmed that it added new restrictions to Claude Code to prevent users from recreating existing video games. But The post Developers are downgrading their AI on purpose — and it’s working appeared first on The New Stack .",
+      "published": "2026-11-02T21:03:31+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Models",
+        "Developer tools",
+        "Software Development"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Your AI coding agent now runs on a budget — and it can cut you off mid-task",
+      "link": "https://thenewstack.io/22842541cognition-devin-hierarchical-budgets",
+      "summary": "The days of pointing an AI agent at a backlog and letting it burn through compute without much oversight may The post Your AI coding agent now runs on a budget — and it can cut you off mid-task appeared first on The New Stack .",
+      "published": "2026-11-02T19:03:38+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "FinOps",
+        "Operations"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Canva’s new design model doesn’t generate images. It writes code to edit them.",
+      "link": "https://thenewstack.io/canva-brush-design-editing",
+      "summary": "Australian graphic design software company Canva took the wraps off Canva Brush last week, its new vision-language model for designers. The post Canva’s new design model doesn’t generate images. It writes code to edit them. appeared first on The New Stack .",
+      "published": "2026-11-02T18:06:26+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Adrian Bridgwater",
+      "categories": [
+        "AI Agents",
+        "AI Models",
+        "Emerging technologies"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI’s new shared usage limit pits ChatGPT against Codex",
+      "link": "https://thenewstack.io/openai-chatgpt-codex-shared-limits",
+      "summary": "OpenAI has revealed plans to combine usage allowances across ChatGPT and Codex, as part of a broader effort to integrate The post OpenAI’s new shared usage limit pits ChatGPT against Codex appeared first on The New Stack .",
+      "published": "2026-11-02T16:45:19+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Strategy",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Announcing flex nodes for AKS (preview) in Azure portal",
       "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-flex-nodes-for-aks-preview-in-azure-portal/ba-p/4569460",
@@ -4711,27 +4834,6 @@
         "sponsor-signadot",
         "Sponsored",
         "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "What Is OpenTelemetry and How to Instrument Your First Application",
-      "link": "https://kodekloud.com/blog/what-is-opentelemetry-instrument-your-first-application",
-      "summary": "Most OpenTelemetry tutorials stop once a span appears in your terminal. This one keeps going, into the pipeline that exported it, the decision that kept it, and the header that ties it to the next service.",
-      "published": "2026-10-03T17:00:20+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "OpenTelemetry",
-        "Observability",
-        "Monitoring",
-        "Instrumentation",
-        "Distributed Tracing",
-        "Sampling",
-        "OTLP",
-        "DevOps",
-        "Python"
       ],
       "thumbnail": ""
     }
