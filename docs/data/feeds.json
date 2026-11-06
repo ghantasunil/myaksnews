@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-11-05T13:45:01.102558+00:00",
-    "total_items": 311,
+    "generated_at": "2026-11-06T13:29:02.836383+00:00",
+    "total_items": 315,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,284 @@
     ]
   },
   "items": [
+    {
+      "title": "Faster LLM inference startup: What you need to know",
+      "link": "https://www.cncf.io/blog/2026/11/06/faster-llm-inference-startup-what-you-need-to-know",
+      "summary": "Adding an inference replica creates capacity only after the new instance can serve requests. Between starting a process and generating a response, an LLM server may need to load weights, initialize GPU resources, compile kernels, capture...",
+      "published": "2026-11-06T12:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Baofa Fan, DaoCloud",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes, mark II? Why Google’s giving away gVisor, a code sandbox used by Anthropic and OpenAI",
+      "link": "https://thenewstack.io/gvisor-cncf-kubernetes-open-source",
+      "summary": "Google wants to emulate one of its biggest ever open-source success stories, donating three core AI agent infrastructure projects to The post Kubernetes, mark II? Why Google’s giving away gVisor, a code sandbox used by Anthropic and OpenAI appeared first on The New Stack .",
+      "published": "2026-11-06T11:49:04+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Kubernetes",
+        "Open Source",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Running Docker Sandboxes (docker-sbx) on Kubernetes with Agent Sandbox",
+      "link": "https://collabnix.com/running-docker-sandboxes-docker-sbx-on-kubernetes-with-agent-sandbox",
+      "summary": "AI coding agents need somewhere to run that isn’t your laptop and isn’t your production cluster. You want them isolated – their own kernel, their own filesystem, their own Docker daemon, and no line of sight to your host or your credentials – and you want that isolation to be schedulable, with...",
+      "published": "2026-11-06T05:24:15+00:00",
+      "source": "Collabnix",
+      "type": "article",
+      "author": "Collabnix Team",
+      "categories": [
+        "Agentic AI",
+        "Docker",
+        "Docker Sandboxes",
+        "Kubernetes"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Preparing Your IIS VM for Azure SRE Agent: A Reader-Only Guide",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/preparing-your-iis-vm-for-azure-sre-agent-a-reader-only-guide/ba-p/4570805",
+      "summary": "I had the opportunity to work closely with a customer whose primary workload was an IIS web server running on an Azure IaaS virtual machine. The customer raised an important question: How should I configure my IIS server to help Azure SRE Agent effectively diagnose common issues and recommend...",
+      "published": "2026-11-05T23:01:58+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "puneetguptams",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "HumanLayer just got acquired by Factory. But it gave users a way out first.",
+      "link": "https://thenewstack.io/factory-acquires-humanlayer-agents",
+      "summary": "Factory has acquired HumanLayer, its third AI coding startup in less than a month, as it works to fold more The post HumanLayer just got acquired by Factory. But it gave users a way out first. appeared first on The New Stack .",
+      "published": "2026-11-05T20:02:19+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "Developer tools",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Sync Without Shared Secrets: Managed Identity for ACR Connected Registry",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/sync-without-shared-secrets-managed-identity-for-acr-connected/ba-p/4569415",
+      "summary": "Connected Registry is a feature of Azure Container Registry (ACR) that provides an on-premises or remote replica, synchronizing container images and other OCI artifacts with a cloud-based registry. It gives local workloads nearby access to those artifacts, including in environments with limited or...",
+      "published": "2026-11-05T19:09:06+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "zoeyli",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI’s new GPT-6 Cyber is better at hacking and better at staying in its lane",
+      "link": "https://thenewstack.io/openai-gpt6-cyber-exploits",
+      "summary": "OpenAI on Thursday launched GPT-6 Cyber, the latest release in its series of cybersecurity-focused models. The company ranks GPT-6 Cyber’s ability The post OpenAI’s new GPT-6 Cyber is better at hacking and better at staying in its lane appeared first on The New Stack .",
+      "published": "2026-11-05T19:01:03+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Together AI let coding agents rewrite its GPU code. Then it kept humans on the deploy button.",
+      "link": "https://thenewstack.io/together-compiler-gpu-optimization",
+      "summary": "Together AI is putting AI coding agents to work on the GPU code that runs its inference infrastructure, automating performance The post Together AI let coding agents rewrite its GPU code. Then it kept humans on the deploy button. appeared first on The New Stack .",
+      "published": "2026-11-05T18:56:57+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Hardware"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Raindrop simulates your agent’s world to catch what your changes break",
+      "link": "https://thenewstack.io/raindrop-simulations-ai-agents",
+      "summary": "Raindrop wants developers to know what else will change when they edit an agent’s prompt, swap its model, or give The post Raindrop simulates your agent’s world to catch what your changes break appeared first on The New Stack .",
+      "published": "2026-11-05T18:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Operations"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Groundcover automates Kubernetes sizing. Engineers set the bounds.",
+      "link": "https://thenewstack.io/groundcover-autonomous-kubernetes-rightsizing",
+      "summary": "On Tuesday, groundcover launched Autonomous Infrastructure in beta to continuously adjust CPU and memory requests for Kubernetes (K8s) Deployments based The post Groundcover automates Kubernetes sizing. Engineers set the bounds. appeared first on The New Stack .",
+      "published": "2026-11-05T17:14:41+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Meredith Shubel",
+      "categories": [
+        "FinOps",
+        "Kubernetes",
+        "Observability",
+        "sponsor-groundcover",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI failures threaten incident management: Here are 4 ways to avoid them.",
+      "link": "https://thenewstack.io/ai-failures-incident-management",
+      "summary": "AI is becoming woven into the fabric of digital operations and incident management. On the one hand, AI can detect, The post AI failures threaten incident management: Here are 4 ways to avoid them. appeared first on The New Stack .",
+      "published": "2026-11-05T17:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "João Freitas",
+      "categories": [
+        "AI Agents",
+        "AI Operations",
+        "DevOps",
+        "sponsor-pagerduty",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Postcards from tomorrow: Powering the agentic era through open source",
+      "link": "https://thenewstack.io/kubernetes-ai-learning-loop",
+      "summary": "When organizations across the industry first adopted generative AI, most consumed it through a hosted API, but open-weight models are The post Postcards from tomorrow: Powering the agentic era through open source appeared first on The New Stack .",
+      "published": "2026-11-05T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Lachlan Evenson",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Kubecon Cloudnativecon NA 2026",
+        "Kubernetes",
+        "sponsor-cncf",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "I broke a working agent seven ways. The metric I was watching caught two of them.",
+      "link": "https://thenewstack.io/monitoring-production-ai-agents",
+      "summary": "In September, I ran two models through the same 20 support tasks. Both scored 20 out of 20. Then I The post I broke a working agent seven ways. The metric I was watching caught two of them. appeared first on The New Stack .",
+      "published": "2026-11-05T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Kayode Ojo",
+      "categories": [
+        "AI Agents",
+        "Observability",
+        "Software Testing",
+        "sponsor-andela",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "From open beta to global GA: What Docusign learned by bringing contract AI workflows to agents",
+      "link": "https://thenewstack.io/docusign-mcp-server-agents",
+      "summary": "Connecting an AI agent to enterprise software is relatively easy. Making sure it can find the right information, carry out The post From open beta to global GA: What Docusign learned by bringing contract AI workflows to agents appeared first on The New Stack .",
+      "published": "2026-11-05T14:50:21+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Carly Page",
+      "categories": [
+        "AI Agents",
+        "Model Context Protocol (MCP)",
+        "Security",
+        "sponsor-docusign",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How the new streamhouse architecture solves agentic AI’s data problem",
+      "link": "https://thenewstack.io/streamhouse-architecture-ai-agents",
+      "summary": "AI agents are moving from answering questions to taking action, and to do that effectively, they need to know the The post How the new streamhouse architecture solves agentic AI’s data problem appeared first on The New Stack .",
+      "published": "2026-11-05T14:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Andrew Sellers",
+      "categories": [
+        "AI Agents",
+        "Data",
+        "Data Streaming",
+        "sponsor-confluent",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "This platform changed Observability forever | Zero configuration",
+      "link": "https://www.youtube.com/watch?v=VQlcKr692-U",
+      "summary": "🔗 Get started for FREE:\nhttps://www.dash0.com/?utm_source=abhishekveeramalla&utm_medium=cpc&utm_campaign=CreatorProgram&utm_content=v1\n\nSet up full observability for a multi-microservice Kubernetes app in minutes — no manual instrumentation, no collector plumbing, no code changes. In this video I...",
+      "published": "2026-11-05T14:13:30+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/VQlcKr692-U/mqdefault.jpg"
+    },
+    {
+      "title": "Postgres and ClickHouse can share tables. EnterpriseDB wants one set of rules to govern them.",
+      "link": "https://thenewstack.io/edb-altinity-postgres-clickhouse",
+      "summary": "If you have built anything that needs both a system of record and fast analytics, you know the shape of The post Postgres and ClickHouse can share tables. EnterpriseDB wants one set of rules to govern them. appeared first on The New Stack .",
+      "published": "2026-11-05T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Max Romanenko",
+      "categories": [
+        "AI Agents",
+        "Data",
+        "Databases",
+        "sponsor-enterprisedb",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Dropbox ditched AWS S3 for its own in-house system. Now it’s buying Tigris to sell S3-compatible storage to AI developers.",
+      "link": "https://thenewstack.io/dropbox-acquires-tigris-s3-alternative",
+      "summary": "Dropbox is entering the AI infrastructure space in a big way, announcing plans on Thursday to acquire Tigris, a startup The post Dropbox ditched AWS S3 for its own in-house system. Now it’s buying Tigris to sell S3-compatible storage to AI developers. appeared first on The New Stack .",
+      "published": "2026-11-05T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Infrastructure",
+        "Cloud Services",
+        "Storage"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "kpt v1.0.0 is released",
       "link": "https://www.cncf.io/blog/2026/11/05/kpt-v1-0-0-is-released",
@@ -4556,212 +4834,6 @@
         "AI Models",
         "Large Language Models",
         "Software Testing"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Meshery becomes a CNCF Incubating project",
-      "link": "https://www.cncf.io/blog/2026/10/07/meshery-becomes-a-cncf-incubating-project",
-      "summary": "The CNCF Technical Oversight Committee (TOC) voted to accept Meshery as a CNCF incubating project. Meshery is used by organizations spanning aerospace, telecommunications, networking, and enterprise software as a single cloud native management plane that gives...",
-      "published": "2026-10-07T12:05:16+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "CNCF Staff",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "What’s up, Docsy? Google’s docs project joins the Linux Foundation as AI agents become readers",
-      "link": "https://thenewstack.io/docsy-linux-foundation-agents",
-      "summary": "Technical documentation is increasingly being read by AI agents, creating a new set of demands around how that information is The post What’s up, Docsy? Google’s docs project joins the Linux Foundation as AI agents become readers appeared first on The New Stack .",
-      "published": "2026-10-07T11:02:46+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Developer tools",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Tech in Five - What is MCP?",
-      "link": "https://www.youtube.com/watch?v=5EP7ZzFtK3Y",
-      "summary": "An overview of what MCP is and why its so useful.\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the...",
-      "published": "2026-10-07T07:58:31+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/5EP7ZzFtK3Y/mqdefault.jpg"
-    },
-    {
-      "title": "CNCF Welcomes OVHcloud, One of Europe’s Largest Independent Cloud Providers, as a Platinum Member",
-      "link": "https://www.cncf.io/announcements/2026/10/07/cncf-welcomes-ovhcloud-a-leading-european-cloud-provider-and-global-cloud-and-ai-player-as-a-platinum-member",
-      "summary": "Upgrade builds on OVHcloud’s decade-plus commitment to open infrastructure, interoperability and cloud portability  Key Highlights PRAGUE – Open Source Summit Europe – October 7, 2026 – The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems...",
-      "published": "2026-10-07T07:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Haley White",
-      "categories": [
-        "Announcements"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Let's break and fix our Kubernetes Investigation Agent before production",
-      "link": "https://www.youtube.com/watch?v=C7yZN03Qlow",
-      "summary": "Create your FREE account:\nhttps://fandf.co/46pq5QJ\n\nThis is the fourth episode of Building an AI Agent Zero to Hero using Gemini Enterprise Agent Platform, In this video you will learn how to evaluate the agent using 5 steps.\n- Generate the dataset\n- Analyzing the agent against the dataset\n-...",
-      "published": "2026-10-07T05:33:56+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/C7yZN03Qlow/mqdefault.jpg"
-    },
-    {
-      "title": "Build a Three-Tier Architecture on AWS with Terraform and ECS Fargate",
-      "link": "https://kodekloud.com/blog/aws-three-tier-architecture-terraform-kodekey",
-      "summary": "Build a three-tier architecture on AWS with Terraform. An ALB, a private ECS Fargate app, and RDS, with secrets injected from Secrets Manager.",
-      "published": "2026-10-07T04:22:36+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "Playground Projects",
-        "Terraform",
-        "AWS",
-        "KodeKey"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The CNCF is graduating projects faster than ever. AI agents are helping with the due diligence.",
-      "link": "https://thenewstack.io/open-source-ai-kubernetes",
-      "summary": "Back in 2018, a scrappy startup called OpenAI used Kubernetes to balance compute loads across its own data centers and The post The CNCF is graduating projects faster than ever. AI agents are helping with the due diligence. appeared first on The New Stack .",
-      "published": "2026-10-06T20:02:17+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Alex Wilhelm",
-      "categories": [
-        "AI Infrastructure",
-        "Kubernetes",
-        "Open Source",
-        "Podcast",
-        "sponsor-cncf",
-        "Sponsored",
-        "sponsored-podcast",
-        "Video"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Your phone’s vector index might be bigger than the AI model running it",
-      "link": "https://thenewstack.io/google-embeddinggemma-multimodal-search",
-      "summary": "Google released EmbeddingGemma 2 on Tuesday, putting text, code, image, video, and audio retrieval into a 740-million-parameter open model that The post Your phone’s vector index might be bigger than the AI model running it appeared first on The New Stack .",
-      "published": "2026-10-06T18:53:07+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Engineering",
-        "AI Models",
-        "Edge Computing"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Copilot tops GitHub’s own AI code review benchmark. An independent one tells a different story.",
-      "link": "https://thenewstack.io/github-reviewbench-code-review",
-      "summary": "If there’s one thing the AI software engineering world doesn’t lack, it’s benchmarks. Want to know whether an agent can The post Copilot tops GitHub’s own AI code review benchmark. An independent one tells a different story. appeared first on The New Stack .",
-      "published": "2026-10-06T18:06:25+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Developer tools",
-        "Software Testing"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The Shift to cgroup v2 in Kubernetes: What You Need to Know",
-      "link": "https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift",
-      "summary": "In Linux, cgroups (control groups) are a kernel feature used for managing system resources.\nKubernetes uses cgroups to allocate resources like CPU and memory to containers,\nensuring that applications run smoothly without interfering with each other.\nWith the release of Kubernetes v1.31, support for...",
-      "published": "2026-10-06T18:00:00+00:00",
-      "source": "Kubernetes Blog",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Mistral’s new AI tried to escape its test environment. In three weeks, anyone can download it",
-      "link": "https://thenewstack.io/mistral-large-4-weights",
-      "summary": "Mistral launched Large 4 on Tuesday, its first major model release since Medium 3.5 at the end of April and The post Mistral’s new AI tried to escape its test environment. In three weeks, anyone can download it appeared first on The New Stack .",
-      "published": "2026-10-06T17:26:01+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Models",
-        "Open Source",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "SAP acquires TechWolf to feed more context into its HR agents",
-      "link": "https://thenewstack.io/sap-acquires-techwolf-skills",
-      "summary": "SAP on Tuesday announced that it has agreed to acquire TechWolf, a Belgian AI company that maps what employees work on The post SAP acquires TechWolf to feed more context into its HR agents appeared first on The New Stack .",
-      "published": "2026-10-06T16:52:54+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Strategy",
-        "Data"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“There is just not a room for error”: SAP is putting its AI agents in the back office",
-      "link": "https://thenewstack.io/sap-connect-joule-assistants",
-      "summary": "Earlier this year, at its Sapphire conference, SAP outlined its plans for an “Autonomous Enterprise” run in large part by The post “There is just not a room for error”: SAP is putting its AI agents in the back office appeared first on The New Stack .",
-      "published": "2026-10-06T16:38:04+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Strategy",
-        "Data"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "What's Eating My Disk? Find It with du",
-      "link": "https://kodekloud.com/blog/find-disk-usage-linux-du",
-      "summary": "Out of disk space on Linux? Use sudo du -h -d3 / | sort -h to find the biggest directories, then find to locate the large files.",
-      "published": "2026-10-06T16:08:15+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "Linux",
-        "du",
-        "Disk Usage",
-        "Command Line",
-        "sysadmin"
       ],
       "thumbnail": ""
     }
