@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-11-06T13:29:02.836383+00:00",
-    "total_items": 315,
+    "generated_at": "2026-11-07T12:08:34.897301+00:00",
+    "total_items": 303,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,92 @@
     ]
   },
   "items": [
+    {
+      "title": "GitHub Copilot: 14 Ways to Cut Token Waste",
+      "link": "https://www.youtube.com/watch?v=3CsWW4JkqOc",
+      "summary": "Your GitHub Copilot prompt is only part of what the model receives. Learn 14 ways to cut token waste without chasing cheap answers.\n\nThis presentation is for developers who want more useful work from every token. It covers the context surrounding your prompts, model and reasoning choices, and...",
+      "published": "2026-11-07T09:00:09+00:00",
+      "source": "Houssem Dellai",
+      "type": "video",
+      "author": "Houssem Dellai",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/3CsWW4JkqOc/mqdefault.jpg"
+    },
+    {
+      "title": "AI agents are getting more complex. Developers shouldn’t have to babysit them.",
+      "link": "https://thenewstack.io/harness-engineering-coding-agents",
+      "summary": "What if your coding agent could catch its own mistakes before you ever reviewed its work?  A few years ago, The post AI agents are getting more complex. Developers shouldn’t have to babysit them. appeared first on The New Stack .",
+      "published": "2026-11-06T19:35:59+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Kimberly Fessel",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Security",
+        "Podcast",
+        "sponsor-thoughtworks",
+        "Sponsored",
+        "sponsored-podcast",
+        "Video"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Cognition turned an open model into a coding beast. But it won’t release the weights.",
+      "link": "https://thenewstack.io/cognition-flash-private-weights",
+      "summary": "Cognition built its newest coding model on a foundation that anyone can download, yet the company is keeping its own The post Cognition turned an open model into a coding beast. But it won’t release the weights. appeared first on The New Stack .",
+      "published": "2026-11-06T18:16:42+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Models",
+        "Open Source",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Meta’s best AI model now trains the one most of its users get",
+      "link": "https://thenewstack.io/meta-muse-specialized-models",
+      "summary": "Starting on Friday, everyone using Meta’s Muse agent and Meta AI gets new models the company trained using Muse Wonder, The post Meta’s best AI model now trains the one most of its users get appeared first on The New Stack .",
+      "published": "2026-11-06T18:05:55+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure Weekly Update - 6th November 2026",
+      "link": "https://www.youtube.com/watch?v=zzptFb-4-2k",
+      "summary": "Broad range of updates this week.\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation queue...",
+      "published": "2026-11-06T16:22:17+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/zzptFb-4-2k/mqdefault.jpg"
+    },
+    {
+      "title": "“Most apps never make it off localhost”: Cursor takes on Lovable and Replit with fully managed app deployment",
+      "link": "https://thenewstack.io/cursor-ai-app-deployment",
+      "summary": "AI coding agents have certainly made it easier to transform an idea into a working application. However, getting that application The post “Most apps never make it off localhost”: Cursor takes on Lovable and Replit with fully managed app deployment appeared first on The New Stack .",
+      "published": "2026-11-06T15:15:21+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Developer tools",
+        "Vibe Coding"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Faster LLM inference startup: What you need to know",
       "link": "https://www.cncf.io/blog/2026/11/06/faster-llm-inference-startup-what-you-need-to-know",
@@ -4556,284 +4642,6 @@
         "Security",
         "sponsor-webflow",
         "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Claude Sonnet 5.5 vs. Opus 5.5: 42% cheaper and perfect on every run",
-      "link": "https://thenewstack.io/claude-sonnet-5-5-vs-opus-5-5",
-      "summary": "Anthropic launched Sonnet 5.5 six days after Opus 5.5. The company says it scores 70.6% on Terminal-Bench 4.0, ahead of The post Claude Sonnet 5.5 vs. Opus 5.5: 42% cheaper and perfect on every run appeared first on The New Stack .",
-      "published": "2026-10-08T12:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jessica Wachtel",
-      "categories": [
-        "AI Engineering",
-        "AI Models",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Building scalable, agent-friendly APIs for AI applications",
-      "link": "https://thenewstack.io/building-agent-friendly-apis",
-      "summary": "Nowadays, most of us interact with frontier AI models in a structured way, even if we do not always think The post Building scalable, agent-friendly APIs for AI applications appeared first on The New Stack .",
-      "published": "2026-10-08T11:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Nacho Martínez",
-      "categories": [
-        "AI Agents",
-        "API Management",
-        "Microservices",
-        "sponsor-oracle",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Redis by proxy: Percona targets the last major hurdle to Valkey adoption",
-      "link": "https://thenewstack.io/valkey-proxy-redis-percona",
-      "summary": "When Redis changed its licensing in 2024, replacing its permissive BSD license with proprietary, source-available alternatives, it prompted a major The post Redis by proxy: Percona targets the last major hurdle to Valkey adoption appeared first on The New Stack .",
-      "published": "2026-10-08T06:54:15+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "Databases",
-        "Open Source",
-        "Operations"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Build a Type-Safe Financial Extraction Engine with Pydantic AI Structured Output",
-      "link": "https://kodekloud.com/blog/pydantic-ai-invoice-extraction",
-      "summary": "Build a type-safe financial extraction engine with Pydantic AI structured output, where field validators catch bad invoice math at runtime.",
-      "published": "2026-10-08T06:38:33+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "Playground Projects",
-        "Python",
-        "AI"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "CiliumCon is back at KubeCon + CloudNativeCon North America 2026",
-      "link": "https://www.cncf.io/blog/2026/10/07/ciliumcon-is-back-at-kubecon-cloudnativecon-north-america-2026",
-      "summary": "Mark your calendars. On Monday, November 9, CilliumCon kicks off at KubeCon + CloudNativeCon North America in Salt Lake City. It’s the eighth time the event has run, and this year’s agenda goes straight at the...",
-      "published": "2026-10-07T22:38:50+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Joe Stringer, Isovalent at Cisco & Jordan Rife, Google",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "BackstageCon comes to KubeCon + CloudNativeCon North America 2026 in Salt Lake City",
-      "link": "https://www.cncf.io/blog/2026/10/07/backstagecon-comes-to-kubecon-cloudnativecon-north-america-2026-in-salt-lake-city",
-      "summary": "BackstageCon takes place all day on Monday, November 9, 2026, the day before KubeCon + CloudNativeCon North America opens in Salt Lake City. We’re excited to bring together Backstage adopters, contributors, and maintainers to share how...",
-      "published": "2026-10-07T21:59:53+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "BackstageCon",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kubernetes on Edge Day returns to KubeCon + CloudNativeCon North America 2026",
-      "link": "https://www.cncf.io/blog/2026/10/07/kubernetes-on-edge-day-returns-to-kubecon-cloudnativecon-north-america-2026",
-      "summary": "Kubernetes on Edge Day returns to KubeCon + CloudNativeCon North America 2026 on November 9 in Salt Lake City, Utah, bringing together developers and adopters from across the cloud native ecosystem to share experiences and insights...",
-      "published": "2026-10-07T21:33:31+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Mars Toktonaliev and Katerina Arzhayev, Kubernetes on Edge Day",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenSSH 10.6 deliberately breaks two features in the name of security",
-      "link": "https://thenewstack.io/openssh-breaks-compression-usernames",
-      "summary": "OpenSSH 10.6, released Tuesday, makes compression less effective and rejects some usernames that previously worked, and the maintainers knew both The post OpenSSH 10.6 deliberately breaks two features in the name of security appeared first on The New Stack .",
-      "published": "2026-10-07T21:27:33+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "DevOps",
-        "Open Source",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Claude’s cyber safeguards are getting more flexible — but not for everyone.",
-      "link": "https://thenewstack.io/anthropic-cyber-access-tiers",
-      "summary": "This week, Anthropic announced an expansion of its Cyber Verification Program (CVP), breaking access into three use case–based tiers and The post Claude’s cyber safeguards are getting more flexible — but not for everyone. appeared first on The New Stack .",
-      "published": "2026-10-07T21:25:06+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "AI Models",
-        "AI Strategy",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Decision models are suddenly everywhere. OpenAI’s is now public.",
-      "link": "https://thenewstack.io/openai-decision-models-deployment",
-      "summary": "This week, OpenAI opened its Decisions API to public beta and added image inputs to make fast decisions from visual The post Decision models are suddenly everywhere. OpenAI’s is now public. appeared first on The New Stack .",
-      "published": "2026-10-07T21:11:26+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "AI Engineering",
-        "AI Infrastructure",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kubernetes won the orchestration wars. Its teams are still fighting.",
-      "link": "https://thenewstack.io/kubernetes-teams-ai-automation",
-      "summary": "Kubernetes won the container orchestration wars. The CNCF reports that 82% of container users run Kubernetes in production. Despite its The post Kubernetes won the orchestration wars. Its teams are still fighting. appeared first on The New Stack .",
-      "published": "2026-10-07T19:57:34+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Alex Wilhelm",
-      "categories": [
-        "AI Operations",
-        "DevOps",
-        "Kubecon Cloudnativecon NA 2026",
-        "Kubernetes",
-        "Road to KubeCon",
-        "Podcast",
-        "sponsor-hpe",
-        "Sponsored",
-        "sponsored-podcast",
-        "Video"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI’s former safety lead says it’s shipping “new capability and risk every Tuesday”",
-      "link": "https://thenewstack.io/openai-safety-release-cycle",
-      "summary": "When David Robinson joined OpenAI in May 2023, the day after Sam Altman first testified before the Senate, the company’s The post OpenAI’s former safety lead says it’s shipping “new capability and risk every Tuesday” appeared first on The New Stack .",
-      "published": "2026-10-07T18:18:24+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Models",
-        "AI Strategy",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to Run Canary Releases on Kubernetes With Argo Rollouts",
-      "link": "https://kodekloud.com/blog/how-to-run-canary-releases-on-kubernetes-with-argo-rollouts",
-      "summary": "Shipping a new version to every user at once turns one bad change into everyone's problem. See how Argo Rollouts lets a small slice of traffic try it first, and how to run your first canary.",
-      "published": "2026-10-07T18:00:55+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "Argo CD",
-        "Argo Rollouts",
-        "Canary Deployment",
-        "Kubernetes",
-        "Argo",
-        "GitOps",
-        "Continuous delivery"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic launches Haiku 5.5 at a much lower price",
-      "link": "https://thenewstack.io/anthropic-claude-haiku-5-5",
-      "summary": "Anthropic on Wednesday launched Claude Haiku 5.5, the first new version of its smallest and most affordable model in nearly The post Anthropic launches Haiku 5.5 at a much lower price appeared first on The New Stack .",
-      "published": "2026-10-07T18:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anyscale on Azure is now Generally Available",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/anyscale-on-azure-is-now-generally-available/ba-p/4562547",
-      "summary": "Anyscale on Azure is now Generally Available. Enterprises can run the Ray distributed runtime as a managed service on Azure Kubernetes Service (AKS), with workloads running in the customer’s own Azure subscription, network, and identity boundary. With General Availability, Anyscale on Azure is...",
-      "published": "2026-10-07T17:12:20+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "bobmital",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Schedule a Reboot or Shutdown for Later",
-      "link": "https://kodekloud.com/blog/schedule-linux-reboot-shutdown",
-      "summary": "Tell your Linux server when to reboot or shut down: use sudo shutdown -r 03:00 for a set time, or +4320 minutes to schedule days ahead.",
-      "published": "2026-10-07T16:26:52+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "Linux",
-        "Reboot",
-        "shutdown",
-        "Command Line",
-        "sysadmin",
-        "Scheduling"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenSearch veterans launch Infino. Here’s why it matters for agent builders.",
-      "link": "https://thenewstack.io/infino-agent-retrieval-layer",
-      "summary": "Software vendors like to claim unified systems that act as a so-called single pane of glass for any given coding The post OpenSearch veterans launch Infino. Here’s why it matters for agent builders. appeared first on The New Stack .",
-      "published": "2026-10-07T14:25:54+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Data",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "GPT-6.1 Sol vs. GPT-6 Astra: Same accuracy at 18% of the cost",
-      "link": "https://thenewstack.io/gpt-6-1-sol-vs-gpt-6-astra",
-      "summary": "OpenAI launched GPT-6.1 Sol on September 29, just a week after it launched GPT-6 Sol. OpenAI marketed 6.1 as an The post GPT-6.1 Sol vs. GPT-6 Astra: Same accuracy at 18% of the cost appeared first on The New Stack .",
-      "published": "2026-10-07T14:17:13+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jessica Wachtel",
-      "categories": [
-        "AI Models",
-        "Large Language Models",
-        "Software Testing"
       ],
       "thumbnail": ""
     }
