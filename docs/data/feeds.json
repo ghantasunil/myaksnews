@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-11-08T12:29:36.384228+00:00",
+    "generated_at": "2026-11-09T14:45:19.971572+00:00",
     "total_items": 289,
     "sources": [
       "AKS (Official)",
@@ -20,6 +20,135 @@
     ]
   },
   "items": [
+    {
+      "title": "Real-time state has a cost your memory bill won’t show",
+      "link": "https://thenewstack.io/duplicated-streaming-state-costs",
+      "summary": "Real-time applications often combine tools with distinct roles. A typical setup might use Kafka to handle events, Flink to process The post Real-time state has a cost your memory bill won’t show appeared first on The New Stack .",
+      "published": "2026-11-09T14:29:57+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Granville Barnett",
+      "categories": [
+        "Backend development",
+        "Data Streaming",
+        "Databases",
+        "sponsor-hazelcast",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "New research: Virtual machines remain central to cloud native infrastructure as AI workloads evolve",
+      "link": "https://www.cncf.io/blog/2026/11/09/new-research-virtual-machines-remain-central-to-cloud-native-infrastructure-as-ai-workloads-evolve",
+      "summary": "A Linux Foundation Research study, sponsored by CNCF and Broadcom, explores how organizations are using virtual machines alongside containers, and the growing importance of workload isolation for AI. Cloud native infrastructure continues to evolve as organizations...",
+      "published": "2026-11-09T14:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Cloud Native Computing Foundation (CNCF) and Broadcom",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Quick overview of Conditional Access Policy Plans",
+      "link": "https://www.youtube.com/watch?v=BPuEMmylXzM",
+      "summary": "Stop repeating common attributes of your policies and instead use policy plans!\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:08 - Regular Conditional Access policy\n01:01 - Policy Plans\n04:51 - Rules\n10:08 - Migration\n11:13 - Summary\n11:59 - Close\n\n▬▬▬▬▬▬  Want to learn more? 🚀  ▬▬▬▬▬▬...",
+      "published": "2026-11-09T12:57:48+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/BPuEMmylXzM/mqdefault.jpg"
+    },
+    {
+      "title": "AI Software Factory Explained: Manage 100s of AI Agents",
+      "link": "https://www.youtube.com/watch?v=gkvOdEGjFUE",
+      "summary": "🔗 Try Port free (up to 15 seats):\nhttps://hubs.la/Q04xSHr50\n\nAn AI software factory is how organizations manage hundreds of AI agents without losing control. In this video I explain the AI software factory concept from scratch and show how Port implements it — connecting your engineering context,...",
+      "published": "2026-11-09T12:34:24+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/gkvOdEGjFUE/mqdefault.jpg"
+    },
+    {
+      "title": "Run Linux applications in hypervisor-isolated micro-VMs with Hyperlight",
+      "link": "https://www.cncf.io/blog/2026/11/09/run-linux-applications-in-hypervisor-isolated-micro-vms-with-hyperlight",
+      "summary": "More and more cloud native systems run code nobody on the team wrote: the Python an AI agent generated a second ago, or a plugin a customer just uploaded. Each of them needs a boundary between...",
+      "published": "2026-11-09T12:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Danilo Chiarlone, Microsoft",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Moving from AI adoption to an AI operating model: How Docusign engineering went beyond tool rollout",
+      "link": "https://thenewstack.io/docusign-ai-engineering-adoption",
+      "summary": "Docusign rolled out AI coding tools across its engineering teams, expecting them to help developers write code faster and do The post Moving from AI adoption to an AI operating model: How Docusign engineering went beyond tool rollout appeared first on The New Stack .",
+      "published": "2026-11-08T17:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Carly Page",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Developer tools",
+        "sponsor-docusign",
+        "Sponsored",
+        "sponsored-post"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Scaling an autonomous agent from one team to fifty: A serverless-to-container decision framework",
+      "link": "https://thenewstack.io/scaling-autonomous-agents-framework",
+      "summary": "QA teams shipping complex products generate test failures around the clock. Every failure needs a bug ticket with steps, screenshots, The post Scaling an autonomous agent from one team to fifty: A serverless-to-container decision framework appeared first on The New Stack .",
+      "published": "2026-11-08T16:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Rashmi Erande",
+      "categories": [
+        "AI Agents",
+        "Containers",
+        "Serverless",
+        "sponsor-aws-marketplace",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Perplexity’s AI agents keep working after you close the tab",
+      "link": "https://thenewstack.io/perplexity-teammates-agent-orchestration",
+      "summary": "Perplexity’s new Teammates can coordinate multiple agents, remember where previous sessions left off, and keep working without another prompt. The The post Perplexity’s AI agents keep working after you close the tab appeared first on The New Stack .",
+      "published": "2026-11-08T15:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Operations"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Lima v2.3: Native on Windows, VMnet on Linux, and menu TUI",
+      "link": "https://www.cncf.io/blog/2026/11/08/lima-v2-3-native-on-windows-vmnet-on-linux-and-menu-tui",
+      "summary": "Back in July with v2.2, we added support for Windows guests. On November 6, we shipped v2.3 of Lima and now it runs without extra dependencies on Windows: VMs start through the same Host Compute System...",
+      "published": "2026-11-08T12:30:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "audra",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "How we review 4x more AI code without reading every line",
       "link": "https://thenewstack.io/scale-ai-code-reviews",
@@ -4291,142 +4420,6 @@
         "AI Operations",
         "Observability",
         "sponsor-coreweave",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Microsoft skipped OpenAI’s decision model and built its own on Alibaba’s Qwen",
-      "link": "https://thenewstack.io/microsoft-decision-model-foundry",
-      "summary": "Microsoft on Friday launched Microsoft-Decision-1 in Foundry, three days after OpenAI opened its Decisions API to every developer in public The post Microsoft skipped OpenAI’s decision model and built its own on Alibaba’s Qwen appeared first on The New Stack .",
-      "published": "2026-10-10T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "AI Models",
-        "AI Strategy"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Elon Musk’s Grok Bot will pick Claude over Grok when it’s better. One-model loyalty is dead.",
-      "link": "https://thenewstack.io/musk-claude-model-triage",
-      "summary": "I’m Matt Burns, Chief Content Officer at Insight Media Group. Each week, I round up the most important AI developments, The post Elon Musk’s Grok Bot will pick Claude over Grok when it’s better. One-model loyalty is dead. appeared first on The New Stack .",
-      "published": "2026-10-10T10:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Matthew Burns",
-      "categories": [
-        "AI Models",
-        "Large Language Models",
-        "Software Testing"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Qwen3.8-27B on a $2 H100 Azure Spot VM: does it pay off?",
-      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/qwen3-8-27b-on-a-2-h100-azure-spot-vm-does-it-pay-off/ba-p/4563387",
-      "summary": "For three hours on the morning of October 9, a single H100 in Azure served 1,434 requests to Qwen3.8-27B: 168.7 million input tokens in, 1.27 million output tokens out. At a public list price for this model that day ($0.425 per million input tokens, $0.085 per million cached input tokens and $2.55...",
-      "published": "2026-10-10T07:27:28+00:00",
-      "source": "Apps on Azure",
-      "type": "article",
-      "author": "Wuyi_Weng",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Kubernetes on cgroup v1 is dead. Here’s what comes next.",
-      "link": "https://thenewstack.io/kubernetes-node-swap-ai",
-      "summary": "Welcome back to another edition of Road to KubeCon, where we’re tracking the latest movements in the cloud-native ecosystem as The post Kubernetes on cgroup v1 is dead. Here’s what comes next. appeared first on The New Stack .",
-      "published": "2026-10-09T20:15:46+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Bill Doerrfeld",
-      "categories": [
-        "AI Infrastructure",
-        "Edge Computing",
-        "Kubecon Cloudnativecon NA 2026",
-        "Kubernetes",
-        "Road to KubeCon",
-        "sponsor-hpe",
-        "Sponsored",
-        "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Cloudflare acquires Node.js creator’s startup that copied its serverless playbook",
-      "link": "https://thenewstack.io/cloudflare-acquires-deno-ryan-dahl",
-      "summary": "Cloudflare is buying the startup co-founded by Node.js creator Ryan Dahl, a longtime competitor that recently built its own open-source The post Cloudflare acquires Node.js creator’s startup that copied its serverless playbook appeared first on The New Stack .",
-      "published": "2026-10-09T18:52:36+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "JavaScript",
-        "Open Source",
-        "Serverless"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The Tech Stack Behind Quick Commerce: How 10 Minute Delivery Apps Run",
-      "link": "https://kodekloud.com/blog/quick-commerce-tech-stack",
-      "summary": "Ten minute delivery looks like magic from the app. Underneath, a chain of geospatial lookups, live inventory, event streams and rider dispatch has seconds to do its job, and this is how it fits together.",
-      "published": "2026-10-09T17:24:44+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "System Design",
-        "Microservices",
-        "Kafka",
-        "Redis",
-        "DevOps",
-        "Cloud Architecture",
-        "Platform Engineering",
-        "Event Driven Architecture"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Azure Weekly Update - 9th October 2026",
-      "link": "https://www.youtube.com/watch?v=65a5WX2SGEU",
-      "summary": "Nice selection of updates this week!\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation queue...",
-      "published": "2026-10-09T15:47:00+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/65a5WX2SGEU/mqdefault.jpg"
-    },
-    {
-      "title": "Explore Datum Without Memorising Resource Names | datumctl Console",
-      "link": "https://www.youtube.com/watch?v=N4rCXYUBKPI",
-      "summary": "Explore Datum Cloud without memorising resource names. `datumctl console` opens a full-screen, keyboard-driven interface for browsing resources, checking quota and recent activity, and inspecting resource details—all from your terminal.\n\nIn this walkthrough:\n• Browse resource types and filter DNS...",
-      "published": "2026-10-09T13:25:13+00:00",
-      "source": "Rawkode Academy",
-      "type": "video",
-      "author": "Rawkode Academy",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/N4rCXYUBKPI/mqdefault.jpg"
-    },
-    {
-      "title": "Amazon ECS now auto-repairs failing GPUs and instances. Here’s why it matters for SREs.",
-      "link": "https://thenewstack.io/amazon-ecs-auto-repair",
-      "summary": "Running applications in production means maintaining an “always-on” posture through disruptions. Infrastructure fails; dependencies slow down, and networks partition, not The post Amazon ECS now auto-repairs failing GPUs and instances. Here’s why it matters for SREs. appeared first on The New Stack...",
-      "published": "2026-10-09T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Anirudh Aithal",
-      "categories": [
-        "Cloud Services",
-        "Containers",
-        "DevOps",
-        "sponsor-aws-marketplace",
         "sponsored-post-contributed"
       ],
       "thumbnail": ""
