@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-11-10T13:59:25.864152+00:00",
-    "total_items": 295,
+    "generated_at": "2026-11-11T13:15:48.530852+00:00",
+    "total_items": 310,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,264 @@
     ]
   },
   "items": [
+    {
+      "title": "Platform engineering needs to become more human…and less",
+      "link": "https://www.cncf.io/blog/2026/11/11/platform-engineering-needs-to-become-more-humanand-less",
+      "summary": "Even my family thinks I’m a little robotic. Logical, linear, sequential, methodical. But hey, I’m an engineer, and that’s part of what makes me good at my job. If I were operating on the same volatile...",
+      "published": "2026-11-11T12:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Alejandro Chirinos, Control Plane",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Introducing Azure Monitor dashboards with Grafana MCP: Telemetry for AI Agents, Signed In as You",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/introducing-azure-monitor-dashboards-with-grafana-mcp-telemetry/ba-p/4572228",
+      "summary": "We're introducing the Azure Monitor dashboards with Grafana remote MCP server, a global Model Context Protocol (MCP) endpoint at https://mcp.dashboard.azure.com . It lets AI agents such as GitHub Copilot query Azure Monitor metrics and logs, Azure Resource Graph, Prometheus in Azure Monitor...",
+      "published": "2026-11-10T22:21:47+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Wuyi_Weng",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic wants Claude to be the front end for your entire enterprise app stack",
+      "link": "https://thenewstack.io/claude-enterprise-apps-connectors",
+      "summary": "Anthropic is expanding Claude’s ability to work directly inside enterprise applications; it can now open full software interfaces, retrieve information, The post Anthropic wants Claude to be the front end for your entire enterprise app stack appeared first on The New Stack .",
+      "published": "2026-11-10T20:00:58+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Model Context Protocol (MCP)"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": ".NET 11 is now generally available in Azure Functions",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/net-11-is-now-generally-available-in-azure-functions/ba-p/4571176",
+      "summary": "Today, we're announcing general availability of .NET 11 support in Azure Functions through the isolated worker model . You can build new serverless applications with .NET 11 or update your existing isolated worker apps to target the new release. This release also introduces a required project SDK...",
+      "published": "2026-11-10T19:58:09+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "nzthiago",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Run on your schedule: App Service plan start/stop now in public preview",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/run-on-your-schedule-app-service-plan-start-stop-now-in-public/ba-p/4566184",
+      "summary": "Start and stop your apps together Managing an environment with multiple apps shouldn't mean stopping and starting each app individually. App Service plan start/stop brings that control to the plan level, letting you manage the apps and deployment slots it hosts together. Today, we're announcing the...",
+      "published": "2026-11-10T18:32:36+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "jordanselig",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "MCP vs API: Why MCP When We Already Have APIs",
+      "link": "https://kodekloud.com/blog/mcp-vs-api",
+      "summary": "MCP vs API explained: why AI apps need MCP clients and servers, how tool discovery works, and why MCP sits in front of APIs, not instead of them.",
+      "published": "2026-11-10T17:16:06+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "MCP",
+        "APIs",
+        "AI Agents",
+        "LLM",
+        "Integrations"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Google says Gemini 4 Carbon proved Signal’s encryption in weeks",
+      "link": "https://thenewstack.io/gemini-4-carbon-swarm",
+      "summary": "Google released Gemini 4 Carbon to paying developers Tuesday, positioning its newest frontier model above Gemini 4 Argon for complex The post Google says Gemini 4 Carbon proved Signal’s encryption in weeks appeared first on The New Stack .",
+      "published": "2026-11-10T16:17:22+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Build a Kubernetes AI Advisor from Scratch | Jev Decision Model + TimescaleDB + Claude",
+      "link": "https://www.youtube.com/watch?v=jwGz-HoirYY",
+      "summary": "‼️Free account with TigerCloud (No Credit Card, FREE 1000 USD Credit)\nhttps://fandf.co/48B1324\n\nBuild a production-style Kubernetes Advisor from scratch using a DECISION MODEL (Jev) + TimescaleDB - an AI DevOps project that gives consistent, structured recommendations instead of hallucinated...",
+      "published": "2026-11-10T16:12:03+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/jwGz-HoirYY/mqdefault.jpg"
+    },
+    {
+      "title": "CNCF Welcomes Twelve New Members as Organizations Look to Run AI Agents on Open, Sovereign Infrastructure",
+      "link": "https://www.cncf.io/announcements/2026/11/10/cncf-welcomes-twelve-new-members-as-organizations-look-to-run-ai-agents-on-open-sovereign-infrastructure",
+      "summary": "Organizations join the cloud native community to strengthen security, visibility, and control for production AI Key Highlights KUBECON + CLOUDNATIVECON NORTH AMERICA, SALT LAKE CITY – November 10, 2026 – The Cloud Native Computing Foundation® (CNCF®),...",
+      "published": "2026-11-10T16:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "kthornhill",
+      "categories": [
+        "Announcements"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "CNCF Welcomes CoreWeave as a Platinum Member to Further Open Source AI Infrastructure",
+      "link": "https://www.cncf.io/announcements/2026/11/10/cncf-welcomes-coreweave-as-a-platinum-member-to-further-open-source-ai-infrastructure",
+      "summary": "Investment underscores CoreWeave’s continued push to build open, cloud native infrastructure for production AI at scale Key Highlights SAN FRANCISCO — November 10, 2026 — The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for...",
+      "published": "2026-11-10T16:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "kthornhill",
+      "categories": [
+        "Announcements"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "CNCF Welcomes Vultr as a Platinum Member to Advance Open and Sovereign Cloud Infrastructure for AI",
+      "link": "https://www.cncf.io/announcements/2026/11/10/cncf-welcomes-vultr-as-a-platinum-member-to-advance-open-and-sovereign-cloud-infrastructure-for-ai",
+      "summary": "Upgrade extends Vultr’s 5-year history with CNCF and expands its voice in shaping open interoperability for AI factory infrastructure at global scale Key Highlights KUBECON + CLOUDNATIVECON NORTH AMERICA, SALT LAKE CITY – November 10, 2026–...",
+      "published": "2026-11-10T16:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "kthornhill",
+      "categories": [
+        "Announcements"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "CNCF and SlashData Report Finds Cloud Native Developers Are More AI-Ready, Global Population Surpasses 21 Million",
+      "link": "https://www.cncf.io/announcements/2026/11/10/cncf-and-slashdata-report-finds-cloud-native-developers-are-more-ai-ready-global-population-surpasses-21-million",
+      "summary": "New research released finds 75% of cloud native developers use AI coding tools, compared to 55% of non-cloud native developer peers Key Highlights: SALT LAKE CITY – KubeCon + CloudNativeCon North America – Nov. 10, 2026...",
+      "published": "2026-11-10T16:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "kthornhill",
+      "categories": [
+        "Announcements"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "CNCF Welcomes Qualcomm Upgrade to Gold Membership to Advance AI Infrastructure Across the Edge-to-Cloud Continuum",
+      "link": "https://www.cncf.io/announcements/2026/11/10/cncf-welcomes-qualcomm-upgrade-to-gold-membership-to-advance-ai-infrastructure-across-the-edge-to-cloud-continuum",
+      "summary": "Key Highlights KubeCon + CloudNativeCon North America, SALT LAKE CITY, UT – November 10, 2026 – The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems for cloud native software, today announced that Qualcomm Technologies has...",
+      "published": "2026-11-10T16:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "kthornhill",
+      "categories": [
+        "Announcements"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Donating KubeRay to CNCF",
+      "link": "https://www.cncf.io/blog/2026/11/10/donating-kuberay-to-cncf",
+      "summary": "The PARK stack (PyTorch, AI models, Ray, and Kubernetes) is emerging as the de facto open source standard for production AI. Within that stack, KubeRay has become the bridge connecting scalable AI applications built on Ray...",
+      "published": "2026-11-10T16:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Andrew Sy Kim, Edward Oakes, Kai-Hsun Chen, Jui-An Huang, Richard Liaw, Robert Nishihara, and the KubeRay team",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "CNCF and SlashData Report Finds Platform Engineering Strategies Are Shaping AI Infrastructure Adoption",
+      "link": "https://www.cncf.io/announcements/2026/11/10/cncf-and-slashdata-report-finds-platform-engineering-strategies-are-shaping-ai-infrastructure-adoption",
+      "summary": "Latest research finds 54% of developers with independently managed tooling use hybrid approaches for AI workflows, compared to just 5% at organizations building custom internal platforms Key Highlights: SALT LAKE CITY – KubeCon + CloudNativeCon North...",
+      "published": "2026-11-10T16:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "kthornhill",
+      "categories": [
+        "Announcements"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "CNCF Hits Major Milestones with Global Community Growth, Record Industry Investment and a New Generation of Projects to Build AI Systems in Production",
+      "link": "https://www.cncf.io/announcements/2026/11/10/cncf-hits-major-milestones-with-global-community-growth-record-industry-investment-and-a-new-generation-of-projects-to-build-ai-systems-in-production",
+      "summary": "New Sandbox projects, including Agent Substrate and OpenShell, expand CNCF’s portfolio to 231 projects as the community adds over 5.5 million cloud native developers in 12 months, welcomes eight Platinum memberships and brings together 82,000 attendees...",
+      "published": "2026-11-10T16:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "kthornhill",
+      "categories": [
+        "Announcements"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "CNCF Launches Certified Kubernetes Network Engineer Certification (CKNE) to Advance Production Ready Networking Skills for AI Era",
+      "link": "https://www.cncf.io/announcements/2026/11/10/cncf-launches-certified-kubernetes-network-engineer-certification-ckne-to-advance-production-ready-networking-skills-for-ai-era",
+      "summary": "New certification validates specialized expertise in Kubernetes networking, security and troubleshooting as demand for cloud native skills grows Key Highlights SALT LAKE CITY – KubeCon + CloudNativeCon North America – November 10, 2026 – The Cloud...",
+      "published": "2026-11-10T16:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "kthornhill",
+      "categories": [
+        "Announcements"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "SpaceXSI quietly flips Grok API text watermarking to off by default",
+      "link": "https://thenewstack.io/grok-api-watermarking-default",
+      "summary": "The thorny issue of watermarking AI-generated text took an interesting turn this past week, with SpaceXSI seemingly U-turning on plans The post SpaceXSI quietly flips Grok API text watermarking to off by default appeared first on The New Stack .",
+      "published": "2026-11-10T15:58:44+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Engineering",
+        "AI Models",
+        "Compliance"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "New CNCF report: 75% of cloud-native developers ship code with AI. Jonathan Bryce explains why.",
+      "link": "https://thenewstack.io/cncf-developer-ai-adoption",
+      "summary": "Today’s developers are AI-pilled. Cloud native developers even more so. That’s the key takeaway from the Cloud Native Computing Foundation’s The post New CNCF report: 75% of cloud-native developers ship code with AI. Jonathan Bryce explains why. appeared first on The New Stack .",
+      "published": "2026-11-10T15:42:54+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Alex Wilhelm",
+      "categories": [
+        "AI",
+        "Cloud Native Ecosystem",
+        "Kubecon Cloudnativecon NA 2026",
+        "Open Source",
+        "Podcast",
+        "sponsor-cncf",
+        "Sponsored",
+        "sponsored-podcast",
+        "Video"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "One flag, many guardrails: Making a platform safe enough to delegate",
       "link": "https://www.cncf.io/blog/2026/11/10/one-flag-many-guardrails-making-a-platform-safe-enough-to-delegate",
@@ -4435,63 +4693,6 @@
         "AI Agents",
         "AI Strategy",
         "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "From zero to agent builder: Running kagent on your laptop",
-      "link": "https://www.cncf.io/blog/2026/10/12/from-zero-to-agent-builder-running-kagent-on-your-laptop",
-      "summary": "If you have seen a demo of a no-code agent builder, you know the moment. Someone types one sentence, waits a minute, and there it is: a new agent, running, with tools. It is impressive. For...",
-      "published": "2026-10-12T11:30:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Antonio Berben(Solo.io) and Felipe Vicens(Telefónica)",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Looking at the new Copilot \"Super App\"",
-      "link": "https://www.youtube.com/watch?v=YSFSR8d58Bk",
-      "summary": "Spent some time using and reading about the Copilot Super App and wanted to share capabilities but also what it means for organizations.\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n00:33 - Pace of AI change and possibilities\n02:34 - Home\n03:40 - Enterprise knowledge\n05:59 - Chat\n10:24 -...",
-      "published": "2026-10-12T10:57:41+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/YSFSR8d58Bk/mqdefault.jpg"
-    },
-    {
-      "title": "Fix a Suddenly Slow Linux Server",
-      "link": "https://kodekloud.com/blog/fix-slow-linux-server",
-      "summary": "Linux server suddenly slow? Use ps and pidstat to find the process hogging CPU, RAM, or disk, then stop it with kill or kill -9.",
-      "published": "2026-10-12T08:13:59+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "Linux",
-        "Performance",
-        "Troubleshooting",
-        "ps",
-        "kill",
-        "sysadmin"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Claude Code found my app’s shared contract in two MCP calls. Then the records ran out.",
-      "link": "https://thenewstack.io/claude-code-mcp-records",
-      "summary": "Every Claude Code user has watched a new session start from zero. You open it on a system you built The post Claude Code found my app’s shared contract in two MCP calls. Then the records ran out. appeared first on The New Stack .",
-      "published": "2026-10-11T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Ignacio Aldama",
-      "categories": [
-        "AI Agents",
-        "Model Context Protocol",
-        "contributed-bit"
       ],
       "thumbnail": ""
     }
