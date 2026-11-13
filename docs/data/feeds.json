@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-11-12T14:19:19.977913+00:00",
+    "generated_at": "2026-11-13T13:40:46.416272+00:00",
     "total_items": 320,
     "sources": [
       "AKS (Official)",
@@ -20,6 +20,125 @@
     ]
   },
   "items": [
+    {
+      "title": "Azure Weekly Update - 13th November 2026",
+      "link": "https://www.youtube.com/watch?v=WoJLQWfs20s",
+      "summary": "Quick update from Brazil!!!\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation queue never to...",
+      "published": "2026-11-13T10:45:26+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/WoJLQWfs20s/mqdefault.jpg"
+    },
+    {
+      "title": "Designing an API Rate Limiter: Counter vs Token Bucket",
+      "link": "https://kodekloud.com/blog/api-rate-limiter",
+      "summary": "Design an API rate limiter: why a per-minute counter fails on bursts and minute edges, and how a token bucket in shared Redis fixes it.",
+      "published": "2026-11-13T01:58:53+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "System Design",
+        "Rate Limiting",
+        "API Design",
+        "Redis",
+        "Backend"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Google’s Gemini 4 coding agent now switches models mid-task — and finishes 19% faster",
+      "link": "https://thenewstack.io/gemini-4-hydrogen-orchestrator",
+      "summary": "Google launched Gemini 4 Hydrogen on Thursday alongside a new system that changes how coding agents use AI models. Rather The post Google’s Gemini 4 coding agent now switches models mid-task — and finishes 19% faster appeared first on The New Stack .",
+      "published": "2026-11-12T21:26:08+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Models",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Google’s coding agents now /swarm for one developer. Cursor’s go multiplayer so teammates’ agents can talk.",
+      "link": "https://thenewstack.io/cursor-google-multiplayer-swarm",
+      "summary": "Coding agents are pretty good at working in parallel: one writes a new API endpoint, another updates the tests, while The post Google’s coding agents now /swarm for one developer. Cursor’s go multiplayer so teammates’ agents can talk. appeared first on The New Stack .",
+      "published": "2026-11-12T21:22:46+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Engineering",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Chainguard defends its choice to break the PHP security embargo: “We own the decision.”",
+      "link": "https://thenewstack.io/chainguard-php-embargo-defense",
+      "summary": "At KubeCon + CloudNativeCon North America 2026 this week, Chainguard co-founder and CTO Matt Moore defended the company’s decision to The post Chainguard defends its choice to break the PHP security embargo: “We own the decision.” appeared first on The New Stack .",
+      "published": "2026-11-12T17:03:25+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Steven J. Vaughan-Nichols",
+      "categories": [
+        "Containers",
+        "Open Source",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Google built an AI model that can’t write a sentence — and that’s the point",
+      "link": "https://thenewstack.io/google-gemini-decisions-api",
+      "summary": "Google’s new Gemini Decisions API, introduced Wednesday, is designed to handle the routine decisions that AI applications make thousands of The post Google built an AI model that can’t write a sentence — and that’s the point appeared first on The New Stack .",
+      "published": "2026-11-12T17:02:36+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Engineering",
+        "AI Models",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "CNCF Recognizes Cloud Native Champions in 2026 Community Awards",
+      "link": "https://www.cncf.io/announcements/2026/11/12/cncf-recognizes-cloud-native-champions-in-2026-community-awards",
+      "summary": "Annual awards honor leaders, maintainers, and documentarians building open source infrastructure Key Highlights KUBECON + CLOUDNATIVECON NORTH AMERICA, SALT LAKE CITY – November 12, 2026 – The Cloud Native Computing Foundation® (CNCF®), which builds sustainable ecosystems...",
+      "published": "2026-11-12T16:00:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "kthornhill",
+      "categories": [
+        "Announcements"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "The death of the 14-day patch: Surviving machine-speed vulnerability discovery",
+      "link": "https://thenewstack.io/machine-speed-vulnerability-discovery",
+      "summary": "For decades, enterprise vulnerability management ran on human time: A security researcher manually dissected a binary, traced execution paths, built The post The death of the 14-day patch: Surviving machine-speed vulnerability discovery appeared first on The New Stack .",
+      "published": "2026-11-12T15:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Ory Team",
+      "categories": [
+        "DevOps",
+        "Platform Engineering",
+        "Security",
+        "sponsor-ory",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "See what AI looks like in production at Microsoft Ignite",
       "link": "https://thenewstack.io/microsoft-ignite-2026",
@@ -4732,116 +4851,6 @@
         "sponsor-dedicatted",
         "Sponsored",
         "sponsored-post"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“Take work away from frontier LLMs”: Subquadratic’s decision model claims 12x Jev’s context window",
-      "link": "https://thenewstack.io/subquadratic-snap-jev-decision-model",
-      "summary": "Jev has a lot to answer for. Ever since AI startup TypeSafe unveiled the decision model in mid-September, the industry The post “Take work away from frontier LLMs”: Subquadratic’s decision model claims 12x Jev’s context window appeared first on The New Stack .",
-      "published": "2026-10-14T13:35:15+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Engineering",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Tech in Five - What is Computer Use?",
-      "link": "https://www.youtube.com/watch?v=pwsUd72-58U",
-      "summary": "An overview of what Computer Use is and why it is needed!\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in...",
-      "published": "2026-10-14T10:46:28+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/pwsUd72-58U/mqdefault.jpg"
-    },
-    {
-      "title": "66% of billion-dollar companies leave critical bugs unpatched — the part the AI bug-hunting hype leaves out",
-      "link": "https://thenewstack.io/chainguard-mythos-security-harness",
-      "summary": "Chainguard has launched an AI-powered security harness that uses frontier models, including Anthropic’s restricted Claude Mythos 5.1, to find and The post 66% of billion-dollar companies leave critical bugs unpatched — the part the AI bug-hunting hype leaves out appeared first on The New Stack .",
-      "published": "2026-10-14T05:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "CI/CD",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Add Cloud Commands with Plugins | datumctl",
-      "link": "https://www.youtube.com/watch?v=s4y63B3sP4Q",
-      "summary": "datumctl stays small, and plugins add the cloud commands you need. In this walkthrough, I'll show you how to find, install, list, use, and upgrade plugins, starting with DNS.\n\nWe'll install the DNS plugin, create a zone and records, check nameserver delegation, and explore how plugins share your...",
-      "published": "2026-10-13T19:30:33+00:00",
-      "source": "Rawkode Academy",
-      "type": "video",
-      "author": "Rawkode Academy",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/s4y63B3sP4Q/mqdefault.jpg"
-    },
-    {
-      "title": "AgentOps explained with detailed Roadmap",
-      "link": "https://www.youtube.com/watch?v=dWSpwf6T2hc",
-      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist: https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa\n- AWS Zero to Hero Playlist:...",
-      "published": "2026-10-13T17:08:42+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/dWSpwf6T2hc/mqdefault.jpg"
-    },
-    {
-      "title": "Anthropic’s red team ran AI on 15 cheap TV boxes. Then the math got unsettling.",
-      "link": "https://thenewstack.io/self-replicating-ai-worms",
-      "summary": "For roughly $825, Anthropic’s Frontier Red Team built a cluster of 15 off-brand Android TV boxes that runs an AI The post Anthropic’s red team ran AI on 15 cheap TV boxes. Then the math got unsettling. appeared first on The New Stack .",
-      "published": "2026-10-13T16:40:24+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Models",
-        "Edge Computing",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Gemini 4 Argon debuts with a unified 1M input/output token limit",
-      "link": "https://thenewstack.io/gemini-4-argon-live",
-      "summary": "On Tuesday, Google made Gemini 4 Argon, the company’s new flagship model, available to developers on the paid tier of The post Gemini 4 Argon debuts with a unified 1M input/output token limit appeared first on The New Stack .",
-      "published": "2026-10-13T16:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The agent did the work. The audit log couldn’t say who asked.",
-      "link": "https://thenewstack.io/ai-agent-credentials-identity-provider",
-      "summary": "More than 20 percent of the MCP-related access policies that Shawn Petty’s team reviewed across customer and prospect environments were The post The agent did the work. The audit log couldn’t say who asked. appeared first on The New Stack .",
-      "published": "2026-10-13T15:00:48+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "TNS Staff",
-      "categories": [
-        "AI Agents",
-        "Compliance",
-        "Platform Engineering",
-        "Security",
-        "sponsor-cloudbolt",
-        "sponsored-webinar"
       ],
       "thumbnail": ""
     }
