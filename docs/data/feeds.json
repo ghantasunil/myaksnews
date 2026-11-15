@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-11-14T12:44:44.038301+00:00",
-    "total_items": 309,
+    "generated_at": "2026-11-15T13:12:28.927126+00:00",
+    "total_items": 294,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,108 @@
     ]
   },
   "items": [
+    {
+      "title": "AWS Emulator proves agents need a verification loop. Realism is the hard part.",
+      "link": "https://thenewstack.io/aws-emulator-verification-loops",
+      "summary": "This week, Amazon Web Services released AWS Emulator, a local copy of AWS that coding agents can test against. It The post AWS Emulator proves agents need a verification loop. Realism is the hard part. appeared first on The New Stack .",
+      "published": "2026-11-14T17:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Arjun Iyer",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Software Testing",
+        "sponsor-signadot",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Claude Fable 5.2 vs. Fable 5.1: Fewer refusals, with small savings on the login fix",
+      "link": "https://thenewstack.io/claude-fable-5-2-vs-fable-5-1",
+      "summary": "Anthropic’s Claude Fable 5.2 promises fewer refusals and lower token prices, but those changes played out very differently in our The post Claude Fable 5.2 vs. Fable 5.1: Fewer refusals, with small savings on the login fix appeared first on The New Stack .",
+      "published": "2026-11-14T17:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jessica Wachtel",
+      "categories": [
+        "AI Models",
+        "Anthropic",
+        "Security",
+        "Software Development",
+        "Software Testing"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Web search for agents is here: Why ranking still decides the answer",
+      "link": "https://thenewstack.io/ai-agent-search-ranking",
+      "summary": "AI agents have had a URL problem for a while. When an agent needs current information but has no search The post Web search for agents is here: Why ranking still decides the answer appeared first on The New Stack .",
+      "published": "2026-11-14T16:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Bonnie Chase",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "AI Infrastructure",
+        "sponsor-vespa-ai",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "DuckLake 1.1 solves the absurd complexity of data lakes at AI scale",
+      "link": "https://thenewstack.io/ducklake-sql-lakehouse-metadata",
+      "summary": "How much simpler could a data lakehouse get if an ordinary SQL database kept track of its files? That’s the The post DuckLake 1.1 solves the absurd complexity of data lakes at AI scale appeared first on The New Stack .",
+      "published": "2026-11-14T15:45:04+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jennifer Riggins",
+      "categories": [
+        "AI",
+        "Data",
+        "Databases",
+        "Open Source",
+        "sponsor-aws-marketplace",
+        "Sponsored",
+        "sponsored-podcast"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic wants you to build on Claude. There’s a catch.",
+      "link": "https://thenewstack.io/anthropic-enterprise-developer-competition",
+      "summary": "Anthropic wants developers to build businesses on Claude, but its expansion into enterprise software is raising concerns among founders that The post Anthropic wants you to build on Claude. There’s a catch. appeared first on The New Stack .",
+      "published": "2026-11-14T15:15:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI",
+        "AI Strategy",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Claude Fable 5.2 vs. GPT-6 Astra: A lower list price didn’t mean a lower bill",
+      "link": "https://thenewstack.io/claude-fable-5-2-vs-gpt-6-astra",
+      "summary": "Anthropic is positioning its new model, Claude Fable 5.2, for demanding coding and technical work. Anthropic launched Fable 5.2 on The post Claude Fable 5.2 vs. GPT-6 Astra: A lower list price didn’t mean a lower bill appeared first on The New Stack .",
+      "published": "2026-11-14T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jessica Wachtel",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Anthropic",
+        "Large Language Models",
+        "Software Testing"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Anthropic now lets you self-host Claude Managed Agents. The catch? 8 hours to act if it flags a safety risk in the software",
       "link": "https://thenewstack.io/self-hosted-claude-managed-agents",
@@ -4374,325 +4476,6 @@
       "author": "John Savill's Technical Training",
       "categories": [],
       "thumbnail": "https://i.ytimg.com/vi/va1TiwLhBq8/mqdefault.jpg"
-    },
-    {
-      "title": "Employees are vibe-coding their own apps. Cloudflare open-sources Void to give IT a handle on them",
-      "link": "https://thenewstack.io/cloudflare-voidzero-void-vibe-coding",
-      "summary": "Many companies are keen to let employees build their own applications using AI, even those with little or no programming The post Employees are vibe-coding their own apps. Cloudflare open-sources Void to give IT a handle on them appeared first on The New Stack .",
-      "published": "2026-10-16T12:16:01+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "JavaScript",
-        "Platform Engineering",
-        "Vibe Coding"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Muse Wonder vs. Claude Fable 5.1: Meta’s new model came closer than I expected",
-      "link": "https://thenewstack.io/muse-wonder-claude-fable",
-      "summary": "Meta launched Muse Wonder on October 12, about three months after Muse Spark 1.1 opened Meta’s paid Model API. Meta The post Muse Wonder vs. Claude Fable 5.1: Meta’s new model came closer than I expected appeared first on The New Stack .",
-      "published": "2026-10-16T12:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jessica Wachtel",
-      "categories": [
-        "AI Agents",
-        "AI Models",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Running local AI models on Microsoft’s Surface Laptop Ultra: What we found",
-      "link": "https://thenewstack.io/surface-ultra-local-ai",
-      "summary": "Microsoft is positioning the new Surface Laptop Ultra as an alternative to Apple’s MacBook Pros for creatives and developers — The post Running local AI models on Microsoft’s Surface Laptop Ultra: What we found appeared first on The New Stack .",
-      "published": "2026-10-16T12:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Infrastructure",
-        "Hardware"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Putting Nepal on the CNCF Golden Kubestronaut map",
-      "link": "https://www.cncf.io/blog/2026/10/16/putting-nepal-on-the-cncf-golden-kubestronaut-map",
-      "summary": "In this blog, I will share my Golden Kubestronaut journey, how I became the first and youngest Golden Kubestronaut from Nepal, what motivated me to pursue this path, and what it actually takes to earn the...",
-      "published": "2026-10-16T11:30:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Anish Bista (First CNCF Golden Kubestronaut from Nepal)",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“Developers are paying frontier prices for amnesia”: Uvi wants to stop the agent relearning brain drain",
-      "link": "https://thenewstack.io/uvi-ai-agent-context",
-      "summary": "Every time an AI agent has to trawl Slack threads, Jira tickets and old pull requests to piece together something The post “Developers are paying frontier prices for amnesia”: Uvi wants to stop the agent relearning brain drain appeared first on The New Stack .",
-      "published": "2026-10-16T11:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI Agents",
-        "AI Models",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The Forward Deployed Engineer",
-      "link": "https://kodekloud.com/blog/forward-deployed-engineer-explained",
-      "summary": "An insurance firm's AI pilot failed. A forward deployed engineer embeds with the team, finds the real problem, and ships what actually works.",
-      "published": "2026-10-16T10:29:03+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "Forward Deployed Engineer",
-        "AI",
-        "Engineering Careers",
-        "OpenAI",
-        "DevOps"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Carbon as a first-class signal: Bringing software carbon intensity to OpenTelemetry",
-      "link": "https://www.cncf.io/blog/2026/10/15/carbon-as-a-first-class-signal-bringing-software-carbon-intensity-to-opentelemetry",
-      "summary": "At Observability Summit Europe 2026 in Prague, I presented a keynote titled Carbon as a First-Class Signal: Designing a Standard for OpenTelemetry. The talk explored how Software Carbon Intensity (SCI) could become part of cloud-native observability...",
-      "published": "2026-10-15T22:21:45+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Diana Todea - CNCF Ambassador, Kepler maintainer, OpenTelemetry Documentation approver and Romanian Localization maintainer",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Hands-on Introduction to Swamp Club | Rawkode Live",
-      "link": "https://www.youtube.com/watch?v=IQnJz-y_1Kk",
-      "summary": "My first build with Swamp Club. \n\nNick Stinemates joins me on Rawkode Live to take me from zero to building something real. We’ll explore how Swamp turns what you want to do into reusable behaviours for AI workflows, then get hands-on and see what happens.\n\nExpect questions, debugging, and a few...",
-      "published": "2026-10-15T21:46:32+00:00",
-      "source": "Rawkode Academy",
-      "type": "video",
-      "author": "Rawkode Academy",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/IQnJz-y_1Kk/mqdefault.jpg"
-    },
-    {
-      "title": "Hackers hijacked 1,900 GitHub accounts. Then they went after 30,000 repos.",
-      "link": "https://thenewstack.io/hackers-hijacked-1900-github-accounts-then-they-went-after-30000-repos",
-      "summary": "Hackers accessed roughly 1,900 GitHub accounts, then used them to slip credential-stealing workflows into more than 30,000 repositories. The malicious The post Hackers hijacked 1,900 GitHub accounts. Then they went after 30,000 repos. appeared first on The New Stack .",
-      "published": "2026-10-15T21:13:01+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI",
-        "CI/CD",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Vercel adds always-on workers to run more of your backend",
-      "link": "https://thenewstack.io/vercel-faces-its-daemons",
-      "summary": "Vercel is giving developers more options for running their backends on its platform. At its Ship conference in San Francisco The post Vercel adds always-on workers to run more of your backend appeared first on The New Stack .",
-      "published": "2026-10-15T18:45:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Infrastructure"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "What More Can You Do With Jev? Seven DevOps Projects to Build This Weekend",
-      "link": "https://kodekloud.com/blog/jev-devops-projects",
-      "summary": "Jev does not write answers, it makes decisions. Here are seven small DevOps builds that put that to work, from a seatbelt for AI agents to a judge for canary releases.",
-      "published": "2026-10-15T18:00:00+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "Jev",
-        "TypeSafe",
-        "AI",
-        "DevOps",
-        "DevOps AI",
-        "Kubernetes",
-        "Argo",
-        "GitHub Actions",
-        "Python",
-        "AIOps",
-        "DevAIOps"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI promised developers six months’ notice. GPT-4o users got three.",
-      "link": "https://thenewstack.io/openai-gpt4o-api-shutdown",
-      "summary": "OpenAI is retiring four GPT-4 models from its API on January 14, 2027. The deprecation notice the company sent developers The post OpenAI promised developers six months’ notice. GPT-4o users got three. appeared first on The New Stack .",
-      "published": "2026-10-15T17:52:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Engineering",
-        "AI Models",
-        "Large Language Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Make Safe Changes to Datum | datumctl",
-      "link": "https://www.youtube.com/watch?v=YqunBFoK6c8",
-      "summary": "Preview your changes before they reach live infrastructure. In this walkthrough, I'll show you how to use datumctl to inspect resource schemas, compare manifests with live state, validate changes with server-side dry runs, then apply and verify them.\n\nWe'll work through DNS changes, catch a...",
-      "published": "2026-10-15T17:28:54+00:00",
-      "source": "Rawkode Academy",
-      "type": "video",
-      "author": "Rawkode Academy",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/YqunBFoK6c8/mqdefault.jpg"
-    },
-    {
-      "title": "Meta ships Muse Spark Open, its answer to China’s best open-weight models",
-      "link": "https://thenewstack.io/meta-muse-spark-open",
-      "summary": "Meta on Thursday launched Muse Spark Open, a new 816B open model (with 42B active parameters) that the company argues The post Meta ships Muse Spark Open, its answer to China’s best open-weight models appeared first on The New Stack .",
-      "published": "2026-10-15T17:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Nvidia squeezed a 74B agent model into 24GB so it can run on your laptop",
-      "link": "https://thenewstack.io/nvidia-nemotron-bolt-laptop",
-      "summary": "Nvidia on Thursday announced a few new additions to its Nemotron family: Nemotron 3.5 Super VL, a 120B vision-language model for The post Nvidia squeezed a 74B agent model into 24GB so it can run on your laptop appeared first on The New Stack .",
-      "published": "2026-10-15T16:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "What it takes to become an AI company: Four lessons from the top",
-      "link": "https://thenewstack.io/becoming-an-ai-company",
-      "summary": "Every company is under pressure to become “an AI company.” Over the past several months, we’ve been undertaking that transformation The post What it takes to become an AI company: Four lessons from the top appeared first on The New Stack .",
-      "published": "2026-10-15T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Walid Abu-Hadba",
-      "categories": [
-        "AI Operations",
-        "AI Strategy",
-        "Tech Culture",
-        "sponsor-precisely",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic’s been eyeing confidential AI. It just made its move with another acquihire.",
-      "link": "https://thenewstack.io/anthropic-opaque-confidential-computing",
-      "summary": "Anthropic’s done it again. On Tuesday, Opaque Systems announced a new agreement with Anthropic that “carries Opaque’s work forward.”  Vague The post Anthropic’s been eyeing confidential AI. It just made its move with another acquihire. appeared first on The New Stack .",
-      "published": "2026-10-15T14:43:55+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "AI Infrastructure",
-        "Open Source",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“Everybody with a $20 account is now a researcher”: How Akrites is tackling the flood of AI bug reports",
-      "link": "https://thenewstack.io/akrites-ai-vulnerability-reports",
-      "summary": "AI is making it easier than ever to find potential security vulnerabilities in open source software. But finding something that The post “Everybody with a $20 account is now a researcher”: How Akrites is tackling the flood of AI bug reports appeared first on The New Stack .",
-      "published": "2026-10-15T14:28:20+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "Open Source",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Anthropic built its own git replacement for AI-scale coding. But you can’t have it.",
-      "link": "https://thenewstack.io/anthropic-scion-git-replacement",
-      "summary": "This week, Anthropic revealed it built an in-house version control system to handle exploding code merges. It says Claude was both part The post Anthropic built its own git replacement for AI-scale coding. But you can’t have it. appeared first on The New Stack .",
-      "published": "2026-10-15T14:12:53+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "AI Engineering",
-        "CI/CD",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The permission you denied today is your safety net for tomorrow",
-      "link": "https://thenewstack.io/least-privilege-ai-agents",
-      "summary": "What happens when you give an AI support agent a permission it never needed, then assign it a task the The post The permission you denied today is your safety net for tomorrow appeared first on The New Stack .",
-      "published": "2026-10-15T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Kayode Ojo",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Security",
-        "sponsor-andela",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The code confidence gap nobody’s talking about",
-      "link": "https://thenewstack.io/ai-code-confidence-gap",
-      "summary": "AI has changed the economics of software creation: A task that once took hours to implement can now start with The post The code confidence gap nobody’s talking about appeared first on The New Stack .",
-      "published": "2026-10-15T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Manish Kapur",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Software Development",
-        "sponsor-sonarsource",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
     }
   ]
 }
