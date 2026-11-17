@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-11-16T14:21:16.244807+00:00",
-    "total_items": 294,
+    "generated_at": "2026-11-17T15:13:56.042758+00:00",
+    "total_items": 304,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,252 @@
     ]
   },
   "items": [
+    {
+      "title": "Is your OpenTelemetry pipeline becoming a performance bottleneck?",
+      "link": "https://www.cncf.io/blog/2026/11/17/is-your-opentelemetry-pipeline-becoming-a-performance-bottleneck",
+      "summary": "At Cloud Native Days Austria 2026, I presented a talk called How to Defeat OTel’s Silent Killer: The Performance Overhead, exploring a problem that is easy to overlook when building observability pipelines: the cost of collecting...",
+      "published": "2026-11-17T12:21:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Diana Todea (CNCF Ambassador, OpenTelemetry Documentation approver, Romanian Localization maintainer)",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Drift Detection When a Second Team Touches Prod: Reconciling Out-of-Hours Manual Fixes in GitOps",
+      "link": "https://collabnix.com/drift-detection-when-a-second-team-touches-prod-reconciling-out-of-hours-manual-fixes-in-gitops",
+      "summary": "GitOps has transformed how organizations manage infrastructure and application deployments by enabling declarative configurations, version control, and...",
+      "published": "2026-11-17T09:14:58+00:00",
+      "source": "Collabnix",
+      "type": "article",
+      "author": "Tanvir Kour",
+      "categories": [
+        "DevOps",
+        "Kubernetes",
+        "Argo CD",
+        "Drift Detection",
+        "Gitops",
+        "kubernetes"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Myth vs Reality: Kubernetes Alone Does Not Make Your Workloads Portable",
+      "link": "https://collabnix.com/myth-vs-reality-kubernetes-alone-does-not-make-your-workloads-portable",
+      "summary": "Kubernetes has become synonymous with container orchestration and application deployment in the cloud-native era.",
+      "published": "2026-11-17T09:14:41+00:00",
+      "source": "Collabnix",
+      "type": "article",
+      "author": "Tanvir Kour",
+      "categories": [
+        "Kubernetes",
+        "kubernetes",
+        "Multi-Cloud",
+        "Platform Engineering",
+        "Portability"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "A Quarterly Upgrade Calendar for Clusters, Node Images and the Dependencies Nobody Owns",
+      "link": "https://collabnix.com/a-quarterly-upgrade-calendar-for-clusters-node-images-and-the-dependencies-nobody-owns",
+      "summary": "In today’s rapidly evolving digital landscape, organizations heavily reliant on Kubernetes clusters face the daunting task of managing upgrades - not just of...",
+      "published": "2026-11-17T09:13:39+00:00",
+      "source": "Collabnix",
+      "type": "article",
+      "author": "Tanvir Kour",
+      "categories": [
+        "DevOps",
+        "Kubernetes",
+        "Kubernetes Upgrades",
+        "Node Images",
+        "Patch Management",
+        "Platform Engineering"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Network Policies Are Off by Default: Segmenting Namespaces Before an Auditor Asks",
+      "link": "https://collabnix.com/network-policies-are-off-by-default-segmenting-namespaces-before-an-auditor-asks",
+      "summary": "In the evolving landscape of cloud-native applications, Kubernetes has become the cornerstone for orchestrating containerized workloads.",
+      "published": "2026-11-17T09:13:10+00:00",
+      "source": "Collabnix",
+      "type": "article",
+      "author": "Tanvir Kour",
+      "categories": [
+        "Kubernetes",
+        "Security",
+        "Compliance",
+        "kubernetes security",
+        "Namespaces",
+        "network policies"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Testing Restores, Not Backups: A Cluster State and Persistent Volume Recovery Drill",
+      "link": "https://collabnix.com/testing-restores-not-backups-a-cluster-state-and-persistent-volume-recovery-drill",
+      "summary": "Most teams can tell you whether last night's backup job finished. Far fewer can tell you whether they could rebuild a cluster from it.",
+      "published": "2026-11-17T09:12:48+00:00",
+      "source": "Collabnix",
+      "type": "article",
+      "author": "Tanvir Kour",
+      "categories": [
+        "DevOps",
+        "Kubernetes",
+        "Backup and Restore",
+        "Disaster Recovery",
+        "Kubernetes Backup",
+        "Persistent Volumes"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Ransomware Meets the Cluster: Where Stateful Workloads and Object Storage Are Exposed",
+      "link": "https://collabnix.com/ransomware-meets-the-cluster-where-stateful-workloads-and-object-storage-are-exposed",
+      "summary": "Kubernetes earned its reputation on stateless services you could kill and reschedule without a second thought. That assumption aged badly.",
+      "published": "2026-11-17T09:11:45+00:00",
+      "source": "Collabnix",
+      "type": "article",
+      "author": "Tanvir Kour",
+      "categories": [
+        "Kubernetes",
+        "Security",
+        "backup",
+        "kubernetes security",
+        "Object Storage",
+        "Ransomware"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Inside the architecture: How connectors work with Azure Functions",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/inside-the-architecture-how-connectors-work-with-azure-functions/ba-p/4573964",
+      "summary": "Say you run a shared support inbox. Each time a customer writes in, you want a function to read the email, pick out the important parts, and post a summary in your team's Teams channel. The business logic might be twenty lines. The rest is authorization, change detection, event delivery, and a...",
+      "published": "2026-11-17T07:52:23+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "swapnil_nagar",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Task queues in Durable Task Scheduler",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/task-queues-in-durable-task-scheduler/ba-p/4573962",
+      "summary": "Task queues in Durable Task Scheduler: control the pace of your work As teams scale their workflows on Durable Task Scheduler (DTS), many of them hit the same problem: the scheduler is fast, but the systems they call are not. A batch job starts 50,000 orchestrations. Each one calls a partner API...",
+      "published": "2026-11-17T05:47:27+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Anirudh Garg",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Announcing Azure Observability Skills Plugin at Ignite 2026",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/announcing-azure-observability-skills-plugin-at-ignite-2026/ba-p/4573940",
+      "summary": "What if you could start troubleshooting without first figuring out how to assemble the entire observability toolbox? Your API is slow. Your agent is failing. An alert just fired. Before you can investigate, you may need to work out which telemetry source, MCP server, API, or skill can answer your...",
+      "published": "2026-11-17T01:24:42+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "nuzhat-minhaz",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI agents were all over KubeCon. Production is another story",
+      "link": "https://thenewstack.io/cncf-bryce-ai-agents",
+      "summary": "AI agents are testing systems that were originally built for people, and Jonathan Bryce thinks the cloud-native community has a The post AI agents were all over KubeCon. Production is another story appeared first on The New Stack .",
+      "published": "2026-11-16T22:08:42+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "Cloud Native Ecosystem",
+        "Kubecon Cloudnativecon NA 2026",
+        "Podcast",
+        "sponsor-cncf",
+        "sponsored-video",
+        "Video"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Google found hackers using autonomous AI agents to turn security patches into exploits",
+      "link": "https://thenewstack.io/autonomous-ai-exploit-agents",
+      "summary": "Google’s Threat Intelligence Group says attackers are using autonomous AI agents to reverse-engineer security patches, generate exploits, and attempt to The post Google found hackers using autonomous AI agents to turn security patches into exploits appeared first on The New Stack .",
+      "published": "2026-11-16T21:27:38+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "Model Context Protocol (MCP)",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Scheduling the removal of the kube-proxy IPVS backend",
+      "link": "https://kubernetes.io/blog/2026/11/16/ipvs-removal",
+      "summary": "The ipvs backend for kube-proxy was an experiment in providing a\nservice proxy implementation with better performance than the iptables backend. While it succeeded in that goal, the kernel IPVS\nAPI has turned out to be a bad match for the Kubernetes Services API,\nand the ipvs backend was never able...",
+      "published": "2026-11-16T18:35:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Dax Raad rebuilt his browser tool in Rust for $60. Then memory use fell 97%.",
+      "link": "https://thenewstack.io/opencode-browse-rust-rewrite",
+      "summary": "OpenCode developer Dax Raad says he rebuilt the project’s browser automation tool in Rust for $60, replacing the parts of The post Dax Raad rebuilt his browser tool in Rust for $60. Then memory use fell 97%. appeared first on The New Stack .",
+      "published": "2026-11-16T17:59:39+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "Developer tools",
+        "Rust"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "With Qwen4-Max, Alibaba puts the open source jacket back on the hanger",
+      "link": "https://thenewstack.io/qwen4-max-alibaba-open-weights",
+      "summary": "Alibaba has officially unveiled Qwen4-Max, the first model in its next-generation Qwen4 family, with a focus on complex professional tasks The post With Qwen4-Max, Alibaba puts the open source jacket back on the hanger appeared first on The New Stack .",
+      "published": "2026-11-16T16:54:17+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Models",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How to Read Cron Syntax: Five Fields and a Command",
+      "link": "https://kodekloud.com/blog/cron-syntax",
+      "summary": "Learn cron syntax: the five fields, their ranges, what the asterisk means, how to switch to a weekly job, and the 24-hour clock trap.",
+      "published": "2026-11-16T16:28:06+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "Cron",
+        "Linux",
+        "Crontab",
+        "DevOps",
+        "Automation"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Introducing Azure Durable Task for Pydantic AI agents",
       "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/introducing-azure-durable-task-for-pydantic-ai-agents/ba-p/4571024",
@@ -4374,98 +4620,6 @@
         "AI Models",
         "Large Language Models",
         "Software Testing"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Liquid AI caught its model cheating on coding tests — then it recognized the sandbox",
-      "link": "https://thenewstack.io/liquid-ai-reward-hacking",
-      "summary": "Liquid AI’s new reasoning model was built to solve coding problems, but during training it kept combing Git history, GitHub, The post Liquid AI caught its model cheating on coding tests — then it recognized the sandbox appeared first on The New Stack .",
-      "published": "2026-10-18T14:30:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Scale isn’t one number: three ways a Kubernetes control plane runs out of room",
-      "link": "https://thenewstack.io/scaling-kubernetes-control-planes",
-      "summary": "Three clusters in trouble, and they look nothing alike. The first is a training fleet. It sat at a few The post Scale isn’t one number: three ways a Kubernetes control plane runs out of room appeared first on The New Stack .",
-      "published": "2026-10-18T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Joe Betz",
-      "categories": [
-        "Cloud Native Ecosystem",
-        "Kubernetes",
-        "Platform Engineering",
-        "sponsor-cncf",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Day X/28 -",
-      "link": "https://www.youtube.com/watch?v=UrBnC2XM4uU",
-      "summary": "Try DataImpulse residential proxies:  https://dataimpulse.com/?utm_source=youtube&utm_medium=video&utm_campaign=techtutorialswithpiyush\n\nIn this video I build a job search AI agent that scans job listings in any country, reads each posting, and scores the best matches against my own profile.\n\nThis...",
-      "published": "2026-10-18T11:37:46+00:00",
-      "source": "Piyush Sachdeva",
-      "type": "video",
-      "author": "Tech Tutorials with Piyush",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/UrBnC2XM4uU/mqdefault.jpg"
-    },
-    {
-      "title": "Here are the engineering lessons we learned when live-streaming sports to 32 million people",
-      "link": "https://thenewstack.io/live-streaming-engineering-lessons",
-      "summary": "Live sports involve myriad unknowns, but one thing is certain: the live video feed must play flawlessly, and simultaneously, for The post Here are the engineering lessons we learned when live-streaming sports to 32 million people appeared first on The New Stack .",
-      "published": "2026-10-17T16:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Cynthia Dunlop",
-      "categories": [
-        "Backend development",
-        "Data Streaming",
-        "Software Testing",
-        "sponsor-scylladb",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AI has lowered the barrier to building. Here’s what that means for engineers.",
-      "link": "https://thenewstack.io/ai-lowering-building-barrier",
-      "summary": "For most of software’s history, building meant writing code. Not just understanding it, but producing it. The entry point was The post AI has lowered the barrier to building. Here’s what that means for engineers. appeared first on The New Stack .",
-      "published": "2026-10-17T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Matt Waxman",
-      "categories": [
-        "AI",
-        "Platform Engineering",
-        "Software Development",
-        "sponsor-precisely",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "His scanner wouldn’t work on Linux — so he let Claude study the Windows driver",
-      "link": "https://thenewstack.io/claude-code-linux-driver",
-      "summary": "Christian Schaller, a Red Hat engineering director and longtime GNOME and Fedora contributor, had a box of old family negatives The post His scanner wouldn’t work on Linux — so he let Claude study the Windows driver appeared first on The New Stack .",
-      "published": "2026-10-17T14:30:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "Hardware",
-        "Linux"
       ],
       "thumbnail": ""
     }
