@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-11-17T15:13:56.042758+00:00",
-    "total_items": 304,
+    "generated_at": "2026-11-18T14:50:48.902369+00:00",
+    "total_items": 327,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,397 @@
     ]
   },
   "items": [
+    {
+      "title": "What’s new in Azure SRE Agent at Microsoft Ignite 2026",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/what-s-new-in-azure-sre-agent-at-microsoft-ignite-2026/ba-p/4573607",
+      "summary": "Over the past year, teams have moved Azure SRE Agent from exploratory pilots into the work that keeps their services running: incident response, debugging deployments, triaging new issues, and the routine, proactive work that happens between them. That shift changes what customers ask of us. The...",
+      "published": "2026-11-18T14:15:23+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "sanchitmehta",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Beyond the pilot: Scaling Azure SRE Agent across your enterprise",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/beyond-the-pilot-scaling-azure-sre-agent-across-your-enterprise/ba-p/4573349",
+      "summary": "For organizations modernizing with AI, deploying a successful first agent is only the beginning. The real test is moving from a pilot into the core workflows that keep the business running, such as incident response, change management, and on-call operations. That shift brings new questions into...",
+      "published": "2026-11-18T14:00:00+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Cary_Chai",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Why verification, not generation, is your secret to AI coding ROI",
+      "link": "https://thenewstack.io/ai-code-verification-gap",
+      "summary": "For two years, the question around AI coding was whether agents could write good code. Developers have largely answered it: The post Why verification, not generation, is your secret to AI coding ROI appeared first on The New Stack .",
+      "published": "2026-11-18T14:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Anirban Chatterjee",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Software Development",
+        "sponsor-sonarsource",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "“Collaboration over competition”: Hugging Face hands model inference traffic to OpenRouter",
+      "link": "https://thenewstack.io/hugging-face-openrouter-inference",
+      "summary": "Hugging Face and OpenRouter have announced a partnership that promises to make AI model inference faster and more reliable for The post “Collaboration over competition”: Hugging Face hands model inference traffic to OpenRouter appeared first on The New Stack .",
+      "published": "2026-11-18T13:39:13+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Infrastructure",
+        "Large Language Models",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Optimizing Kubernetes admission control: Where Kyverno’s CEL admission cost actually goes",
+      "link": "https://www.cncf.io/blog/2026/11/18/optimizing-kubernetes-admission-control-where-kyvernos-cel-admission-cost-actually-goes",
+      "summary": "Kyverno’s CEL (Common Expression Language)-based engines exist to evaluate policy expressions. So when we profiled the admission path, we expected to find the bulk of the cost in CEL evaluation. It was not there. About 86%...",
+      "published": "2026-11-18T12:30:00+00:00",
+      "source": "CNCF Blog",
+      "type": "article",
+      "author": "Raunak Madan (Software Engineer Intern, Nirmata)",
+      "categories": [
+        "Blog"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure Catalyst: one connected, agent-led modernization experience across apps, data, and infra",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-catalyst-one-connected-agent-led-modernization-experience/ba-p/4573988",
+      "summary": "Preparing applications for AI requires teams to understand how their systems share data, where business rules reside, and what needs to change. Teams must do this work while keeping critical applications running, putting a strain on IT and developers while delaying innovation. In Forrester’s Q1...",
+      "published": "2026-11-18T06:29:16+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "NateCeres",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Managed connectors in Azure Functions are now generally available",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/managed-connectors-in-azure-functions-are-now-generally/ba-p/4574143",
+      "summary": "Today, we're announcing the general availability of managed connectors in Azure Functions , bringing managed connectivity to business systems directly into Azure Function apps and hosted skills. Modern applications rarely operate within a single system. Whether you're processing documents from...",
+      "published": "2026-11-18T03:33:40+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "lily-ma",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Master Testing for Reliability in SRE & DevOps | Google SRE Handbook Chapter 17",
+      "link": "https://www.youtube.com/watch?v=NLSz3o8T3H4",
+      "summary": "Welcome back to our End-to-End Observability Series for SRE and DevOps! In this comprehensive overview, we explore Testing for Reliability, covering the essential concepts outlined in Chapter 17 of the Google SRE Handbook.\n\nWhether you are preparing for a Site Reliability Engineer (SRE) interview...",
+      "published": "2026-11-18T03:19:05+00:00",
+      "source": "Piyush Sachdeva",
+      "type": "video",
+      "author": "Tech Tutorials with Piyush",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/NLSz3o8T3H4/mqdefault.jpg"
+    },
+    {
+      "title": "A Rust foundation for Python Functions: evolution of the Python worker",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/a-rust-foundation-for-python-functions-evolution-of-the-python/ba-p/4573890",
+      "summary": "When you write a Python function, your focus is on what the function should do. Behind the scenes, the layer that passes requests to your code affects dependency compatibility, support for new Python versions, and performance. As we started working on Python 3.15 support for Azure Functions, we...",
+      "published": "2026-11-17T23:21:28+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Gavin-Aguiar",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure Functions Canvas (Preview): Build, run, and modernize Function Apps with GitHub Copilot",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-functions-canvas-preview-build-run-and-modernize-function/ba-p/4573929",
+      "summary": "If you use the GitHub Copilot app or Visual Studio Code, meet the Azure Functions canvas. More and more developers now build with coding agents. The Azure Functions canvas helps you get more from that workflow. It addresses three common problems in Azure Functions development: Use official...",
+      "published": "2026-11-17T22:50:38+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Tsuyoshi_Ushio",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Your AI coding agent could cost 5x more depending on the harness, benchmark finds",
+      "link": "https://thenewstack.io/coding-agent-harness-costs",
+      "summary": "The same AI model can cost up to five times more to run depending on the coding agent harness it’s The post Your AI coding agent could cost 5x more depending on the harness, benchmark finds appeared first on The New Stack .",
+      "published": "2026-11-17T22:13:52+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "Developer tools",
+        "FinOps"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Run models and agents on your own Kubernetes clusters: AKS at Microsoft Ignite 2026",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/run-models-and-agents-on-your-own-kubernetes-clusters-aks-at/ba-p/4573912",
+      "summary": "At Microsoft Ignite 2026 this week, we're introducing AKS AI Manager for Foundry, which lets you deploy open-weight models and Foundry hosted agents from Microsoft Foundry onto Azure Kubernetes Service (AKS) clusters you already run. Developers stay in the Foundry workflow they know, and platform...",
+      "published": "2026-11-17T21:45:54+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "coryskimming",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure Red Hat OpenShift with hosted control planes is now generally available",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-red-hat-openshift-with-hosted-control-planes-is-now/ba-p/4574192",
+      "summary": "Today, we are excited to announce the general availability of Microsoft Azure Red Hat OpenShift with hosted control planes. This new deployment option separates the OpenShift control plane from the worker nodes running your applications. The control plane runs as a fully managed service in a...",
+      "published": "2026-11-17T21:33:58+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Mayuri_Gupta",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Public preview: OS-level dependency support via containers for Azure Functions Flex Consumption",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/public-preview-os-level-dependency-support-via-containers-for/ba-p/4572085",
+      "summary": "Your function needs Chromium to generate a PDF. Or GnuPG to encrypt data. Or a native Linux library that isn’t available in the managed execution environment. Until now, an OS-level dependency could require redesigning the application, moving part of the workload to another service, or selecting...",
+      "published": "2026-11-17T20:44:16+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "madhurabharadwaj",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Introducing Geo-redundancy in Azure App Service: Simplify multi-region application resilience",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/introducing-geo-redundancy-in-azure-app-service-simplify-multi/ba-p/4573896",
+      "summary": "Building resilient applications across Azure regions has traditionally required teams to deploy and maintain separate applications, coordinate application updates and configuration, and manage traffic routing and failover. While these capabilities are essential for business-critical applications,...",
+      "published": "2026-11-17T20:06:43+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "apwestgarth",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Modernize more Windows applications with Managed Instance on Azure App Service",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/modernize-more-windows-applications-with-managed-instance-on/ba-p/4573885",
+      "summary": "For many organizations, the hardest part of modernizing a Windows web application isn't moving the code. It's understanding the dependencies that tie the application to its current server: installed components, registry settings, Windows services, network shares, and other operating system...",
+      "published": "2026-11-17T20:06:41+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "apwestgarth",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "App Service Ignite 2026 Updates",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/app-service-ignite-2026-updates/ba-p/4572673",
+      "summary": "Building an app is only part of the job. Keeping it current, making it useful to agents, and figuring out what went wrong should not mean taking on more infrastructure work. The latest Azure App Service updates carry that thread from your first deployment to everyday production operations. Here are...",
+      "published": "2026-11-17T20:00:00+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Byron Tardif",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure SRE Agent brings on-demand, AI-powered operations to your ACA workloads",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-sre-agent-brings-on-demand-ai-powered-operations-to-your/ba-p/4573380",
+      "summary": "Today at Microsoft Ignite, we’re introducing on-demand, AI-powered operations help, powered by Azure SRE Agent. Now in preview, this new experience is built right into the Azure Container Apps portal. Developers can start an interactive debugging session directly from any container app and get...",
+      "published": "2026-11-17T20:00:00+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Vineela-Suri",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Introducing Azure Durable Task for LangGraph agents",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/introducing-azure-durable-task-for-langgraph-agents/ba-p/4574019",
+      "summary": "LangGraph graphs, LangChain create_agent workflows, and Deep Agents built with create_deep_agent can now use Azure Durable Task Scheduler to survive worker crashes and restarts, retry flaky tools independently, and pause for human approval without holding worker threads open. The new durable...",
+      "published": "2026-11-17T20:00:00+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "tamirdresher",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "OpenAI’s own tests show GPT-6.2 Astra is twice as likely to hide coding failures",
+      "link": "https://thenewstack.io/astra-hides-coding-failures",
+      "summary": "OpenAI’s new GPT-6.2 Astra is nearly twice as likely as its predecessor to leave users unaware of problems that prevented The post OpenAI’s own tests show GPT-6.2 Astra is twice as likely to hide coding failures appeared first on The New Stack .",
+      "published": "2026-11-17T19:59:04+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Separating Compute in Azure Functions: Building for Scale, efficiency, and reliability.",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/separating-compute-in-azure-functions-building-for-scale/ba-p/4573977",
+      "summary": "As customers bring new workloads to Azure Functions, we continue to evolve the runtime to support them securely and at scale. Compute Separation is part of that work. We're revisiting how the host and language workers are deployed and managed to improve efficiency and reliability, and to enable new...",
+      "published": "2026-11-17T19:36:35+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "Fabio Cavalcante",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Microsoft’s new coding model promises near-Opus performance at 5% of the cost",
+      "link": "https://thenewstack.io/microsoft-mai-code-2",
+      "summary": "At its Ignite conference in San Francisco on Tuesday, Microsoft announced a number of new AI models, including two new The post Microsoft’s new coding model promises near-Opus performance at 5% of the cost appeared first on The New Stack .",
+      "published": "2026-11-17T19:14:48+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Models",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "What's new in Azure Functions durable task scheduler: Durable agents, disaster recovery, and more",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/what-s-new-in-azure-functions-durable-task-scheduler-durable/ba-p/4573351",
+      "summary": "There's been a lot happening with the Azure Functions durable task scheduler lately. Here's a quick look at what's new: Durable agents: The Durable Extension for Microsoft Agent Framework is generally available, durable execution with DTS for LangGraph is in preview, and Pydantic AI now includes...",
+      "published": "2026-11-17T19:00:00+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "NickGreenfield",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "What's new in Azure Functions and Durable Task Scheduler at Microsoft Ignite 2026",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/what-s-new-in-azure-functions-and-durable-task-scheduler-at/ba-p/4573933",
+      "summary": "At Microsoft Ignite 2026, we’re announcing a significant set of updates across Azure Functions and Durable Task Framework. The releases cover everything from new integration capabilities and custom containers on Flex Consumption to durable execution for AI applications, enterprise security and...",
+      "published": "2026-11-17T18:57:46+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "nzthiago",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "What's new in Azure Container Apps at Ignite'26",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/what-s-new-in-azure-container-apps-at-ignite-26/ba-p/4573042",
+      "summary": "Azure Container Apps (ACA) is a fully managed serverless container platform that enables developers to design and deploy microservices and modern apps without requiring container expertise or needing infrastructure management. With built-in autoscaling (including scale to zero), per-second billing,...",
+      "published": "2026-11-17T18:45:12+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "vyomnagrani",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Introducing Azure App Service Builder (Public Preview)",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/introducing-azure-app-service-builder-public-preview/ba-p/4572180",
+      "summary": "This is a summarized version of the full post which can be found here: Introducing Azure App Service Builder: From code to a running app Builder brings application builds, hosting, and deployment management into one app-focused workflow. Connect an authorized GitHub repository for source-based...",
+      "published": "2026-11-17T18:45:00+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "jordanselig",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Microsoft’s ARM-based Cobalt 200 chips go GA. Why it matters for AI agents.",
+      "link": "https://thenewstack.io/microsoft-cobalt-200-ga",
+      "summary": "Microsoft is making its Cobalt 200 virtual machines generally available, with CPU improvements aimed at the sandboxes, tools, and code The post Microsoft’s ARM-based Cobalt 200 chips go GA. Why it matters for AI agents. appeared first on The New Stack .",
+      "published": "2026-11-17T18:42:11+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Infrastructure"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Azure Container Registry now supports keys in Managed HSM",
+      "link": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-container-registry-now-supports-keys-in-managed-hsm/ba-p/4572984",
+      "summary": "A dedicated HSM environment for your container registry's encryption key What if your container registry's encryption key could live in an HSM environment reserved for your organization, while Azure handles the infrastructure? Azure Key Vault Managed HSM provides a dedicated, single-tenant...",
+      "published": "2026-11-17T17:47:53+00:00",
+      "source": "Apps on Azure",
+      "type": "article",
+      "author": "cshung",
+      "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "Replit’s agent swarms built an app monitoring platform in 2 days on a $3K budget. Now, it’s offering them to customers.",
+      "link": "https://thenewstack.io/replit-missions-agent-swarms",
+      "summary": "Agent swarms are all the rage, as companies set about finding ways to coordinate multiple AI agents to tackle complex The post Replit’s agent swarms built an app monitoring platform in 2 days on a $3K budget. Now, it’s offering them to customers. appeared first on The New Stack .",
+      "published": "2026-11-17T17:37:13+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Engineering",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "CoreWeave connects custom training loops to model serving",
+      "link": "https://thenewstack.io/coreweave-forge-training-loops",
+      "summary": "Production traffic shows failures that benchmarks or pre-deployment evaluations can’t fully reveal. It tells you which edge cases matter and The post CoreWeave connects custom training loops to model serving appeared first on The New Stack .",
+      "published": "2026-11-17T16:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Urvashi Chowdhary",
+      "categories": [
+        "AI Engineering",
+        "AI Infrastructure",
+        "AI Operations",
+        "sponsor-coreweave",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AKS Community Calls - November 2026",
+      "link": "https://www.youtube.com/watch?v=7KHCWikJU7E",
+      "summary": "",
+      "published": "2026-11-17T16:24:51+00:00",
+      "source": "AKS (Official)",
+      "type": "video",
+      "author": "Azure Kubernetes Service (AKS)",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/7KHCWikJU7E/mqdefault.jpg"
+    },
+    {
+      "title": "Agentic AI: Assembled in the Open - Microsoft Keynote at KubeCon North America 2026 (Salt Lake City)",
+      "link": "https://www.youtube.com/watch?v=lLZvpbgf46M",
+      "summary": "What happens to an AI agent's work when the underlying compute goes away? At KubeCon North America 2026 in Salt Lake City, Microsoft announced the open sourcing of two major projects designed to bring determinism, durability, and portability to cloud-native agentic systems: Agent Sessions and Agent...",
+      "published": "2026-11-17T16:05:24+00:00",
+      "source": "AKS (Official)",
+      "type": "video",
+      "author": "Azure Kubernetes Service (AKS)",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/lLZvpbgf46M/mqdefault.jpg"
+    },
     {
       "title": "Is your OpenTelemetry pipeline becoming a performance bottleneck?",
       "link": "https://www.cncf.io/blog/2026/11/17/is-your-opentelemetry-pipeline-becoming-a-performance-bottleneck",
@@ -217,6 +608,26 @@
       "type": "article",
       "author": "",
       "categories": [],
+      "thumbnail": ""
+    },
+    {
+      "title": "DuckDB 2.0 goes client-server and adds an Agent Mode for coding agents",
+      "link": "https://thenewstack.io/duckdb-storage-compatibility-agents",
+      "summary": "DuckDB has always been the database you don’t have to set up: Import it into your code and start querying. The post DuckDB 2.0 goes client-server and adds an Agent Mode for coding agents appeared first on The New Stack .",
+      "published": "2026-11-16T18:22:41+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jennifer Riggins",
+      "categories": [
+        "AI Agents",
+        "Databases",
+        "Open Source",
+        "Podcast",
+        "sponsor-amazon-web-services-aws",
+        "Sponsored",
+        "sponsored-podcast",
+        "Video"
+      ],
       "thumbnail": ""
     },
     {
@@ -3970,6 +4381,17 @@
       "thumbnail": ""
     },
     {
+      "title": "Automate your job search using AI Agents",
+      "link": "https://www.youtube.com/watch?v=UrBnC2XM4uU",
+      "summary": "Try DataImpulse residential proxies:  https://dataimpulse.com/?utm_source=youtube&utm_medium=video&utm_campaign=techtutorialswithpiyush\n\nIn this video I build a job search AI agent that scans job listings in any country, reads each posting, and scores the best matches against my own profile.\n\nThis...",
+      "published": "2026-10-22T10:00:09+00:00",
+      "source": "Piyush Sachdeva",
+      "type": "video",
+      "author": "Tech Tutorials with Piyush",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/UrBnC2XM4uU/mqdefault.jpg"
+    },
+    {
       "title": "The DevOps Toolchain in 2026: Every Stage, the Tools, and What to Learn First",
       "link": "https://kodekloud.com/blog/devops-toolchain",
       "summary": "Every DevOps roadmap is full of tool logos. Here is the simple version: eight stages, the open source projects behind them, who runs each part and the order in which to learn it all.",
@@ -4446,182 +4868,6 @@
       "author": "Abhishek.Veeramalla",
       "categories": [],
       "thumbnail": "https://i.ytimg.com/vi/q99pjyJQXa8/mqdefault.jpg"
-    },
-    {
-      "title": "DeepSeek made its name with cheap AI models. Now it’s undercutting search API rivals, too.",
-      "link": "https://thenewstack.io/deepseek-web-search-api",
-      "summary": "Not content with challenging the major frontier AI labs with lower-cost models, Chinese AI company DeepSeek is setting its sights The post DeepSeek made its name with cheap AI models. Now it’s undercutting search API rivals, too. appeared first on The New Stack .",
-      "published": "2026-10-19T14:29:42+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "AI Infrastructure",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "A Query Takes 30 Seconds -Should You Upgrade the Database?",
-      "link": "https://kodekloud.com/blog/fix-slow-database-query",
-      "summary": "A 30-second query is almost always a code problem. Fix missing indexes, N+1 queries, and bad joins with EXPLAIN ANALYZE before scaling hardware.",
-      "published": "2026-10-19T14:29:02+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "Databases",
-        "SQL",
-        "Performance",
-        "Indexing",
-        "DevOps"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "The distroless security gap: Why bottom-up containers are the next evolution in OCI images",
-      "link": "https://thenewstack.io/distroless-container-security-gap",
-      "summary": "Ever tried to shrink your container images to reduce their attack surface? If you have, you’ve likely discovered a frustrating The post The distroless security gap: Why bottom-up containers are the next evolution in OCI images appeared first on The New Stack .",
-      "published": "2026-10-19T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Lily Rivers-Klee",
-      "categories": [
-        "Cloud Native Ecosystem",
-        "Containers",
-        "Security",
-        "sponsor-cncf",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How AI workloads are reshaping Kubernetes autoscaling",
-      "link": "https://www.cncf.io/blog/2026/10/19/how-ai-workloads-are-reshaping-kubernetes-autoscaling",
-      "summary": "Kubernetes has quietly run much of the world’s containerized software on a division of labor between two control loops that rarely had to talk to each other. The scheduler places each pod on a node that...",
-      "published": "2026-10-19T11:00:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "Sajjan Gundapuneedi and Neelendra Bhandari, AWS",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Open Source AI Observability Using A Single Binary (Openobserve)",
-      "link": "https://www.youtube.com/watch?v=-vJsvldPIkU",
-      "summary": "Open source AI observability for your AI agent: open one trace and see every step, how long each step took, how many tokens it used, and what that one conversation cost. This is for DevOps, SRE and backend engineers who are running an LLM app or AI agent in production and want to see inside it...",
-      "published": "2026-10-19T10:00:10+00:00",
-      "source": "Piyush Sachdeva",
-      "type": "video",
-      "author": "Tech Tutorials with Piyush",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/-vJsvldPIkU/mqdefault.jpg"
-    },
-    {
-      "title": "Server at 98% CPU - Should You Scale Up?",
-      "link": "https://kodekloud.com/blog/vertical-vs-horizontal-scaling",
-      "summary": "Your server hit 98% CPU. Before you scale up or out, diagnose first, a runaway query or memory leak is a bug, not a scaling problem.",
-      "published": "2026-10-19T09:47:12+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "Scaling",
-        "DevOps",
-        "Infrastructure",
-        "Load Balancing",
-        "Auto-Scaling"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Tech in Five - What are Agent Control Planes?",
-      "link": "https://www.youtube.com/watch?v=9fYTmTMo4Dw",
-      "summary": "A look at why we need Agent Control Planes.\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people wanting help I no longer can answer or even read questions and they will just stay in the moderation...",
-      "published": "2026-10-19T07:56:53+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/9fYTmTMo4Dw/mqdefault.jpg"
-    },
-    {
-      "title": "Your Docker Image Is 2GB - Why That's a Problem",
-      "link": "https://kodekloud.com/blog/reduce-docker-image-size",
-      "summary": "A 2GB Docker image slows every deploy and ships tools to attackers. Multi-stage builds, a small base, and .dockerignore cut it by 90%.",
-      "published": "2026-10-19T06:52:38+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "Docker",
-        "Containers",
-        "DevOps",
-        "Multi-Stage Builds",
-        "Docker Image Optimization"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Building an AI Agent in TypeScript and Deploying It on Kubernetes",
-      "link": "https://collabnix.com/building-an-ai-agent-in-typescript-and-deploying-it-on-kubernetes",
-      "summary": "Most AI agent tutorials stop at a Python script running on a laptop. Production agents look different. They sit behind an HTTP endpoint, call tools, wait several seconds on a model API, and need to survive pod restarts and rolling updates like any other service. This guide builds a small...",
-      "published": "2026-10-19T02:36:03+00:00",
-      "source": "Collabnix",
-      "type": "article",
-      "author": "Collabnix Team",
-      "categories": [
-        "Kubernetes",
-        "AI Agent",
-        "Cloud Computing",
-        "Container Orchestration",
-        "DevOps",
-        "Kubernetes Deployment",
-        "Machine Learning",
-        "typescript"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "After Java Full Stack: The DevOps and Cloud Skills That Set You Apart",
-      "link": "https://kodekloud.com/blog/java-full-stack-devops-cloud-skills",
-      "summary": "Your Spring Boot app works on localhost. This guide follows it all the way to production and shows which DevOps and cloud skills, certifications and portfolio project will make your profile stand out.",
-      "published": "2026-10-18T18:00:00+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "Java",
-        "Spring Boot",
-        "DevOps",
-        "Docker",
-        "Kubernetes",
-        "CICD",
-        "AWS",
-        "Cloud Skills",
-        "CKAD",
-        "Career Guide"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Gemini 4 Argon vs. Claude Opus 5.5: Half the price and about half as accurate",
-      "link": "https://thenewstack.io/gemini-argon-claude-opus",
-      "summary": "When Google announced Gemini 4 Argon to a small group of testers on September 30, it came with a benchmark The post Gemini 4 Argon vs. Claude Opus 5.5: Half the price and about half as accurate appeared first on The New Stack .",
-      "published": "2026-10-18T15:30:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jessica Wachtel",
-      "categories": [
-        "AI Models",
-        "Large Language Models",
-        "Software Testing"
-      ],
-      "thumbnail": ""
     }
   ]
 }
