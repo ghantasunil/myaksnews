@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-11-21T13:55:50.267297+00:00",
-    "total_items": 326,
+    "generated_at": "2026-11-22T13:49:17.034176+00:00",
+    "total_items": 315,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,117 @@
     ]
   },
   "items": [
+    {
+      "title": "“It is a rollercoaster ride”: Angie Jones of the Agentic AI Foundation on keeping up with AI agents",
+      "link": "https://thenewstack.io/junior-developers-ai-agents-block",
+      "summary": "Only a few years ago, it would have been impossible to picture this scenario: A lead developer once gave 10 The post “It is a rollercoaster ride”: Angie Jones of the Agentic AI Foundation on keeping up with AI agents appeared first on The New Stack .",
+      "published": "2026-11-21T21:58:14+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Chris J. Preimesberger",
+      "categories": [
+        "AI Agents",
+        "Open Source",
+        "Tech Careers",
+        "Podcast",
+        "sponsor-cncf",
+        "Sponsored",
+        "sponsored-podcast",
+        "Video"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Ignite 2026 Summary",
+      "link": "https://www.youtube.com/watch?v=S2owJynGRSI",
+      "summary": "This is not my Ignite 2026 Update Special, I'm working on that. Instead accept a summary overview while I continue working on the deep dive :-)\n\n🔎 Looking for content on a particular topic? Search the channel. If I have something it will be there!\n🤔  Due to the channel growth and number of people...",
+      "published": "2026-11-21T17:28:37+00:00",
+      "source": "John Savill",
+      "type": "video",
+      "author": "John Savill's Technical Training",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/S2owJynGRSI/mqdefault.jpg"
+    },
+    {
+      "title": "The DevOps Behind GTA 6",
+      "link": "https://www.youtube.com/watch?v=Osz8KcdqG8Y",
+      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nThe DevOps behind GTA 6 is massive — the official credits list junior and senior DevOps engineers, build & release teams, Linux and Windows DevOps, sysadmins, network engineers and more. In this video I dig into why...",
+      "published": "2026-11-21T17:25:36+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/Osz8KcdqG8Y/mqdefault.jpg"
+    },
+    {
+      "title": "If we stop reading the code, what do we read?",
+      "link": "https://thenewstack.io/ai-agent-code-review",
+      "summary": "“Human beings are too slow when dealing with code. So if we’re going to move at the speed of the The post If we stop reading the code, what do we read? appeared first on The New Stack .",
+      "published": "2026-11-21T17:23:05+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Ankit Jain",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "Software Development",
+        "sponsor-aviator",
+        "Sponsored",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "GPT-6.2 Sol vs. Claude Opus 5.5: Not as accurate, but still might be the better buy",
+      "link": "https://thenewstack.io/gpt-6-2-sol-vs-claude-opus-5-5",
+      "summary": "Claude Opus 5.5 is the model everyone wants to beat, and it has a mixed record in my tests since The post GPT-6.2 Sol vs. Claude Opus 5.5: Not as accurate, but still might be the better buy appeared first on The New Stack .",
+      "published": "2026-11-21T17:08:44+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Jessica Wachtel",
+      "categories": [
+        "AI Models",
+        "Anthropic",
+        "Large Language Models",
+        "Software Testing"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Dynatrace just laid out its AI observability playbook at KubeCon. Here’s why it matters for developers.",
+      "link": "https://thenewstack.io/ai-feature-flags-observability",
+      "summary": "A new AI model goes live for a small group of users. Some of them start seeing errors. The build The post Dynatrace just laid out its AI observability playbook at KubeCon. Here’s why it matters for developers. appeared first on The New Stack .",
+      "published": "2026-11-21T16:08:55+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Chris J. Preimesberger",
+      "categories": [
+        "AI Operations",
+        "DevOps",
+        "Observability",
+        "Podcast",
+        "sponsor-dynatrace",
+        "Sponsored",
+        "sponsored-podcast",
+        "Video"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Nvidia used 20,000 training examples to fix its AI’s mistakes. Its coding score jumped.",
+      "link": "https://thenewstack.io/nvidia-droid-harness-nemotron",
+      "summary": "Nvidia used Factory’s Droid coding-agent harness to generate roughly 20,000 rows of post-training data for Nemotron 3 Ultra, the 550-billion-parameter The post Nvidia used 20,000 training examples to fix its AI’s mistakes. Its coding score jumped. appeared first on The New Stack .",
+      "published": "2026-11-21T15:30:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Engineering",
+        "AI Models"
+      ],
+      "thumbnail": ""
+    },
     {
       "title": "Notice of Security Incident",
       "link": "https://kodekloud.com/blog/notice-of-security-incident",
@@ -4600,295 +4711,6 @@
         "Compliance",
         "Linux",
         "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Microsoft’s new voice AI can start working out what you want before you finish speaking",
-      "link": "https://thenewstack.io/microsoft-streaming-speech-models",
-      "summary": "“I think you said, ‘representative.’” It’s the fastest way to bypass automated speech recognition chatbots that fail to route human The post Microsoft’s new voice AI can start working out what you want before you finish speaking appeared first on The New Stack .",
-      "published": "2026-10-23T12:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Adrian Bridgwater",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "AI Models"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Multi-tenant GPU Kubernetes on simulated hardware with Kamaji and HAMi",
-      "link": "https://www.cncf.io/blog/2026/10/23/multi-tenant-gpu-kubernetes-on-simulated-hardware-with-kamaji-and-hami",
-      "summary": "GPU teams usually face a bad trade-off. Give every team its own Kubernetes cluster and you pay for a control plane per team. Put everyone in one shared cluster and you get weak isolation. Either way,...",
-      "published": "2026-10-23T11:30:00+00:00",
-      "source": "CNCF Blog",
-      "type": "article",
-      "author": "By Anish Bista | CNCF Golden Kubestronaut",
-      "categories": [
-        "Blog"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Hands-on Introduction to Swamp Club | Rawkode Live",
-      "link": "https://www.youtube.com/watch?v=IQnJz-y_1Kk",
-      "summary": "My first build with Swamp Club. \n\nNick Stinemates joins me on Rawkode Live to take me from zero to building something real. We’ll explore how Swamp turns what you want to do into reusable behaviours for AI workflows, then get hands-on and see what happens.\n\nExpect questions, debugging, and a few...",
-      "published": "2026-10-23T05:42:18+00:00",
-      "source": "Rawkode Academy",
-      "type": "video",
-      "author": "Rawkode Academy",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/IQnJz-y_1Kk/mqdefault.jpg"
-    },
-    {
-      "title": "Can I Release on a Friday Without Fear and How Do Feature Flags Help?",
-      "link": "https://kodekloud.com/blog/release-on-a-friday-feature-flags",
-      "summary": "Someone always says not to deploy on a Friday. Build a small app with an open source flag server, roll a feature out to 10 percent of users and switch it off in a second when it breaks.",
-      "published": "2026-10-23T04:00:00+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "DevOps",
-        "Feature Flags",
-        "OpenFeature",
-        "flagd",
-        "Release Management",
-        "Continuous Delivery",
-        "CI/CD",
-        "Progressive Delivery",
-        "Python",
-        "SRE"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Five AI agent harnesses took the same memory test. The results weren’t even close.",
-      "link": "https://thenewstack.io/letta-frontiermemory-agent-harness-benchmark",
-      "summary": "AI agents are getting better at remembering past conversations and earlier tasks but remembering something doesn’t guarantee an agent can The post Five AI agent harnesses took the same memory test. The results weren’t even close. appeared first on The New Stack .",
-      "published": "2026-10-22T18:34:32+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "AI Infrastructure"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to Sync Secrets Into Kubernetes With External Secrets Operator",
-      "link": "https://kodekloud.com/blog/sync-secrets-into-kubernetes-with-external-secrets-operator",
-      "summary": "Stop creating Kubernetes Secrets by hand. This hands on guide walks you from an empty cluster to Vault backed secrets that sync, rotate and stay out of Git, then shows the move to AWS.",
-      "published": "2026-10-22T18:00:00+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "Kubernetes",
-        "External Secrets Operator",
-        "Secrets",
-        "ConfigMap & Secret",
-        "HashiCorp Vault",
-        "AWS Secrets Manager",
-        "DevSecOps",
-        "Kubernetes Security",
-        "Helm",
-        "GitOps",
-        "DevOps"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "eMudhra Security Incident explained in simple words",
-      "link": "https://www.youtube.com/watch?v=Tm2HCL7RJWA",
-      "summary": "Join our Discord for Career Guidance:\nwww.youtube.com/abhishekveeramalla/join\n\nThe recent eMudhra security incident explained in simple words by Abhishek Veeramalla\n\nFree Course on the channel\n==============================\n- Free DevOps Playlist:...",
-      "published": "2026-10-22T17:03:31+00:00",
-      "source": "Abhishek Veeramalla",
-      "type": "video",
-      "author": "Abhishek.Veeramalla",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/Tm2HCL7RJWA/mqdefault.jpg"
-    },
-    {
-      "title": "Ramp built an AI agent harness in six weeks — and LangChain’s CEO says it’s part of a bigger shift",
-      "link": "https://thenewstack.io/ramp-laminar-agent-harness",
-      "summary": "Ramp spent months testing managed agent APIs, open-source frameworks, and third-party platforms before concluding it would be better off building The post Ramp built an AI agent harness in six weeks — and LangChain’s CEO says it’s part of a bigger shift appeared first on The New Stack .",
-      "published": "2026-10-22T16:31:15+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "AI Infrastructure"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI donates Open Responses, its spec for a common LLM API, to the Agentic AI Foundation",
-      "link": "https://thenewstack.io/openai-donates-open-responses",
-      "summary": "OpenAI on Thursday announced that it is donating the Open Responses API specification to the open source Agentic AI Foundation The post OpenAI donates Open Responses, its spec for a common LLM API, to the Agentic AI Foundation appeared first on The New Stack .",
-      "published": "2026-10-22T16:01:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Agents",
-        "Large Language Models",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "OpenAI’s COBOL migration score has made a striking leap",
-      "link": "https://thenewstack.io/penai-cobol-migration-benchmark",
-      "summary": "This week, OpenAI put COBOL in the spotlight. It announced benchmark results suggesting its latest models are getting much better The post OpenAI’s COBOL migration score has made a striking leap appeared first on The New Stack .",
-      "published": "2026-10-22T15:34:58+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "AI Engineering",
-        "Software Development",
-        "Software Testing"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Google and AWS open new paths for PyTorch beyond Nvidia",
-      "link": "https://thenewstack.io/pytorch-tpu-trainium-migration",
-      "summary": "At PyTorch Conference North America 2026 this week, Google open-sourced TorchTPU, a native PyTorch stack for Google TPUs, now available The post Google and AWS open new paths for PyTorch beyond Nvidia appeared first on The New Stack .",
-      "published": "2026-10-22T15:23:23+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Meredith Shubel",
-      "categories": [
-        "AI Infrastructure",
-        "Developer tools",
-        "Hardware"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AI Engineer Roadmap: Skills, Stack and a 6 Month Plan",
-      "link": "https://kodekloud.com/blog/ai-engineer-roadmap",
-      "summary": "Skip the endless tool lists. This roadmap shows what AI engineers really do, the stack employers expect and a six month plan that turns one project into a portfolio piece.",
-      "published": "2026-10-22T15:10:13+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "AI Engineering",
-        "AI",
-        "LLM",
-        "RAG",
-        "AI Agents",
-        "MCP",
-        "LLMOps",
-        "Python",
-        "API",
-        "Career Guide",
-        "Machine Learning"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "How to Check If Your PHP Website Is Vulnerable to PHP2Shell and Fix It",
-      "link": "https://kodekloud.com/blog/php2shell-check-fix-php-website",
-      "summary": "Check whether your PHP website is vulnerable to PHP2Shell, find patched versions, update your hosting environment, and verify the fix.",
-      "published": "2026-10-22T15:04:53+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Nimesha Jinarajadasa",
-      "categories": [
-        "PHP2Shell",
-        "PHP",
-        "Website Security",
-        "Vulnerability Management"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AI found a critical PHP flaw. The bigger failure began in 2024.",
-      "link": "https://thenewstack.io/php2shell-chainguard-embargo-dispute",
-      "summary": "Did one of your favorite websites go dark on Wednesday? Some did, as operators took services offline while they waited The post AI found a critical PHP flaw. The bigger failure began in 2024. appeared first on The New Stack .",
-      "published": "2026-10-22T15:01:54+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Steven J. Vaughan-Nichols",
-      "categories": [
-        "AI",
-        "Open Source",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Who on-calls an AI? This is the unresolved crisis of agent ownership",
-      "link": "https://thenewstack.io/production-ai-agent-ownership",
-      "summary": "At 2:07 a.m., an AI agent starts failing.  The application is still running, but requests are timing out because a The post Who on-calls an AI? This is the unresolved crisis of agent ownership appeared first on The New Stack .",
-      "published": "2026-10-22T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Oladimeji Sowole",
-      "categories": [
-        "AI Agents",
-        "AI Operations",
-        "Platform Engineering",
-        "sponsor-andela",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "PHP’s security scramble is just a preview: AI is digging up flaws faster than maintainers can fix them",
-      "link": "https://thenewstack.io/php2shell-ai-vulnerabilities-maintainers",
-      "summary": "One of the biggest security scares to hit the web is causing widespread disruption, prompting businesses, hospitals, schools, and government The post PHP’s security scramble is just a preview: AI is digging up flaws faster than maintainers can fix them appeared first on The New Stack .",
-      "published": "2026-10-22T14:35:13+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Paul Sawers",
-      "categories": [
-        "AI",
-        "Open Source",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "DeepSeek V4.1-Flash-1017 vs. Claude Haiku 5.5: More accurate at a fraction of the price",
-      "link": "https://thenewstack.io/deepseek-flash-haiku-test",
-      "summary": "DeepSeek released V4.1-Flash-1017 on October 17 as an update to its Flash model. Its change log says the update cuts The post DeepSeek V4.1-Flash-1017 vs. Claude Haiku 5.5: More accurate at a fraction of the price appeared first on The New Stack .",
-      "published": "2026-10-22T14:22:50+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Jessica Wachtel",
-      "categories": [
-        "AI Models",
-        "Large Language Models",
-        "Software Testing"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AI agent security is a lifecycle — not a gatekeeper",
-      "link": "https://thenewstack.io/ai-agent-security-lifecycle",
-      "summary": "Enterprise security has traditionally operated on a relatively straightforward premise: establish identity, authenticate the requester, determine what that identity can The post AI agent security is a lifecycle — not a gatekeeper appeared first on The New Stack .",
-      "published": "2026-10-22T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Greg Vesper",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Security",
-        "sponsor-ory",
-        "sponsored-post-contributed"
       ],
       "thumbnail": ""
     }
