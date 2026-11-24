@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-11-23T16:55:00.633499+00:00",
-    "total_items": 308,
+    "generated_at": "2026-11-24T16:44:32.229742+00:00",
+    "total_items": 316,
     "sources": [
       "AKS (Official)",
       "AKS Newsletter",
@@ -20,6 +20,179 @@
     ]
   },
   "items": [
+    {
+      "title": "OpenClaw at one: its chief architect on a year of explosive growth, wooing the enterprise, and being Meta’s muse",
+      "link": "https://thenewstack.io/openclaw-vincent-koc-interview",
+      "summary": "It’s been a whirlwind 12 months for OpenClaw, the open source personal AI agent used for everything from managing calendars The post OpenClaw at one: its chief architect on a year of explosive growth, wooing the enterprise, and being Meta’s muse appeared first on The New Stack .",
+      "published": "2026-11-24T12:39:32+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "Open Source"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Vercel will make AI providers prove they don’t keep prompts. Here’s why it matters for developers.",
+      "link": "https://thenewstack.io/vercel-audited-zdr-inference",
+      "summary": "Since April, developers using Vercel’s AI Gateway have been able to request provider-level zero data retention (ZDR). Vercel says its The post Vercel will make AI providers prove they don’t keep prompts. Here’s why it matters for developers. appeared first on The New Stack .",
+      "published": "2026-11-24T12:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Luke James",
+      "categories": [
+        "AI Infrastructure",
+        "Compliance",
+        "Security"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "I Gave a Devin Bot 160 KubeCon Talks. It Built a Map",
+      "link": "https://www.youtube.com/watch?v=Th2ntxwM2WI",
+      "summary": "KubeCon NA 2026 put more than 56 hours of talks on YouTube(more content is added and the bot is working as I am posting the video to add another 280 talks). Instead of watching them all, I gave the job to a Devin Bot called KubeCon Watcher. By the end of the day it had gone through 160 talks,...",
+      "published": "2026-11-24T11:09:15+00:00",
+      "source": "Kubesimplify",
+      "type": "video",
+      "author": "Kubesimplify",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/Th2ntxwM2WI/mqdefault.jpg"
+    },
+    {
+      "title": "Postgres ALTER TABLE Lock Queue: How One Empty Column Blocks Reads",
+      "link": "https://kodekloud.com/blog/postgres-alter-table-lock",
+      "summary": "Why adding one nullable column can block every Postgres query: ALTER waits for an ACCESS EXCLUSIVE lock, and lock_timeout stops the pile-up.",
+      "published": "2026-11-24T08:13:48+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "PostgreSQL",
+        "Databases",
+        "Database Migrations",
+        "Locking",
+        "DevOps"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Running OpenObserve in Production with Prabhat Sharma",
+      "link": "https://www.youtube.com/watch?v=WyQqHlHhqPA",
+      "summary": "Is your observability bill growing faster than the infrastructure it watches? \nI am joined by Prabhat Sharma, founder and CEO of OpenObserve. As a solutions architect at AWS, Prabhat worked with hundreds of customers and kept hearing the same Elasticsearch stories: shard planning on day 1, then...",
+      "published": "2026-11-24T05:06:41+00:00",
+      "source": "Kubesimplify",
+      "type": "video",
+      "author": "Kubesimplify",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/WyQqHlHhqPA/mqdefault.jpg"
+    },
+    {
+      "title": "GitOps vs Traditional CD: Why the Pull Loop Matters",
+      "link": "https://kodekloud.com/blog/gitops-vs-cd",
+      "summary": "CD pipelines push and never see drift. See how GitOps agents like Argo CD and Flux pull from Git, catch drift and turn rollback into git revert.",
+      "published": "2026-11-24T04:18:15+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "GitOps",
+        "Argo CD",
+        "Kubernetes",
+        "Continuous Deployment",
+        "DevOps"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Anthropic’s Claude Ship lets Claude approve routine pull requests",
+      "link": "https://thenewstack.io/anthropic-claude-ship-approvals",
+      "summary": "Anthropic on Monday launched Claude Ship, a set of three agents that can review pull requests (PRs), fix them, and approve The post Anthropic’s Claude Ship lets Claude approve routine pull requests appeared first on The New Stack .",
+      "published": "2026-11-23T20:24:17+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "AI Engineering"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Google’s AI agents cut quantum computing costs 290-fold — now you can check their work",
+      "link": "https://thenewstack.io/deepmind-lean-quantum-verification",
+      "summary": "Google DeepMind has open-sourced the Lean 4 framework used to verify quantum algorithms developed by its Gemini 4 agents, including The post Google’s AI agents cut quantum computing costs 290-fold — now you can check their work appeared first on The New Stack .",
+      "published": "2026-11-23T20:08:34+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "Open Source",
+        "Science"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Z.ai ran the same 28 layers twice — and claims its 750B model can rival a 3-trillion-parameter one",
+      "link": "https://thenewstack.io/zai-glm54-loop-transformer",
+      "summary": "Z.ai released GLM-5.4 on Monday, introducing a Loop Transformer architecture that executes the same layers multiple times to increase computational The post Z.ai ran the same 28 layers twice — and claims its 750B model can rival a 3-trillion-parameter one appeared first on The New Stack .",
+      "published": "2026-11-23T18:46:42+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Engineering",
+        "AI Models",
+        "Large Language Models"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AWS launches 5 new open decision models for AI agents",
+      "link": "https://thenewstack.io/aws-strands-decider-v2",
+      "summary": "AWS on Monday launched Strands Decider v2, a family of five open decision models. The release comes only seven weeks The post AWS launches 5 new open decision models for AI agents appeared first on The New Stack .",
+      "published": "2026-11-23T18:00:00+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Frederic Lardinois",
+      "categories": [
+        "AI"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Max Heap Extract Max: How the Next Largest Gets Promoted",
+      "link": "https://kodekloud.com/blog/max-heap-extract-max",
+      "summary": "How extract max works in a max heap: pop the root, move the last node up, then sift down by swapping with the bigger child, in O(log n).",
+      "published": "2026-11-23T17:12:57+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "Max Heap",
+        "Data Structures",
+        "Algorithms",
+        "Heaps",
+        "Coding Interview"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Kubernetes v1.38 Sneak Peek",
+      "link": "https://kubernetes.io/blog/2026/11/23/kubernetes-v1-38-sneak-peek",
+      "summary": "As we get closer to the release date for Kubernetes v1.38, the project develops and matures,\nfeatures may be deprecated, removed, or replaced with better ones for the project's overall health.\nThis blog post outlines some of the planned changes for the Kubernetes v1.38 release that the\nrelease team...",
+      "published": "2026-11-23T16:00:00+00:00",
+      "source": "Kubernetes Blog",
+      "type": "article",
+      "author": "",
+      "categories": [],
+      "thumbnail": ""
+    },
     {
       "title": "Reachy Mini Unboxing: I Built Hugging Face's Robot and It Woke Up!",
       "link": "https://www.youtube.com/watch?v=uWkT4dK8rSs",
@@ -4476,91 +4649,6 @@
       "author": "Abhishek.Veeramalla",
       "categories": [],
       "thumbnail": "https://i.ytimg.com/vi/5R22ltnSOhA/mqdefault.jpg"
-    },
-    {
-      "title": "Building an AI Agent That Writes and Validates Kubernetes Manifests",
-      "link": "https://kodekloud.com/blog/ai-agent-writes-validates-kubernetes-manifests",
-      "summary": "Models write YAML that looks right and is often wrong. Build a small Go agent in four rounds that checks its own manifests against the cluster and your rules, fixes them and waits for your yes.",
-      "published": "2026-10-25T16:20:00+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "AI",
-        "Kubernetes",
-        "AI Agents",
-        "KodeKey",
-        "Go",
-        "Kubernetes Manifests",
-        "YAML",
-        "DevOps",
-        "LLM",
-        "Platform Engineering",
-        "Golang"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Is Kubernetes ready for AI agents?",
-      "link": "https://thenewstack.io/kubernetes-ready-ai-agents",
-      "summary": "Kubernetes was built around a fairly simple assumption. It’s that software does what its developers told it to do. AI The post Is Kubernetes ready for AI agents? appeared first on The New Stack .",
-      "published": "2026-10-25T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Dan Ciruli",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Kubernetes",
-        "sponsor-cncf",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why Does My Container Work on My Laptop but Crash on the Server?",
-      "link": "https://kodekloud.com/blog/container-works-on-laptop-crashes-on-server",
-      "summary": "Your image runs perfectly on your laptop and dies on the server with exec format error. Follow one image from laptop to crash, then reproduce it and fix it yourself.",
-      "published": "2026-10-25T13:00:00+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "Docker",
-        "Container",
-        "docker buildx",
-        "Multi Platform Images",
-        "arm64",
-        "amd64",
-        "Apple Silicon",
-        "DevOps",
-        "Troubleshooting"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Why Does the Same Prompt Give Me a Different Answer Every Time?",
-      "link": "https://kodekloud.com/blog/why-does-the-same-prompt-give-me-a-different-answer-every-time",
-      "summary": "Ask an AI the same question twice and you rarely get the same reply. Watch why on your own machine, and learn which settings make answers repeat.",
-      "published": "2026-10-25T07:00:00+00:00",
-      "source": "KodeKloud",
-      "type": "article",
-      "author": "Pramodh Kumar M",
-      "categories": [
-        "AI",
-        "LLM",
-        "Generative AI",
-        "Gen AI",
-        "Prompt Engineering",
-        "LLM Temperature",
-        "LLM Sampling",
-        "PyTorch",
-        "Hugging Face",
-        "DevOps AI",
-        "Nondeterminism",
-        "Transformers"
-      ],
-      "thumbnail": ""
     }
   ]
 }
