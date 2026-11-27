@@ -1,10 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-11-26T16:03:23.020822+00:00",
-    "total_items": 307,
+    "generated_at": "2026-11-27T15:52:40.934218+00:00",
+    "total_items": 304,
     "sources": [
       "AKS (Official)",
-      "AKS Newsletter",
       "Abhishek Veeramalla",
       "Apps on Azure",
       "CNCF Blog",
@@ -20,6 +19,112 @@
     ]
   },
   "items": [
+    {
+      "title": "You Know Kubernetes. This Black Friday, Give It a GPU.",
+      "link": "https://kodekloud.com/blog/kubernetes-gpu",
+      "summary": "A 12-week plan for DevOps engineers to run AI models on Kubernetes with a real GPU, from GPU memory math to time-slicing, on KodeBox.",
+      "published": "2026-11-27T15:28:48+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "Kubernetes",
+        "GPU",
+        "AI",
+        "DevOps",
+        "KodeBox",
+        "Black Friday"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "How to Design an Instagram News Feed That Scales",
+      "link": "https://kodekloud.com/blog/news-feed-system-design",
+      "summary": "Build an Instagram-style home feed in four versions: one SQL query, fan-out on write, a hybrid pull for celebrities, then Redis inboxes.",
+      "published": "2026-11-27T13:40:18+00:00",
+      "source": "KodeKloud",
+      "type": "article",
+      "author": "Nimesha Jinarajadasa",
+      "categories": [
+        "System Design",
+        "Redis",
+        "Scalability",
+        "Caching",
+        "PostgreSQL",
+        "Backend"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Plakar: Back Up Kubernetes and PostgreSQL with Omar Polo | Rawkode Live",
+      "link": "https://www.youtube.com/watch?v=Vr-RpaSpiN4",
+      "summary": "Backups that cover Kubernetes, PostgreSQL and everything else you run, in one tool. Omar Polo from Plakar joins David Flanagan live to put Plakar, the open-source backup engine, to work on the Rawkode Academy production cluster.\n\nPlakar treats backup as a primitive: pluggable connectors...",
+      "published": "2026-11-27T08:01:02+00:00",
+      "source": "Rawkode Academy",
+      "type": "video",
+      "author": "Rawkode Academy",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/Vr-RpaSpiN4/mqdefault.jpg"
+    },
+    {
+      "title": "Cloudflare now lets websites add search for AI agents with a single toggle. Site owners foot the query bill.",
+      "link": "https://thenewstack.io/cloudflare-agent-search-endpoint",
+      "summary": "Cloudflare has announced a new feature that makes it easier for AI agents to find and retrieve relevant information from The post Cloudflare now lets websites add search for AI agents with a single toggle. Site owners foot the query bill. appeared first on The New Stack .",
+      "published": "2026-11-26T18:46:47+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Paul Sawers",
+      "categories": [
+        "AI",
+        "AI Agents",
+        "API Management",
+        "Edge Computing"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "AI wrote the code. Can your test data tell you if it works?",
+      "link": "https://thenewstack.io/protecting-enterprise-ai-data",
+      "summary": "As organizations invest in AI, many are discovering a new bottleneck: obtaining data that is both protected and useful. Engineering The post AI wrote the code. Can your test data tell you if it works? appeared first on The New Stack .",
+      "published": "2026-11-26T16:18:49+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Mayank Ahluwalia",
+      "categories": [
+        "AI Strategy",
+        "Compliance",
+        "Data",
+        "sponsor-perforce",
+        "sponsored-post-contributed"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "A developer ran 50 agents at once. Then his Mac became the bottleneck.",
+      "link": "https://thenewstack.io/ai-agents-remote-sandboxes",
+      "summary": "As developers move from working with individual AI coding agents to orchestrating dozens of concurrent sessions, the hardware they use The post A developer ran 50 agents at once. Then his Mac became the bottleneck. appeared first on The New Stack .",
+      "published": "2026-11-26T16:12:29+00:00",
+      "source": "The New Stack",
+      "type": "article",
+      "author": "Amanda Caswell",
+      "categories": [
+        "AI Agents",
+        "AI Infrastructure",
+        "Developer tools"
+      ],
+      "thumbnail": ""
+    },
+    {
+      "title": "Best platform for learning Cybersecurity practically | PHP2Shell reproduced",
+      "link": "https://www.youtube.com/watch?v=g4ijx1TbP7w",
+      "summary": "Black Friday Sale - 40 Percent off (Limited time)\nhttps://tryhackme.com/AbhishekVeeramallaBF\n\nIn this video, I will show you how to reproduce the PHP2Shell vulnerability using the practical hands-on labs provided by TryHackMe platform.\n\nFree Course on the channel\n==============================\n-...",
+      "published": "2026-11-26T16:04:11+00:00",
+      "source": "Abhishek Veeramalla",
+      "type": "video",
+      "author": "Abhishek.Veeramalla",
+      "categories": [],
+      "thumbnail": "https://i.ytimg.com/vi/g4ijx1TbP7w/mqdefault.jpg"
+    },
     {
       "title": "What to Build on KodeBox: 9 Projects for Learners, POCs and After-Office Experiments",
       "link": "https://kodekloud.com/blog/kodebox-project-ideas",
@@ -4388,150 +4493,6 @@
         "AI"
       ],
       "thumbnail": ""
-    },
-    {
-      "title": "Nvidia launches a promptable transcription model",
-      "link": "https://thenewstack.io/nvidia-nemotron-promptable-transcription",
-      "summary": "Nvidia on Wednesday launched Nemotron 3.5 Transcribe, its latest multilingual transcription model. The new open-weight model, the company says, ranks The post Nvidia launches a promptable transcription model appeared first on The New Stack .",
-      "published": "2026-10-28T15:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Frederic Lardinois",
-      "categories": [
-        "AI",
-        "AI Models",
-        "Open Source"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "What happens when the agent is long gone, but its access key lives on?",
-      "link": "https://thenewstack.io/governing-ai-agent-credentials",
-      "summary": "Imagine: There’s a line on the credential report that no one on the platform team can explain. An IAM user The post What happens when the agent is long gone, but its access key lives on? appeared first on The New Stack .",
-      "published": "2026-10-28T14:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Zeen Rachidi",
-      "categories": [
-        "AI Agents",
-        "Platform Engineering",
-        "Security",
-        "sponsor-env-zero",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "AI agents need to be replaceable – without losing your work",
-      "link": "https://thenewstack.io/durable-ai-agent-operations",
-      "summary": "An agent receives approval to process a partial refund. It sends the request to a payment API, and the process The post AI agents need to be replaceable – without losing your work appeared first on The New Stack .",
-      "published": "2026-10-28T13:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Manveer Chawla",
-      "categories": [
-        "AI Agents",
-        "AI Engineering",
-        "Backend development",
-        "sponsor-clickhouse",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "From human clicks to agentic velocity: What OpenAI’s 1.2 billion scale means for your auth",
-      "link": "https://thenewstack.io/openai-agentic-identity-scale",
-      "summary": "When OpenAI announced at DevDay that ChatGPT had crossed 1.2 billion weekly active users (WAUs), roughly 15% of the human The post From human clicks to agentic velocity: What OpenAI’s 1.2 billion scale means for your auth appeared first on The New Stack .",
-      "published": "2026-10-28T12:00:00+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Damon Tepe",
-      "categories": [
-        "AI Agents",
-        "AI Infrastructure",
-        "Security",
-        "sponsor-ory",
-        "sponsored-post-contributed"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Accelerating Defense with Microsoft Security Solutions",
-      "link": "https://www.youtube.com/watch?v=dSODQy9bWjU",
-      "summary": "AI is accelerating both sides of cybersecurity and had a lot of questions around the Microsoft solutions so wanted to try and briefly cover where they sit in this video!\n\n▬▬▬▬▬▬  C H A P T E R S ⏰  ▬▬▬▬▬▬\n00:00 - Introduction\n01:50 - MDASH\n04:45 - Perception\n08:34 - Defender ISOC\n11:05 -...",
-      "published": "2026-10-28T08:40:32+00:00",
-      "source": "John Savill",
-      "type": "video",
-      "author": "John Savill's Technical Training",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/dSODQy9bWjU/mqdefault.jpg"
-    },
-    {
-      "title": "AKS Newsletter – October 2026",
-      "link": "https://aksnewsletter.com/2026/2026-10.html",
-      "summary": "64 curated items covering documentation updates, feature announcements, community blogs, and more.",
-      "published": "2026-10-28T00:00:00+00:00",
-      "source": "AKS Newsletter",
-      "type": "article",
-      "author": "",
-      "categories": [],
-      "thumbnail": ""
-    },
-    {
-      "title": "Google built AI agents a world to practice in. The physics still aren’t quite right.",
-      "link": "https://thenewstack.io/genie-4-world-model",
-      "summary": "Google DeepMind introduced Genie 4 on Tuesday, a world model that renders interactive environments in real time with simulated physics, The post Google built AI agents a world to practice in. The physics still aren’t quite right. appeared first on The New Stack .",
-      "published": "2026-10-27T22:33:51+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "AI Models",
-        "Emerging technologies"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Replit’s CEO says an idea from 1937 could make the org chart obsolete",
-      "link": "https://thenewstack.io/replit-self-driving-company",
-      "summary": "Replit CEO and co-founder Amjad Masad has spent the past year watching AI agents absorb the routine execution inside his The post Replit’s CEO says an idea from 1937 could make the org chart obsolete appeared first on The New Stack .",
-      "published": "2026-10-27T21:16:40+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Amanda Caswell",
-      "categories": [
-        "AI Agents",
-        "AI Strategy",
-        "Developer tools"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "“The panic hasn’t turned into patching”: What security researchers really think about the PHP2Shell response",
-      "link": "https://thenewstack.io/php2shell-unpatched-php-servers",
-      "summary": "The PHP panic has not turned to patching: And that’s bad news, capital B, as PHP2Shell attacks ramp up. We The post “The panic hasn’t turned into patching”: What security researchers really think about the PHP2Shell response appeared first on The New Stack .",
-      "published": "2026-10-27T20:54:37+00:00",
-      "source": "The New Stack",
-      "type": "article",
-      "author": "Steven J. Vaughan-Nichols",
-      "categories": [
-        "AI",
-        "Open Source",
-        "Security"
-      ],
-      "thumbnail": ""
-    },
-    {
-      "title": "Azure Virtual Network Routing Appliance",
-      "link": "https://www.youtube.com/watch?v=i2qwcjC9lUQ",
-      "summary": "Learn how to connect Azure spoke networks through an Azure Virtual Network Routing Appliance in a hub-and-spoke architecture—without managing your own routing VMs.\n\nWhat you’ll learn:\n• How the Virtual Network Routing Appliance fits into a hub-and-spoke topology\n• How user-defined routes (UDRs)...",
-      "published": "2026-10-27T19:39:29+00:00",
-      "source": "Houssem Dellai",
-      "type": "video",
-      "author": "Houssem Dellai",
-      "categories": [],
-      "thumbnail": "https://i.ytimg.com/vi/i2qwcjC9lUQ/mqdefault.jpg"
     }
   ]
 }
